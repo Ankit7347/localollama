@@ -286,3 +286,4 @@ Possible extensions:
 * optimized **Docker setup for 4 GB RAM**
 
 It becomes a **full local Copilot replacement**.
+# localollama

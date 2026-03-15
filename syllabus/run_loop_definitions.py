@@ -176,6 +176,9 @@ subject_started = args.start_subject is None
 chapter_started = args.start_chapter is None
 topic_started = args.start_topic is None
 
+total_topics = sum(len(c.get("topics", [])) for s in subjects for c in s.get("chapters", []))
+current_topic = 0
+
 for subject in subjects:
     subject_name = subject.get("subject", "")
     subject_year = subject.get("year", "")
@@ -187,6 +190,7 @@ for subject in subjects:
             chapter_started = args.start_chapter is None
             topic_started = args.start_topic is None
         else:
+            current_topic += sum(len(c.get("topics", [])) for c in subject.get("chapters", []))
             continue
 
     subj_out = find_subject(output, subject_name, subject_year)
@@ -210,6 +214,7 @@ for subject in subjects:
                 chapter_started = True
                 topic_started = args.start_topic is None
             else:
+                current_topic += len(chapter.get("topics", []))
                 continue
 
         chap_out = find_chapter(subj_out["chapters"], chapter_name)
@@ -221,6 +226,7 @@ for subject in subjects:
             subj_out["chapters"].append(chap_out)
 
         for t in chapter.get("topics", []):
+            current_topic += 1
             topic_name = t.get("topic") if isinstance(t, dict) else None
             if not topic_name:
                 continue
@@ -236,7 +242,7 @@ for subject in subjects:
                 print(f"[SKIP] Already exists: {subject_name} > {chapter_name} > {topic_name}")
                 continue
 
-            print(f"[GENERATING] {subject_name} > {chapter_name} > {topic_name}")
+            print(f"[{current_topic}/{total_topics}] [GENERATING] {subject_name} > {chapter_name} > {topic_name}")
             try:
                 definition = generate_definition(subject_name, chapter_name, topic_name)
             except Exception as e:

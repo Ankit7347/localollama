@@ -11,7 +11,6 @@
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
   <style>
     body { background-color: #f4f6f9; }
-    .card-topic { cursor: pointer; }
     .definition-text { white-space: normal; line-height: 1.6; padding: 0.5rem 0.75rem; background: #ffffff; border: 1px solid #e3e6ea; border-radius: 0.4rem; }
     .definition-text p { margin: 0.4rem 0; }
     .definition-text code, .definition-text pre { background: #f8f9fa; border-radius: 4px; padding: 0.2rem 0.35rem; }
@@ -117,7 +116,6 @@
             chapterInner += `
               <div class='card mb-2 border-0 shadow-sm w-100'>
                 <div class='card-body p-3'>
-                  <h5 class='mb-1 card-topic' data-topic='${escapeHtml(tName)}'>${escapeHtml(tName)}</h5>
                   <div class='definition-text text-secondary'>${renderedDefinition}</div>
                 </div>
               </div>`;
@@ -214,15 +212,6 @@
 
     function render(data, filter) {
       dataContainer.innerHTML = buildTemplate(data, filter);
-      document.querySelectorAll('.card-topic').forEach(el => {
-        el.addEventListener('click', () => {
-          const parent = el.closest('.card-body');
-          const defDiv = parent.querySelector('.definition-text');
-          if (!defDiv) return;
-          defDiv.classList.toggle('highlight');
-          defDiv.scrollIntoView({ behavior: 'smooth', block: 'start' });
-        });
-      });
     }
 
     function load() {

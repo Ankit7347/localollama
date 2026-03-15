@@ -1,0 +1,26 @@
+[
+  {
+    "subject": "Mathematics",
+    "year": "2026",
+    "chapters": [
+      {
+        "chapter": "Algebra",
+        "topics": [
+          {
+            "topic": "Quadratic Equations",
+            "definition": "A quadratic equation is an equation of the form of $$ax^2 + bx + c = 0$$ where a, b, and c are constants. Solving a quadratic equation involves finding the values of x that make the equation equal to zero"
+          }
+        ]
+      },
+      {
+        "chapter": "Calculus",
+        "topics": [
+          {
+            "topic": "Integration",
+            "definition": "Integration is a process of finding the area under a curve. It involves breaking the curve into smaller parts and summing their areas to get the total area"
+          }
+        ]
+      }
+    ]
+  }
+]

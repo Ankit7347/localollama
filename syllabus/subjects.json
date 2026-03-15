@@ -1,34 +1,17 @@
 {
-  "subjects": [
+  "subject": "Mathematics",
+  "year": "2026",
+  "chapters": [
     {
-      "name": "Mathematics",
-      "chapters": [
-        {
-          "name": "Algebra",
-          "topics": [
-            "Quadratic Equations",
-            "Linear Equations"
-          ]
-        },
-        {
-          "name": "Calculus",
-          "topics": [
-            "Differentiation",
-            "Integration"
-          ]
-        }
+      "chapter": "Algebra",
+      "topics": [
+        "Quadratic Equations"
       ]
     },
     {
-      "name": "Computer Science",
-      "chapters": [
-        {
-          "name": "Python",
-          "topics": [
-            "Functions",
-            "Classes"
-          ]
-        }
+      "chapter": "Calculus",
+      "topics": [
+        "Integration"
       ]
     }
   ]

@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AI Definitions Viewer</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" />
+  <style>
+    body { background-color: #f4f6f9; }
+    .card-topic { cursor: pointer; }
+    .definition-text { white-space: pre-wrap; }
+    .highlight { background: #fff9c4; }
+    #loader { display: none; }
+  </style>
+</head>
+<body>
+  <div class="container py-4">
+    <h1 class="mb-3">AI Definitions</h1>
+    <p class="text-muted">Visual overview of your <code>ai_definitions.json</code> data, grouped by subject/chapter/topic.</p>
+
+    <div class="row mb-3">
+      <div class="col-md-8">
+        <input id="searchInput" type="search" class="form-control" placeholder="Search topic, chapter, subject..." aria-label="Search" />
+      </div>
+      <div class="col-md-4 text-end">
+        <button id="reloadBtn" class="btn btn-primary">Reload JSON</button>
+      </div>
+    </div>
+
+    <div id="loader" class="py-5 text-center">
+      <div class="spinner-border text-primary" role="status"></div>
+      <p class="mt-3">Loading ai_definitions.json...</p>
+    </div>
+
+    <div id="dataContainer"></div>
+  </div>
+
+  <script>
+    const dataContainer = document.getElementById('dataContainer');
+    const searchInput = document.getElementById('searchInput');
+    const reloadBtn = document.getElementById('reloadBtn');
+    const loader = document.getElementById('loader');
+
+    function hideLoader() { loader.style.display = 'none'; }
+    function showLoader() { loader.style.display = 'block'; }
+
+    function escapeHtml(str) {
+      if (!str) return '';
+      return str.replace(/[&<>'"`]/g, char => ({
+        '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;', '`': '&#96;'
+      }[char]));
+    }
+
+    function buildTemplate(data, filter) {
+      if (!Array.isArray(data) || data.length === 0) {
+        return '<div class="alert alert-warning">No data found in ai_definitions.json</div>';
+      }
+
+      const q = typeof filter === 'string' ? filter.trim().toLowerCase() : '';
+      let html = '';
+      let visibleCount = 0;
+
+      data.forEach(subject => {
+        const sName = subject.subject || 'Unknown Subject';
+        const sYear = subject.year ? ` (${subject.year})` : '';
+
+        let subjectInner = '';
+
+        (subject.chapters || []).forEach(chapter => {
+          const cName = chapter.chapter || 'Untitled Chapter';
+          let chapterInner = '';
+
+          (chapter.topics || []).forEach(topic => {
+            const tName = topic.topic || 'Untitled Topic';
+            const def = topic.definition || '';
+            const match = q.length === 0 || [sName, sYear, cName, tName, def].some(x => (x || '').toLowerCase().includes(q));
+            if (!match) return;
+
+            visibleCount += 1;
+
+            chapterInner += `
+              <div class='card mb-2 border-0 shadow-sm'>
+                <div class='card-body p-3'>
+                  <h5 class='mb-1 card-topic' data-topic='${escapeHtml(tName)}'>${escapeHtml(tName)}</h5>
+                  <div class='definition-text text-secondary'>${escapeHtml(def || 'No definition available.')}</div>
+                </div>
+              </div>`;
+          });
+
+          if (!chapterInner) return;
+
+          subjectInner += `
+            <div class='mb-3'>
+              <h4 class='text-primary mb-2'>${escapeHtml(cName)}</h4>
+              ${chapterInner}
+            </div>`;
+        });
+
+        if (!subjectInner) return;
+
+        html += `
+          <section class='mb-4'>
+            <div class='mb-2'><h3>${escapeHtml(sName)}${sYear}</h3></div>
+            ${subjectInner}
+          </section>`;
+      });
+
+      if (visibleCount === 0) {
+        html = '<div class="alert alert-info">No definitions match filter.</div>';
+      }
+
+      return html;
+    }
+
+    function render(data, filter) {
+      dataContainer.innerHTML = buildTemplate(data, filter);
+      document.querySelectorAll('.card-topic').forEach(el => {
+        el.addEventListener('click', () => {
+          const parent = el.closest('.card-body');
+          const defDiv = parent.querySelector('.definition-text');
+          if (!defDiv) return;
+          defDiv.classList.toggle('highlight');
+          defDiv.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        });
+      });
+    }
+
+    function load() {
+      showLoader();
+      fetch('ai_definitions.json').then(r => r.json()).then(data => {
+        hideLoader();
+        window.latestData = data;
+        render(data, searchInput.value);
+      }).catch(err => {
+        hideLoader();
+        dataContainer.innerHTML = `<div class='alert alert-danger'>Failed to load ai_definitions.json: ${escapeHtml(err.message || err)}</div>`;
+        console.error(err);
+      });
+    }
+
+    searchInput.addEventListener('input', () => {
+      render(window.latestData || [], searchInput.value);
+    });
+
+    reloadBtn.addEventListener('click', load);
+
+    load();
+  </script>
+</body>
+</html>

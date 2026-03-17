@@ -1,0 +1,968 @@
+[
+  {
+    "subject": "General Aptitude",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Verbal Aptitude",
+        "topics": [
+          "Basic English grammar",
+          "Sentence completion",
+          "Instructions",
+          "Critical reasoning",
+          "Verbal analogies"
+        ]
+      },
+      {
+        "chapter": "Quantitative Aptitude",
+        "topics": [
+          "Data interpretation",
+          "Numerical computation",
+          "Numerical estimation",
+          "Elementary statistics",
+          "Probability"
+        ]
+      },
+      {
+        "chapter": "Analytical Aptitude",
+        "topics": [
+          "Logic",
+          "Deduction",
+          "Induction",
+          "Analogy",
+          "Numerical relations"
+        ]
+      },
+      {
+        "chapter": "Spatial Aptitude",
+        "topics": [
+          "Transformation of shapes",
+          "Translation",
+          "Rotation",
+          "Mirroring",
+          "Assembling"
+        ]
+      },
+      {
+        "chapter": "Textual Analysis",
+        "topics": [
+          "Comprehension",
+          "Vocabulary",
+          "Contextual meaning",
+          "Argument strength",
+          "Conclusion drawing"
+        ]
+      },
+      {
+        "chapter": "Mathematical Logic",
+        "topics": [
+          "Arithmetic",
+          "Algebra",
+          "Geometry",
+          "Mensuration",
+          "Trigonometry"
+        ]
+      },
+      {
+        "chapter": "Data Structures in Aptitude",
+        "topics": [
+          "Bar charts",
+          "Pie charts",
+          "Histograms",
+          "Tables",
+          "Line graphs"
+        ]
+      },
+      {
+        "chapter": "Reasoning",
+        "topics": [
+          "Syllogism",
+          "Number series",
+          "Blood relations",
+          "Directions",
+          "Coding decoding"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Engineering Mathematics",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Discrete Mathematics",
+        "topics": [
+          "Propositional and first order logic",
+          "Sets",
+          "Relations",
+          "Functions",
+          "Partial orders and lattices"
+        ]
+      },
+      {
+        "chapter": "Combinatorics",
+        "topics": [
+          "Counting",
+          "Recurrence relations",
+          "Generating functions",
+          "Summation",
+          "Binomial coefficients"
+        ]
+      },
+      {
+        "chapter": "Graph Theory",
+        "topics": [
+          "Connectivity",
+          "Matching",
+          "Coloring",
+          "Eulerian and Hamiltonian graphs",
+          "Trees"
+        ]
+      },
+      {
+        "chapter": "Linear Algebra",
+        "topics": [
+          "Matrices",
+          "Determinants",
+          "System of linear equations",
+          "Eigenvalues and eigenvectors",
+          "LU decomposition"
+        ]
+      },
+      {
+        "chapter": "Calculus",
+        "topics": [
+          "Limits, continuity and differentiability",
+          "Maxima and minima",
+          "Mean value theorem",
+          "Integration",
+          "Multiple integrals"
+        ]
+      },
+      {
+        "chapter": "Probability",
+        "topics": [
+          "Random variables",
+          "Uniform, normal, exponential distributions",
+          "Poisson, binomial distributions",
+          "Conditional probability",
+          "Bayes theorem"
+        ]
+      },
+      {
+        "chapter": "Statistics",
+        "topics": [
+          "Mean, median, mode",
+          "Standard deviation",
+          "Variance",
+          "Correlation",
+          "Regression analysis"
+        ]
+      },
+      {
+        "chapter": "Numerical Methods",
+        "topics": [
+          "Roots of equations",
+          "Interpolation",
+          "Numerical integration",
+          "Newton's method",
+          "Trapezoidal rule"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Digital Logic",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Boolean Algebra",
+        "topics": [
+          "Logic functions",
+          "Minimization",
+          "Design and synthesis",
+          "K-maps",
+          "Quine-McCluskey"
+        ]
+      },
+      {
+        "chapter": "Number Representations",
+        "topics": [
+          "Binary codes",
+          "Fixed point",
+          "Floating point",
+          "Signed magnitude",
+          "Two's complement"
+        ]
+      },
+      {
+        "chapter": "Arithmetic Circuits",
+        "topics": [
+          "Adders",
+          "Subtractors",
+          "Multipliers",
+          "ALU",
+          "Carry-lookahead"
+        ]
+      },
+      {
+        "chapter": "Combinational Circuits",
+        "topics": [
+          "Multiplexers",
+          "Decoders",
+          "Iterative networks",
+          "Priority encoders",
+          "Code converters"
+        ]
+      },
+      {
+        "chapter": "Sequential Circuits",
+        "topics": [
+          "Latches",
+          "Flip-flops",
+          "Registers",
+          "Counters",
+          "State machines"
+        ]
+      },
+      {
+        "chapter": "Optimization",
+        "topics": [
+          "Logic hazard",
+          "Glitch analysis",
+          "Power optimization",
+          "Resource sharing",
+          "Critical path"
+        ]
+      },
+      {
+        "chapter": "IC Families",
+        "topics": [
+          "TTL",
+          "CMOS",
+          "Fan-in and Fan-out",
+          "Propagation delay",
+          "Noise margin"
+        ]
+      },
+      {
+        "chapter": "System Interfacing",
+        "topics": [
+          "Memory mapping",
+          "Input/output ports",
+          "Serial communication",
+          "Parallel communication",
+          "Clock synchronization"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Computer Organization and Architecture",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Machine Instructions",
+        "topics": [
+          "Addressing modes",
+          "Instruction formats",
+          "Opcode design",
+          "Zero-address instructions",
+          "Data transfer"
+        ]
+      },
+      {
+        "chapter": "ALU and Data-path",
+        "topics": [
+          "Control unit",
+          "Hardwired control",
+          "Micro-programmed control",
+          "Data-path design",
+          "Register transfer"
+        ]
+      },
+      {
+        "chapter": "Instruction Pipelining",
+        "topics": [
+          "Pipeline stages",
+          "Throughput and speedup",
+          "Pipeline hazards",
+          "Data dependency",
+          "Control hazards"
+        ]
+      },
+      {
+        "chapter": "Memory Hierarchy",
+        "topics": [
+          "Cache memory",
+          "Main memory",
+          "Secondary storage",
+          "Virtual memory",
+          "TLB"
+        ]
+      },
+      {
+        "chapter": "I/O Interface",
+        "topics": [
+          "Interrupts",
+          "Direct Memory Access (DMA)",
+          "Isolated vs Memory-mapped I/O",
+          "Polling",
+          "Peripheral control"
+        ]
+      },
+      {
+        "chapter": "Cache Design",
+        "topics": [
+          "Direct mapping",
+          "Set associative mapping",
+          "Replacement policies",
+          "Write-through policy",
+          "Write-back policy"
+        ]
+      },
+      {
+        "chapter": "Processor Design",
+        "topics": [
+          "CISC vs RISC",
+          "Fetch-decode-execute",
+          "Superscalar",
+          "VLIW",
+          "Vector processors"
+        ]
+      },
+      {
+        "chapter": "System Bus",
+        "topics": [
+          "Bus arbitration",
+          "Bus timing",
+          "PCI",
+          "SCSI",
+          "Serial bus"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Programming and Data Structures",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Programming in C",
+        "topics": [
+          "Recursion",
+          "Arrays",
+          "Pointers",
+          "Structures",
+          "Unions"
+        ]
+      },
+      {
+        "chapter": "Data Structures",
+        "topics": [
+          "Stacks",
+          "Queues",
+          "Linked lists",
+          "Trees",
+          "Binary search trees"
+        ]
+      },
+      {
+        "chapter": "Binary Heaps",
+        "topics": [
+          "Min-heap",
+          "Max-heap",
+          "Heapify operation",
+          "Priority queues",
+          "Heap sort"
+        ]
+      },
+      {
+        "chapter": "Hashing",
+        "topics": [
+          "Hash functions",
+          "Collision resolution",
+          "Chaining",
+          "Open addressing",
+          "Load factor"
+        ]
+      },
+      {
+        "chapter": "Graphs",
+        "topics": [
+          "Representation (Adjacency list/matrix)",
+          "Breadth-first search",
+          "Depth-first search",
+          "Iterative deepening",
+          "Connected components"
+        ]
+      },
+      {
+        "chapter": "String Matching",
+        "topics": [
+          "Knuth-Morris-Pratt",
+          "Rabin-Karp",
+          "Suffix trees",
+          "Tries",
+          "Pattern matching"
+        ]
+      },
+      {
+        "chapter": "Advanced Trees",
+        "topics": [
+          "AVL trees",
+          "B-trees",
+          "B+ trees",
+          "Red-black trees",
+          "Splay trees"
+        ]
+      },
+      {
+        "chapter": "File Structures",
+        "topics": [
+          "Sequential files",
+          "Indexed files",
+          "Direct files",
+          "B-tree indexing",
+          "File sorting"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Algorithms",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Searching and Sorting",
+        "topics": [
+          "Binary search",
+          "Insertion sort",
+          "Selection sort",
+          "Merge sort",
+          "Quick sort"
+        ]
+      },
+      {
+        "chapter": "Asymptotic Analysis",
+        "topics": [
+          "Big-O notation",
+          "Omega notation",
+          "Theta notation",
+          "Master theorem",
+          "Recurrence solving"
+        ]
+      },
+      {
+        "chapter": "Design Techniques",
+        "topics": [
+          "Greedy algorithms",
+          "Dynamic programming",
+          "Divide and conquer",
+          "Backtracking",
+          "Branch and bound"
+        ]
+      },
+      {
+        "chapter": "Graph Algorithms",
+        "topics": [
+          "Shortest paths",
+          "Dijkstra's algorithm",
+          "Bellman-Ford",
+          "Minimum spanning trees",
+          "Prim's and Kruskal's"
+        ]
+      },
+      {
+        "chapter": "Flow Networks",
+        "topics": [
+          "Max-flow min-cut",
+          "Ford-Fulkerson",
+          "Bipartite matching",
+          "Capacitated networks",
+          "Residual graphs"
+        ]
+      },
+      {
+        "chapter": "Computational Complexity",
+        "topics": [
+          "P and NP classes",
+          "NP-completeness",
+          "NP-hardness",
+          "Polynomial time reduction",
+          "Cook's theorem"
+        ]
+      },
+      {
+        "chapter": "Approximation Algorithms",
+        "topics": [
+          "Vertex cover",
+          "TSP approximation",
+          "Greedy set cover",
+          "Knapsack approximation",
+          "Local search"
+        ]
+      },
+      {
+        "chapter": "Randomized Algorithms",
+        "topics": [
+          "Quick sort randomization",
+          "Las Vegas vs Monte Carlo",
+          "Min-cut probability",
+          "Skip lists",
+          "Random walk"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Theory of Computation",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Regular Expressions",
+        "topics": [
+          "Finite automata",
+          "DFA",
+          "NFA",
+          "E-NFA",
+          "Myhill-Nerode theorem"
+        ]
+      },
+      {
+        "chapter": "Context-Free Grammars",
+        "topics": [
+          "Pushdown automata",
+          "Derivation trees",
+          "Ambiguity",
+          "Chomsky normal form",
+          "Pumping lemma for CFL"
+        ]
+      },
+      {
+        "chapter": "Recursive Languages",
+        "topics": [
+          "Turing machines",
+          "Universal Turing machine",
+          "Multi-tape machines",
+          "Nondeterministic TM",
+          "Enumeration"
+        ]
+      },
+      {
+        "chapter": "Decidability",
+        "topics": [
+          "Halting problem",
+          "Rice's theorem",
+          "Post correspondence problem",
+          "Recursive vs RE",
+          "Undecidability proofs"
+        ]
+      },
+      {
+        "chapter": "Language Hierarchy",
+        "topics": [
+          "Chomsky hierarchy",
+          "Regular vs Context-free",
+          "Recursive vs Context-sensitive",
+          "Closure properties",
+          "Decision properties"
+        ]
+      },
+      {
+        "chapter": "Automata Equivalence",
+        "topics": [
+          "FA to RE",
+          "RE to FA",
+          "DFA minimization",
+          "PDA for CFG",
+          "TM for grammar"
+        ]
+      },
+      {
+        "chapter": "Memory-Bounded Machines",
+        "topics": [
+          "Linear bounded automata",
+          "Context sensitive languages",
+          "Two-way PDA",
+          "DCFL",
+          "State complexity"
+        ]
+      },
+      {
+        "chapter": "Tractable Computations",
+        "topics": [
+          "Logspace",
+          "P-space",
+          "Exptime",
+          "Savitch's theorem",
+          "Hierarchy theorems"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Compiler Design",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Lexical Analysis",
+        "topics": [
+          "Tokens",
+          "NFA-DFA simulation",
+          "Input buffering",
+          "Lexical errors",
+          "Tool usage (Lex/Flex)"
+        ]
+      },
+      {
+        "chapter": "Parsing",
+        "topics": [
+          "Top-down parsing",
+          "LL(1)",
+          "Recursive descent",
+          "Predictive parsing",
+          "Operator precedence"
+        ]
+      },
+      {
+        "chapter": "Bottom-up Parsing",
+        "topics": [
+          "LR parsing",
+          "SLR",
+          "LALR",
+          "Canonical LR",
+          "Shift-reduce conflicts"
+        ]
+      },
+      {
+        "chapter": "Syntax-Directed Translation",
+        "topics": [
+          "S-attributed",
+          "L-attributed",
+          "Dependency graphs",
+          "Attribute evaluation",
+          "Post-order traversal"
+        ]
+      },
+      {
+        "chapter": "Intermediate Code Generation",
+        "topics": [
+          "Three-address code",
+          "Quadruples",
+          "Triples",
+          "DAG",
+          "Post-fix notation"
+        ]
+      },
+      {
+        "chapter": "Runtime Environments",
+        "topics": [
+          "Symbol tables",
+          "Activation records",
+          "Storage allocation",
+          "Parameter passing",
+          "Scope management"
+        ]
+      },
+      {
+        "chapter": "Code Optimization",
+        "topics": [
+          "Data flow analysis",
+          "Constant folding",
+          "Dead code elimination",
+          "Loop optimization",
+          "Common sub-expression"
+        ]
+      },
+      {
+        "chapter": "Code Generation",
+        "topics": [
+          "Register allocation",
+          "Basic blocks",
+          "Flow graphs",
+          "Target machine model",
+          "Instruction selection"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Operating System",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "System Calls",
+        "topics": [
+          "Processes",
+          "Threads",
+          "Inter-process communication",
+          "Context switching",
+          "System boot"
+        ]
+      },
+      {
+        "chapter": "CPU Scheduling",
+        "topics": [
+          "FCFS",
+          "SJF",
+          "Round robin",
+          "Priority scheduling",
+          "Multi-level queues"
+        ]
+      },
+      {
+        "chapter": "Deadlock",
+        "topics": [
+          "Characterization",
+          "Prevention",
+          "Avoidance",
+          "Detection",
+          "Recovery"
+        ]
+      },
+      {
+        "chapter": "Memory Management",
+        "topics": [
+          "Paging",
+          "Segmentation",
+          "Virtual memory",
+          "Page replacement",
+          "Thrashing"
+        ]
+      },
+      {
+        "chapter": "File Systems",
+        "topics": [
+          "Allocation methods",
+          "Free space management",
+          "Directory structure",
+          "File protection",
+          "Disk mapping"
+        ]
+      },
+      {
+        "chapter": "Concurrency",
+        "topics": [
+          "Critical section",
+          "Semaphores",
+          "Monitors",
+          "Peterson's solution",
+          "Readers-writers"
+        ]
+      },
+      {
+        "chapter": "Disk Scheduling",
+        "topics": [
+          "SSTF",
+          "SCAN",
+          "C-SCAN",
+          "LOOK",
+          "C-LOOK"
+        ]
+      },
+      {
+        "chapter": "Kernel and Protection",
+        "topics": [
+          "User vs Kernel mode",
+          "Privileged instructions",
+          "Access control lists",
+          "Capability lists",
+          "Authentication"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Databases",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "ER-model",
+        "topics": [
+          "Entities",
+          "Attributes",
+          "Relationships",
+          "Cardinality",
+          "Mapping to relations"
+        ]
+      },
+      {
+        "chapter": "Relational Model",
+        "topics": [
+          "Relational algebra",
+          "Tuple calculus",
+          "Domain calculus",
+          "Integrity constraints",
+          "Foreign keys"
+        ]
+      },
+      {
+        "chapter": "Structured Query Language",
+        "topics": [
+          "SELECT",
+          "JOIN",
+          "Nested queries",
+          "Aggregation",
+          "Views"
+        ]
+      },
+      {
+        "chapter": "Normalization",
+        "topics": [
+          "1NF",
+          "2NF",
+          "3NF",
+          "BCNF",
+          "Functional dependencies"
+        ]
+      },
+      {
+        "chapter": "Transaction Management",
+        "topics": [
+          "ACID properties",
+          "Serializability",
+          "Concurrency control",
+          "Two-phase locking",
+          "Timestamp ordering"
+        ]
+      },
+      {
+        "chapter": "Storage and Indexing",
+        "topics": [
+          "B-trees",
+          "B+ trees",
+          "Static hashing",
+          "Dynamic hashing",
+          "Clustered indexes"
+        ]
+      },
+      {
+        "chapter": "Recovery Systems",
+        "topics": [
+          "Log-based recovery",
+          "Checkpoints",
+          "Shadow paging",
+          "Deferred update",
+          "Immediate update"
+        ]
+      },
+      {
+        "chapter": "Query Optimization",
+        "topics": [
+          "Cost estimation",
+          "Evaluation plans",
+          "Heuristic optimization",
+          "Join ordering",
+          "Index selection"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Computer Networks",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Layering Concepts",
+        "topics": [
+          "OSI model",
+          "TCP/IP stack",
+          "Peer-to-peer",
+          "Packet vs Circuit switching",
+          "Performance metrics"
+        ]
+      },
+      {
+        "chapter": "Data Link Layer",
+        "topics": [
+          "Framing",
+          "Error detection/correction",
+          "Flow control",
+          "Sliding window",
+          "HDLC"
+        ]
+      },
+      {
+        "chapter": "Medium Access Control",
+        "topics": [
+          "Ethernet",
+          "CSMA/CD",
+          "CSMA/CA",
+          "ALOHA",
+          "Token ring"
+        ]
+      },
+      {
+        "chapter": "Network Layer",
+        "topics": [
+          "IP addressing (IPv4/IPv6)",
+          "Subnetting",
+          "CIDR",
+          "Fragmentation",
+          "Mobility support"
+        ]
+      },
+      {
+        "chapter": "Routing Algorithms",
+        "topics": [
+          "Distance vector",
+          "Link state",
+          "RIP",
+          "OSPF",
+          "BGP"
+        ]
+      },
+      {
+        "chapter": "Transport Layer",
+        "topics": [
+          "TCP",
+          "UDP",
+          "Congestion control",
+          "Flow control",
+          "Three-way handshake"
+        ]
+      },
+      {
+        "chapter": "Application Layer",
+        "topics": [
+          "DNS",
+          "HTTP",
+          "SMTP",
+          "FTP",
+          "SNMP"
+        ]
+      },
+      {
+        "chapter": "Network Security",
+        "topics": [
+          "Cryptography",
+          "Public/private key",
+          "Digital signatures",
+          "Firewalls",
+          "VPN"
+        ]
+      },
+      {
+        "chapter": "Socket Programming",
+        "topics": [
+          "Client-server model",
+          "TCP sockets",
+          "UDP sockets",
+          "Port assignment",
+          "Binding"
+        ]
+      },
+      {
+        "chapter": "Emerging Technologies",
+        "topics": [
+          "Cloud networks",
+          "Web automation",
+          "IoT protocols",
+          "Software defined networking",
+          "Blockchain sync"
+        ]
+      }
+    ]
+  }
+]

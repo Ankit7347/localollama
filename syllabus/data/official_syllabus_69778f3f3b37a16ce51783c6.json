@@ -1,0 +1,680 @@
+[
+  {
+    "subject": "Mathematics",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Integers",
+        "topics": [
+          "Properties of Addition and Subtraction",
+          "Multiplication of Integers",
+          "Properties of Multiplication",
+          "Division of Integers",
+          "Properties of Division"
+        ]
+      },
+      {
+        "chapter": "Fractions and Decimals",
+        "topics": [
+          "Multiplication of Fractions",
+          "Division of Fractions",
+          "Multiplication of Decimal Numbers",
+          "Division of Decimal Numbers",
+          "Word Problems on Fractions and Decimals"
+        ]
+      },
+      {
+        "chapter": "Data Handling",
+        "topics": [
+          "Collecting and Organising Data",
+          "Representative Values",
+          "Arithmetic Mean",
+          "Mode and Median",
+          "Bar Graphs and Probability"
+        ]
+      },
+      {
+        "chapter": "Simple Equations",
+        "topics": [
+          "Setting Up an Equation",
+          "Solving an Equation",
+          "Applications of Simple Equations",
+          "From Solution to Equation",
+          "Transposing Method"
+        ]
+      },
+      {
+        "chapter": "Lines and Angles",
+        "topics": [
+          "Related Angles",
+          "Complementary and Supplementary Angles",
+          "Adjacent Angles and Linear Pair",
+          "Vertically Opposite Angles",
+          "Intersecting Lines and Transversals"
+        ]
+      },
+      {
+        "chapter": "The Triangle and its Properties",
+        "topics": [
+          "Medians and Altitudes of a Triangle",
+          "Exterior Angle of a Triangle",
+          "Angle Sum Property of a Triangle",
+          "Equilateral and Isosceles Triangles",
+          "Right-Angled Triangles and Pythagoras Property"
+        ]
+      },
+      {
+        "chapter": "Congruence of Triangles",
+        "topics": [
+          "Congruence of Plane Figures",
+          "Congruence Among Line Segments and Angles",
+          "Congruence of Triangles",
+          "Criteria for Congruence of Triangles",
+          "Congruence Among Right-Angled Triangles"
+        ]
+      },
+      {
+        "chapter": "Comparing Quantities",
+        "topics": [
+          "Equivalent Ratios",
+          "Percentage - Another Way of Comparing",
+          "Converting Fractional Numbers to Percentage",
+          "Use of Percentages",
+          "Prices and Simple Interest"
+        ]
+      },
+      {
+        "chapter": "Rational Numbers",
+        "topics": [
+          "Need for Rational Numbers",
+          "Positive and Negative Rational Numbers",
+          "Rational Numbers on a Number Line",
+          "Rational Numbers in Standard Form",
+          "Operations on Rational Numbers"
+        ]
+      },
+      {
+        "chapter": "Practical Geometry",
+        "topics": [
+          "Construction of Parallel Lines",
+          "Construction of Triangles",
+          "SSS Criterion Construction",
+          "SAS Criterion Construction",
+          "ASA and RHS Criterion Construction"
+        ]
+      },
+      {
+        "chapter": "Perimeter and Area",
+        "topics": [
+          "Squares and Rectangles",
+          "Area of a Parallelogram",
+          "Area of a Triangle",
+          "Circles and Circumference",
+          "Conversion of Units and Applications"
+        ]
+      },
+      {
+        "chapter": "Algebraic Expressions",
+        "topics": [
+          "How are Expressions Formed?",
+          "Terms of an Expression",
+          "Like and Unlike Terms",
+          "Addition and Subtraction of Algebraic Expressions",
+          "Finding the Value of an Expression"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Physics",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Physical Quantities and Measurement",
+        "topics": [
+          "Measurement of Volume",
+          "Measurement of Area",
+          "Density of Solids",
+          "Relative Density",
+          "Speed and Velocity"
+        ]
+      },
+      {
+        "chapter": "Force and Motion",
+        "topics": [
+          "Contact and Non-Contact Forces",
+          "Newton's Laws of Motion Introduction",
+          "Weight and Mass",
+          "Turning Effect of Force",
+          "Types of Motion"
+        ]
+      },
+      {
+        "chapter": "Energy",
+        "topics": [
+          "Kinetic Energy",
+          "Potential Energy",
+          "Transformation of Energy",
+          "Law of Conservation of Energy",
+          "Sources of Energy"
+        ]
+      },
+      {
+        "chapter": "Light Energy",
+        "topics": [
+          "Reflection of Light",
+          "Plane Mirrors",
+          "Characteristics of Image in Plane Mirror",
+          "Speed of Light",
+          "Primary Colors"
+        ]
+      },
+      {
+        "chapter": "Heat",
+        "topics": [
+          "Temperature and Heat",
+          "Effects of Heat",
+          "Expansion of Solids",
+          "Expansion of Liquids and Gases",
+          "Transfer of Heat"
+        ]
+      },
+      {
+        "chapter": "Sound",
+        "topics": [
+          "Production of Sound",
+          "Propagation of Sound",
+          "Speed of Sound",
+          "Reflection of Sound and Echo",
+          "Characteristics of Sound"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Chemistry",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Matter and its Composition",
+        "topics": [
+          "Characteristics of Matter",
+          "Kinetic Theory of Matter",
+          "States of Matter",
+          "Interconversion of States",
+          "Effect of Heat on Matter"
+        ]
+      },
+      {
+        "chapter": "Physical and Chemical Changes",
+        "topics": [
+          "Reversible vs Irreversible Changes",
+          "Physical Changes in Everyday Life",
+          "Chemical Changes Indicators",
+          "Differences Between Physical and Chemical Changes",
+          "Rusting and Crystallization"
+        ]
+      },
+      {
+        "chapter": "Elements, Compounds and Mixtures",
+        "topics": [
+          "Classification of Elements",
+          "Metals and Non-metals",
+          "Characteristics of Compounds",
+          "Differentiating Mixtures and Compounds",
+          "Separation Techniques"
+        ]
+      },
+      {
+        "chapter": "Atoms, Molecules and Radicals",
+        "topics": [
+          "Atomic Structure Basics",
+          "Molecules of Elements and Compounds",
+          "Radicals and Ions",
+          "Valency",
+          "Writing Chemical Formulae"
+        ]
+      },
+      {
+        "chapter": "Language of Chemistry",
+        "topics": [
+          "Chemical Symbols",
+          "Chemical Equations",
+          "Balancing Simple Equations",
+          "Information Conveyed by Equations",
+          "Limitations of Chemical Equations"
+        ]
+      },
+      {
+        "chapter": "Metals and Non-Metals",
+        "topics": [
+          "Physical Properties of Metals",
+          "Chemical Properties of Metals",
+          "Physical Properties of Non-metals",
+          "Chemical Properties of Non-metals",
+          "Uses of Common Metals and Non-metals"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Biology",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Plant and Animal Tissues",
+        "topics": [
+          "Meristematic Tissues in Plants",
+          "Permanent Plant Tissues",
+          "Epithelial and Connective Tissues",
+          "Muscular and Nervous Tissues",
+          "Differences Between Plant and Animal Tissues"
+        ]
+      },
+      {
+        "chapter": "Classification of Plants",
+        "topics": [
+          "Five Kingdom Classification",
+          "Algae and Fungi",
+          "Bryophytes and Pteridophytes",
+          "Gymnosperms",
+          "Angiosperms (Monocots and Dicots)"
+        ]
+      },
+      {
+        "chapter": "Classification of Animals",
+        "topics": [
+          "Invertebrates Characteristics",
+          "Major Phyla of Invertebrates",
+          "Vertebrates Characteristics",
+          "Classes of Vertebrates",
+          "Naming Animals System"
+        ]
+      },
+      {
+        "chapter": "Photosynthesis and Respiration",
+        "topics": [
+          "Process of Photosynthesis",
+          "Factors Affecting Photosynthesis",
+          "Significance of Photosynthesis",
+          "Respiration Process in Plants",
+          "Differences Between Photosynthesis and Respiration"
+        ]
+      },
+      {
+        "chapter": "Excretion in Humans",
+        "topics": [
+          "Need for Excretion",
+          "Excretory System Organs",
+          "Structure and Function of Kidneys",
+          "Formation of Urine",
+          "Common Renal Diseases"
+        ]
+      },
+      {
+        "chapter": "Nervous System",
+        "topics": [
+          "Structure of a Neuron",
+          "Central Nervous System",
+          "Brain and its Parts",
+          "Spinal Cord",
+          "Reflex Action"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "History & Civics",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Medieval Europe",
+        "topics": [
+          "Decline of Roman Empire",
+          "Rise of Christianity",
+          "Feudalism in Europe",
+          "The Crusades",
+          "Monasteries and their impact"
+        ]
+      },
+      {
+        "chapter": "Rise and Spread of Islam",
+        "topics": [
+          "Life of Prophet Muhammad",
+          "Teachings of Islam",
+          "The Caliphs",
+          "Spread of Islam in Middle East",
+          "Islamic Culture and Science"
+        ]
+      },
+      {
+        "chapter": "The Turkish Invasions",
+        "topics": [
+          " महमूद गजनवी (Mahmud of Ghazni)",
+          "Muhammad Ghori",
+          "Battles of Tarain",
+          "Impact of Turkish Invasions",
+          "Establishment of Delhi Sultanate"
+        ]
+      },
+      {
+        "chapter": "The Delhi Sultanate",
+        "topics": [
+          "The Slave Dynasty",
+          "The Khalji Dynasty",
+          "The Tughlaq Dynasty",
+          "Sayyid and Lodi Dynasties",
+          "Administration under Sultanate"
+        ]
+      },
+      {
+        "chapter": "The Vijayanagar and Bahmani Kingdoms",
+        "topics": [
+          "Founding of Vijayanagar",
+          "Krishnadeva Raya",
+          "The Bahmani Kingdom",
+          "Conflict Between the Two Kingdoms",
+          "Art and Architecture"
+        ]
+      },
+      {
+        "chapter": "The Mughal Empire",
+        "topics": [
+          "Babur and Humayun",
+          "Akbar the Great",
+          "Jahangir and Shah Jahan",
+          "Aurangzeb",
+          "Mughal Administration and Culture"
+        ]
+      },
+      {
+        "chapter": "Bhakti and Sufi Movements",
+        "topics": [
+          "Origin of Bhakti Movement",
+          "Key Bhakti Saints",
+          "Origin of Sufism",
+          "Key Sufi Saints",
+          "Impact on Indian Society"
+        ]
+      },
+      {
+        "chapter": "The Constitution of India",
+        "topics": [
+          "Making of the Constitution",
+          "The Preamble",
+          "Key Features of the Constitution",
+          "Democratic Republic",
+          "Secularism and Socialism"
+        ]
+      },
+      {
+        "chapter": "Directive Principles of State Policy",
+        "topics": [
+          "Meaning of Directive Principles",
+          "Classification of Principles",
+          "Welfare State Concept",
+          "Differences from Fundamental Rights",
+          "Implementation of Principles"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Geography",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Topographical Sheets",
+        "topics": [
+          "Understanding Topo Sheets",
+          "Colors and Contour Lines",
+          "Grid References",
+          "Conventional Signs",
+          "Measuring Distances"
+        ]
+      },
+      {
+        "chapter": "Weather and Climate",
+        "topics": [
+          "Elements of Weather",
+          "Measuring Weather Elements",
+          "Factors Affecting Climate",
+          "Types of Climate",
+          "Understanding Weather Maps"
+        ]
+      },
+      {
+        "chapter": "Industries",
+        "topics": [
+          "Need for Industries",
+          "Classification of Industries",
+          "Factors Affecting Location",
+          "Major Industrial Regions",
+          "Impact of Industrialization"
+        ]
+      },
+      {
+        "chapter": "Europe",
+        "topics": [
+          "Location and Extent",
+          "Physical Divisions",
+          "Climate and Vegetation",
+          "Natural Resources",
+          "People and Culture"
+        ]
+      },
+      {
+        "chapter": "Africa",
+        "topics": [
+          "Location and Extent",
+          "Sahara Desert and Nile River",
+          "Climate Zones",
+          "Wildlife and Vegetation",
+          "Economic Activities"
+        ]
+      },
+      {
+        "chapter": "Australia",
+        "topics": [
+          "Location and Extent",
+          "The Great Barrier Reef",
+          "Physical Divisions",
+          "Climate and Vegetation",
+          "Sheep Rearing and Mining"
+        ]
+      },
+      {
+        "chapter": "Antarctica",
+        "topics": [
+          "Location and Discovery",
+          "Ice Cap and Physical Features",
+          "Climate Conditions",
+          "Wildlife",
+          "Scientific Expeditions"
+        ]
+      },
+      {
+        "chapter": "Energy Resources",
+        "topics": [
+          "Renewable Energy",
+          "Non-Renewable Energy",
+          "Conservation of Energy",
+          "Alternative Sources",
+          "Sustainable Development"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "English",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Prose Section 1",
+        "topics": [
+          "Reading Comprehension",
+          "Vocabulary exercises",
+          "Character analysis",
+          "Theme identification",
+          "Question and Answers"
+        ]
+      },
+      {
+        "chapter": "Prose Section 2",
+        "topics": [
+          "Reading Comprehension",
+          "Word Meanings",
+          "Sentence Framing",
+          "True or False",
+          "Contextual Questions"
+        ]
+      },
+      {
+        "chapter": "Poetry Section 1",
+        "topics": [
+          "Poem Recitation",
+          "Rhyming scheme",
+          "Figures of Speech",
+          "Central Idea",
+          "Appreciation of the poem"
+        ]
+      },
+      {
+        "chapter": "Poetry Section 2",
+        "topics": [
+          "Stanza comprehension",
+          "Metaphors and Similes",
+          "Theme discussion",
+          "Word Building",
+          "Creative Writing based on poem"
+        ]
+      },
+      {
+        "chapter": "Grammar: Modals and Conditionals",
+        "topics": [
+          "Use of Modals",
+          "First Conditional",
+          "Second Conditional",
+          "Third Conditional",
+          "If Clauses Practice"
+        ]
+      },
+      {
+        "chapter": "Grammar: Voice & Speech",
+        "topics": [
+          "Active to Passive Voice",
+          "Passive to Active Voice",
+          "Direct Speech",
+          "Indirect Speech",
+          "Reporting Verbs"
+        ]
+      },
+      {
+        "chapter": "Composition",
+        "topics": [
+          "Argumentative Essays",
+          "Formal Letter Writing",
+          "Email Drafting",
+          "Report Writing",
+          "Message Writing"
+        ]
+      },
+      {
+        "chapter": "Vocabulary Builder",
+        "topics": [
+          "Prefixes and Suffixes",
+          "Collocations",
+          "Homographs",
+          "Proverbs",
+          "Advanced Idioms"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Hindi",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Sahitya Bhag 1",
+        "topics": [
+          "Padyansh Vyakha",
+          "Kathin Shabd",
+          "Prashnottari",
+          "Kavya Saundarya",
+          "Kavishraya"
+        ]
+      },
+      {
+        "chapter": "Sahitya Bhag 2",
+        "topics": [
+          "Gadyansh Vyakha",
+          "Shabdarth",
+          "Kahani Saransh",
+          "Charitra Chitran",
+          "Vichar Vimarsh"
+        ]
+      },
+      {
+        "chapter": "Sahitya Bhag 3",
+        "topics": [
+          "Nibandh Path",
+          "Laghu Prashna",
+          "Deergh Prashna",
+          "Bhasha Adhyayan",
+          "Lekhak Parichay"
+        ]
+      },
+      {
+        "chapter": "Vyakaran: Sandhi",
+        "topics": [
+          "Sandhi ki paribhasha",
+          "Swar Sandhi",
+          "Vyanjan Sandhi",
+          "Visarga Sandhi",
+          "Sandhi Vichhed"
+        ]
+      },
+      {
+        "chapter": "Vyakaran: Samas",
+        "topics": [
+          "Samas ki Paribhasha",
+          "Tatpurush Samas",
+          "Karmadharay Samas",
+          "Bahuvrihi Samas",
+          "Dvandva Samas"
+        ]
+      },
+      {
+        "chapter": "Vyakaran: Vakya Vichar",
+        "topics": [
+          "Vakya ke Ang",
+          "Sarl Vakya",
+          "Sanyukt Vakya",
+          "Mishrit Vakya",
+          "Vakya Parivartan"
+        ]
+      },
+      {
+        "chapter": "Rachna: Patra",
+        "topics": [
+          "Avedan Patra",
+          "Shikayati Patra",
+          "Sampadak ko Patra",
+          "Mitra ko Patra",
+          "Badhai Patra"
+        ]
+      },
+      {
+        "chapter": "Rachna: Nibandh aur Anuched",
+        "topics": [
+          "Samasya Pradhan Nibandh",
+          "Tyohar par Nibandh",
+          "Vigyan Ke Chamatkar",
+          "Anuched Lekhan Niyam",
+          "Samvad Lekhan"
+        ]
+      }
+    ]
+  }
+]

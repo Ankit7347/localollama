@@ -1,0 +1,610 @@
+[
+  {
+    "subject": "Mathematics",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Number System",
+        "topics": [
+          "Natural and Whole Numbers",
+          "Integers and their properties",
+          "Fractions and Operations",
+          "Decimal Fractions",
+          "Playing with Numbers"
+        ]
+      },
+      {
+        "chapter": "Ratio and Proportion",
+        "topics": [
+          "Concept of Ratio",
+          "Simplest form of Ratio",
+          "Proportion and its properties",
+          "Unitary Method",
+          "Word problems on Ratio"
+        ]
+      },
+      {
+        "chapter": "Algebra",
+        "topics": [
+          "Introduction to variables",
+          "Forming Algebraic Expressions",
+          "Basic operations on Algebra",
+          "Linear Equations in one variable",
+          "Solving simple equations"
+        ]
+      },
+      {
+        "chapter": "Geometry",
+        "topics": [
+          "Basic geometrical concepts",
+          "Angles and their properties",
+          "Parallel and intersecting lines",
+          "Triangles and their classification",
+          "Quadrilaterals and Polygons"
+        ]
+      },
+      {
+        "chapter": "Mensuration",
+        "topics": [
+          "Concept of Perimeter",
+          "Perimeter of Rectangle and Square",
+          "Concept of Area",
+          "Area of Rectangle and Square",
+          "Volume of Cube and Cuboid"
+        ]
+      },
+      {
+        "chapter": "Data Handling",
+        "topics": [
+          "Collection of Data",
+          "Organization of Data",
+          "Reading Pictographs",
+          "Reading Bar Graphs",
+          "Drawing Bar Graphs"
+        ]
+      },
+      {
+        "chapter": "Set Theory",
+        "topics": [
+          "Introduction to Sets",
+          "Representation of Sets",
+          "Types of Sets",
+          "Cardinality of Sets",
+          "Venn Diagrams"
+        ]
+      },
+      {
+        "chapter": "Commercial Mathematics",
+        "topics": [
+          "Concept of Percentage",
+          "Conversion of Fractions to Decimals",
+          "Finding Percentage of a quantity",
+          "Concept of Profit and Loss",
+          "Simple Interest basics"
+        ]
+      },
+      {
+        "chapter": "Fractions",
+        "topics": [
+          "Proper and Improper Fractions",
+          "Mixed Fractions",
+          "Addition of Fractions",
+          "Subtraction of Fractions",
+          "Multiplication of Fractions"
+        ]
+      },
+      {
+        "chapter": "Decimals",
+        "topics": [
+          "Introduction to Decimals",
+          "Place value of Decimals",
+          "Addition of Decimals",
+          "Subtraction of Decimals",
+          "Multiplication of Decimals"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Physics",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Matter",
+        "topics": [
+          "States of Matter",
+          "Properties of Solids",
+          "Properties of Liquids",
+          "Properties of Gases",
+          "Change of State"
+        ]
+      },
+      {
+        "chapter": "Physical Quantities and Measurement",
+        "topics": [
+          "Measurement of Length",
+          "Measurement of Mass",
+          "Measurement of Time",
+          "Measurement of Temperature",
+          "Measurement of Area"
+        ]
+      },
+      {
+        "chapter": "Force",
+        "topics": [
+          "Concept of Force",
+          "Effects of Force",
+          "Types of Forces",
+          "Friction",
+          "Methods to reduce Friction"
+        ]
+      },
+      {
+        "chapter": "Simple Machines",
+        "topics": [
+          "Introduction to Machines",
+          "Types of Simple Machines",
+          "Levers and its classes",
+          "Pulleys",
+          "Inclined Plane"
+        ]
+      },
+      {
+        "chapter": "Light",
+        "topics": [
+          "Sources of Light",
+          "Rectilinear propagation",
+          "Shadows",
+          "Pinhole Camera",
+          "Reflection of Light"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Chemistry",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Introduction to Chemistry",
+        "topics": [
+          "Meaning of Chemistry",
+          "Importance of Chemistry",
+          "Notable Chemists",
+          "Laboratory Equipment",
+          "Laboratory Safety"
+        ]
+      },
+      {
+        "chapter": "Elements and Compounds",
+        "topics": [
+          "Concept of Elements",
+          "Symbols of Elements",
+          "Concept of Compounds",
+          "Chemical Formulae",
+          "Differences between Elements and Compounds"
+        ]
+      },
+      {
+        "chapter": "Mixtures",
+        "topics": [
+          "Concept of Mixtures",
+          "Types of Mixtures",
+          "Characteristics of Mixtures",
+          "Separation of Solid-Solid Mixtures",
+          "Separation of Solid-Liquid Mixtures"
+        ]
+      },
+      {
+        "chapter": "Matter",
+        "topics": [
+          "Particle Nature of Matter",
+          "Intermolecular Space",
+          "Intermolecular Force",
+          "Effect of Heat on Matter",
+          "Sublimation"
+        ]
+      },
+      {
+        "chapter": "Water",
+        "topics": [
+          "Importance of Water",
+          "Sources of Water",
+          "Water cycle",
+          "Purification of Water",
+          "Conservation of Water"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Biology",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Plant Life",
+        "topics": [
+          "Root System",
+          "Shoot System",
+          "Modifications of Roots",
+          "Modifications of Stems",
+          "Structure of a Leaf"
+        ]
+      },
+      {
+        "chapter": "The Cell",
+        "topics": [
+          "Discovery of Cell",
+          "Plant Cell Structure",
+          "Animal Cell Structure",
+          "Differences between Plant and Animal Cells",
+          "Cell Division basics"
+        ]
+      },
+      {
+        "chapter": "Human Body",
+        "topics": [
+          "Digestive System",
+          "Respiratory System",
+          "Circulatory System basics",
+          "Excretory System",
+          "Nervous System"
+        ]
+      },
+      {
+        "chapter": "Health and Hygiene",
+        "topics": [
+          "Concept of Health",
+          "Personal Hygiene",
+          "Community Hygiene",
+          "Communicable Diseases",
+          "Non-communicable Diseases"
+        ]
+      },
+      {
+        "chapter": "Habitat and Adaptation",
+        "topics": [
+          "Types of Habitats",
+          "Terrestrial Habitats",
+          "Aquatic Habitats",
+          "Adaptation in Plants",
+          "Adaptation in Animals"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "History & Civics",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "The River Valley Civilizations",
+        "topics": [
+          "Indus Valley Civilization",
+          "Mesopotamian Civilization",
+          "Egyptian Civilization",
+          "Chinese Civilization",
+          "Comparison of Civilizations"
+        ]
+      },
+      {
+        "chapter": "The Vedic Period",
+        "topics": [
+          "Early Vedic Period",
+          "Later Vedic Period",
+          "Social Life",
+          "Economic Life",
+          "Religious Life"
+        ]
+      },
+      {
+        "chapter": "Mahavira and Buddha",
+        "topics": [
+          "Causes for rise of Jainism",
+          "Teachings of Mahavira",
+          "Causes for rise of Buddhism",
+          "Teachings of Buddha",
+          "Spread of Buddhism"
+        ]
+      },
+      {
+        "chapter": "The Mauryan Empire",
+        "topics": [
+          "Chandragupta Maurya",
+          "Ashoka the Great",
+          "Kalinga War",
+          "Mauryan Administration",
+          "Decline of the Empire"
+        ]
+      },
+      {
+        "chapter": "The Golden Age - Gupta Empire",
+        "topics": [
+          "Chandragupta I",
+          "Samudragupta",
+          "Chandragupta II",
+          "Art and Architecture",
+          "Science and Education"
+        ]
+      },
+      {
+        "chapter": "Rural Local Self-Government",
+        "topics": [
+          "Panchayati Raj System",
+          "Gram Panchayat",
+          "Block Samiti",
+          "Zila Parishad",
+          "Functions of Panchayats"
+        ]
+      },
+      {
+        "chapter": "Urban Local Self-Government",
+        "topics": [
+          "Municipal Corporation",
+          "Municipal Council",
+          "Nagar Panchayat",
+          "Sources of Income",
+          "Functions of Urban Bodies"
+        ]
+      },
+      {
+        "chapter": "Public Property",
+        "topics": [
+          "Meaning of Public Property",
+          "Historical Monuments",
+          "Public Transport",
+          "Public Parks",
+          "Civic Sense"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Geography",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Representation of Geographical Features",
+        "topics": [
+          "Globes and Maps",
+          "Types of Maps",
+          "Scale of a Map",
+          "Conventional Symbols",
+          "Directions on a Map"
+        ]
+      },
+      {
+        "chapter": "Landforms of the Earth",
+        "topics": [
+          "Mountains and their types",
+          "Plateaus and their importance",
+          "Plains and their formation",
+          "Valleys",
+          "Volcanoes"
+        ]
+      },
+      {
+        "chapter": "Water Bodies",
+        "topics": [
+          "Oceans of the World",
+          "Seas and Lakes",
+          "Rivers and their stages",
+          "Importance of Oceans",
+          "Pollution of Water Bodies"
+        ]
+      },
+      {
+        "chapter": "Agriculture",
+        "topics": [
+          "Types of Agriculture",
+          "Food Crops",
+          "Cash Crops",
+          "Plantation Crops",
+          "Green Revolution"
+        ]
+      },
+      {
+        "chapter": "Minerals and Ores",
+        "topics": [
+          "Types of Minerals",
+          "Metallic Minerals",
+          "Non-metallic Minerals",
+          "Conservation of Minerals",
+          "Mining impacts"
+        ]
+      },
+      {
+        "chapter": "North America",
+        "topics": [
+          "Location and Extent",
+          "Physical Features",
+          "Climate",
+          "Natural Vegetation",
+          "Wildlife"
+        ]
+      },
+      {
+        "chapter": "South America",
+        "topics": [
+          "Location and Extent",
+          "Physical Features",
+          "Climate",
+          "Amazon Basin",
+          "People and Culture"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "English",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Prose Section 1",
+        "topics": [
+          "Reading Comprehension",
+          "Vocabulary exercises",
+          "Character analysis",
+          "Theme identification",
+          "Question and Answers"
+        ]
+      },
+      {
+        "chapter": "Prose Section 2",
+        "topics": [
+          "Reading Comprehension",
+          "Word Meanings",
+          "Sentence Framing",
+          "True or False",
+          "Contextual Questions"
+        ]
+      },
+      {
+        "chapter": "Poetry Section 1",
+        "topics": [
+          "Poem Recitation",
+          "Rhyming scheme",
+          "Figures of Speech",
+          "Central Idea",
+          "Appreciation of the poem"
+        ]
+      },
+      {
+        "chapter": "Poetry Section 2",
+        "topics": [
+          "Stanza comprehension",
+          "Metaphors and Similes",
+          "Theme discussion",
+          "Word Building",
+          "Creative Writing based on poem"
+        ]
+      },
+      {
+        "chapter": "Grammar: Parts of Speech",
+        "topics": [
+          "Nouns and Pronouns",
+          "Verbs and Adverbs",
+          "Adjectives",
+          "Prepositions",
+          "Conjunctions and Interjections"
+        ]
+      },
+      {
+        "chapter": "Grammar: Tenses",
+        "topics": [
+          "Simple Present",
+          "Present Continuous",
+          "Simple Past",
+          "Past Continuous",
+          "Future Tense"
+        ]
+      },
+      {
+        "chapter": "Composition",
+        "topics": [
+          "Paragraph Writing",
+          "Informal Letter Writing",
+          "Story Writing",
+          "Notice Writing",
+          "Diary Entry"
+        ]
+      },
+      {
+        "chapter": "Vocabulary",
+        "topics": [
+          "Synonyms",
+          "Antonyms",
+          "Idioms",
+          "Phrasal Verbs",
+          "One Word Substitution"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Hindi",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Sahitya 1",
+        "topics": [
+          "Kavita Path",
+          "Shabdarth",
+          "Prashnottar",
+          "Bhavarth",
+          "Kriya Kalap"
+        ]
+      },
+      {
+        "chapter": "Sahitya 2",
+        "topics": [
+          "Kahani Path",
+          "Shabdarth",
+          "Prashnottar",
+          "Charitra Chitran",
+          "Vyakaran Bodh"
+        ]
+      },
+      {
+        "chapter": "Sahitya 3",
+        "topics": [
+          "Gadya Path",
+          "Shabdarth",
+          "Prashnottar",
+          "Aashay Spasht",
+          "Bhasha Gyan"
+        ]
+      },
+      {
+        "chapter": "Vyakaran: Bhasha aur Vyakaran",
+        "topics": [
+          "Bhasha ki paribhasha",
+          "Lipi",
+          "Vyakaran ke ang",
+          "Matrayen",
+          "Varnamala"
+        ]
+      },
+      {
+        "chapter": "Vyakaran: Sangya",
+        "topics": [
+          "Sangya ki paribhasha",
+          "Vyakti vachak",
+          "Jati vachak",
+          "Bhav vachak",
+          "Abhyas"
+        ]
+      },
+      {
+        "chapter": "Vyakaran: Sarvanam aur Visheshan",
+        "topics": [
+          "Sarvanam ke bhed",
+          "Sarvanam ka prayog",
+          "Visheshan ki paribhasha",
+          "Visheshan ke bhed",
+          "Abhyas"
+        ]
+      },
+      {
+        "chapter": "Rachna: Patra Lekhan",
+        "topics": [
+          "Patra ke prakar",
+          "Anaupcharik patra",
+          "Aupcharik patra",
+          "Patra ka prarup",
+          "Abhyas"
+        ]
+      },
+      {
+        "chapter": "Rachna: Nibandh Lekhan",
+        "topics": [
+          "Nibandh ki rooprekha",
+          "Varnanatmak nibandh",
+          "Vicharatmak nibandh",
+          "Bhumika",
+          "Upansanhar"
+        ]
+      }
+    ]
+  }
+]

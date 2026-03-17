@@ -1,0 +1,1028 @@
+[
+  {
+    "subject": "Mathematics I",
+    "year": 1,
+    "semester": 1,
+    "chapters": [
+      {
+        "chapter": "Differential Calculus",
+        "topics": [
+          "Leibnitz theorem",
+          "Maclaurin's series",
+          "Successive differentiation",
+          "Partial differentiation",
+          "Curvature"
+        ]
+      },
+      {
+        "chapter": "Differential Calculus II",
+        "topics": [
+          "Jacobians",
+          "Taylor expansion",
+          "Total differential",
+          "Extrema functions",
+          "Error calculation"
+        ]
+      },
+      {
+        "chapter": "Linear Algebra",
+        "topics": [
+          "Inverse matrix",
+          "Rank of matrix",
+          "Cramer's rule",
+          "Eigen values",
+          "Eigen vectors"
+        ]
+      },
+      {
+        "chapter": "Multiple Integrals",
+        "topics": [
+          "Double integration",
+          "Triple integration",
+          "Area calculation",
+          "Volume calculation",
+          "Beta Gamma"
+        ]
+      },
+      {
+        "chapter": "Vector Calculus",
+        "topics": [
+          "Vector identity",
+          "Gradient Curl",
+          "Line surface",
+          "Stokes theorem",
+          "Gauss theorem"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Engineering Physics",
+    "year": 1,
+    "semester": 1,
+    "chapters": [
+      {
+        "chapter": "Wave Optics",
+        "topics": [
+          "Interference films",
+          "Diffraction gratings",
+          "Polarized light",
+          "Crystal optics",
+          "Resolving power"
+        ]
+      },
+      {
+        "chapter": "Relativity",
+        "topics": [
+          "Inertial frames",
+          "Lorentz transform",
+          "Velocity addition",
+          "Mass variation",
+          "Energy momentum"
+        ]
+      },
+      {
+        "chapter": "Laser",
+        "topics": [
+          "Einstein coeff",
+          "Optical pumping",
+          "Ruby laser",
+          "Gas laser",
+          "Semi laser"
+        ]
+      },
+      {
+        "chapter": "Fiber Optics",
+        "topics": [
+          "Light propagation",
+          "Refractive profile",
+          "Signal loss",
+          "Pulse spread",
+          "Connectors"
+        ]
+      },
+      {
+        "chapter": "Quantum",
+        "topics": [
+          "WAVE particle",
+          "Uncertainty",
+          "Wave function",
+          "Energy box",
+          "Operator logic"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Basic Electrical Engineering",
+    "year": 1,
+    "semester": 1,
+    "chapters": [
+      {
+        "chapter": "Fundamental Laws",
+        "topics": [
+          "Source ideal",
+          "Mesh current",
+          "Node voltage",
+          "Star Delta",
+          "Network energy"
+        ]
+      },
+      {
+        "chapter": "Circuit Theorems",
+        "topics": [
+          "Superposition",
+          "Thevenin",
+          "Norton",
+          "Maximum power",
+          "Reciprocity"
+        ]
+      },
+      {
+        "chapter": "Steady State",
+        "topics": [
+          "Phasor notation",
+          "Complex impedance",
+          "Active reactive",
+          "Power factor",
+          "Resonant freq"
+        ]
+      },
+      {
+        "chapter": "Machines",
+        "topics": [
+          "Induced EMF",
+          "DC Motor",
+          "Induction logic",
+          "Stepper motor",
+          "Brushless DC"
+        ]
+      },
+      {
+        "chapter": "Domestic Wiring",
+        "topics": [
+          "Safety MCB",
+          "Fuse rating",
+          "Earth pit",
+          "Insulation test",
+          "Loading calc"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Programming for Problem Solving",
+    "year": 1,
+    "semester": 2,
+    "chapters": [
+      {
+        "chapter": "Algorithms",
+        "topics": [
+          "Logic flow",
+          "Pseudo code",
+          "Flow chart",
+          "Efficiency O",
+          "Memory map"
+        ]
+      },
+      {
+        "chapter": "C Input Output",
+        "topics": [
+          "Printf Scanf",
+          "Data types",
+          "Operators priority",
+          "Type cast",
+          "Formated IO"
+        ]
+      },
+      {
+        "chapter": "Control Flow",
+        "topics": [
+          "Infinite loop",
+          "While Break",
+          "Switch Case",
+          "If Else If",
+          "Continue logic"
+        ]
+      },
+      {
+        "chapter": "Arrays Functions",
+        "topics": [
+          "Index bound",
+          "Matrix add",
+          "Recursion stack",
+          "Parameter scope",
+          "Header files"
+        ]
+      },
+      {
+        "chapter": "Pointers Files",
+        "topics": [
+          "Null pointer",
+          "Dangling pointer",
+          "Dynamic alloc",
+          "File stream",
+          "Error handle"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Engineering Graphics",
+    "year": 1,
+    "semester": 2,
+    "chapters": [
+      {
+        "chapter": "Drafting Rules",
+        "topics": [
+          "BIS standards",
+          "Text fonts",
+          "Dimension lines",
+          "Projection axes",
+          "Scale conversion"
+        ]
+      },
+      {
+        "chapter": "Planar Projection",
+        "topics": [
+          "Point position",
+          "Inclined lines",
+          "Planes tilted",
+          "Trace analysis",
+          "Auxiliary views"
+        ]
+      },
+      {
+        "chapter": "Solids",
+        "topics": [
+          "Cube prism",
+          "Pyramid cone",
+          "Sectional plane",
+          "Cut profile",
+          "Visible edges"
+        ]
+      },
+      {
+        "chapter": "Surface Development",
+        "topics": [
+          "Pattern layout",
+          "Radial lines",
+          "Grid mapping",
+          "Overlap allowance",
+          "Bend lines"
+        ]
+      },
+      {
+        "chapter": "CAD Design",
+        "topics": [
+          "Interface icons",
+          "Layer select",
+          "Precision snap",
+          "Block insert",
+          "Export formats"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Electrical Circuit Analysis",
+    "year": 2,
+    "semester": 3,
+    "chapters": [
+      {
+        "chapter": "Network Graph",
+        "topics": [
+          "Tie set",
+          "Cut set",
+          "Incident matrix",
+          "Dual network",
+          "Tree link"
+        ]
+      },
+      {
+        "chapter": "Response analysis",
+        "topics": [
+          "Time constant",
+          "RC step",
+          "RL step",
+          "Integral switch",
+          "Transient state"
+        ]
+      },
+      {
+        "chapter": "Two Port Networks",
+        "topics": [
+          "Z-Parameters",
+          "Y-Parameters",
+          "h-Parameters",
+          "ABCD parameters",
+          "Image impedance"
+        ]
+      },
+      {
+        "chapter": "Fourier Series",
+        "topics": [
+          "Periodic waves",
+          "Fourier integral",
+          "Exponential form",
+          "Sampling theorem",
+          "Signal power"
+        ]
+      },
+      {
+        "chapter": "Circuit Synthesis",
+        "topics": [
+          "LC Foster",
+          "RC Cauer",
+          "Polynomial test",
+          "Positive real",
+          "Ladder synthesis"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Analog Electronics",
+    "year": 2,
+    "semester": 3,
+    "chapters": [
+      {
+        "chapter": "Diodes",
+        "topics": [
+          "Avalanche effect",
+          "Zener diode",
+          "Full wave",
+          "Capacitor filter",
+          "Diode logic"
+        ]
+      },
+      {
+        "chapter": "BJT Configuration",
+        "topics": [
+          "Common Emitter",
+          "Load line",
+          "Quiescent point",
+          "Thermal runaway",
+          "Voltage divider"
+        ]
+      },
+      {
+        "chapter": "FET Devices",
+        "topics": [
+          "Source drain",
+          "Gate bias",
+          "Transconductance",
+          "Drain curves",
+          "Switch behavior"
+        ]
+      },
+      {
+        "chapter": "Oscillators",
+        "topics": [
+          "Feedback loop",
+          "Hartley tank",
+          "Colpitts tank",
+          "Armstrong logic",
+          "Crystal freq"
+        ]
+      },
+      {
+        "chapter": "Op-Amp Intro",
+        "topics": [
+          "CMRR Gain",
+          "Virtual ground",
+          "Summing amp",
+          "Comparator clip",
+          "Zero crossing"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Electrical Machines I",
+    "year": 2,
+    "semester": 3,
+    "chapters": [
+      {
+        "chapter": "Electromagnetic Energy",
+        "topics": [
+          "Flux linkage",
+          "Mutual induct",
+          "Energy store",
+          "Force calc",
+          "Torque balance"
+        ]
+      },
+      {
+        "chapter": "DC Generator",
+        "topics": [
+          "Armature wind",
+          "Commutation process",
+          "Reactance volt",
+          "Loss calc",
+          "External curves"
+        ]
+      },
+      {
+        "chapter": "DC Motor",
+        "topics": [
+          "Back EMF",
+          "Speed control",
+          "Brake test",
+          "Swinburnes test",
+          "Starter design"
+        ]
+      },
+      {
+        "chapter": "Transformers",
+        "topics": [
+          "Phasor diagram",
+          "Parallel op",
+          "Scott connect",
+          "Open Delta",
+          "Tap changer"
+        ]
+      },
+      {
+        "chapter": "Testing",
+        "topics": [
+          "Load test",
+          "Efficiency curves",
+          "Temperature rise",
+          "No load current",
+          "Winding resistance"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Digital Electronics",
+    "year": 2,
+    "semester": 4,
+    "chapters": [
+      {
+        "chapter": "Gates Logic",
+        "topics": [
+          "NAND NOR",
+          "Universal property",
+          "K-Map simplification",
+          "Tabular method",
+          "EX-OR applications"
+        ]
+      },
+      {
+        "chapter": "Arithmetic",
+        "topics": [
+          "Binary adders",
+          "Magnitude compare",
+          "Decimal adder",
+          "ALU internals",
+          "Carry lookahead"
+        ]
+      },
+      {
+        "chapter": "Sequential Logic",
+        "topics": [
+          "Master slave FLIP",
+          "Edge triggers",
+          "Counter circuit",
+          "Buffer register",
+          "Shift data"
+        ]
+      },
+      {
+        "chapter": "A/D D/A Converter",
+        "topics": [
+          "R-2R Ladder",
+          "Binary weighted",
+          "Successive approx",
+          "Flash converter",
+          "Resolution error"
+        ]
+      },
+      {
+        "chapter": "Logic Families",
+        "topics": [
+          "TTL gate",
+          "CMOS gate",
+          "Noise immunity",
+          "Fan out",
+          "Propagation delay"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Electrical Machines II",
+    "year": 2,
+    "semester": 4,
+    "chapters": [
+      {
+        "chapter": "Induction Theory",
+        "topics": [
+          "Rotating field",
+          "Slip speed",
+          "Equivalent circle",
+          "Torque slip",
+          "Power flow"
+        ]
+      },
+      {
+        "chapter": "Starting Control",
+        "topics": [
+          "V/f control",
+          "Cascade method",
+          "Star Delta start",
+          "Auto transformer",
+          "Rotor resistance"
+        ]
+      },
+      {
+        "chapter": "Alternators",
+        "topics": [
+          "Winding factors",
+          "Voltage regulate",
+          "Synchronous react",
+          "ZPF method",
+          "MMF method"
+        ]
+      },
+      {
+        "chapter": "Synchronous Motor",
+        "topics": [
+          "V-curves",
+          "Inverted V",
+          "Hunting damp",
+          "Power factor mod",
+          "Damper winding"
+        ]
+      },
+      {
+        "chapter": "Special Machines",
+        "topics": [
+          "Repulsion motor",
+          "Schrage motor",
+          "Double cage",
+          "Single phase start",
+          "Universal design"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Electrical Measurements",
+    "year": 2,
+    "semester": 4,
+    "chapters": [
+      {
+        "chapter": "Instruments",
+        "topics": [
+          "PMMC Meter",
+          "MI type",
+          "Shunt designs",
+          "Range extend",
+          "Accuracy class"
+        ]
+      },
+      {
+        "chapter": "Power measurement",
+        "topics": [
+          "Dynamometer type",
+          "Wattmeter errors",
+          "Energy meter",
+          "Phantom load",
+          "Calibration test"
+        ]
+      },
+      {
+        "chapter": "Bridges",
+        "topics": [
+          "Wheatstone",
+          "Maxwell Bridge",
+          "Schering Bridge",
+          "Wien Bridge",
+          "Hay's Bridge"
+        ]
+      },
+      {
+        "chapter": "Potentiometers",
+        "topics": [
+          "DC lab type",
+          "AC coordinate",
+          "Standard cell",
+          "Calibration volt",
+          "Resistance measure"
+        ]
+      },
+      {
+        "chapter": "Digital Meters",
+        "topics": [
+          "DMM setup",
+          "Frequency counter",
+          "Data logs",
+          "Transducers basics",
+          "Smart sensors"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Power Electronics",
+    "year": 3,
+    "semester": 5,
+    "chapters": [
+      {
+        "chapter": "Thyristors",
+        "topics": [
+          "SCR V-I",
+          "Gate firing",
+          "Protective layer",
+          "Snubber circuit",
+          "Commutation logic"
+        ]
+      },
+      {
+        "chapter": "Converters",
+        "topics": [
+          "Single phase",
+          "Controlled rect",
+          "R-L load effect",
+          "Three phase",
+          "Line commutated"
+        ]
+      },
+      {
+        "chapter": "Choppers",
+        "topics": [
+          "Step down buck",
+          "Step up boost",
+          "Quadrants",
+          "Duty cycle",
+          "Multiplex chopper"
+        ]
+      },
+      {
+        "chapter": "Inverters",
+        "topics": [
+          "Voltage source",
+          "Current source",
+          "PWM control",
+          "Harmonic reduce",
+          "Bridge inverter"
+        ]
+      },
+      {
+        "chapter": "AC Controllers",
+        "topics": [
+          "Phase control",
+          "Integral cycle",
+          "Cycloconverter",
+          "Matrix convert",
+          "SMPS basics"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Control Systems",
+    "year": 3,
+    "semester": 5,
+    "chapters": [
+      {
+        "chapter": "Models",
+        "topics": [
+          "Transfer function",
+          "Mason's path",
+          "Block reduction",
+          "Sensitivity calc",
+          "State space model"
+        ]
+      },
+      {
+        "chapter": "Stability",
+        "topics": [
+          "Routh array",
+          "Root locus",
+          "Bode Plot",
+          "Nyquist path",
+          "Phase margin"
+        ]
+      },
+      {
+        "chapter": "Response",
+        "topics": [
+          "Standard tests",
+          "Damping factor",
+          "Peak overshoot",
+          "Steady error",
+          "Settling time"
+        ]
+      },
+      {
+        "chapter": "Compensation",
+        "topics": [
+          "Lead network",
+          "Lag network",
+          "PI control",
+          "PD control",
+          "PID tuning"
+        ]
+      },
+      {
+        "chapter": "NonLinear",
+        "topics": [
+          "Friction gear",
+          "Dead zone",
+          "Saturation limit",
+          "Phasor plane",
+          "Lyapunov theorem"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Power System I",
+    "year": 3,
+    "semester": 6,
+    "chapters": [
+      {
+        "chapter": "Generation",
+        "topics": [
+          "Thermal plant",
+          "Hydro plant",
+          "Nuclear shield",
+          "Renewable PV",
+          "Wind turbine"
+        ]
+      },
+      {
+        "chapter": "Transmission lines",
+        "topics": [
+          "ABCD lines",
+          "Corona effect",
+          "Ferranti effect",
+          "Surge impedance",
+          "Line efficiency"
+        ]
+      },
+      {
+        "chapter": "Parameters",
+        "topics": [
+          "L/C calculation",
+          "Bundled conduct",
+          "Ground wire",
+          "Proximity effect",
+          "Skin depth"
+        ]
+      },
+      {
+        "chapter": "Insulation",
+        "topics": [
+          "String effic",
+          "Guard ring",
+          "Capacitor grading",
+          "Suspension type",
+          "Bushings"
+        ]
+      },
+      {
+        "chapter": "Distribution",
+        "topics": [
+          "Radial feed",
+          "Ring main",
+          "Cross section",
+          "Power loss",
+          "Voltage drops"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Microprocessors",
+    "year": 3,
+    "semester": 6,
+    "chapters": [
+      {
+        "chapter": "8085 Core",
+        "topics": [
+          "Instruction set",
+          "ALU logic",
+          "Cycle timing",
+          "Interrupt prio",
+          "Stack pointer"
+        ]
+      },
+      {
+        "chapter": "8086 Advanced",
+        "topics": [
+          "Memory segment",
+          "Logic address",
+          "Status flags",
+          "Assembler tools",
+          "Parallel port"
+        ]
+      },
+      {
+        "chapter": "8051 Control",
+        "topics": [
+          "Timer counters",
+          "Interrupt handle",
+          "SFR mapping",
+          "Serial buffer",
+          "Assembly prog"
+        ]
+      },
+      {
+        "chapter": "Peripheral Interface",
+        "topics": [
+          "8259 PIC",
+          "8237 DMA",
+          "8255 PPI",
+          "ADC Interfac",
+          "DAC Interfac"
+        ]
+      },
+      {
+        "chapter": "ARM RISC",
+        "topics": [
+          "Pipeline stages",
+          "Thumb states",
+          "Register banks",
+          "Exception modes",
+          "Cortex logic"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Power System II",
+    "year": 4,
+    "semester": 7,
+    "chapters": [
+      {
+        "chapter": "Load Flow",
+        "topics": [
+          "Y-Bus matrix",
+          "Gauss Seidel",
+          "Newton Raphson",
+          "Fast decoupled",
+          "Bus types"
+        ]
+      },
+      {
+        "chapter": "Fault Analysis",
+        "topics": [
+          "Symmetric fault",
+          "Asymmetric fault",
+          "Sequence network",
+          "Z-Bus matrix",
+          "Short circuits"
+        ]
+      },
+      {
+        "chapter": "Stability Power",
+        "topics": [
+          "Swing equation",
+          "Equal area",
+          "Critical clear",
+          "Small signal",
+          "PSS Tuning"
+        ]
+      },
+      {
+        "chapter": "Protection",
+        "topics": [
+          "Overcurrent",
+          "Differential",
+          "Distance relay",
+          "Arc quench",
+          "CB rating"
+        ]
+      },
+      {
+        "chapter": "Economic Load",
+        "topics": [
+          "Loss coeff",
+          "Penalty factor",
+          "Infinite bus",
+          "Base load",
+          "Unit commitment"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Drives & Control",
+    "year": 4,
+    "semester": 7,
+    "chapters": [
+      {
+        "chapter": "Dynamics",
+        "topics": [
+          "Load torques",
+          "Speed profiles",
+          "Inertia effect",
+          "Multi quadrant",
+          "Friction models"
+        ]
+      },
+      {
+        "chapter": "DC Drives",
+        "topics": [
+          "Chopper fed",
+          "Thyristor fed",
+          "Braking regen",
+          "Loop control",
+          "Dual convert"
+        ]
+      },
+      {
+        "chapter": "AC Drives",
+        "topics": [
+          "Inverter fed",
+          "CSI VSI control",
+          "Scalar V/f",
+          "Vector control",
+          "Slip power"
+        ]
+      },
+      {
+        "chapter": "Special Drives",
+        "topics": [
+          "PMSM drive",
+          "BLDC control",
+          "SRM drive",
+          "Stepper control",
+          "Solar pumps"
+        ]
+      },
+      {
+        "chapter": "Smart Grid",
+        "topics": [
+          "Smart meter",
+          "FACTS devices",
+          "HVDC links",
+          "Vehicle grid",
+          "Demand manage"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Switchgear & Protection",
+    "year": 4,
+    "semester": 8,
+    "chapters": [
+      {
+        "chapter": "Introduction",
+        "topics": [
+          "Zonal protect",
+          "Backup system",
+          "Primary system",
+          "Reliability",
+          "Selectivity"
+        ]
+      },
+      {
+        "chapter": "Circuit Breakers",
+        "topics": [
+          "Air blast",
+          "SF6 gas",
+          "Vacuum type",
+          "Oil minimum",
+          "Rating specs"
+        ]
+      },
+      {
+        "chapter": "Relays Power",
+        "topics": [
+          "Induction coil",
+          "Static relay",
+          "Numerical relay",
+          "IDMT curves",
+          "Setting calc"
+        ]
+      },
+      {
+        "chapter": "Transformer Protect",
+        "topics": [
+          "Buchholz relay",
+          "Percentage diff",
+          "Thermal image",
+          "Overfluxing",
+          "Harmonic restrain"
+        ]
+      },
+      {
+        "chapter": "Generator Protect",
+        "topics": [
+          "Stator fault",
+          "Rotor fault",
+          "Loss of field",
+          "Motoring protect",
+          "Negative sequence"
+        ]
+      }
+    ]
+  }
+]

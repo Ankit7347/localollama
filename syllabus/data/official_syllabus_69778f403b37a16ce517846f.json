@@ -1,0 +1,968 @@
+[
+  {
+    "subject": "General Aptitude",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Verbal Ability",
+        "topics": [
+          "Grammar",
+          "Vocabulary",
+          "Comprehension",
+          "Context",
+          "Sentence structure"
+        ]
+      },
+      {
+        "chapter": "Numerical Ability",
+        "topics": [
+          "Percentages",
+          "Ratios",
+          "Powers",
+          "Series",
+          "Exponents"
+        ]
+      },
+      {
+        "chapter": "Data Interpretation",
+        "topics": [
+          "Graphs",
+          "Charts",
+          "Tables",
+          "Averages",
+          "Probability"
+        ]
+      },
+      {
+        "chapter": "Analytical Reasoning",
+        "topics": [
+          "Deductive logic",
+          "Inductive logic",
+          "Analogies",
+          "Relations",
+          "Conclusions"
+        ]
+      },
+      {
+        "chapter": "Spatial Visualization",
+        "topics": [
+          "Folding",
+          "Cutting",
+          "Rotation",
+          "Translation",
+          "Grouping"
+        ]
+      },
+      {
+        "chapter": "Logic Circuits",
+        "topics": [
+          "Boolean algebra",
+          "Gates",
+          "Truth tables",
+          "Optimization",
+          "Sequential logic"
+        ]
+      },
+      {
+        "chapter": "Problem Solving",
+        "topics": [
+          "Heuristics",
+          "Trial and error",
+          "Optimization",
+          "Creative thinking",
+          "Constraint solving"
+        ]
+      },
+      {
+        "chapter": "English Usage",
+        "topics": [
+          "Nouns",
+          "Verbs",
+          "Adjectives",
+          "Adverbs",
+          "Conjunctions"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Engineering Mathematics",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Linear Algebra",
+        "topics": [
+          "Matrix algebra",
+          "Determinants",
+          "Linear equations",
+          "Eigenvalues",
+          "Eigenvectors"
+        ]
+      },
+      {
+        "chapter": "Calculus",
+        "topics": [
+          "Limits",
+          "Continuity",
+          "Derivatives",
+          "Integrals",
+          "Mean value theorem"
+        ]
+      },
+      {
+        "chapter": "Differential Equations",
+        "topics": [
+          "First order",
+          "Linear higher order",
+          "Cauchy-Euler",
+          "Laplace transform",
+          "Boundary value"
+        ]
+      },
+      {
+        "chapter": "Complex Variables",
+        "topics": [
+          "Analytic functions",
+          "Cauchy-Riemann",
+          "Taylor series",
+          "Laurent series",
+          "Residue theorem"
+        ]
+      },
+      {
+        "chapter": "Probability",
+        "topics": [
+          "Bayes theorem",
+          "Random variables",
+          "Binomial distribution",
+          "Poisson",
+          "Normal"
+        ]
+      },
+      {
+        "chapter": "Numerical Methods",
+        "topics": [
+          "Lagrange interpolation",
+          "Trapezoidal rule",
+          "Simpson's rule",
+          "Runge-Kutta",
+          "Iteration"
+        ]
+      },
+      {
+        "chapter": "Vector Calculus",
+        "topics": [
+          "Gradient",
+          "Divergence",
+          "Curl",
+          "Gauss theorem",
+          "Stokes theorem"
+        ]
+      },
+      {
+        "chapter": "Partial Differential",
+        "topics": [
+          "Separation of variables",
+          "Wave equation",
+          "Heat equation",
+          "Laplace equation",
+          "Fourier series"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Engineering Mechanics",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Free-body Diagrams",
+        "topics": [
+          "Equilibrium",
+          "Trust analysis",
+          "Friction",
+          "Bolts",
+          "Pins"
+        ]
+      },
+      {
+        "chapter": "Virtual Work",
+        "topics": [
+          "Displacement",
+          "Potential energy",
+          "Stability",
+          "Equilibrium state",
+          "Work done"
+        ]
+      },
+      {
+        "chapter": "Kinematics",
+        "topics": [
+          "Particle motion",
+          "Rectilinear",
+          "Curvilinear",
+          "Relative motion",
+          "Impulse"
+        ]
+      },
+      {
+        "chapter": "Dynamics of Particles",
+        "topics": [
+          "Newton's laws",
+          "Work-energy",
+          "Momentum",
+          "Collision",
+          "Impact"
+        ]
+      },
+      {
+        "chapter": "Kinetics of Rigid Bodies",
+        "topics": [
+          "Pure rotation",
+          "General plane motion",
+          "Conservation of energy",
+          "Angular momentum",
+          "Mass moment"
+        ]
+      },
+      {
+        "chapter": "Mechanical Vibrations",
+        "topics": [
+          "Damped free",
+          "Forced vibration",
+          "Resonance",
+          "Isolation",
+          "Transmissibility"
+        ]
+      },
+      {
+        "chapter": "Lagrangian Mechanics",
+        "topics": [
+          "Generalized coordinates",
+          "Constraints",
+          "Kinetic energy",
+          "Potential energy",
+          "Hamiltonian"
+        ]
+      },
+      {
+        "chapter": "Rigid Body Mechanics",
+        "topics": [
+          "Support reactions",
+          "Distributed loads",
+          "Shear center",
+          "Centroids",
+          "Inertia"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Mechanics of Materials",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Stress and Strain",
+        "topics": [
+          "Elastic constants",
+          "Poisson's ratio",
+          "Thermal stress",
+          "Principal stress",
+          "Mohr's circle"
+        ]
+      },
+      {
+        "chapter": "Thin Cylinders",
+        "topics": [
+          "Hoop stress",
+          "Longitudinal stress",
+          "Sphere shells",
+          "Internal pressure",
+          "Volumetric strain"
+        ]
+      },
+      {
+        "chapter": "Shear Force",
+        "topics": [
+          "Point loads",
+          "Uniformly distributed",
+          "Cantilever beams",
+          "Bending moment",
+          "Simple support"
+        ]
+      },
+      {
+        "chapter": "Bending Stress",
+        "topics": [
+          "Neutral axis",
+          "Section modulus",
+          "Flexure formula",
+          "Composite beams",
+          "Deflection"
+        ]
+      },
+      {
+        "chapter": "Torsion",
+        "topics": [
+          "Circular shafts",
+          "Power transmission",
+          "Composite shafts",
+          "Helical springs",
+          "Stiffness"
+        ]
+      },
+      {
+        "chapter": "Euler's Theory",
+        "topics": [
+          "Buckling",
+          "Slenderness ratio",
+          "Critical load",
+          "Rankine formula",
+          "Eccentricity"
+        ]
+      },
+      {
+        "chapter": "Failure Theories",
+        "topics": [
+          "Maximum principal",
+          "Maximum shear",
+          "Distortion energy",
+          "St. Venant",
+          "Fatigue"
+        ]
+      },
+      {
+        "chapter": "Strain Energy",
+        "topics": [
+          "Resilience",
+          "Toughness",
+          "Impact loading",
+          "Castigliano theorem",
+          "Gradual loading"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Theory of Machines",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Displacement Analysis",
+        "topics": [
+          "Velocity",
+          "Acceleration",
+          "Klein construction",
+          "Slider crank",
+          "Four bar"
+        ]
+      },
+      {
+        "chapter": "Gears",
+        "topics": [
+          "Spur gears",
+          "Involute",
+          "Gearing law",
+          "Interference",
+          "Gear train"
+        ]
+      },
+      {
+        "chapter": "Cams",
+        "topics": [
+          "Follower motion",
+          "Displacement diagram",
+          "Profiles",
+          "Pressure angle",
+          "Flat followers"
+        ]
+      },
+      {
+        "chapter": "Flywheels",
+        "topics": [
+          "Turning moment",
+          "Fluctuation energy",
+          "Speed control",
+          "Moment of inertia",
+          "Punching press"
+        ]
+      },
+      {
+        "chapter": "Governors",
+        "topics": [
+          "Watt governor",
+          "Porter",
+          "Hartnell",
+          "Sensitiveness",
+          "Hunting"
+        ]
+      },
+      {
+        "chapter": "Balancing",
+        "topics": [
+          "Rotating masses",
+          "Reciprocating masses",
+          "Inline engines",
+          "Static balance",
+          "Dynamic balance"
+        ]
+      },
+      {
+        "chapter": "Gyroscope",
+        "topics": [
+          "Gyroscopic couple",
+          "Precession",
+          "Stabilization",
+          "Aircraft motion",
+          "Naval motion"
+        ]
+      },
+      {
+        "chapter": "Mechanism Synthesis",
+        "topics": [
+          "Chebyshev spacing",
+          "Function generation",
+          "Path generation",
+          "Motion generation",
+          "Freudenstein"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Machine Design",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Static Loading",
+        "topics": [
+          "Design process",
+          "Stress concentration",
+          "Safety factor",
+          "Material selection",
+          "Fits/tolerances"
+        ]
+      },
+      {
+        "chapter": "Dynamic Loading",
+        "topics": [
+          "Endurance limit",
+          "Fatigue design",
+          "S-N curves",
+          "Goodman line",
+          "Soderberg line"
+        ]
+      },
+      {
+        "chapter": "Threaded Fasteners",
+        "topics": [
+          "Screw threads",
+          "Preload",
+          "Bolt stiffness",
+          "Gaskets",
+          "Power screws"
+        ]
+      },
+      {
+        "chapter": "Joints",
+        "topics": [
+          "Riveted joints",
+          "Welded joints",
+          "Keyways",
+          "Splines",
+          "Cotter joints"
+        ]
+      },
+      {
+        "chapter": "Shafts and Axles",
+        "topics": [
+          "Code design",
+          "Combined loading",
+          "Rigidity",
+          "Strength",
+          "Bending torsion"
+        ]
+      },
+      {
+        "chapter": "Bearings",
+        "topics": [
+          "Hydrodynamic",
+          "Rolling contact",
+          "Life rating",
+          "Petroff equation",
+          "Sommerfeld number"
+        ]
+      },
+      {
+        "chapter": "Clutches and Brakes",
+        "topics": [
+          "Disc clutches",
+          "Centrifugal",
+          "Band brakes",
+          "Block brakes",
+          "Energy absorption"
+        ]
+      },
+      {
+        "chapter": "Belt Drives",
+        "topics": [
+          "Flat belts",
+          "V-belts",
+          "Chain drives",
+          "Rope drives",
+          "Wire ropes"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Fluid Mechanics",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Properties",
+        "topics": [
+          "Viscosity",
+          "Surface tension",
+          "Compressibility",
+          "Vapor pressure",
+          "Density"
+        ]
+      },
+      {
+        "chapter": "Fluid Statics",
+        "topics": [
+          "Pascal's law",
+          "Buoyancy",
+          "Meta-center",
+          "Pressure measurement",
+          "Forces on surfaces"
+        ]
+      },
+      {
+        "chapter": "Kinematics",
+        "topics": [
+          "Continuity equation",
+          "Stream function",
+          "Velocity potential",
+          "Vorticity",
+          "Circulation"
+        ]
+      },
+      {
+        "chapter": "Dynamics",
+        "topics": [
+          "Bernoulli theorem",
+          "Euler equation",
+          "Venturi meter",
+          "Pitot tube",
+          "Orifice meter"
+        ]
+      },
+      {
+        "chapter": "Viscous Flow",
+        "topics": [
+          "Laminar flow",
+          "Reynolds number",
+          "Poiseuille flow",
+          "Boundary layer",
+          "Separation"
+        ]
+      },
+      {
+        "chapter": "Turbulent Flow",
+        "topics": [
+          "Prandtl theory",
+          "Eddy viscosity",
+          "Logarithmic profile",
+          "Pipe friction",
+          "Moody chart"
+        ]
+      },
+      {
+        "chapter": "Compressible Flow",
+        "topics": [
+          "Isentropic flow",
+          "Mach number",
+          "Normal shocks",
+          "Stagnation properties",
+          "Supersonic"
+        ]
+      },
+      {
+        "chapter": "Fluid Machines",
+        "topics": [
+          "Pelton wheel",
+          "Francis turbine",
+          "Kaplan turbine",
+          "Centrifugal pumps",
+          "Cavitation"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Heat Transfer",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Conduction",
+        "topics": [
+          "Fourier law",
+          "General equation",
+          "Cylindrical shells",
+          "Critical insulation",
+          "Variable thermal"
+        ]
+      },
+      {
+        "chapter": "Fins",
+        "topics": [
+          "Efficiency",
+          "Effectiveness",
+          "Infinite fins",
+          "Insulated tip",
+          "Convective tip"
+        ]
+      },
+      {
+        "chapter": "Unsteady State",
+        "topics": [
+          "Lumped parameter",
+          "Biot number",
+          "Heisler charts",
+          "Semi-infinite solid",
+          "Transient conduction"
+        ]
+      },
+      {
+        "chapter": "Convection",
+        "topics": [
+          "Newton cooling law",
+          "Dimensionless groups",
+          "Prandtl number",
+          "Nusselt number",
+          "Grashof number"
+        ]
+      },
+      {
+        "chapter": "Radiation",
+        "topics": [
+          "Kirchhoff law",
+          "Stefan-Boltzmann",
+          "Shape factor",
+          "Black body",
+          "Gray body"
+        ]
+      },
+      {
+        "chapter": "Heat Exchangers",
+        "topics": [
+          "LMTD",
+          "NTU method",
+          "Fouling factor",
+          "Shell and tube",
+          "Parallel-counter"
+        ]
+      },
+      {
+        "chapter": "Boiling/Condensation",
+        "topics": [
+          "Pool boiling",
+          "Nucleate boiling",
+          "Film condensation",
+          "Dropwise",
+          "Correlations"
+        ]
+      },
+      {
+        "chapter": "Mass Transfer",
+        "topics": [
+          "Fick's law",
+          "Diffusion coeff",
+          "Convective mass",
+          "Schmidt number",
+          "Sherwood number"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Thermodynamics",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Basic Concepts",
+        "topics": [
+          "Zeroth law",
+          "Work and Heat",
+          "Pure substances",
+          "Property charts",
+          "State postulate"
+        ]
+      },
+      {
+        "chapter": "First Law",
+        "topics": [
+          "Closed system",
+          "Open system",
+          "SFEE",
+          "Non-flow processes",
+          "Internal energy"
+        ]
+      },
+      {
+        "chapter": "Second Law",
+        "topics": [
+          "Kelvin-Planck",
+          "Clausius",
+          "Efficiency",
+          "COP",
+          "Refrigerators"
+        ]
+      },
+      {
+        "chapter": "Entropy",
+        "topics": [
+          "Clausius inequality",
+          "T-S diagrams",
+          "Irreversibility",
+          "Availability",
+          "Exergy"
+        ]
+      },
+      {
+        "chapter": "Power Cycles",
+        "topics": [
+          "Carnot cycle",
+          "Otto cycle",
+          "Diesel cycle",
+          "Brayton cycle",
+          "Rankine cycle"
+        ]
+      },
+      {
+        "chapter": "Refrigeration",
+        "topics": [
+          "Vapor compression",
+          "Gas cycle",
+          "Absorption",
+          "Psychrometry",
+          "Air conditioning"
+        ]
+      },
+      {
+        "chapter": "Mixtures",
+        "topics": [
+          "Dalton's law",
+          "Mole fraction",
+          "Gibbs function",
+          "Chemical potential",
+          "Combustion"
+        ]
+      },
+      {
+        "chapter": "Steam Turbines",
+        "topics": [
+          "Nozzles",
+          "Compounding",
+          "Impulse",
+          "Reaction",
+          "Governing"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Engineering Materials",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Structure",
+        "topics": [
+          "Crystal systems",
+          "Miller indices",
+          "Defects",
+          "X-ray diffraction",
+          "Bonding"
+        ]
+      },
+      {
+        "chapter": "Mechanical Properties",
+        "topics": [
+          "Stress-strain",
+          "Hardness",
+          "Toughness",
+          "Yielding",
+          "Fracture"
+        ]
+      },
+      {
+        "chapter": "Phase Diagrams",
+        "topics": [
+          "Gibbs rule",
+          "Lever rule",
+          "Iron-carbon",
+          "Eutectic",
+          "Peritectic"
+        ]
+      },
+      {
+        "chapter": "Heat Treatment",
+        "topics": [
+          "Annealing",
+          "Normalizing",
+          "Quenching",
+          "TTT diagrams",
+          "Martensite"
+        ]
+      },
+      {
+        "chapter": "Manufacturing Materials",
+        "topics": [
+          "Cast irons",
+          "Alloy steels",
+          "Non-ferrous",
+          "Polymers",
+          "Ceramics"
+        ]
+      },
+      {
+        "chapter": "Corrosion",
+        "topics": [
+          "Galvanic",
+          "Pitting",
+          "Oxidation",
+          "Protective coatings",
+          "Cathodic protection"
+        ]
+      },
+      {
+        "chapter": "Composites",
+        "topics": [
+          "Fiber reinforced",
+          "Matrix",
+          "Rule of mixtures",
+          "Laminates",
+          "Particulate"
+        ]
+      },
+      {
+        "chapter": "Magnetic/Electric",
+        "topics": [
+          "Superconductivity",
+          "Piezoelectric",
+          "Semiconductors",
+          "Dielectrics",
+          "Soft magnets"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Manufacturing Processes",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Casting",
+        "topics": [
+          "Pattern design",
+          "Molding sand",
+          "Gating system",
+          "Risering",
+          "Solidification"
+        ]
+      },
+      {
+        "chapter": "Forming",
+        "topics": [
+          "Plasticity",
+          "Rolling",
+          "Forging",
+          "Extrusion",
+          "Drawing"
+        ]
+      },
+      {
+        "chapter": "Joining",
+        "topics": [
+          "Arc welding",
+          "TIG/MIG",
+          "Resistance",
+          "Brazing",
+          "Soldering"
+        ]
+      },
+      {
+        "chapter": "Machining",
+        "topics": [
+          "Merchant circle",
+          "Tool life",
+          "Lathe",
+          "Milling",
+          "Grinding"
+        ]
+      },
+      {
+        "chapter": "Modern Manufacturing",
+        "topics": [
+          "EDM",
+          "ECM",
+          "LBM",
+          "AJM",
+          "USM"
+        ]
+      },
+      {
+        "chapter": "Metrology",
+        "topics": [
+          "Interferometry",
+          "Comparators",
+          "Fits",
+          "Surface finish",
+          "CMM"
+        ]
+      },
+      {
+        "chapter": "NC/CNC",
+        "topics": [
+          "DNC",
+          "Adaptive control",
+          "Group tech",
+          "FMS",
+          "CIM"
+        ]
+      },
+      {
+        "chapter": "Production Control",
+        "topics": [
+          "Forecasting",
+          "Aggregate planning",
+          "Scheduling",
+          "ERP",
+          "JIT"
+        ]
+      },
+      {
+        "chapter": "Operations Research",
+        "topics": [
+          "Simplex method",
+          "Transportation",
+          "Assignment",
+          "Queuing",
+          "PERT/CPM"
+        ]
+      },
+      {
+        "chapter": "Industrial Engineering",
+        "topics": [
+          "Process map",
+          "Time study",
+          "Motion study",
+          "Value engineering",
+          "Supply chain"
+        ]
+      }
+    ]
+  }
+]

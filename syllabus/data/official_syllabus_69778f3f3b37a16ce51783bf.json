@@ -1,0 +1,721 @@
+[
+  {
+    "subject": "Mathematics",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Relations and Functions",
+        "topics": [
+          "Types of Relations",
+          "Types of Functions",
+          "Composition of Functions and Invertible Function",
+          "Binary Operations"
+        ]
+      },
+      {
+        "chapter": "Inverse Trigonometric Functions",
+        "topics": [
+          "Basic Concepts",
+          "Properties of Inverse Trigonometric Functions"
+        ]
+      },
+      {
+        "chapter": "Matrices",
+        "topics": [
+          "Matrix",
+          "Types of Matrices",
+          "Operations on Matrices",
+          "Transpose of a Matrix",
+          "Symmetric and Skew Symmetric Matrices",
+          "Elementary Operation (Transformation) of a Matrix",
+          "Invertible Matrices"
+        ]
+      },
+      {
+        "chapter": "Determinants",
+        "topics": [
+          "Determinant",
+          "Properties of Determinants",
+          "Area of a Triangle",
+          "Minors and Cofactors",
+          "Adjoint and Inverse of a Matrix",
+          "Applications of Determinants and Matrices"
+        ]
+      },
+      {
+        "chapter": "Continuity and Differentiability",
+        "topics": [
+          "Continuity",
+          "Differentiability",
+          "Exponential and Logarithmic Functions",
+          "Logarithmic Differentiation",
+          "Derivatives of Functions in Parametric Forms",
+          "Second Order Derivative",
+          "Mean Value Theorem"
+        ]
+      },
+      {
+        "chapter": "Application of Derivatives",
+        "topics": [
+          "Rate of Change of Quantities",
+          "Increasing and Decreasing Functions",
+          "Tangents and Normals",
+          "Approximations",
+          "Maxima and Minima"
+        ]
+      },
+      {
+        "chapter": "Integrals",
+        "topics": [
+          "Integration as an Inverse Process of Differentiation",
+          "Methods of Integration",
+          "Integrals of Some Particular Functions",
+          "Integration by Partial Fractions",
+          "Integration by Parts",
+          "Definite Integral",
+          "Fundamental Theorem of Calculus",
+          "Evaluation of Definite Integrals by Substitution",
+          "Some Properties of Definite Integrals"
+        ]
+      },
+      {
+        "chapter": "Application of Integrals",
+        "topics": ["Area under Simple Curves", "Area between Two Curves"]
+      },
+      {
+        "chapter": "Differential Equations",
+        "topics": [
+          "Basic Concepts",
+          "General and Particular Solutions of a Differential Equation",
+          "Formation of a Differential Equation whose General Solution is given",
+          "Methods of Solving First degree, First order Differential Equations"
+        ]
+      },
+      {
+        "chapter": "Vector Algebra",
+        "topics": [
+          "Some Basic Concepts",
+          "Types of Vectors",
+          "Addition of Vectors",
+          "Multiplication of a Vector by a Scalar",
+          "Product of Two Vectors"
+        ]
+      },
+      {
+        "chapter": "Three Dimensional Geometry",
+        "topics": [
+          "Direction Cosines and Direction Ratios of a Line",
+          "Equation of a Line in Space",
+          "Angle between Two Lines",
+          "Shortest Distance between Two Lines",
+          "Plane",
+          "Coplanarity of Two Lines",
+          "Angle between Two Planes",
+          "Distance of a Point from a Plane",
+          "Angle between a Line and a Plane"
+        ]
+      },
+      {
+        "chapter": "Linear Programming",
+        "topics": [
+          "Linear Programming Problem and its Mathematical Formulation",
+          "Different Types of Linear Programming Problems"
+        ]
+      },
+      {
+        "chapter": "Probability",
+        "topics": [
+          "Conditional Probability",
+          "Multiplication Theorem on Probability",
+          "Independent Events",
+          "Bayes' Theorem",
+          "Random Variables and its Probability Distributions",
+          "Bernoulli Trials and Binomial Distribution"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Physics",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Electric Charges and Fields",
+        "topics": [
+          "Electric Charge",
+          "Conductors and Insulators",
+          "Charging by Induction",
+          "Basic Properties of Electric Charge",
+          "Coulomb's Law",
+          "Forces between Multiple Charges",
+          "Electric Field",
+          "Electric Field Lines",
+          "Electric Flux",
+          "Electric Dipole",
+          "Dipole in a Uniform External Field",
+          "Continuous Charge Distribution",
+          "Gauss's Law",
+          "Applications of Gauss's Law"
+        ]
+      },
+      {
+        "chapter": "Electrostatic Potential and Capacitance",
+        "topics": [
+          "Electrostatic Potential",
+          "Potential due to a Point Charge",
+          "Potential due to an Electric Dipole",
+          "Potential due to a System of Charges",
+          "Equipotential Surfaces",
+          "Potential Energy of a System of Charges",
+          "Potential Energy in an External Field",
+          "Electrostatics of Conductors",
+          "Dielectrics and Polarisation",
+          "Capacitors and Capacitance",
+          "The Parallel Plate Capacitor",
+          "Effect of Dielectric on Capacitance",
+          "Combination of Capacitors",
+          "Energy Stored in a Capacitor",
+          "Van de Graaff Generator"
+        ]
+      },
+      {
+        "chapter": "Current Electricity",
+        "topics": [
+          "Electric Current",
+          "Electric Currents in Conductors",
+          "Ohm's law",
+          "Drift of Electrons and the Origin of Resistivity",
+          "Limitations of Ohm's Law",
+          "Resistivity of Various Materials",
+          "Temperature Dependence of Resistivity",
+          "Electrical Energy, Power",
+          "Combination of Resistors - Series and Parallel",
+          "Cells, emf, Internal Resistance",
+          "Cells in Series and in Parallel",
+          "Kirchhoff's Rules",
+          "Wheatstone Bridge",
+          "Meter Bridge",
+          "Potentiometer"
+        ]
+      },
+      {
+        "chapter": "Moving Charges and Magnetism",
+        "topics": [
+          "Magnetic Force",
+          "Motion in a Magnetic Field",
+          "Motion in Combined Electric and Magnetic Fields",
+          "Magnetic Field due to a Current Element, Biot-Savart Law",
+          "Magnetic Field on the Axis of a Circular Current Loop",
+          "Ampere's Circuital Law",
+          "The Solenoid and the Toroid",
+          "Force between Two Parallel Currents, the Ampere",
+          "Torque on Current Loop, Magnetic Dipole",
+          "The Moving Coil Galvanometer"
+        ]
+      },
+      {
+        "chapter": "Magnetism and Matter",
+        "topics": [
+          "The Bar Magnet",
+          "Magnetism and Gauss's Law",
+          "The Earth's Magnetism",
+          "Magnetisation and Magnetic Intensity",
+          "Magnetic Properties of Materials",
+          "Permanent Magnets and Electromagnets"
+        ]
+      },
+      {
+        "chapter": "Electromagnetic Induction",
+        "topics": [
+          "The Experiments of Faraday and Henry",
+          "Magnetic Flux",
+          "Faraday's Law of Induction",
+          "Lenz's Law and Conservation of Energy",
+          "Motional Electromotive Force",
+          "Energy Consideration: A Quantitative Study",
+          "Eddy Currents",
+          "Inductance",
+          "AC Generator"
+        ]
+      },
+      {
+        "chapter": "Alternating Current",
+        "topics": [
+          "AC Voltage Applied to a Resistor",
+          "Representation of AC Current and Voltage by Rotating Vectors - Phasors",
+          "AC Voltage Applied to an Inductor",
+          "AC Voltage Applied to a Capacitor",
+          "AC Voltage Applied to a Series LCR Circuit",
+          "Power in AC Circuit: The Power Factor",
+          "LC Oscillations",
+          "Transformers"
+        ]
+      },
+      {
+        "chapter": "Electromagnetic Waves",
+        "topics": [
+          "Displacement Current",
+          "Electromagnetic Waves",
+          "Electromagnetic Spectrum"
+        ]
+      },
+      {
+        "chapter": "Ray Optics and Optical Instruments",
+        "topics": [
+          "Reflection of Light by Spherical Mirrors",
+          "Refraction",
+          "Total Internal Reflection",
+          "Refraction at Spherical Surfaces and by Lenses",
+          "Refraction through a Prism",
+          "Dispersion by a Prism",
+          "Some Natural Phenomena due to Sunlight",
+          "Optical Instruments"
+        ]
+      },
+      {
+        "chapter": "Wave Optics",
+        "topics": [
+          "Huygens Principle",
+          "Refraction and Reflection of Plane Waves using Huygens Principle",
+          "Coherent and Incoherent Addition of Waves",
+          "Interference of Light Waves and Young's Experiment",
+          "Diffraction",
+          "Polarisation"
+        ]
+      },
+      {
+        "chapter": "Dual Nature of Radiation and Matter",
+        "topics": [
+          "Electron Emission",
+          "Photoelectric Effect",
+          "Experimental Study of Photoelectric Effect",
+          "Photoelectric Effect and Wave Theory of Light",
+          "Einstein's Photoelectric Equation: Energy Quantum of Radiation",
+          "Particle Nature of Light: The Photon",
+          "Wave Nature of Matter",
+          "Davisson and Germer Experiment"
+        ]
+      },
+      {
+        "chapter": "Atoms",
+        "topics": [
+          "Alpha-particle Scattering and Rutherford's Nuclear Model of Atom",
+          "Atomic Spectra",
+          "Bohr Model of the Hydrogen Atom",
+          "The Line Spectra of the Hydrogen Atom",
+          "DE Broglie's Explanation of Bohr's Second Postulate of Quantisation"
+        ]
+      },
+      {
+        "chapter": "Nuclei",
+        "topics": [
+          "Atomic Masses and Composition of Nucleus",
+          "Size of the Nucleus",
+          "Mass-Energy and Nuclear Binding Energy",
+          "Nuclear Force",
+          "Radioactivity",
+          "Nuclear Energy"
+        ]
+      },
+      {
+        "chapter": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+        "topics": [
+          "Classification of Metals, Conductors and Semiconductors",
+          "Intrinsic Semiconductor",
+          "Extrinsic Semiconductor",
+          "p-n Junction",
+          "Semiconductor Diode",
+          "Application of Junction Diode as a Rectifier",
+          "Special Purpose p-n Junction Diodes",
+          "Digital Electronics and Logic Gates"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Chemistry",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Solutions",
+        "topics": [
+          "Types of Solutions",
+          "Expressing Concentration of Solutions",
+          "Solubility",
+          "Vapour Pressure of Liquid Solutions",
+          "Ideal and Non-ideal Solutions",
+          "Colligative Properties and Determination of Molar Mass",
+          "Abnormal Molar Masses"
+        ]
+      },
+      {
+        "chapter": "Electrochemistry",
+        "topics": [
+          "Electrochemical Cells",
+          "Galvanic Cells",
+          "Nernst Equation",
+          "Conductance of Electrolytic Solutions",
+          "Electrolytic Cells and Electrolysis",
+          "Batteries",
+          "Fuel Cells",
+          "Corrosion"
+        ]
+      },
+      {
+        "chapter": "Chemical Kinetics",
+        "topics": [
+          "Rate of a Chemical Reaction",
+          "Factors Influencing Rate of a Reaction",
+          "Integrated Rate Equations",
+          "Pseudo First Order Reaction",
+          "Temperature Dependence of the Rate of a Reaction",
+          "Collision Theory of Chemical Reactions"
+        ]
+      },
+      {
+        "chapter": "Surface Chemistry",
+        "topics": [
+          "Adsorption",
+          "Catalysis",
+          "Colloids",
+          "Classification of Colloids",
+          "Emulsions",
+          "Colloids Around Us"
+        ]
+      },
+      {
+        "chapter": "General Principles and Processes of Isolation of Elements",
+        "topics": [
+          "Occurrence of Metals",
+          "Concentration of Ores",
+          "Extraction of Crude Metal from Concentrated Ore",
+          "Thermodynamic Principles of Metallurgy",
+          "Electrochemical Principles of Metallurgy",
+          "Oxidation Reduction",
+          "Refining",
+          "Uses of Aluminium, Copper, Zinc and Iron"
+        ]
+      },
+      {
+        "chapter": "The p-Block Elements",
+        "topics": [
+          "Group 15 Elements",
+          "Dinitrogen",
+          "Ammonia",
+          "Oxides of Nitrogen",
+          "Nitric Acid",
+          "Phosphorus - Allotropic Forms",
+          "Phosphine",
+          "Phosphorus Halides",
+          "Oxoacids of Phosphorus",
+          "Group 16 Elements",
+          "Dioxygen",
+          "Simple Oxides",
+          "Ozone",
+          "Sulphur - Allotropic Forms",
+          "Sulphur Dioxide",
+          "Oxoacids of Sulphur",
+          "Sulphuric Acid",
+          "Group 17 Elements",
+          "Chlorine",
+          "Hydrogen Chloride",
+          "Oxoacids of Halogens",
+          "Interhalogen Compounds",
+          "Group 18 Elements"
+        ]
+      },
+      {
+        "chapter": "The d- and f- Block Elements",
+        "topics": [
+          "Position in the Periodic Table",
+          "Electronic Configurations of the d-Block Elements",
+          "General Properties of the Transition Elements (d-Block)",
+          "Some Important Compounds of Transition Elements",
+          "The Lanthanoids",
+          "The Actinoids",
+          "Some Applications of d- and f-Block Elements"
+        ]
+      },
+      {
+        "chapter": "Coordination Compounds",
+        "topics": [
+          "Werner's Theory of Coordination Compounds",
+          "Definitions of Some Important Terms Pertaining to Coordination Compounds",
+          "Nomenclature of Coordination Compounds",
+          "Isomerism in Coordination Compounds",
+          "Bonding in Coordination Compounds",
+          "Bonding in Metal Carbonyls",
+          "Stability of Coordination Compounds",
+          "Importance and Applications of Coordination Compounds"
+        ]
+      },
+      {
+        "chapter": "Haloalkanes and Haloarenes",
+        "topics": [
+          "Classification",
+          "Nomenclature",
+          "Nature of C-X Bond",
+          "Methods of Preparation",
+          "Physical Properties",
+          "Chemical Reactions",
+          "Polyhalogen Compounds"
+        ]
+      },
+      {
+        "chapter": "Alcohols, Phenols and Ethers",
+        "topics": [
+          "Classification",
+          "Nomenclature",
+          "Structures of Functional Groups",
+          "Alcohols and Phenols",
+          "Some Commercially Important Alcohols",
+          "Ethers"
+        ]
+      },
+      {
+        "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+        "topics": [
+          "Nomenclature and Structure of Carbonyl Group",
+          "Preparation of Aldehydes and Ketones",
+          "Physical Properties",
+          "Chemical Reactions",
+          "Uses of Aldehydes and Ketones",
+          "Nomenclature and Structure of Carboxyl Group",
+          "Methods of Preparation of Carboxylic Acids",
+          "Physical Properties",
+          "Chemical Reactions",
+          "Uses of Carboxylic Acids"
+        ]
+      },
+      {
+        "chapter": "Amines",
+        "topics": [
+          "Structure of Amines",
+          "Classification",
+          "Nomenclature",
+          "Preparation of Amines",
+          "Physical Properties",
+          "Chemical Reactions",
+          "Method of Preparation of Diazonium Salts",
+          "Physical Properties",
+          "Chemical Reactions",
+          "Importance of Diazonium Salts in Synthesis of Aromatic Compounds"
+        ]
+      },
+      {
+        "chapter": "Biomolecules",
+        "topics": [
+          "Carbohydrates",
+          "Proteins",
+          "Enzymes",
+          "Vitamins",
+          "Nucleic Acids"
+        ]
+      },
+      {
+        "chapter": "Polymers",
+        "topics": [
+          "Classification of Polymers",
+          "Types of Polymerisation Reactions",
+          "Molecular Mass of Polymers",
+          "Biodegradable Polymers",
+          "Polymers of Commercial Importance"
+        ]
+      },
+      {
+        "chapter": "Chemistry in Everyday Life",
+        "topics": [
+          "Drugs and their Classification",
+          "Drug-Target Interaction",
+          "Therapeutic Action of Different Classes of Drugs",
+          "Chemicals in Food",
+          "Cleansing Agents"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Biology",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Reproduction",
+        "topics": [
+          "Reproduction in Organisms",
+          "Sexual Reproduction in Flowering Plants",
+          "Human Reproduction",
+          "Reproductive Health"
+        ]
+      },
+      {
+        "chapter": "Genetics and Evolution",
+        "topics": [
+          "Principles of Inheritance and Variation",
+          "Molecular Basis of Inheritance",
+          "Evolution"
+        ]
+      },
+      {
+        "chapter": "Biology and Human Welfare",
+        "topics": [
+          "Human Health and Disease",
+          "Strategies for Enhancement in Food Production",
+          "Microbes in Human Welfare"
+        ]
+      },
+      {
+        "chapter": "Biotechnology and its Applications",
+        "topics": [
+          "Biotechnology: Principles and Processes",
+          "Biotechnology and its Applications"
+        ]
+      },
+      {
+        "chapter": "Ecology and Environment",
+        "topics": [
+          "Organisms and Populations",
+          "Ecosystem",
+          "Biodiversity and Conservation",
+          "Environmental Issues"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Accountancy",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Accounting for Not-for-Profit Organisations and Partnership Firms",
+        "topics": [
+          "Accounting for Not-for-Profit Organisations",
+          "Accounting for Partnership: Basic Concepts",
+          "Reconstitution of a Partnership Firm - Admission of a Partner",
+          "Reconstitution of a Partnership Firm - Retirement/Death of a Partner",
+          "Dissolution of Partnership Firm"
+        ]
+      },
+      {
+        "chapter": "Company Accounts and Analysis of Financial Statements",
+        "topics": [
+          "Accounting for Share Capital",
+          "Issue and Redemption of Debentures",
+          "Financial Statements of a Company",
+          "Analysis of Financial Statements",
+          "Accounting Ratios",
+          "Cash Flow Statement"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Business Studies",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Principles and Functions of Management",
+        "topics": [
+          "Nature and Significance of Management",
+          "Principles of Management",
+          "Business Environment",
+          "Planning",
+          "Organising",
+          "Staffing",
+          "Directing",
+          "Controlling"
+        ]
+      },
+      {
+        "chapter": "Business Finance and Marketing",
+        "topics": [
+          "Financial Management",
+          "Financial Markets",
+          "Marketing Management",
+          "Consumer Protection"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Economics",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Introductory Macroeconomics",
+        "topics": [
+          "National Income and Related Aggregates",
+          "Money and Banking",
+          "Determination of Income and Employment",
+          "Government Budget and the Economy",
+          "Balance of Payments"
+        ]
+      },
+      {
+        "chapter": "Indian Economic Development",
+        "topics": [
+          "Development Experience (1947-90) and Economic Reforms since 1991",
+          "Current Challenges facing Indian Economy (Poverty, Human Capital Formation, Rural Development, Employment, Infrastructure, Environment and Sustainable Development)",
+          "Development Experience of India: A Comparison with Neighbours"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "English Core",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Flamingo - Prose",
+        "topics": [
+          "The Last Lesson",
+          "Lost Spring",
+          "Deep Water",
+          "The Rattrap",
+          "Indigo",
+          "Poets and Pancakes",
+          "The Interview",
+          "Going Places"
+        ]
+      },
+      {
+        "chapter": "Flamingo - Poetry",
+        "topics": [
+          "My Mother at Sixty-six",
+          "An Elementary School Classroom in a Slum",
+          "Keeping Quiet",
+          "A Thing of Beauty",
+          "A Roadside Stand",
+          "Aunt Jennifer's Tigers"
+        ]
+      },
+      {
+        "chapter": "Vistas",
+        "topics": [
+          "The Third Level",
+          "The Tiger King",
+          "Journey to the end of the Earth",
+          "The Enemy",
+          "Should Wizard hit Mommy",
+          "On the face of It",
+          "Evans Tries an O-level",
+          "Memories of Childhood"
+        ]
+      },
+      {
+        "chapter": "Reading Comprehension",
+        "topics": ["Unseen Passage", "Note Making and Summarization"]
+      },
+      {
+        "chapter": "Writing Skills",
+        "topics": [
+          "Notice Writing",
+          "Advertisement",
+          "Poster Making",
+          "Invitations and Replies",
+          "Letter Writing (Business/Official Letters, Letter to the Editor, Application for Job)",
+          "Article, Report, Speech or Debate Writing"
+        ]
+      }
+    ]
+  }
+]

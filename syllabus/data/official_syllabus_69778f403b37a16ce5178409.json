@@ -1,0 +1,1028 @@
+[
+  {
+    "subject": "Mathematics I",
+    "year": 1,
+    "semester": 1,
+    "chapters": [
+      {
+        "chapter": "Matrix Algebra",
+        "topics": [
+          "Rank of a matrix",
+          "Inverse of a matrix",
+          "Solving linear equations",
+          "Eigen values and Eigen vectors",
+          "Linear transformations"
+        ]
+      },
+      {
+        "chapter": "Differential Calculus I",
+        "topics": [
+          "Limits and continuity",
+          "Differentiation rules",
+          "Mean value theorems",
+          "Maximas and minimas",
+          "Taylor series expansion"
+        ]
+      },
+      {
+        "chapter": "Differential Calculus II",
+        "topics": [
+          "Partial differentiation",
+          "Euler theorem",
+          "Total differentiation",
+          "Jacobians",
+          "Change of variables"
+        ]
+      },
+      {
+        "chapter": "Integral Calculus",
+        "topics": [
+          "Definite integrals",
+          "Integration by parts",
+          "Fundamental theorem of calculus",
+          "Double integrals",
+          "Triple integrals"
+        ]
+      },
+      {
+        "chapter": "Vector Calculus",
+        "topics": [
+          "Vector differentiation",
+          "Gradient, curl and divergence",
+          "Line integrals",
+          "Surface integrals",
+          "Volume integrals"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Engineering Physics",
+    "year": 1,
+    "semester": 1,
+    "chapters": [
+      {
+        "chapter": "Relativistic Mechanics",
+        "topics": [
+          "Frame of reference",
+          "Lorentz transformation",
+          "Time dilation",
+          "Length contraction",
+          "Mass-energy relation"
+        ]
+      },
+      {
+        "chapter": "Quantum Mechanics",
+        "topics": [
+          "Wave-particle duality",
+          "De Broglie hypothesis",
+          "Uncertainty principle",
+          "Schrodinger equation",
+          "Particle in a box"
+        ]
+      },
+      {
+        "chapter": "Electromagnetic Theory",
+        "topics": [
+          "Maxwell's equations",
+          "Electromagnetic waves",
+          "Poynting vector",
+          "Wave propagation",
+          "Skin depth"
+        ]
+      },
+      {
+        "chapter": "Fiber Optics & Laser",
+        "topics": [
+          "Total internal reflection",
+          "Numerical aperture",
+          "Step index fiber",
+          "Einstein coefficients",
+          "He-Ne laser"
+        ]
+      },
+      {
+        "chapter": "Solid State Physics",
+        "topics": [
+          "Crystal structure",
+          "Miller indices",
+          "X-ray diffraction",
+          "Bragg's law",
+          "Semiconductors"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Basic Electrical Engineering",
+    "year": 1,
+    "semester": 1,
+    "chapters": [
+      {
+        "chapter": "DC Circuits",
+        "topics": [
+          "Ohm's law",
+          "Kirchhoff's laws",
+          "Mesh analysis",
+          "Nodal analysis",
+          "Circuit theorems"
+        ]
+      },
+      {
+        "chapter": "AC Circuits",
+        "topics": [
+          "Single-phase circuits",
+          "Phasor analysis",
+          "Complex power",
+          "Series resonance",
+          "Parallel resonance"
+        ]
+      },
+      {
+        "chapter": "Transformers",
+        "topics": [
+          "Single-phase transformer",
+          "Efficiency calculation",
+          "Voltage regulation",
+          "Auto-transformer",
+          "Three-phase transformer"
+        ]
+      },
+      {
+        "chapter": "Electrical Machines",
+        "topics": [
+          "DC generator",
+          "DC motor",
+          "Induction motor",
+          "Synchronous motor",
+          "Stepper motor"
+        ]
+      },
+      {
+        "chapter": "Power Systems",
+        "topics": [
+          "Generation of power",
+          "Transmission of power",
+          "Distribution of power",
+          "Switchgear components",
+          "Circuit breakers"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Programming for Problem Solving",
+    "year": 1,
+    "semester": 2,
+    "chapters": [
+      {
+        "chapter": "Introduction to Computers",
+        "topics": [
+          "Binary number system",
+          "Boolean logic",
+          "Computer architecture",
+          "Input/Output devices",
+          "Storage devices"
+        ]
+      },
+      {
+        "chapter": "Basics of C Programming",
+        "topics": [
+          "Data types",
+          "Variables and constants",
+          "Control structures",
+          "If-else statements",
+          "Loops in C"
+        ]
+      },
+      {
+        "chapter": "Arrays & Functions",
+        "topics": [
+          "1D arrays",
+          "2D arrays",
+          "Function prototypes",
+          "Recursion",
+          "Function calls"
+        ]
+      },
+      {
+        "chapter": "Pointers",
+        "topics": [
+          "Pointer basics",
+          "Address of operator",
+          "Pointer arithmetic",
+          "Dynamic memory",
+          "Call by reference"
+        ]
+      },
+      {
+        "chapter": "Strings & Structures",
+        "topics": [
+          "String handling",
+          "Struct keyword",
+          "Nested structures",
+          "Union basics",
+          "Typedef in C"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Engineering Graphics",
+    "year": 1,
+    "semester": 2,
+    "chapters": [
+      {
+        "chapter": "Introduction to Drawing",
+        "topics": [
+          "Lettering",
+          "Dimensioning",
+          "Scales",
+          "Conic sections",
+          "Cycloidal curves"
+        ]
+      },
+      {
+        "chapter": "Orthographic Projections",
+        "topics": [
+          "Projection of points",
+          "Projection of lines",
+          "Projection of planes",
+          "Horizontal trace",
+          "Vertical trace"
+        ]
+      },
+      {
+        "chapter": "Projection of Solids",
+        "topics": [
+          "Right regular solids",
+          "Sectional views",
+          "True shape of section",
+          "Projection of cones",
+          "Projection of cylinders"
+        ]
+      },
+      {
+        "chapter": "Development of Surfaces",
+        "topics": [
+          "Radial line method",
+          "Parallel line method",
+          "Development of truncated solids",
+          "Sheet metal drawing",
+          "Layout diagrams"
+        ]
+      },
+      {
+        "chapter": "Isometric Projections",
+        "topics": [
+          "Isometric scale",
+          "Isometric drawing of spheres",
+          "Isometric drawing of prisms",
+          "AutoCAD introduction",
+          "2D drafting basics"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Engineering Mechanics",
+    "year": 2,
+    "semester": 3,
+    "chapters": [
+      {
+        "chapter": "System of Forces",
+        "topics": [
+          "Composition of forces",
+          "Free body diagrams",
+          "Lami theorem",
+          "Varignon theorem",
+          "Moment of force"
+        ]
+      },
+      {
+        "chapter": "Equilibrium of Rigid Bodies",
+        "topics": [
+          "Equations of equilibrium",
+          "Support conditions",
+          "Beam analysis",
+          "Friction basics",
+          "Laws of friction"
+        ]
+      },
+      {
+        "chapter": "Centroid and Inertia",
+        "topics": [
+          "Moment of inertia",
+          "Parallel axis theorem",
+          "Perpendicular axis theorem",
+          "Product of inertia",
+          "Centroid of areas"
+        ]
+      },
+      {
+        "chapter": "Kinetics of Particles",
+        "topics": [
+          "Newton's laws",
+          "Work-energy principle",
+          "Impulse and momentum",
+          "Impact of bodies",
+          "Collision physics"
+        ]
+      },
+      {
+        "chapter": "Kinetics of Rigid Bodies",
+        "topics": [
+          "Rotation of rigid bodies",
+          "Angular momentum",
+          "Kinetic energy in rotation",
+          "Plain motion analysis",
+          "Instantaneous center"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Surveying & Geomatics",
+    "year": 2,
+    "semester": 3,
+    "chapters": [
+      {
+        "chapter": "Introduction to Surveying",
+        "topics": [
+          "Classification of surveying",
+          "Scales and errors",
+          "Chain surveying",
+          "Compass surveying",
+          "Bearing systems"
+        ]
+      },
+      {
+        "chapter": "Leveling & Contouring",
+        "topics": [
+          "Methods of leveling",
+          "Height of instrument",
+          "Rise and fall method",
+          "Contour maps",
+          "Characteristics of contours"
+        ]
+      },
+      {
+        "chapter": "Theodolite Surveying",
+        "topics": [
+          "Transit theodolite",
+          "Measurement of angles",
+          "Trigonometrical leveling",
+          "Traversing methods",
+          "Closing errors"
+        ]
+      },
+      {
+        "chapter": "Modern Surveying Methods",
+        "topics": [
+          "Total station",
+          "GPS mapping",
+          "GIS introduction",
+          "Remote sensing",
+          "Aerial photography"
+        ]
+      },
+      {
+        "chapter": "Curve Surveying",
+        "topics": [
+          "Simple curves",
+          "Compound curves",
+          "Transition curves",
+          "Vertical curves",
+          "Setting out curves"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Engineering Geology",
+    "year": 2,
+    "semester": 3,
+    "chapters": [
+      {
+        "chapter": "Physical Geology",
+        "topics": [
+          "Geological cycle",
+          "Plate tectonics",
+          "Weathering and erosion",
+          "Formation of soils",
+          "River hydrology"
+        ]
+      },
+      {
+        "chapter": "Mineralogy & Petrology",
+        "topics": [
+          "Physical properties of minerals",
+          "Igneous rocks",
+          "Sedimentary rocks",
+          "Metamorphic rocks",
+          "Rock cycle"
+        ]
+      },
+      {
+        "chapter": "Structural Geology",
+        "topics": [
+          "Folds and faults",
+          "Joints and unconformities",
+          "Dip and strike",
+          "Geological mapping",
+          "Seismology basics"
+        ]
+      },
+      {
+        "chapter": "Geological Investigations",
+        "topics": [
+          "Dams and tunnels",
+          "Bridges and skyscrapers",
+          "Landslide mitigation",
+          "Groundwater flow",
+          "Aquifers and wells"
+        ]
+      },
+      {
+        "chapter": "Engineering Applications",
+        "topics": [
+          "Rock mechanics",
+          "Core logging",
+          "Soil investigation",
+          "Foundation analysis",
+          "Site selection"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Building Materials",
+    "year": 2,
+    "semester": 4,
+    "chapters": [
+      {
+        "chapter": "Stones & Bricks",
+        "topics": [
+          "Rock classification",
+          "Quarrying stones",
+          "Manufacturing bricks",
+          "Brick testing",
+          "Fly ash bricks"
+        ]
+      },
+      {
+        "chapter": "Cement & Concrete",
+        "topics": [
+          "OPC cement",
+          "Aggregates",
+          "W/C ratio",
+          "Workability testing",
+          "Durability of concrete"
+        ]
+      },
+      {
+        "chapter": "Timber & Steel",
+        "topics": [
+          "Seasoning of timber",
+          "Plywood and veneers",
+          "Mild steel",
+          "TMT bars",
+          "Structural steel"
+        ]
+      },
+      {
+        "chapter": "Glass & Ceramics",
+        "topics": [
+          "Float glass",
+          "Ductile ceramics",
+          "Glazing materials",
+          "Paints and varnishes",
+          "Asphalt and bitumen"
+        ]
+      },
+      {
+        "chapter": "Smart Materials",
+        "topics": [
+          "Nanomaterials",
+          "Piezoelectric crystals",
+          "Shape memory alloys",
+          "Carbon fiber",
+          "Recycled materials"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Fluid Mechanics",
+    "year": 2,
+    "semester": 4,
+    "chapters": [
+      {
+        "chapter": "Fluid Properties",
+        "topics": [
+          "Viscosity analysis",
+          "Capillarity",
+          "Pressure measurement",
+          "Manometers",
+          "Forces on submerged planes"
+        ]
+      },
+      {
+        "chapter": "Fluid Kinematics",
+        "topics": [
+          "Flow visualization",
+          "Streamlines",
+          "Continuity equation",
+          "Vorticity",
+          "Potential flow"
+        ]
+      },
+      {
+        "chapter": "Fluid Dynamics",
+        "topics": [
+          "Euler equations",
+          "Bernoulli principle",
+          "Orificemeter",
+          "V-notch flow",
+          "Venturimeter design"
+        ]
+      },
+      {
+        "chapter": "Closed Conduit Flow",
+        "topics": [
+          "Head losses",
+          "Darcy equation",
+          "Hydraulic gradient",
+          "Equivalent pipes",
+          "Water hammer effect"
+        ]
+      },
+      {
+        "chapter": "Open Channel Flow",
+        "topics": [
+          "Chezy equation",
+          "Manning equation",
+          "Hydraulic jump",
+          "Specific energy",
+          "GVF profiles"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Solid Mechanics",
+    "year": 2,
+    "semester": 4,
+    "chapters": [
+      {
+        "chapter": "Stress & Strain Analysis",
+        "topics": [
+          "Hooke's law",
+          "Thermal stress",
+          "Compound bars",
+          "Poisson ratio",
+          "Bulk modulus"
+        ]
+      },
+      {
+        "chapter": "Bending & Shear",
+        "topics": [
+          "SFD & BMD",
+          "Bending formula",
+          "Section modulus",
+          "Shear flow",
+          "Principal planes"
+        ]
+      },
+      {
+        "chapter": "Torsion & Columns",
+        "topics": [
+          "Shaft design",
+          "Euler's theory",
+          "Rankine formula",
+          "Slenderness ratio",
+          "Effective length"
+        ]
+      },
+      {
+        "chapter": "Deflection of Beams",
+        "topics": [
+          "Integration method",
+          "Moment-area theorem",
+          "Conjugate beam",
+          "Strain energy",
+          "Castigliano theorem"
+        ]
+      },
+      {
+        "chapter": "Thin & Thick Cylinders",
+        "topics": [
+          "Hoop stress",
+          "Longitudinal stress",
+          "Lame equation",
+          "Spherical shells",
+          "Internal pressure"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Structural Analysis",
+    "year": 3,
+    "semester": 5,
+    "chapters": [
+      {
+        "chapter": "Displacement Method",
+        "topics": [
+          "Slope deflection",
+          "Moment distribution",
+          "Kani's method",
+          "Stiffness matrix",
+          "Redundant frames"
+        ]
+      },
+      {
+        "chapter": "Indeterminate Structures",
+        "topics": [
+          "Energy theorems",
+          "Three hinge arches",
+          "Two hinge arches",
+          "Fixed beams",
+          "Continuous beams"
+        ]
+      },
+      {
+        "chapter": "Influence Lines",
+        "topics": [
+          "Muller Breslau",
+          "Rolling loads",
+          "Bridge analysis",
+          "Gantry girders",
+          "Statical indeterminacy"
+        ]
+      },
+      {
+        "chapter": "Matrix Methods",
+        "topics": [
+          "Flexibility matrix",
+          "Element stiffness",
+          "Global stiffness",
+          "Finite element intro",
+          "Shape functions"
+        ]
+      },
+      {
+        "chapter": "Plastic Analysis",
+        "topics": [
+          "Plastic hinge",
+          "Shape factor",
+          "Collapse load",
+          "Mechanism method",
+          "Plastic modulus"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Concrete Technology",
+    "year": 3,
+    "semester": 5,
+    "chapters": [
+      {
+        "chapter": "Concrete Mix Design",
+        "topics": [
+          "IS codes for mix",
+          "Trial mixes",
+          "Statistical quality",
+          "Fiber concrete",
+          "High strength concrete"
+        ]
+      },
+      {
+        "chapter": "Fresh & Hardened Concrete",
+        "topics": [
+          "Slump test",
+          "Compaction factor",
+          "Creep and shrinkage",
+          "Modulus of elasticity",
+          "Split tensile strength"
+        ]
+      },
+      {
+        "chapter": "Admixtures",
+        "topics": [
+          "Plasticizers",
+          "Retarders",
+          "Accelerators",
+          "Fly ash usage",
+          "Silica fume"
+        ]
+      },
+      {
+        "chapter": "Special Concretes",
+        "topics": [
+          "Under-water concrete",
+          "Self-compacting",
+          "Polymer concrete",
+          "Ready mix concrete",
+          "Pre-cast concrete"
+        ]
+      },
+      {
+        "chapter": "Non-Destructive Testing",
+        "topics": [
+          "Rebound hammer",
+          "Pulse velocity",
+          "Pull-out test",
+          "Core sampling",
+          "Maturity method"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Geotechnical Engineering",
+    "year": 3,
+    "semester": 6,
+    "chapters": [
+      {
+        "chapter": "Soil Classification",
+        "topics": [
+          "Index properties",
+          "Grain size analysis",
+          "Atterberg limits",
+          "Soil consistency",
+          "Unified system"
+        ]
+      },
+      {
+        "chapter": "Permeability & Seepage",
+        "topics": [
+          "Darcy's law soil",
+          "Phreatic line",
+          "Flow nets",
+          "Quicksand condition",
+          "Critical gradient"
+        ]
+      },
+      {
+        "chapter": "Compaction & Consolidation",
+        "topics": [
+          "Proctor test",
+          "OMC and dry density",
+          "Spring analogy",
+          "Compression index",
+          "Time factor"
+        ]
+      },
+      {
+        "chapter": "Shear Strength",
+        "topics": [
+          "Mohr-Coulomb soil",
+          "Direct shear test",
+          "Triaxial test",
+          "Vane shear test",
+          "Pore water pressure"
+        ]
+      },
+      {
+        "chapter": "Foundation Design",
+        "topics": [
+          "Bearing capacity",
+          "Terzaghi's theory",
+          "Shallow foundations",
+          "Deep foundations",
+          "Pile load test"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Hydrology & Water Resources",
+    "year": 3,
+    "semester": 6,
+    "chapters": [
+      {
+        "chapter": "Precipitation",
+        "topics": [
+          "Raingauge networks",
+          "Thiessen polygon",
+          "Isohyetal method",
+          "Evapotranspiration",
+          "Infiltration indices"
+        ]
+      },
+      {
+        "chapter": "Runoff & Hydrograph",
+        "topics": [
+          "Unit hydrograph",
+          "S-curve method",
+          "Floods routing",
+          "Rational formula",
+          "Base flow"
+        ]
+      },
+      {
+        "chapter": "Groundwater Hydrology",
+        "topics": [
+          "Specific yield",
+          "Dupuit equations",
+          "Well hydraulics",
+          "Recharge methods",
+          "Saltwater intrusion"
+        ]
+      },
+      {
+        "chapter": "Irrigation Engineering",
+        "topics": [
+          "Duty and delta",
+          "Crop water needs",
+          "Canal design",
+          "Lacey's theory",
+          "Kennedy's theory"
+        ]
+      },
+      {
+        "chapter": "Hydraulic Structures",
+        "topics": [
+          "Gravity dams",
+          "Earth dams",
+          "Spillways design",
+          "Diversion headworks",
+          "Energy dissipators"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Environmental Engineering",
+    "year": 4,
+    "semester": 7,
+    "chapters": [
+      {
+        "chapter": "Water Supply",
+        "topics": [
+          "Population forecasting",
+          "Water quality standards",
+          "Coagulation",
+          "Sandeep filtration",
+          "Disinfection"
+        ]
+      },
+      {
+        "chapter": "Wastewater Treatment",
+        "topics": [
+          "BOD and COD",
+          "Activated sludge",
+          "Septic tanks",
+          "Trickling filters",
+          "Oxidation ponds"
+        ]
+      },
+      {
+        "chapter": "Air Pollution",
+        "topics": [
+          "Pollutant types",
+          "Control devices",
+          "Gaussian model",
+          "Global warming",
+          "Noise pollution"
+        ]
+      },
+      {
+        "chapter": "Solid Waste Management",
+        "topics": [
+          "Collection methods",
+          "Landfill design",
+          "Incineration",
+          "Composting",
+          "E-waste basics"
+        ]
+      },
+      {
+        "chapter": "Sewerage Systems",
+        "topics": [
+          "Sewer hydraulics",
+          "Manhole types",
+          "Pumping stations",
+          "House plumbing",
+          "Rural sanitation"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Transportation Engineering",
+    "year": 4,
+    "semester": 7,
+    "chapters": [
+      {
+        "chapter": "Highway Design",
+        "topics": [
+          "Road alignment",
+          "Geometric design",
+          "Sight distances",
+          "Super elevation",
+          "Emberton design"
+        ]
+      },
+      {
+        "chapter": "Pavement Materials",
+        "topics": [
+          "Bituminous mixes",
+          "Aggregate testing",
+          "CBR test",
+          "Flexible pavement",
+          "Rigid pavement"
+        ]
+      },
+      {
+        "chapter": "Traffic Engineering",
+        "topics": [
+          "Volume studies",
+          "Speed studies",
+          "Signal design",
+          "Intersections",
+          "Parking logic"
+        ]
+      },
+      {
+        "chapter": "Railway Engineering",
+        "topics": [
+          "Track components",
+          "Gradients and curves",
+          "Points and crossings",
+          "Signaling",
+          "Bridge engineering"
+        ]
+      },
+      {
+        "chapter": "Airport & Docks",
+        "topics": [
+          "Runway orientation",
+          "Navigational aids",
+          "Harbor layout",
+          "Dredging",
+          "Tidal analysis"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Estimation & Costing",
+    "year": 4,
+    "semester": 8,
+    "chapters": [
+      {
+        "chapter": "Valuation",
+        "topics": [
+          "Depreciation",
+          "Sinking fund",
+          "Rental value",
+          "Life of building",
+          "Obsolescence"
+        ]
+      },
+      {
+        "chapter": "Rate Analysis",
+        "topics": [
+          "Labor output",
+          "Material cost",
+          "Contractor profit",
+          "Earthwork rates",
+          "Concrete rates"
+        ]
+      },
+      {
+        "chapter": "Specifications",
+        "topics": [
+          "General specs",
+          "Detailed specs",
+          "CPA standards",
+          "Tender documents",
+          "Negotiations"
+        ]
+      },
+      {
+        "chapter": "Quantity Estimation",
+        "topics": [
+          "Center line method",
+          "Long wall method",
+          "Deductions",
+          "Steel calculation",
+          "Sanitary works"
+        ]
+      },
+      {
+        "chapter": "Construction Management",
+        "topics": [
+          "Site organization",
+          "Safety manuals",
+          "Resource leveling",
+          "Quality control",
+          "ERP software"
+        ]
+      }
+    ]
+  }
+]

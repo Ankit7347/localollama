@@ -1,0 +1,1028 @@
+[
+  {
+    "subject": "Mathematics I",
+    "year": 1,
+    "semester": 1,
+    "chapters": [
+      {
+        "chapter": "Matrix Operations",
+        "topics": [
+          "Rank calculation",
+          "Eigen decomposition",
+          "Quadratic forms",
+          "Symmetric matrices",
+          "Orthogonal transformations"
+        ]
+      },
+      {
+        "chapter": "Differential Calculus",
+        "topics": [
+          "Partial derivatives",
+          "Taylor series",
+          "Chain rule",
+          "Implicit functions",
+          "Extremum calculation"
+        ]
+      },
+      {
+        "chapter": "Integral Calculus",
+        "topics": [
+          "Arc length",
+          "Surface area",
+          "Multiple integrals",
+          "Coordinate transformation",
+          "Improper integrals"
+        ]
+      },
+      {
+        "chapter": "Differential Equations",
+        "topics": [
+          "First order ODE",
+          "Homogeneous equations",
+          "Bernoulli equation",
+          "Exact equations",
+          "Integrating factors"
+        ]
+      },
+      {
+        "chapter": "Vector Calculus",
+        "topics": [
+          "Directional derivative",
+          "Solenoidal fields",
+          "Irrotational fields",
+          "Green's theorem",
+          "Stoke's theorem"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Engineering Physics",
+    "year": 1,
+    "semester": 1,
+    "chapters": [
+      {
+        "chapter": "Optics",
+        "topics": [
+          "Interference",
+          "Thin films",
+          "Diffraction",
+          "Polarization",
+          "Birefringence"
+        ]
+      },
+      {
+        "chapter": "Fiber Optics",
+        "topics": [
+          "Cladding design",
+          "Modes of fiber",
+          "Signal attenuation",
+          "Dispersion",
+          "Fiber sensors"
+        ]
+      },
+      {
+        "chapter": "Quantum Mechanics",
+        "topics": [
+          "Photoelectric effect",
+          "Heisenberg principle",
+          "Wave function",
+          "Infinite well",
+          "Quantum tunneling"
+        ]
+      },
+      {
+        "chapter": "Laser Technology",
+        "topics": [
+          "Population inversion",
+          "Cavity resonance",
+          "Gas lasers",
+          "Dye lasers",
+          "Medical applications"
+        ]
+      },
+      {
+        "chapter": "Relativity",
+        "topics": [
+          "Galilean relativity",
+          "Michelson-Morley",
+          "Length contraction",
+          "Simultaneity",
+          "Twin paradox"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Basic Electrical Engineering",
+    "year": 1,
+    "semester": 1,
+    "chapters": [
+      {
+        "chapter": "Circuit Basics",
+        "topics": [
+          "Voltage sources",
+          "Current sources",
+          "Resistance networks",
+          "Power balance",
+          "Source transformation"
+        ]
+      },
+      {
+        "chapter": "Network Analysis",
+        "topics": [
+          "Nodal equations",
+          "Superposition theorem",
+          "Millman's theorem",
+          "Tellegen's theorem",
+          "Graph theory basics"
+        ]
+      },
+      {
+        "chapter": "Transformers",
+        "topics": [
+          "Transformer core",
+          "Turn Ratio",
+          "Losses in ferrite",
+          "Eddy currents",
+          "Transformer testing"
+        ]
+      },
+      {
+        "chapter": "Electrical Machines",
+        "topics": [
+          "Faraday's induction",
+          "Lorentz force",
+          "Alternators",
+          "Universal motors",
+          "Torque-speed curves"
+        ]
+      },
+      {
+        "chapter": "Power Engineering",
+        "topics": [
+          "Power factor",
+          "Reactive compensation",
+          "Grid stability",
+          "Fuses and Relays",
+          "Earthing safety"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Programming for Problem Solving",
+    "year": 1,
+    "semester": 2,
+    "chapters": [
+      {
+        "chapter": "History of Computers",
+        "topics": [
+          "Eniac and Univac",
+          "Microprocessor evolution",
+          "Operating systems",
+          "Assembly language",
+          "Compiler architecture"
+        ]
+      },
+      {
+        "chapter": "C Flow Control",
+        "topics": [
+          "Boolean expressions",
+          "Nested selection",
+          "Case statements",
+          "Loop optimization",
+          "Jump statements"
+        ]
+      },
+      {
+        "chapter": "Data Structures in C",
+        "topics": [
+          "Array indexing",
+          "Multi-level pointers",
+          "Malloc/Free",
+          "Linked list intro",
+          "Stack/Queue basics"
+        ]
+      },
+      {
+        "chapter": "File I/O",
+        "topics": [
+          "Stream handles",
+          "Fread/Fwrite",
+          "Standard input/output",
+          "Buffering logic",
+          "Serialization"
+        ]
+      },
+      {
+        "chapter": "Software Engineering",
+        "topics": [
+          "SDLC models",
+          "Code modularity",
+          "Documentation",
+          "Debugger tools",
+          "Version control"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Engineering Graphics",
+    "year": 1,
+    "semester": 2,
+    "chapters": [
+      {
+        "chapter": "Basics",
+        "topics": [
+          "Paper sizes",
+          "Line types",
+          "Scaling ratios",
+          "Geometry rules",
+          "Orthographic rules"
+        ]
+      },
+      {
+        "chapter": "Projection of Solids",
+        "topics": [
+          "Pentagonal prisms",
+          "Hexagonal pyramids",
+          "Frustum solids",
+          "Truncated cones",
+          "Composite solids"
+        ]
+      },
+      {
+        "chapter": "Surface Development",
+        "topics": [
+          "Net diagrams",
+          "Cylinder mapping",
+          "Cone development",
+          "Sphere surface",
+          "Triangulation"
+        ]
+      },
+      {
+        "chapter": "Isometric Drafting",
+        "topics": [
+          "3D perspective",
+          "Isometric planes",
+          "Drawing from top",
+          "Drawing from side",
+          "Isometric spheres"
+        ]
+      },
+      {
+        "chapter": "CAD Software",
+        "topics": [
+          "Coordinate systems",
+          "Object snaps",
+          "Layer management",
+          "Printing layouts",
+          "Block creation"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Electronic Devices & Circuits",
+    "year": 2,
+    "semester": 3,
+    "chapters": [
+      {
+        "chapter": "Semiconductor Theory",
+        "topics": [
+          "Energy bands",
+          "Charge carriers",
+          "Drift and Diffusion",
+          "Hall effect",
+          "Recombination"
+        ]
+      },
+      {
+        "chapter": "P-N Junctions",
+        "topics": [
+          "Depletion region",
+          "Biasing modes",
+          "Diode capacitance",
+          "Zener breakdown",
+          "Schottky diode"
+        ]
+      },
+      {
+        "chapter": "Transistors",
+        "topics": [
+          "BJT physics",
+          "Input/Output curves",
+          "Transistor biasing",
+          "Field effect basics",
+          "MOSFET structure"
+        ]
+      },
+      {
+        "chapter": "Circuit Applications",
+        "topics": [
+          "Rectifier efficiency",
+          "Filter circuits",
+          "Voltage clippers",
+          "Clamping circuits",
+          "Regulated power"
+        ]
+      },
+      {
+        "chapter": "Optoelectronic",
+        "topics": [
+          "Photodiodes",
+          "Light emitted diodes",
+          "Solar cell physics",
+          "Optical couplers",
+          "Laser chips"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Network Analysis & Synthesis",
+    "year": 2,
+    "semester": 3,
+    "chapters": [
+      {
+        "chapter": "Signal Types",
+        "topics": [
+          "Step and Impulse",
+          "Ramp functions",
+          "Harmonic signals",
+          "Linear systems",
+          "Time invariance"
+        ]
+      },
+      {
+        "chapter": "Transients",
+        "topics": [
+          "RL circuits",
+          "RC circuits",
+          "RLC transient",
+          "Differential models",
+          "Initial conditions"
+        ]
+      },
+      {
+        "chapter": "Laplace Domain",
+        "topics": [
+          "s-plane analysis",
+          "Transfer functions",
+          "Stability testing",
+          "Partial fractions",
+          "Convolution integral"
+        ]
+      },
+      {
+        "chapter": "Synthesis",
+        "topics": [
+          "Positive realness",
+          "Foster realization",
+          "Cauer realization",
+          "Ladder networks",
+          "Synthesis of LC"
+        ]
+      },
+      {
+        "chapter": "Filters",
+        "topics": [
+          "Low pass design",
+          "High pass design",
+          "Band pass filters",
+          "Butterworth curves",
+          "Chebyshev response"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Digital System Design",
+    "year": 2,
+    "semester": 3,
+    "chapters": [
+      {
+        "chapter": "Number Systems",
+        "topics": [
+          "Binary logic",
+          "Hexadecimal system",
+          "Floating point code",
+          "Error codes",
+          "Parity generation"
+        ]
+      },
+      {
+        "chapter": "Combinational Logic",
+        "topics": [
+          "Karnaugh maps",
+          "Quine-McCluskey",
+          "Multipliers",
+          "Encoders/Decoders",
+          "Data selectors"
+        ]
+      },
+      {
+        "chapter": "Sequential Logic",
+        "topics": [
+          "Edge triggers",
+          "Flip-flop master slave",
+          "Register design",
+          "Shift buffers",
+          "Counters synchronous"
+        ]
+      },
+      {
+        "chapter": "State Machines",
+        "topics": [
+          "Mealy model",
+          "Moore model",
+          "State minimization",
+          "State assignment",
+          "Hazards in logic"
+        ]
+      },
+      {
+        "chapter": "Hardware Languages",
+        "topics": [
+          "VHDL basics",
+          "Verilog modules",
+          "Simulation testbenches",
+          "FPGA internals",
+          "CPLD architecture"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Analog Circuits",
+    "year": 2,
+    "semester": 4,
+    "chapters": [
+      {
+        "chapter": "Amplifiers",
+        "topics": [
+          "Voltage gain",
+          "Current gain",
+          "Impedance matching",
+          "Cascade amplifiers",
+          "Differential gain"
+        ]
+      },
+      {
+        "chapter": "Op-Amp Theory",
+        "topics": [
+          "Ideal operational amp",
+          "CMRR and Slew rate",
+          "Virtual ground",
+          "Inverting amp",
+          "Non-inverting amp"
+        ]
+      },
+      {
+        "chapter": "Feedback",
+        "topics": [
+          "Negative feedback",
+          "Positive feedback",
+          "Feedback topologies",
+          "Phase margin",
+          "Loop stability"
+        ]
+      },
+      {
+        "chapter": "Oscillators",
+        "topics": [
+          "Barkhausen criteria",
+          "Phase shift oscillator",
+          "Colpitts design",
+          "Hartley design",
+          "Crystal stability"
+        ]
+      },
+      {
+        "chapter": "Power Stages",
+        "topics": [
+          "Class A stage",
+          "Class B push pull",
+          "Class C efficiency",
+          "Heat sinking",
+          "THD analysis"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Signals & Systems",
+    "year": 2,
+    "semester": 4,
+    "chapters": [
+      {
+        "chapter": "Concepts",
+        "topics": [
+          "Energy and Power",
+          "Causal systems",
+          "Linearity tests",
+          "Time scaling",
+          "Periodic signals"
+        ]
+      },
+      {
+        "chapter": "Fourier Series",
+        "topics": [
+          "Trigonometric series",
+          "Exponential series",
+          "Spectral plots",
+          "Gibbs vibration",
+          "Harmonic synthesis"
+        ]
+      },
+      {
+        "chapter": "Fourier Transform",
+        "topics": [
+          "Inverse transform",
+          "Sampling theorem",
+          "Aliasing effect",
+          "Amplitude spectrum",
+          "Phase spectrum"
+        ]
+      },
+      {
+        "chapter": "Z-Transform",
+        "topics": [
+          "Region of convergence",
+          "Causality in Z",
+          "Inverse Z techniques",
+          "Digital transfer",
+          "System response"
+        ]
+      },
+      {
+        "chapter": "Processing",
+        "topics": [
+          "DFT definition",
+          "FFT algorithm",
+          "Digital filters",
+          "Windowing method",
+          "Convolution Sum"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Principles of Communication",
+    "year": 2,
+    "semester": 4,
+    "chapters": [
+      {
+        "chapter": "Analog Modulation",
+        "topics": [
+          "Amplitude modulation",
+          "Frequency modulation",
+          "Phase modulation",
+          "Sideband filters",
+          "Modulation index"
+        ]
+      },
+      {
+        "chapter": "Superheterodyne",
+        "topics": [
+          "RF mixer",
+          "IF frequency",
+          "Image rejection",
+          "Local oscillator",
+          "AGC control"
+        ]
+      },
+      {
+        "chapter": "Noise",
+        "topics": [
+          "Thermal noise",
+          "Shot noise",
+          "Signal-to-noise ratio",
+          "Noise figure",
+          "Averaging techniques"
+        ]
+      },
+      {
+        "chapter": "Multiplexing",
+        "topics": [
+          "FDM architecture",
+          "TDM architecture",
+          "Guard bands",
+          "Crosstalk issues",
+          "Switching fabrics"
+        ]
+      },
+      {
+        "chapter": "Transmitters",
+        "topics": [
+          "Antenna impedance",
+          "Standing waves",
+          "Power amplifiers",
+          "Transmission lines",
+          "Balun circuits"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Microprocessors & Microcontrollers",
+    "year": 3,
+    "semester": 5,
+    "chapters": [
+      {
+        "chapter": "8085 Architecture",
+        "topics": [
+          "Register set",
+          "ALU flags",
+          "Bus interface",
+          "Instruction cycles",
+          "Interrupt handle"
+        ]
+      },
+      {
+        "chapter": "8086 Logic",
+        "topics": [
+          "Segmentation",
+          "Pipeline logic",
+          "Encoding formats",
+          "Memory banks",
+          "Multiprocessing"
+        ]
+      },
+      {
+        "chapter": "8051 Embedded",
+        "topics": [
+          "Special function registers",
+          "Timer modes",
+          "Serial buffer",
+          "Port hardware",
+          "Embedded C"
+        ]
+      },
+      {
+        "chapter": "Interface",
+        "topics": [
+          "8255 PPI",
+          "Keyboard matrix",
+          "LCD controller",
+          "ADC/DAC chips",
+          "DMA logic"
+        ]
+      },
+      {
+        "chapter": "ARM Architecture",
+        "topics": [
+          "RISC vs CISC",
+          "Fast interrupts",
+          "Thumb mode",
+          "Register banks",
+          "Processor states"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Electromagnetic Field Theory",
+    "year": 3,
+    "semester": 5,
+    "chapters": [
+      {
+        "chapter": "Electrostatics",
+        "topics": [
+          "Coulomb law",
+          "Electric flux",
+          "Gauss integral",
+          "Potential map",
+          "Poisson equation"
+        ]
+      },
+      {
+        "chapter": "Magnetostatics",
+        "topics": [
+          "Biot savart",
+          "Ampere law",
+          "Magnetic torque",
+          "Vector potential",
+          "Boundary laws"
+        ]
+      },
+      {
+        "chapter": "Maxwell Laws",
+        "topics": [
+          "Current density",
+          "Faraday induction",
+          "Maxwell correction",
+          "Wave equations",
+          "Helmholtz rule"
+        ]
+      },
+      {
+        "chapter": "Propagation",
+        "topics": [
+          "Lossy media",
+          "Lossless media",
+          "Reflection laws",
+          "Refraction angle",
+          "Poynting flow"
+        ]
+      },
+      {
+        "chapter": "Waveguides",
+        "topics": [
+          "TEM modes",
+          "TM/TE modes",
+          "Cutoff frequency",
+          "Dispersion curves",
+          "Cavity tuning"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Digital Communication",
+    "year": 3,
+    "semester": 6,
+    "chapters": [
+      {
+        "chapter": "Pulse Modulation",
+        "topics": [
+          "Pulse code modulation",
+          "Delta modulation",
+          "Adaptive delta",
+          "Quantization noise",
+          "Companding logic"
+        ]
+      },
+      {
+        "chapter": "Coding",
+        "topics": [
+          "Entropy coding",
+          "Huffman algorithm",
+          "Channel capacity",
+          "Shannon limit",
+          "Parity bits"
+        ]
+      },
+      {
+        "chapter": "Modulation",
+        "topics": [
+          "BPSK modulation",
+          "QPSK modulation",
+          "QAM techniques",
+          "Constellation map",
+          "Bit error rate"
+        ]
+      },
+      {
+        "chapter": "Synchronization",
+        "topics": [
+          "Carrier recovery",
+          "PLL circuits",
+          "Frame timing",
+          "Inter-symbol jitter",
+          "Eye patterns"
+        ]
+      },
+      {
+        "chapter": "Spread Spectrum",
+        "topics": [
+          "FHSS protocols",
+          "DSSS protocols",
+          "Code division access",
+          "Security layers",
+          "Jamming margin"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Control Systems",
+    "year": 3,
+    "semester": 6,
+    "chapters": [
+      {
+        "chapter": "Modeling",
+        "topics": [
+          "Open loop systems",
+          "Closed loop systems",
+          "Signal flow graphs",
+          "Mason's formula",
+          "Feedback gains"
+        ]
+      },
+      {
+        "chapter": "Time Analysis",
+        "topics": [
+          "Step response",
+          "Damping ratio",
+          "Settling time",
+          "Error constants",
+          "PID controllers"
+        ]
+      },
+      {
+        "chapter": "Stability",
+        "topics": [
+          "Routh Hurwitz",
+          "Root locus plots",
+          "Gain margin",
+          "Nyquist criteria",
+          "Bode plots"
+        ]
+      },
+      {
+        "chapter": "State Space",
+        "topics": [
+          "State variables",
+          "Canonical forms",
+          "Controllability",
+          "Observability",
+          "Eigen analysis"
+        ]
+      },
+      {
+        "chapter": "Digital Control",
+        "topics": [
+          "Sampling logic",
+          "Z-plane stability",
+          "Bilinear transform",
+          "Digital PID",
+          "System lag"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "VLSI Design",
+    "year": 4,
+    "semester": 7,
+    "chapters": [
+      {
+        "chapter": "MOS Physics",
+        "topics": [
+          "Threshold voltage",
+          "Saturation current",
+          "Body effect",
+          "FinFET basics",
+          "Scaling laws"
+        ]
+      },
+      {
+        "chapter": "Layout",
+        "topics": [
+          "Lambda rules",
+          "Polysilicon layer",
+          "Metal routing",
+          "Stick diagrams",
+          "DRC checks"
+        ]
+      },
+      {
+        "chapter": "Logic Gates",
+        "topics": [
+          "CMOS inverter",
+          "Power delay product",
+          "Pass transistors",
+          "Transmission gates",
+          "Dynamic logic"
+        ]
+      },
+      {
+        "chapter": "Memories",
+        "topics": [
+          "SRAM cells",
+          "DRAM architecture",
+          "Flash transistors",
+          "Sense amplifiers",
+          "Row decoders"
+        ]
+      },
+      {
+        "chapter": "Fabrication",
+        "topics": [
+          "Oxidation furnace",
+          "Lithography",
+          "Icon implantation",
+          "Chemical etching",
+          "Packaged chips"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Antenna & Wave Propagation",
+    "year": 4,
+    "semester": 7,
+    "chapters": [
+      {
+        "chapter": "Definitions",
+        "topics": [
+          "Directivity gain",
+          "Radiation patterns",
+          "Polarization loss",
+          "Effective aperture",
+          "Beam width"
+        ]
+      },
+      {
+        "chapter": "Dipole Antennas",
+        "topics": [
+          "Hertzian dipole",
+          "Monopole rods",
+          "Folded dipoles",
+          "Retarded potential",
+          "Radiation resistance"
+        ]
+      },
+      {
+        "chapter": "Arrays",
+        "topics": [
+          "Broadside array",
+          "Endfire array",
+          "Phased steering",
+          "Binomial arrays",
+          "Inter-element gap"
+        ]
+      },
+      {
+        "chapter": "HF/UHF Types",
+        "topics": [
+          "Yagi-Uda design",
+          "Log periodic",
+          "Horn reflectors",
+          "Parabolic dish",
+          "Microstrip patch"
+        ]
+      },
+      {
+        "chapter": "Propagation",
+        "topics": [
+          "Ground wave",
+          "Sky wave",
+          "Tropospheric scatter",
+          "Duct propagation",
+          "Line of sight"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Wireless Communication",
+    "year": 4,
+    "semester": 8,
+    "chapters": [
+      {
+        "chapter": "Cellular Logic",
+        "topics": [
+          "Frequency reuse",
+          "Handoff protocols",
+          "Cell splitting",
+          "Sectoring",
+          "System capacity"
+        ]
+      },
+      {
+        "chapter": "Fading",
+        "topics": [
+          "Rayleigh fading",
+          "Rician fading",
+          "Doppler spread",
+          "Multipath delay",
+          "Diversity techniques"
+        ]
+      },
+      {
+        "chapter": "Standards",
+        "topics": [
+          "GSM architecture",
+          "CDMA protocols",
+          "LTE 4G basics",
+          "5G technologies",
+          "WiFi standards"
+        ]
+      },
+      {
+        "chapter": "Networking",
+        "topics": [
+          "Mobile IP",
+          "Call routing",
+          "VLR/HLR logs",
+          "Authentication SC",
+          "Security keys"
+        ]
+      },
+      {
+        "chapter": "Emerging",
+        "topics": [
+          "IoT protocols",
+          "Zigbee mesh",
+          "Bluetooth energy",
+          "MIMO systems",
+          "Beamforming"
+        ]
+      }
+    ]
+  }
+]

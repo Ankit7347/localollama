@@ -1,0 +1,1028 @@
+[
+  {
+    "subject": "Mathematics I",
+    "year": 1,
+    "semester": 1,
+    "chapters": [
+      {
+        "chapter": "Matrix Algebra",
+        "topics": [
+          "Rank of a matrix",
+          "Elementary transformations",
+          "Consistency of linear system of equations",
+          "Eigen values and Eigen vectors",
+          "Cayley-Hamilton Theorem"
+        ]
+      },
+      {
+        "chapter": "Differential Calculus I",
+        "topics": [
+          "Successive differentiation",
+          "Leibnitz theorem",
+          "Partial differentiation",
+          "Euler’s theorem on homogeneous functions",
+          "Total differentiation"
+        ]
+      },
+      {
+        "chapter": "Differential Calculus II",
+        "topics": [
+          "Expansion of function",
+          "Taylor's and Maclaurin's series",
+          "Jacobians",
+          "Approximation of errors",
+          "Extrema of functions of several variables"
+        ]
+      },
+      {
+        "chapter": "Multivariable Calculus I",
+        "topics": [
+          "Multiple integrals",
+          "Change of order of integration",
+          "Change of variables",
+          "Beta and Gamma functions",
+          "Applications to area and volume"
+        ]
+      },
+      {
+        "chapter": "Vector Calculus",
+        "topics": [
+          "Vector differentiation",
+          "Gradient, Curl and Divergence",
+          "Vector integration",
+          "Gauss Divergence theorem",
+          "Stoke’s theorem"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Engineering Physics",
+    "year": 1,
+    "semester": 1,
+    "chapters": [
+      {
+        "chapter": "Relativistic Mechanics",
+        "topics": [
+          "Frame of reference",
+          "Michelson-Morley experiment",
+          "Lorentz transformations",
+          "Time dilation and Length contraction",
+          "Mass-energy equivalence"
+        ]
+      },
+      {
+        "chapter": "Electromagnetic Field Theory",
+        "topics": [
+          "Continuity equation",
+          "Maxwell’s equations",
+          "Poynting theorem",
+          "Plane electromagnetic waves",
+          "Skin depth"
+        ]
+      },
+      {
+        "chapter": "Quantum Mechanics",
+        "topics": [
+          "Black body radiation",
+          "Wave-particle duality",
+          "Schrodinger’s wave equation",
+          "Particle in a box",
+          "Compton effect"
+        ]
+      },
+      {
+        "chapter": "Wave Optics",
+        "topics": [
+          "Coherent sources",
+          "Interference in thin films",
+          "Fraunhofer diffraction",
+          "Resolving power",
+          "Polarized light"
+        ]
+      },
+      {
+        "chapter": "Fiber Optics & Laser",
+        "topics": [
+          "Acceptance angle",
+          "Numerical aperture",
+          "Einstein’s coefficients",
+          "Ruby laser",
+          "He-Ne laser"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Basic Electrical Engineering",
+    "year": 1,
+    "semester": 1,
+    "chapters": [
+      {
+        "chapter": "DC Circuits",
+        "topics": [
+          "Kirchhoff's laws",
+          "Mesh analysis",
+          "Nodal analysis",
+          "Thevenin's theorem",
+          "Norton's theorem"
+        ]
+      },
+      {
+        "chapter": "AC Circuits",
+        "topics": [
+          "Sinusoidal steady state analysis",
+          "Phasor diagrams",
+          "Power in AC circuits",
+          "Resonance",
+          "Three phase systems"
+        ]
+      },
+      {
+        "chapter": "Transformers",
+        "topics": [
+          "Ideal transformer",
+          "EMF equation",
+          "Equivalent circuit",
+          "Efficiency",
+          "Voltage regulation"
+        ]
+      },
+      {
+        "chapter": "Electrical Machines",
+        "topics": [
+          "DC motors",
+          "Three phase induction motors",
+          "Synchronous generators",
+          "Single phase induction motors",
+          "Applications"
+        ]
+      },
+      {
+        "chapter": "Electrical Installations",
+        "topics": [
+          "Components of LT switchgear",
+          "Wires and cables",
+          "Earthing",
+          "Battery characteristics",
+          "Safety measures"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Programming for Problem Solving",
+    "year": 1,
+    "semester": 2,
+    "chapters": [
+      {
+        "chapter": "Introduction to Programming",
+        "topics": [
+          "Computer components",
+          "Memory hierarchy",
+          "Compiler and Linker",
+          "Algorithms",
+          "Flowcharts"
+        ]
+      },
+      {
+        "chapter": "C Programming Basics",
+        "topics": [
+          "Data types",
+          "Operators",
+          "Expressions",
+          "Conditional branching",
+          "Iteration and loops"
+        ]
+      },
+      {
+        "chapter": "Functions & Arrays",
+        "topics": [
+          "Function declaration",
+          "Parameter passing",
+          "Recursion",
+          "One dimensional arrays",
+          "Multi-dimensional arrays"
+        ]
+      },
+      {
+        "chapter": "Pointers & Strings",
+        "topics": [
+          "Pointer arithmetic",
+          "Array of pointers",
+          "Dynamic memory allocation",
+          "String handling functions",
+          "Pointer to functions"
+        ]
+      },
+      {
+        "chapter": "Structures & File Handling",
+        "topics": [
+          "Nested structures",
+          "Union",
+          "File access modes",
+          "Binary files",
+          "Preprocessor directives"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Engineering Graphics & Design",
+    "year": 1,
+    "semester": 2,
+    "chapters": [
+      {
+        "chapter": "Introduction to Engineering Drawing",
+        "topics": [
+          "Drawing standards",
+          "Dimensioning",
+          "Scales",
+          "Geometrical constructions",
+          "Conic sections"
+        ]
+      },
+      {
+        "chapter": "Orthographic Projections",
+        "topics": [
+          "Projections of points",
+          "Projections of lines",
+          "Projections of planes",
+          "Auxiliary planes",
+          "First angle projection"
+        ]
+      },
+      {
+        "chapter": "Projections of Regular Solids",
+        "topics": [
+          "Prisms and Pyramids",
+          "Cylinders and Cones",
+          "Sections of solids",
+          "Sectional views",
+          "Solids of revolution"
+        ]
+      },
+      {
+        "chapter": "Development of Surfaces",
+        "topics": [
+          "Parallel line development",
+          "Radial line development",
+          "Intersection of surfaces",
+          "Method of triangulation",
+          "Practical applications"
+        ]
+      },
+      {
+        "chapter": "Isometric Projections",
+        "topics": [
+          "Isometric scale",
+          "Isometric drawing of planes",
+          "Isometric drawing of solids",
+          "Conversion of views",
+          "Introduction to CAD"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Engineering Mechanics",
+    "year": 2,
+    "semester": 3,
+    "chapters": [
+      {
+        "chapter": "Statics of Particles",
+        "topics": [
+          "Resolution of forces",
+          "Equilibrium of particles",
+          "Free body diagrams",
+          "Lami’s theorem",
+          "Varignon’s theorem"
+        ]
+      },
+      {
+        "chapter": "Rigid Body Equilibrium",
+        "topics": [
+          "Moment of a force",
+          "Couples",
+          "Equilibrium of rigid bodies",
+          "Support reactions",
+          "Truss analysis"
+        ]
+      },
+      {
+        "chapter": "Centroid and Moment of Inertia",
+        "topics": [
+          "Centroid of composite areas",
+          "Mass moment of inertia",
+          "Parallel axis theorem",
+          "Perpendicular axis theorem",
+          "Polar moment of inertia"
+        ]
+      },
+      {
+        "chapter": "Kinetics of Particles",
+        "topics": [
+          "Newton’s second law",
+          "Work-energy principle",
+          "Impulse-momentum principle",
+          "D’Alembert’s principle",
+          "Impact and collision"
+        ]
+      },
+      {
+        "chapter": "Kinetics of Rigid Bodies",
+        "topics": [
+          "Translation and Rotation",
+          "General plane motion",
+          "Instantaneous center of rotation",
+          "Angular momentum",
+          "Work-energy for rigid bodies"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Thermodynamics",
+    "year": 2,
+    "semester": 3,
+    "chapters": [
+      {
+        "chapter": "Fundamentals",
+        "topics": [
+          "Thermodynamic systems",
+          "Properties and processes",
+          "Zeroth law of thermodynamics",
+          "Energy, work and heat",
+          "Ideal gases"
+        ]
+      },
+      {
+        "chapter": "First Law of Thermodynamics",
+        "topics": [
+          "Internal energy and Enthalpy",
+          "First law for closed systems",
+          "Steady flow energy equation (SFEE)",
+          "Unsteady flow processes",
+          "Applications of SFEE"
+        ]
+      },
+      {
+        "chapter": "Second Law of Thermodynamics",
+        "topics": [
+          "Heat engines and Refrigerators",
+          "Kelvin-Planck statement",
+          "Clausius statement",
+          "Carnot cycle",
+          "Thermodynamic temperature scale"
+        ]
+      },
+      {
+        "chapter": "Entropy",
+        "topics": [
+          "Clausius inequality",
+          "Entropy change in processes",
+          "Principle of increase of entropy",
+          "T-s diagrams",
+          "Availability and Irreversibility"
+        ]
+      },
+      {
+        "chapter": "Properties of Pure Substances",
+        "topics": [
+          "P-v-T surfaces",
+          "Steam tables",
+          "Mollier chart",
+          "Dryness fraction",
+          "Throttling calorimeter"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Material Science",
+    "year": 2,
+    "semester": 3,
+    "chapters": [
+      {
+        "chapter": "Crystal Structure",
+        "topics": [
+          "Space lattice",
+          "Miller indices",
+          "Crystal defects",
+          "Solidification",
+          "Solid solutions"
+        ]
+      },
+      {
+        "chapter": "Mechanical Properties & Testing",
+        "topics": [
+          "Stress-strain diagrams",
+          "Hardness tests",
+          "Impact tests",
+          "Fatigue",
+          "Creep"
+        ]
+      },
+      {
+        "chapter": "Phase Diagrams",
+        "topics": [
+          "Gibbs phase rule",
+          "Lever rule",
+          "Iron-Carbon equilibrium diagram",
+          "Invariant reactions",
+          "Microstructure of steels"
+        ]
+      },
+      {
+        "chapter": "Heat Treatment",
+        "topics": [
+          "Annealing",
+          "Normalizing",
+          "Quenching and Tempering",
+          "TTT diagrams",
+          "Case hardening"
+        ]
+      },
+      {
+        "chapter": "Alloys & Non-Metals",
+        "topics": [
+          "Cast irons",
+          "Non-ferrous alloys",
+          "Polymers",
+          "Ceramics",
+          "Composites"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Fluid Mechanics",
+    "year": 2,
+    "semester": 4,
+    "chapters": [
+      {
+        "chapter": "Fluid Properties & Statics",
+        "topics": [
+          "Viscosity and Surface tension",
+          "Pressure measurement",
+          "Hydrostatic forces",
+          "Buoyancy",
+          "Stability of floating bodies"
+        ]
+      },
+      {
+        "chapter": "Fluid Kinematics",
+        "topics": [
+          "Types of fluid flow",
+          "Stream lines and Path lines",
+          "Equantity equation",
+          "Velocity potential",
+          "Stream function"
+        ]
+      },
+      {
+        "chapter": "Fluid Dynamics",
+        "topics": [
+          "Euler’s equation",
+          "Bernoulli’s theorem",
+          "Venturimeter",
+          "Orifice meter",
+          "Pitot tube"
+        ]
+      },
+      {
+        "chapter": "Internal & External Flow",
+        "topics": [
+          "Laminar and Turbulent flow",
+          "Darcy-Weisbach equation",
+          "Boundary layer theory",
+          "Drag and Lift",
+          "Flow through pipes"
+        ]
+      },
+      {
+        "chapter": "Dimensional Analysis",
+        "topics": [
+          "Buckingham Pi theorem",
+          "Dimensionless numbers",
+          "Model similitude",
+          "Geometric and Kinematic similarity",
+          "Dynamic similarity"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Strength of Materials",
+    "year": 2,
+    "semester": 4,
+    "chapters": [
+      {
+        "chapter": "Stress & Strain",
+        "topics": [
+          "Generalized Hooke’s law",
+          "Elastic constants",
+          "Thermal stresses",
+          "Principal stresses",
+          "Mohr’s circle"
+        ]
+      },
+      {
+        "chapter": "Shear Force & Bending Moment",
+        "topics": [
+          "SFD and BMD for beams",
+          "Types of supports",
+          "Point of contraflexure",
+          "Bending stress in beams",
+          "Shear stress in beams"
+        ]
+      },
+      {
+        "chapter": "Torsion & Shafts",
+        "topics": [
+          "Torsion of circular shafts",
+          "Power transmission",
+          "Shafts in series and parallel",
+          "Helical springs",
+          "Leaf springs"
+        ]
+      },
+      {
+        "chapter": "Deflection of Beams",
+        "topics": [
+          "Double integration method",
+          "Macaulay’s method",
+          "Moment area method",
+          "Conjugate beam method",
+          "Strain energy"
+        ]
+      },
+      {
+        "chapter": "Columns & Cylinders",
+        "topics": [
+          "Euler’s column theory",
+          "Rankine’s formula",
+          "Thin cylinders",
+          "Thick cylinders",
+          "Lame’s equations"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Manufacturing Processes",
+    "year": 2,
+    "semester": 4,
+    "chapters": [
+      {
+        "chapter": "Casting Processes",
+        "topics": [
+          "Pattern making",
+          "Molding sands",
+          "Gating system design",
+          "Centrifugal casting",
+          "Casting defects"
+        ]
+      },
+      {
+        "chapter": "Joining Processes",
+        "topics": [
+          "Arc welding",
+          "Gas welding",
+          "Resistance welding",
+          "Soldering and Brazing",
+          "Welding inspection"
+        ]
+      },
+      {
+        "chapter": "Metal Forming",
+        "topics": [
+          "Hot and Cold working",
+          "Forging",
+          "Rolling",
+          "Extrusion",
+          "Drawing"
+        ]
+      },
+      {
+        "chapter": "Machining Processes",
+        "topics": [
+          "Lathe operations",
+          "Milling",
+          "Drilling and Boring",
+          "Grinding",
+          "Unconventional machining"
+        ]
+      },
+      {
+        "chapter": "Sheet Metal Work",
+        "topics": [
+          "Shearing operations",
+          "Blanking and Punching",
+          "Bending",
+          "Deep drawing",
+          "Press tools"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Kinematics of Machines",
+    "year": 3,
+    "semester": 5,
+    "chapters": [
+      {
+        "chapter": "Mechanisms",
+        "topics": [
+          "Links and Kinematic pairs",
+          "Degrees of freedom",
+          "Grubler’s criterion",
+          "Four bar chain",
+          "Inversions of mechanisms"
+        ]
+      },
+      {
+        "chapter": "Velocity & Acceleration Analysis",
+        "topics": [
+          "Relative velocity method",
+          "Instantaneous center method",
+          "Coriolis component of acceleration",
+          "Klein’s construction",
+          "Graphical analysis"
+        ]
+      },
+      {
+        "chapter": "Cams & Followers",
+        "topics": [
+          "Types of cams",
+          "Follower motion profiles",
+          "Displacement diagrams",
+          "Pressure angle",
+          "Cam profile construction"
+        ]
+      },
+      {
+        "chapter": "Gears",
+        "topics": [
+          "Law of gearing",
+          "Involute and Cycloidal teeth",
+          "Interference and Undercutting",
+          "Minimum number of teeth",
+          "Gear efficiency"
+        ]
+      },
+      {
+        "chapter": "Gear Trains",
+        "topics": [
+          "Simple and Compound trains",
+          "Epicyclic gear trains",
+          "Torque analysis",
+          "Sun and Planet gears",
+          "Applications"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Heat Transfer",
+    "year": 3,
+    "semester": 5,
+    "chapters": [
+      {
+        "chapter": "Conduction",
+        "topics": [
+          "Fourier’s law",
+          "General conduction equation",
+          "Steady state 1D conduction",
+          "Critical thickness of insulation",
+          "Extended surfaces (Fins)"
+        ]
+      },
+      {
+        "chapter": "Convection",
+        "topics": [
+          "Newton’s law of cooling",
+          "Dimensional analysis",
+          "Free and Forced convection",
+          "Boundary layer concepts",
+          "Empirical correlations"
+        ]
+      },
+      {
+        "chapter": "Radiation",
+        "topics": [
+          "Stefan-Boltzmann law",
+          "Planck’s law",
+          "Wien’s displacement law",
+          "Shape factor",
+          "Radiation shields"
+        ]
+      },
+      {
+        "chapter": "Heat Exchangers",
+        "topics": [
+          "LMTD method",
+          "NTU-Effectiveness method",
+          "Fouling factor",
+          "Types of heat exchangers",
+          "Design considerations"
+        ]
+      },
+      {
+        "chapter": "Mass Transfer",
+        "topics": [
+          "Fick’s law of diffusion",
+          "Convective mass transfer",
+          "Mass transfer coefficients",
+          "Equimolar counter diffusion",
+          "Analogy between heat and mass"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Dynamics of Machines",
+    "year": 3,
+    "semester": 6,
+    "chapters": [
+      {
+        "chapter": "Force Analysis",
+        "topics": [
+          "Static force analysis",
+          "Dynamic force analysis",
+          "Turning moment diagrams",
+          "Flywheel design",
+          "Coefficient of fluctuation"
+        ]
+      },
+      {
+        "chapter": "Balancing",
+        "topics": [
+          "Balancing of rotating masses",
+          "Static and Dynamic balancing",
+          "Balancing of reciprocating masses",
+          "Primary and Secondary forces",
+          "Multi-cylinder engines"
+        ]
+      },
+      {
+        "chapter": "Governors",
+        "topics": [
+          "Centrifugal governors",
+          "Watt and Porter governors",
+          "Sensitiveness and Stability",
+          "Hunting",
+          "Isochronism"
+        ]
+      },
+      {
+        "chapter": "Gyroscope",
+        "topics": [
+          "Gyroscopic couple",
+          "Precession",
+          "Effect on naval ships",
+          "Effect on airplanes",
+          "Effect on stability of vehicles"
+        ]
+      },
+      {
+        "chapter": "Mechanical Vibrations",
+        "topics": [
+          "Free and Damped vibrations",
+          "Logarithmic decrement",
+          "Forced vibrations",
+          "Transmissibility",
+          "Whirling of shafts"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Design of Machine Elements",
+    "year": 3,
+    "semester": 6,
+    "chapters": [
+      {
+        "chapter": "Design Fundamentals",
+        "topics": [
+          "Design process",
+          "Selection of materials",
+          "Factor of safety",
+          "Theories of failure",
+          "Stress concentration"
+        ]
+      },
+      {
+        "chapter": "Joints & Fasteners",
+        "topics": [
+          "Threaded fasteners",
+          "Riveted joints",
+          "Welded joints",
+          "Keys and Couplings",
+          "Cotter and Knuckle joints"
+        ]
+      },
+      {
+        "chapter": "Shafts & Axles",
+        "topics": [
+          "Design for strength",
+          "Design for rigidity",
+          "Shafts under combined loads",
+          "ASME code for shaft design",
+          "Standard sizes"
+        ]
+      },
+      {
+        "chapter": "Power Screws & Springs",
+        "topics": [
+          "Efficiency of power screws",
+          "Self-locking screws",
+          "Spring materials",
+          "Design of helical springs",
+          "Surging in springs"
+        ]
+      },
+      {
+        "chapter": "Fatigue Design",
+        "topics": [
+          "Variable loading",
+          "S-N curve",
+          "Endurance limit",
+          "Goodman and Soderberg lines",
+          "Gerber criteria"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Refrigeration & Air Conditioning",
+    "year": 4,
+    "semester": 7,
+    "chapters": [
+      {
+        "chapter": "Refrigeration Cycles",
+        "topics": [
+          "Reverse Carnot cycle",
+          "Bell-Coleman cycle",
+          "Vapor compression cycle",
+          "Sub-cooling and Superheating",
+          "Vapor absorption cycle"
+        ]
+      },
+      {
+        "chapter": "Refrigerants",
+        "topics": [
+          "Naming conventions",
+          "Eco-friendly refrigerants",
+          "Thermodynamic properties",
+          "Safety aspects",
+          "Leak detection"
+        ]
+      },
+      {
+        "chapter": "Psychrometry",
+        "topics": [
+          "Psychrometric properties",
+          "Psychrometric chart",
+          "Heating and Cooling processes",
+          "Adiabatic mixing",
+          "Air washers"
+        ]
+      },
+      {
+        "chapter": "Load Estimation",
+        "topics": [
+          "Sensible and Latent loads",
+          "Solar heat gain",
+          "Bypass factor",
+          "Effective sensible heat factor",
+          "Apparatus dew point"
+        ]
+      },
+      {
+        "chapter": "RAC Equipment",
+        "topics": [
+          "Compressors and Evaporators",
+          "Condensers",
+          "Expansion devices",
+          "Duct design",
+          "Controls and Insulation"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Automobile Engineering",
+    "year": 4,
+    "semester": 7,
+    "chapters": [
+      {
+        "chapter": "Engine & Layout",
+        "topics": [
+          "Vehicle configurations",
+          "Chassis and Frame",
+          "S.I. and C.I. engines",
+          "Fuel supply systems",
+          "Cooling and Lubrication"
+        ]
+      },
+      {
+        "chapter": "Transmission System",
+        "topics": [
+          "Clutches",
+          "Gear boxes",
+          "Propeller shaft",
+          "Differential",
+          "Final drive"
+        ]
+      },
+      {
+        "chapter": "Steering & Suspension",
+        "topics": [
+          "Steering geometry",
+          "Power steering",
+          "Types of suspension",
+          "Shock absorbers",
+          "Wheel alignment"
+        ]
+      },
+      {
+        "chapter": "Braking System",
+        "topics": [
+          "Drum and Disc brakes",
+          "Hydraulic brakes",
+          "Air brakes",
+          "Anti-lock braking system (ABS)",
+          "Brake efficiency"
+        ]
+      },
+      {
+        "chapter": "Electricals & Safety",
+        "topics": [
+          "Ignition systems",
+          "Battery and Alternator",
+          "Automotive lighting",
+          "Airbags and Seatbelts",
+          "Future trends (EVs)"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Industrial Engineering",
+    "year": 4,
+    "semester": 8,
+    "chapters": [
+      {
+        "chapter": "Production Planning & Control",
+        "topics": [
+          "Forecasting techniques",
+          "Routing and Scheduling",
+          "Material Requirements Planning (MRP)",
+          "JIT manufacturing",
+          "Project management (PERT/CPM)"
+        ]
+      },
+      {
+        "chapter": "Work Study",
+        "topics": [
+          "Method study",
+          "Time study",
+          "Standard time calculation",
+          "Ergonomics",
+          "Human factors"
+        ]
+      },
+      {
+        "chapter": "Inventory Control",
+        "topics": [
+          "Economic Order Quantity (EOQ)",
+          "ABC analysis",
+          "Safety stock",
+          "Inventory models",
+          "Supply chain management"
+        ]
+      },
+      {
+        "chapter": "Quality Engineering",
+        "topics": [
+          "Statistical quality control",
+          "Control charts",
+          "Acceptance sampling",
+          "Total Quality Management (TQM)",
+          "Six Sigma"
+        ]
+      },
+      {
+        "chapter": "Plant Layout & Maintenance",
+        "topics": [
+          "Types of layouts",
+          "Material handling",
+          "Maintenance strategies",
+          "Reliability engineering",
+          "Replacement analysis"
+        ]
+      }
+    ]
+  }
+]

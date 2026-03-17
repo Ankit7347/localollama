@@ -1,0 +1,1028 @@
+[
+  {
+    "subject": "Mathematics I",
+    "year": 2026,
+    "semester": 1,
+    "chapters": [
+      {
+        "chapter": "Calculus",
+        "topics": [
+          "Limits and continuity",
+          "Successive differentiation",
+          "Taylor's and Maclaurin's series",
+          "Partial differentiation",
+          "Jacobians"
+        ]
+      },
+      {
+        "chapter": "Multivariable Calculus",
+        "topics": [
+          "Multiple integrals",
+          "Beta and Gamma functions",
+          "Vector differentiation",
+          "Gradient, Divergence and Curl",
+          "Line, surface and volume integrals"
+        ]
+      },
+      {
+        "chapter": "Differential Equations",
+        "topics": [
+          "Exact differential equations",
+          "Linear differential equations of higher order with constant coefficients",
+          "Cauchy-Euler equation",
+          "Method of variation of parameters",
+          "Applications of differential equations"
+        ]
+      },
+      {
+        "chapter": "Complex Variables",
+        "topics": [
+          "Analytic functions",
+          "Cauchy-Riemann equations",
+          "Complex integration",
+          "Cauchy's integral theorem and formula",
+          "Taylor's and Laurent's series"
+        ]
+      },
+      {
+        "chapter": "Linear Algebra",
+        "topics": [
+          "Rank of a matrix",
+          "System of linear equations",
+          "Eigen values and Eigen vectors",
+          "Cayley-Hamilton theorem",
+          "Diagonalization of a matrix"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Physics",
+    "year": 2026,
+    "semester": 1,
+    "chapters": [
+      {
+        "chapter": "Relativistic Mechanics",
+        "topics": [
+          "Inertial and non-inertial frames",
+          "Michelson-Morley experiment",
+          "Lorentz transformations",
+          "Length contraction and time dilation",
+          "Mass-energy equivalence"
+        ]
+      },
+      {
+        "chapter": "Electromagnetic Field Theory",
+        "topics": [
+          "Gauss's law and its applications",
+          "Maxwell's equations",
+          "Poynting vector",
+          "Electromagnetic waves",
+          "Boundary conditions"
+        ]
+      },
+      {
+        "chapter": "Quantum Mechanics",
+        "topics": [
+          "De Broglie hypothesis",
+          "Heisenberg's uncertainty principle",
+          "Schrodinger wave equation",
+          "Particle in a box",
+          "Tunnel effect"
+        ]
+      },
+      {
+        "chapter": "Wave Optics",
+        "topics": [
+          "Interference of light",
+          "Newton's rings",
+          "Diffraction (Fraunhofer and Fresnel)",
+          "Polarization of light",
+          "Lasers (Einstein's coefficients, Ruby and He-Ne Lasers)"
+        ]
+      },
+      {
+        "chapter": "Solid State Physics",
+        "topics": [
+          "Crystal structure",
+          "Lattice types and Miller indices",
+          "Bragg's law",
+          "Semiconductors (Intrinsic and Extrinsic)",
+          "Superconductivity"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Basic Electrical Engineering",
+    "year": 2026,
+    "semester": 1,
+    "chapters": [
+      {
+        "chapter": "DC Circuits",
+        "topics": [
+          "Ohm's Law and Kirchhoff's Laws",
+          "Nodal and Mesh analysis",
+          "Superposition theorem",
+          "Thevenin's and Norton's theorems",
+          "Maximum power transfer theorem"
+        ]
+      },
+      {
+        "chapter": "AC Circuits",
+        "topics": [
+          "Single phase AC circuits",
+          "Phasor representation",
+          "Active, reactive and apparent power",
+          "Series and parallel resonance",
+          "Three-phase circuits"
+        ]
+      },
+      {
+        "chapter": "Transformers",
+        "topics": [
+          "Principle of operation",
+          "EMF equation",
+          "Equivalent circuit",
+          "Losses and efficiency",
+          "Auto-transformers"
+        ]
+      },
+      {
+        "chapter": "Electrical Machines",
+        "topics": [
+          "DC machines (Generators and Motors)",
+          "Induction motors (Single phase and three phase)",
+          "Synchronous machines",
+          "Working principles",
+          "Applications of electrical machines"
+        ]
+      },
+      {
+        "chapter": "Electrical Installations",
+        "topics": [
+          "Switchgear and protective devices",
+          "MCB, ELCB, MCCB",
+          "Types of wires and cables",
+          "Earthing concepts",
+          "Power factor improvement"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Programming for Problem Solving",
+    "year": 2026,
+    "semester": 2,
+    "chapters": [
+      {
+        "chapter": "Introduction to Programming",
+        "topics": [
+          "Components of a computer system",
+          "Concept of hardware and software",
+          "Algorithm and flowchart",
+          "Generation of programming languages",
+          "Introduction to C programming"
+        ]
+      },
+      {
+        "chapter": "Constants, Variables, and Data Types",
+        "topics": [
+          "Character set and keywords",
+          "Data types in C",
+          "Declaration of variables",
+          "Operators and expressions",
+          "Type conversion"
+        ]
+      },
+      {
+        "chapter": "Control Structures",
+        "topics": [
+          "Decision making (if, if-else, switch)",
+          "Looping structures (while, do-while, for)",
+          "Break and continue statements",
+          "Nested loops",
+          "Goto statement"
+        ]
+      },
+      {
+        "chapter": "Functions and Arrays",
+        "topics": [
+          "Defining and calling a function",
+          "Recursion",
+          "One-dimensional arrays",
+          "Two-dimensional arrays",
+          "Passing arrays to functions"
+        ]
+      },
+      {
+        "chapter": "Pointers and Structures",
+        "topics": [
+          "Introduction to pointers",
+          "Pointers and arrays",
+          "Dynamic memory allocation",
+          "Defining structures and unions",
+          "File handling basics"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Engineering Graphics",
+    "year": 2026,
+    "semester": 2,
+    "chapters": [
+      {
+        "chapter": "Introduction to Engineering Drawing",
+        "topics": [
+          "Instruments and their uses",
+          "Lettering and dimensioning",
+          "Scales (Plain and Diagonal)",
+          "Geometrical constructions",
+          "Conic sections"
+        ]
+      },
+      {
+        "chapter": "Orthographic Projections",
+        "topics": [
+          "Principles of orthographic projection",
+          "First and third angle projections",
+          "Projection of points",
+          "Projection of lines",
+          "Projection of planes"
+        ]
+      },
+      {
+        "chapter": "Projection of Solids",
+        "topics": [
+          "Types of solids",
+          "Solids with axes perpendicular to reference planes",
+          "Solids with axes inclined to one reference plane",
+          "Solids with axes inclined to both reference planes",
+          "Sections of solids"
+        ]
+      },
+      {
+        "chapter": "Development of Surfaces",
+        "topics": [
+          "Concept of development",
+          "Development of prisms and cylinders",
+          "Development of pyramids and cones",
+          "Intersection of surfaces",
+          "Applications of development"
+        ]
+      },
+      {
+        "chapter": "Isometric Projections",
+        "topics": [
+          "Isometric scale",
+          "Isometric views of simple objects",
+          "Isometric views of complex solids",
+          "Conversion of orthographic to isometric views",
+          "Introduction to CAD (Computer-Aided Drafting)"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Data Structures",
+    "year": 2026,
+    "semester": 3,
+    "chapters": [
+      {
+        "chapter": "Introduction",
+        "topics": [
+          "Basic terminology",
+          "Classification of data structures",
+          "Operations on data structures",
+          "Algorithm complexity (Time and Space)",
+          "Asymptotic notations"
+        ]
+      },
+      {
+        "chapter": "Arrays",
+        "topics": [
+          "Representation of arrays",
+          "Operations (Insertion, Deletion, Traversal)",
+          "Multidimensional arrays",
+          "Sparse matrices",
+          "Applications of arrays"
+        ]
+      },
+      {
+        "chapter": "Stacks and Queues",
+        "topics": [
+          "Stack ADT and operations",
+          "Applications (Evaluation of expressions, Recursion)",
+          "Queue ADT and operations",
+          "Circular queue and Priority queue",
+          "Deque"
+        ]
+      },
+      {
+        "chapter": "Linked Lists",
+        "topics": [
+          "Singly linked list",
+          "Doubly linked list",
+          "Circular linked list",
+          "Polynomial representation",
+          "Implementations of stack and queue using linked lists"
+        ]
+      },
+      {
+        "chapter": "Trees and Graphs",
+        "topics": [
+          "Binary trees and traversals",
+          "Binary Search Trees (BST)",
+          "AVL Trees",
+          "Graph representation (Adjacency matrix/list)",
+          "Graph traversals (BFS, DFS)"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Computer Organization and Architecture",
+    "year": 2026,
+    "semester": 3,
+    "chapters": [
+      {
+        "chapter": "Basic Structure of Computers",
+        "topics": [
+          "Functional units",
+          "Bus structures",
+          "Performance metrics",
+          "Machine instructions and programs",
+          "Addressing modes"
+        ]
+      },
+      {
+        "chapter": "Arithmetic Unit",
+        "topics": [
+          "Addition and subtraction of signed numbers",
+          "Design of fast adders",
+          "Multiplication (Booth's algorithm)",
+          "Division algorithms",
+          "Floating-point arithmetic"
+        ]
+      },
+      {
+        "chapter": "Processing Unit",
+        "topics": [
+          "Fundamental concepts",
+          "Execution of a complete instruction",
+          "Multiple bus organization",
+          "Hardwired control",
+          "Microprogrammed control"
+        ]
+      },
+      {
+        "chapter": "Memory System",
+        "topics": [
+          "Memory hierarchy",
+          "Main memory (RAM, ROM)",
+          "Cache memory and mapping functions",
+          "Virtual memory",
+          "Secondary storage"
+        ]
+      },
+      {
+        "chapter": "Input/Output Organization",
+        "topics": [
+          "Accessing I/O devices",
+          "Interrupts",
+          "Direct Memory Access (DMA)",
+          "Buses (Synchronous, Asynchronous)",
+          "Standard I/O interfaces (PCI, SCSI, USB)"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Discrete Structures",
+    "year": 2026,
+    "semester": 3,
+    "chapters": [
+      {
+        "chapter": "Set Theory",
+        "topics": [
+          "Sets, relations and functions",
+          "Equivalence relations",
+          "Partial orderings",
+          "Pigeonhole principle",
+          "Principle of inclusion-exclusion"
+        ]
+      },
+      {
+        "chapter": "Propositional Logic",
+        "topics": [
+          "Propositions and logical connectives",
+          "Truth tables",
+          "Tautologies and contradictions",
+          "Logical equivalence",
+          "Rules of inference"
+        ]
+      },
+      {
+        "chapter": "Combinatorics",
+        "topics": [
+          "Permutations and combinations",
+          "Binomial theorem",
+          "Generating functions",
+          "Recurrence relations",
+          "Solving recurrence relations"
+        ]
+      },
+      {
+        "chapter": "Graph Theory",
+        "topics": [
+          "Graphs and subgraphs",
+          "Euler and Hamiltonian paths",
+          "Planar graphs",
+          "Graph coloring",
+          "Trees and spanning trees"
+        ]
+      },
+      {
+        "chapter": "Algebraic Structures",
+        "topics": [
+          "Groups and subgroups",
+          "Rings and fields",
+          "Lattices",
+          "Boolean algebra",
+          "Applications of Boolean algebra"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Operating Systems",
+    "year": 2026,
+    "semester": 4,
+    "chapters": [
+      {
+        "chapter": "Introduction",
+        "topics": [
+          "Functions of OS",
+          "Types of OS (Batch, Multiprogramming, Time-sharing)",
+          "System calls",
+          "System structure",
+          "Virtual machines"
+        ]
+      },
+      {
+        "chapter": "Process Management",
+        "topics": [
+          "Process concept and states",
+          "Inter-process communication (IPC)",
+          "Process scheduling algorithms",
+          "Threads",
+          "Multithreading models"
+        ]
+      },
+      {
+        "chapter": "Concurrency and Synchronization",
+        "topics": [
+          "Critical section problem",
+          "Semaphores",
+          "Monitors",
+          "Classical problems (Dining Philosophers, Producer-Consumer)",
+          "Deadlocks (Prevention, Avoidance, Detection, Recovery)"
+        ]
+      },
+      {
+        "chapter": "Memory Management",
+        "topics": [
+          "Contiguous memory allocation",
+          "Paging",
+          "Segmentation",
+          "Virtual memory (Demand paging)",
+          "Page replacement algorithms"
+        ]
+      },
+      {
+        "chapter": "File Systems and I/O",
+        "topics": [
+          "File concept and access methods",
+          "Directory structure",
+          "File system implementation",
+          "Disk scheduling algorithms",
+          "I/O hardware and software"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Theory of Automata and Formal Languages",
+    "year": 2026,
+    "semester": 4,
+    "chapters": [
+      {
+        "chapter": "Finite Automata",
+        "topics": [
+          "Deterministic Finite Automata (DFA)",
+          "Non-deterministic Finite Automata (NFA)",
+          "Equivalence of DFA and NFA",
+          "Minimization of DFA",
+          "Finite automata with output (Moore and Mealy machines)"
+        ]
+      },
+      {
+        "chapter": "Regular Expressions",
+        "topics": [
+          "Regular expressions and regular languages",
+          "Identity rules",
+          "Arden's theorem",
+          "Pumping lemma for regular languages",
+          "Closure properties"
+        ]
+      },
+      {
+        "chapter": "Context-Free Grammars",
+        "topics": [
+          "Context-free grammars (CFG)",
+          "Derivation trees and ambiguity",
+          "Simplification of CFG",
+          "Chomsky Normal Form (CNF)",
+          "Greibach Normal Form (GNF)"
+        ]
+      },
+      {
+        "chapter": "Pushdown Automata",
+        "topics": [
+          "Definition of Pushdown Automata (PDA)",
+          "Acceptance by final state and empty stack",
+          "Equivalence of CFG and PDA",
+          "Pumping lemma for context-free languages",
+          "Closure properties of CFLs"
+        ]
+      },
+      {
+        "chapter": "Turing Machines",
+        "topics": [
+          "Definition and model of Turing Machine (TM)",
+          "Design of TMs",
+          "Computable functions",
+          "Types of Turing Machines",
+          "Decidability and Halting problem"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Database Management Systems",
+    "year": 2026,
+    "semester": 4,
+    "chapters": [
+      {
+        "chapter": "Introduction to DBMS",
+        "topics": [
+          "File systems vs DBMS",
+          "Database architecture (1-tier, 2-tier, 3-tier)",
+          "Data models (Relational, Hierarchical, Network)",
+          "Entity-Relationship (ER) model",
+          "Extended ER features"
+        ]
+      },
+      {
+        "chapter": "Relational Model",
+        "topics": [
+          "Relational algebra",
+          "Relational calculus",
+          "Integrity constraints",
+          "SQL (DDL, DML, DCL)",
+          "Views and triggers"
+        ]
+      },
+      {
+        "chapter": "Database Design",
+        "topics": [
+          "Functional dependencies",
+          "Normalization (1NF, 2NF, 3NF, BCNF)",
+          "Multivalued dependencies and 4NF",
+          "Join dependencies and 5NF",
+          "Denormalization"
+        ]
+      },
+      {
+        "chapter": "Transaction Management",
+        "topics": [
+          "ACID properties",
+          "Serializability (Conflict and View)",
+          "Concurrency control protocols (Lock-based, Time-stamp)",
+          "Deadlock handling",
+          "Recovery techniques (Log-based, Shadow paging)"
+        ]
+      },
+      {
+        "chapter": "Advanced Topics",
+        "topics": [
+          "Query processing and optimization",
+          "Data warehousing concepts",
+          "Data mining techniques",
+          "NoSQL databases",
+          "Distributed databases"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Software Engineering",
+    "year": 2026,
+    "semester": 5,
+    "chapters": [
+      {
+        "chapter": "Introduction",
+        "topics": [
+          "Software crisis and myths",
+          "Software process models (Waterfall, Spiral, Agile)",
+          "Software characteristics",
+          "Systems engineering",
+          "Project management concepts"
+        ]
+      },
+      {
+        "chapter": "Requirements Engineering",
+        "topics": [
+          "Requirements elicitation and analysis",
+          "Software Requirements Specification (SRS)",
+          "Feasibility study",
+          "Requirements validation",
+          "Requirements management"
+        ]
+      },
+      {
+        "chapter": "Software Design",
+        "topics": [
+          "Design concepts and principles",
+          "Architectural design",
+          "Cohesion and coupling",
+          "Object-oriented design",
+          "User interface design"
+        ]
+      },
+      {
+        "chapter": "Software Testing",
+        "topics": [
+          "Testing fundamentals",
+          "White-box testing",
+          "Black-box testing",
+          "Integration and System testing",
+          "Debugging techniques"
+        ]
+      },
+      {
+        "chapter": "Software Maintenance",
+        "topics": [
+          "Types of maintenance",
+          "Software re-engineering",
+          "Reverse engineering",
+          "Software configuration management",
+          "Software quality assurance"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Design and Analysis of Algorithms",
+    "year": 2026,
+    "semester": 5,
+    "chapters": [
+      {
+        "chapter": "Introduction",
+        "topics": [
+          "Algorithm definition and analysis",
+          "Best, worst, and average case analysis",
+          "Recurrence relations",
+          "Master theorem",
+          "Amortized analysis"
+        ]
+      },
+      {
+        "chapter": "Divide and Conquer",
+        "topics": [
+          "Merge sort",
+          "Quick sort",
+          "Binary search",
+          "Strassen's matrix multiplication",
+          "Closest pair of points"
+        ]
+      },
+      {
+        "chapter": "Greedy Method",
+        "topics": [
+          "Fractional knapsack problem",
+          "Huffman coding",
+          "Job sequencing with deadlines",
+          "Minimum Spanning Trees (Prim's and Kruskal's)",
+          "Single-source shortest paths (Dijkstra's)"
+        ]
+      },
+      {
+        "chapter": "Dynamic Programming",
+        "topics": [
+          "Matrix chain multiplication",
+          "Longest common subsequence",
+          "0/1 Knapsack problem",
+          "All-pairs shortest paths (Floyd-Warshall)",
+          "Optimal binary search tree"
+        ]
+      },
+      {
+        "chapter": "Complexity Theory",
+        "topics": [
+          "P and NP classes",
+          "NP-Complete and NP-Hard problems",
+          "Cook's theorem",
+          "Approximation algorithms",
+          "Randomized algorithms"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Compiler Design",
+    "year": 2026,
+    "semester": 6,
+    "chapters": [
+      {
+        "chapter": "Introduction",
+        "topics": [
+          "Phases of a compiler",
+          "Cousins of the compiler",
+          "Grouping of phases",
+          "Compiler construction tools",
+          "Role of lexical analyzer"
+        ]
+      },
+      {
+        "chapter": "Lexical Analysis",
+        "topics": [
+          "Input buffering",
+          "Specification of tokens",
+          "Recognition of tokens",
+          "Finite automata",
+          "LEX tool"
+        ]
+      },
+      {
+        "chapter": "Syntax Analysis",
+        "topics": [
+          "Context-free grammars",
+          "Top-down parsing (Recursive descent, LL(1))",
+          "Bottom-up parsing (Shift-reduce, LR parsers)",
+          "Operator precedence parsing",
+          "YACC tool"
+        ]
+      },
+      {
+        "chapter": "Syntax-Directed Translation",
+        "topics": [
+          "Syntax-directed definitions",
+          "Evaluation orders for SDDs",
+          "S-attributed and L-attributed definitions",
+          "Translation schemes",
+          "Intermediate code generation (Three-address code)"
+        ]
+      },
+      {
+        "chapter": "Code Generation and Optimization",
+        "topics": [
+          "Issues in design of code generator",
+          "Target machine",
+          "Run-time storage management",
+          "Basic blocks and flow graphs",
+          "Principles of compiler optimization"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Computer Networks",
+    "year": 2026,
+    "semester": 6,
+    "chapters": [
+      {
+        "chapter": "Introduction",
+        "topics": [
+          "Network topologies",
+          "OSI model and TCP/IP protocol suite",
+          "Transmission media (Guided and Unguided)",
+          "Switching techniques (Circuit, Packet, Message)",
+          "Multiplexing (FDM, TDM, WDM)"
+        ]
+      },
+      {
+        "chapter": "Data Link Layer",
+        "topics": [
+          "Error detection and correction",
+          "Framing",
+          "Flow control protocols (Stop-and-Wait, Go-Back-N, Selective Repeat)",
+          "Multiple access protocols (CSMA/CD, CSMA/CA)",
+          "Ethernet standards"
+        ]
+      },
+      {
+        "chapter": "Network Layer",
+        "topics": [
+          "IPv4 and IPv6 addressing",
+          "Subnetting and Supernetting",
+          "Routing algorithms (Distance Vector, Link State)",
+          "Routing protocols (RIP, OSPF, BGP)",
+          "ICMP and ARP"
+        ]
+      },
+      {
+        "chapter": "Transport Layer",
+        "topics": [
+          "Process-to-process delivery",
+          "UDP and TCP",
+          "TCP connection management",
+          "Flow and error control in TCP",
+          "Congestion control"
+        ]
+      },
+      {
+        "chapter": "Application Layer",
+        "topics": [
+          "Domain Name System (DNS)",
+          "Electronic Mail (SMTP, POP3, IMAP)",
+          "File Transfer Protocol (FTP)",
+          "World Wide Web and HTTP",
+          "Network security basics"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Artificial Intelligence",
+    "year": 2026,
+    "semester": 7,
+    "chapters": [
+      {
+        "chapter": "Introduction to AI",
+        "topics": [
+          "Definition and history of AI",
+          "Intelligent agents",
+          "Environment types",
+          "Problem-solving as search",
+          "Uninformed search strategies (BFS, DFS)"
+        ]
+      },
+      {
+        "chapter": "Heuristic Search",
+        "topics": [
+          "Informed search strategies (Greedy, A*)",
+          "Heuristic functions",
+          "Local search algorithms (Hill-climbing, Simulated annealing)",
+          "Genetic algorithms",
+          "Adversarial search (Minimax, Alpha-beta pruning)"
+        ]
+      },
+      {
+        "chapter": "Knowledge Representation",
+        "topics": [
+          "Propositional logic",
+          "First-order logic",
+          "Inference in first-order logic",
+          "Forward and backward chaining",
+          "Resolution"
+        ]
+      },
+      {
+        "chapter": "Planning and Learning",
+        "topics": [
+          "Classical planning",
+          "Planning with state-space search",
+          "Forms of learning",
+          "Supervised learning",
+          "Decision trees"
+        ]
+      },
+      {
+        "chapter": "Advanced Topics",
+        "topics": [
+          "Natural Language Processing (NLP)",
+          "Expert systems",
+          "Neural networks basics",
+          "Fuzzy logic",
+          "Robotics concepts"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Machine Learning",
+    "year": 2026,
+    "semester": 7,
+    "chapters": [
+      {
+        "chapter": "Introduction",
+        "topics": [
+          "What is Machine Learning?",
+          "Supervised vs Unsupervised learning",
+          "Applications of ML",
+          "Hypothesis space and Inductive bias",
+          "Evaluation metrics"
+        ]
+      },
+      {
+        "chapter": "Supervised Learning",
+        "topics": [
+          "Linear regression",
+          "Logistic regression",
+          "Support Vector Machines (SVM)",
+          "K-Nearest Neighbors (KNN)",
+          "Naive Bayes classifier"
+        ]
+      },
+      {
+        "chapter": "Unsupervised Learning",
+        "topics": [
+          "Clustering algorithms",
+          "K-means clustering",
+          "Hierarchical clustering",
+          "Principal Component Analysis (PCA)",
+          "Dimensionality reduction"
+        ]
+      },
+      {
+        "chapter": "Artificial Neural Networks",
+        "topics": [
+          "Perceptron model",
+          "Multi-layer perceptron",
+          "Backpropagation algorithm",
+          "Activation functions",
+          "Introduction to Deep Learning"
+        ]
+      },
+      {
+        "chapter": "Ensemble Methods",
+        "topics": [
+          "Bagging",
+          "Random Forests",
+          "Boosting (AdaBoost, Gradient Boosting)",
+          "Stacking",
+          "Model evaluation and selection"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Cryptography and Network Security",
+    "year": 2026,
+    "semester": 8,
+    "chapters": [
+      {
+        "chapter": "Introduction",
+        "topics": [
+          "Security goals (CIA triad)",
+          "Security attacks, services and mechanisms",
+          "Classical encryption techniques",
+          "Substitution and transposition ciphers",
+          "Steganography"
+        ]
+      },
+      {
+        "chapter": "Symmetric Key Cryptography",
+        "topics": [
+          "Block ciphers and stream ciphers",
+          "Data Encryption Standard (DES)",
+          "Advanced Encryption Standard (AES)",
+          "Modes of operation",
+          "Key distribution"
+        ]
+      },
+      {
+        "chapter": "Asymmetric Key Cryptography",
+        "topics": [
+          "Mathematics of cryptography (Number theory)",
+          "RSA algorithm",
+          "Diffie-Hellman key exchange",
+          "Elliptic Curve Cryptography",
+          "Hash functions"
+        ]
+      },
+      {
+        "chapter": "Authentication and Digital Signatures",
+        "topics": [
+          "Message Authentication Codes (MAC)",
+          "Digital signatures",
+          "Digital signature standard",
+          "Authentication protocols",
+          "Public Key Infrastructure (PKI)"
+        ]
+      },
+      {
+        "chapter": "Network and System Security",
+        "topics": [
+          "IP Security (IPSec)",
+          "Transport Layer Security (TLS/SSL)",
+          "Firewalls and Intrusion Detection Systems (IDS)",
+          "Malicious software (Viruses, Worms, Trojans)",
+          "Web security"
+        ]
+      }
+    ]
+  }
+]

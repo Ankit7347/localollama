@@ -1,0 +1,980 @@
+[
+  {
+    "subject": "Mathematics",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Goods and Services Tax (GST)",
+        "topics": [
+          "Computation of Tax",
+          "Inter-state and Intra-state transactions",
+          "Input Tax Credit (ITC)",
+          "Price paid by the consumer",
+          "Inverse problems on GST"
+        ]
+      },
+      {
+        "chapter": "Banking",
+        "topics": [
+          "Recurring Deposit Accounts",
+          "Formula for Interest",
+          "Formula for Maturity Value",
+          "Finding time Period",
+          "Finding rate of interest"
+        ]
+      },
+      {
+        "chapter": "Shares and Dividends",
+        "topics": [
+          "Face Value and Market Value",
+          "Dividend and Rate of Dividend",
+          "Calculation of Income",
+          "Calculation of Return Percentage",
+          "Investment Problems"
+        ]
+      },
+      {
+        "chapter": "Linear Inequations",
+        "topics": [
+          "Solving linear inequations in one variable",
+          "Representation on number line",
+          "Intersection of Solution Sets",
+          "Union of Solution Sets",
+          "Word problems on inequations"
+        ]
+      },
+      {
+        "chapter": "Quadratic Equations",
+        "topics": [
+          "Solving by Factorisation",
+          "Solving using Quadratic Formula",
+          "Nature of Roots (Discriminant)",
+          "Forming equations given roots",
+          "Application/Word Problems"
+        ]
+      },
+      {
+        "chapter": "Factorisation of Polynomials",
+        "topics": [
+          "Remainder Theorem",
+          "Factor Theorem",
+          "Factorising polynomials (degree 3)",
+          "Finding unknown constants",
+          "Applications of theorems"
+        ]
+      },
+      {
+        "chapter": "Ratio and Proportion",
+        "topics": [
+          "Continued Proportion",
+          "Mean Proportion",
+          "Componendo and Dividendo",
+          "Alternendo and Invertendo",
+          "Direct word problems"
+        ]
+      },
+      {
+        "chapter": "Matrices",
+        "topics": [
+          "Order of a Matrix",
+          "Types of Matrices",
+          "Addition and Subtraction of Matrices",
+          "Multiplication of a Matrix by a scalar",
+          "Multiplication of two Matrices"
+        ]
+      },
+      {
+        "chapter": "Arithmetic Progression (A.P.)",
+        "topics": [
+          "General term of an A.P.",
+          "Finding specific terms",
+          "Sum of first n terms",
+          "Arithmetic Mean",
+          "Word problems on A.P."
+        ]
+      },
+      {
+        "chapter": "Coordinate Geometry",
+        "topics": [
+          "Distance Formula",
+          "Section and Mid-point Formula",
+          "Equation of a line (y=mx+c)",
+          "Slope of a line",
+          "Parallel and Perpendicular lines"
+        ]
+      },
+      {
+        "chapter": "Similarity",
+        "topics": [
+          "Conditions for similarity of triangles",
+          "Area of similar triangles",
+          "Basic Proportionality Theorem",
+          "Applications to maps and models",
+          "Scale factor"
+        ]
+      },
+      {
+        "chapter": "Circles",
+        "topics": [
+          "Angle properties of a circle",
+          "Cyclic properties",
+          "Tangent properties",
+          "Intersecting chords theorem",
+          "Direct applications"
+        ]
+      },
+      {
+        "chapter": "Mensuration",
+        "topics": [
+          "Area and Volume of Cylinder",
+          "Area and Volume of Cone",
+          "Area and Volume of Sphere",
+          "Conversion of Solids",
+          "Combination of Solids"
+        ]
+      },
+      {
+        "chapter": "Trigonometry",
+        "topics": [
+          "Proving Trigonometric Identities",
+          "Heights and Distances concept",
+          "Angle of Elevation",
+          "Angle of Depression",
+          "Word problems using 3D visualization"
+        ]
+      },
+      {
+        "chapter": "Statistics and Probability",
+        "topics": [
+          "Mean, Median, Mode of grouped data",
+          "Drawing Histogram",
+          "Drawing Ogive (Cumulative frequency curve)",
+          "Locating Median and Quartiles from Ogive",
+          "Probability of single events"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Physics",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Force, Work, Power and Energy",
+        "topics": [
+          "Turning effect of a force (Moment)",
+          "Centre of gravity",
+          "Uniform circular motion",
+          "Work and Power concept",
+          "Different forms of Energy"
+        ]
+      },
+      {
+        "chapter": "Light",
+        "topics": [
+          "Refraction at plane surfaces",
+          "Total internal reflection",
+          "Critical angle",
+          "Refraction through a lens",
+          "Power and Magnification of lens"
+        ]
+      },
+      {
+        "chapter": "Dispersion of Light",
+        "topics": [
+          "Dispersion through a prism",
+          "Electromagnetic spectrum",
+          "Properties of different radiations",
+          "Scattering of light",
+          "Applications of scattering"
+        ]
+      },
+      {
+        "chapter": "Sound",
+        "topics": [
+          "Reflection of sound waves",
+          "Echoes and their use (SONAR)",
+          "Free and Forced vibrations",
+          "Resonance in strings and air columns",
+          "Characteristics of sound (Pitch, Loudness, Quality)"
+        ]
+      },
+      {
+        "chapter": "Electricity",
+        "topics": [
+          "Ohm's Law",
+          "Electrical resistance and resistivity",
+          "Series and parallel circuits",
+          "Electromotive force (EMF) and internal resistance",
+          "Electrical energy and power"
+        ]
+      },
+      {
+        "chapter": "Electromagnetism",
+        "topics": [
+          "Magnetic field due to a straight wire",
+          "Magnetic field due to a loop and solenoid",
+          "Electromagnets and their uses",
+          "Force on a current-carrying conductor in a magnetic field",
+          "DC Motor principle"
+        ]
+      },
+      {
+        "chapter": "Electromagnetic Induction",
+        "topics": [
+          "Faraday's laws of induction",
+          "Lenz's Law",
+          "AC Generator principle",
+          "Transformers (Step-up and Step-down)",
+          "Advantages of AC over DC"
+        ]
+      },
+      {
+        "chapter": "Heat",
+        "topics": [
+          "Calorimetry basics",
+          "Specific heat capacity",
+          "Principle of method of mixtures",
+          "Latent heat and change of state",
+          "Specific latent heat of fusion and vaporization"
+        ]
+      },
+      {
+        "chapter": "Modern Physics",
+        "topics": [
+          "Thermionic emission",
+          "Cathode Ray Tube",
+          "Radioactivity discovery",
+          "Alpha, Beta, Gamma emissions",
+          "Nuclear fission and fusion"
+        ]
+      },
+      {
+        "chapter": "Household Circuits",
+        "topics": [
+          "Power distribution to a house",
+          "Main circuit wiring",
+          "Fuses, Switches and Earthing",
+          "Three-pin plug and socket",
+          "Color coding of wires"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Chemistry",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Periodic Properties and Variations",
+        "topics": [
+          "Periodic properties definition",
+          "Atomic size variation",
+          "Ionisation energy and Electron affinity",
+          "Electronegativity",
+          "Metallic and Non-metallic character"
+        ]
+      },
+      {
+        "chapter": "Chemical Bonding",
+        "topics": [
+          "Electrovalent bond formation",
+          "Covalent bond formation",
+          "Coordinate bond",
+          "Polarity in covalent molecules",
+          "Properties of ionic and covalent compounds"
+        ]
+      },
+      {
+        "chapter": "Study of Acids, Bases and Salts",
+        "topics": [
+          "Properties of Acids and Bases",
+          "pH scale and indicators",
+          "Classification of Salts",
+          "Preparation of Salts",
+          "Water of Crystallisation"
+        ]
+      },
+      {
+        "chapter": "Analytical Chemistry",
+        "topics": [
+          "Action of Sodium Hydroxide on salt solutions",
+          "Action of Ammonium Hydroxide on salt solutions",
+          "Action of alkalis on certain metals",
+          "Identification of ions",
+          "Flame tests recap"
+        ]
+      },
+      {
+        "chapter": "Mole Concept and Stoichiometry",
+        "topics": [
+          "Gay Lussac's Law of Combining Volumes",
+          "Avogadro's Law",
+          "Vapour Density and Molecular Weight",
+          "Percentage composition",
+          "Empirical and Molecular Formula"
+        ]
+      },
+      {
+        "chapter": "Electrolysis",
+        "topics": [
+          "Electrolytes and Non-electrolytes",
+          "Mechanism of Electrolysis",
+          "Electrolysis of molten Lead Bromide",
+          "Electrolysis of acidified water",
+          "Electroplating and Electrorefining"
+        ]
+      },
+      {
+        "chapter": "Metallurgy",
+        "topics": [
+          "Ores of common metals",
+          "Extraction processes (general principles)",
+          "Extraction of Aluminium (Hall Heroult process)",
+          "Alloys and their uses",
+          "Rusting of Iron and Prevention"
+        ]
+      },
+      {
+        "chapter": "Study of Compounds: Hydrogen Chloride",
+        "topics": [
+          "Laboratory preparation of HCl gas",
+          "Properties of HCl gas",
+          "Fountain experiment",
+          "Preparation of Hydrochloric acid",
+          "Chemical properties of Hydrochloric acid"
+        ]
+      },
+      {
+        "chapter": "Study of Compounds: Ammonia",
+        "topics": [
+          "Laboratory preparation of NH3",
+          "Haber's process for manufacture",
+          "Physical and Chemical properties",
+          "Aqueous Ammonia and its uses",
+          "Tests for Ammonia"
+        ]
+      },
+      {
+        "chapter": "Organic Chemistry",
+        "topics": [
+          "Unique properties of Carbon (Catenation)",
+          "Classification of Organic compounds",
+          "IUPAC Nomenclature",
+          "Alkanes (Methane, Ethane)",
+          "Alkenes and Alkynes (Ethylene, Acetylene)"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Biology",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Cell - The Structural and Functional Unit",
+        "topics": [
+          "Review of Cell Structure",
+          "Cell Division",
+          "Mitosis (Phases and Significance)",
+          "Meiosis (overview)",
+          "Structure of a Chromosome"
+        ]
+      },
+      {
+        "chapter": "Genetics",
+        "topics": [
+          "Mendel's experiments",
+          "Mendel's Laws of Inheritance",
+          "Sex determination in humans",
+          "Genetic diseases (Colour blindness, Haemophilia)",
+          "Mutation concept"
+        ]
+      },
+      {
+        "chapter": "Absorption by Roots",
+        "topics": [
+          "Imbibition and Diffusion",
+          "Osmosis (Endosmosis, Exosmosis)",
+          "Turgidity and Flaccidity",
+          "Active Transport",
+          "Root pressure"
+        ]
+      },
+      {
+        "chapter": "Transpiration",
+        "topics": [
+          "Stomatal transpiration",
+          "Mechanism of stomatal opening",
+          "Factors affecting transpiration",
+          "Significance of transpiration",
+          "Guttation and Bleeding"
+        ]
+      },
+      {
+        "chapter": "Photosynthesis",
+        "topics": [
+          "Light dependent phase (Photochemical)",
+          "Light independent phase (Biosynthetic)",
+          "Chloroplast structure",
+          "Factors affecting photosynthesis",
+          "Carbon cycle"
+        ]
+      },
+      {
+        "chapter": "Chemical Coordination in Plants",
+        "topics": [
+          "Plant hormones (Auxins, Gibberellins)",
+          "Cytokinins, Ethylene, Abscisic acid",
+          "Tropic movements in plants",
+          "Phototropism and Geotropism",
+          "Hydrotropism"
+        ]
+      },
+      {
+        "chapter": "The Circulatory System",
+        "topics": [
+          "Blood composition and functions",
+          "Double circulation",
+          "Structure of Heart (internal)",
+          "Cardiac cycle",
+          "Blood pressure and Pulse"
+        ]
+      },
+      {
+        "chapter": "The Excretory System",
+        "topics": [
+          "Kidney structure (internal)",
+          "Structure of Nephron",
+          "Mechanism of urine formation",
+          "Ultrafiltration and Reabsorption",
+          "Osmoregulation"
+        ]
+      },
+      {
+        "chapter": "The Nervous System",
+        "topics": [
+          "Neuron structure",
+          "Synapse and Neurotransmitters",
+          "Brain parts and functions",
+          "Reflex arc",
+          "Autonomic nervous system"
+        ]
+      },
+      {
+        "chapter": "Sense Organs",
+        "topics": [
+          "Structure of the Eye",
+          "Mechanism of vision",
+          "Defects of vision",
+          "Structure of the Ear",
+          "Mechanism of hearing and balance"
+        ]
+      },
+      {
+        "chapter": "The Endocrine System",
+        "topics": [
+          "Endocrine glands overview",
+          "Pituitary hormones",
+          "Thyroid hormones",
+          "Pancreas (Insulin, Glucagon)",
+          "Adrenal glands"
+        ]
+      },
+      {
+        "chapter": "The Reproductive System",
+        "topics": [
+          "Male reproductive organs",
+          "Female reproductive organs",
+          "Menstrual cycle",
+          "Fertilization",
+          "Embryonic development and placenta"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "History & Civics",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "The Union Legislature",
+        "topics": [
+          "Lok Sabha (Composition, Qualifications)",
+          "Rajya Sabha (Composition, Qualifications)",
+          "Powers and Functions of Parliament",
+          "Speaker of Lok Sabha",
+          "Control over the Executive"
+        ]
+      },
+      {
+        "chapter": "The Union Executive",
+        "topics": [
+          "President (Election, Powers)",
+          "Vice-President (Election, Functions)",
+          "Prime Minister (Appointment, Role)",
+          "Council of Ministers",
+          "Collective Responsibility"
+        ]
+      },
+      {
+        "chapter": "The Judiciary",
+        "topics": [
+          "Supreme Court Composition and Jurisdiction",
+          "High Courts Composition and Jurisdiction",
+          "Subordinate Courts",
+          "Lok Adalats",
+          "Independence of Judiciary"
+        ]
+      },
+      {
+        "chapter": "The First War of Independence, 1857",
+        "topics": [
+          "Political and Socio-Religious Causes",
+          "Economic and Military Causes",
+          "Events of the War",
+          "Causes of Failure",
+          "Consequences of the War"
+        ]
+      },
+      {
+        "chapter": "Growth of Nationalism",
+        "topics": [
+          "Factors leading to growth of Nationalism",
+          "Role of Press and Literature",
+          "Pre-Congress Political Associations",
+          "Foundation of INC (1885)",
+          "Objectives of early Congress"
+        ]
+      },
+      {
+        "chapter": "First Phase of the Indian National Movement (1885-1907)",
+        "topics": [
+          "The Early Nationalists (Moderates)",
+          "Demands and Methods",
+          "Prominent Leaders (Dadabhai Naoroji, Gokhale)",
+          "Evaluate their achievements",
+          "British attitude towards Congress"
+        ]
+      },
+      {
+        "chapter": "Second Phase of the Indian National Movement (1905-1916)",
+        "topics": [
+          "Partition of Bengal (1905)",
+          "Swadeshi and Boycott Movements",
+          "The Assertive Nationalists (Extremists)",
+          "Surat Split (1907)",
+          "Prominent Leaders (Lal, Bal, Pal)"
+        ]
+      },
+      {
+        "chapter": "The Muslim League and the National Movement",
+        "topics": [
+          "Formation of Muslim League",
+          "Objectives of the League",
+          "Morley-Minto Reforms",
+          "Lucknow Pact (1916)",
+          "Home Rule Movement"
+        ]
+      },
+      {
+        "chapter": "Mahatma Gandhi and the National Movement",
+        "topics": [
+          "Champaran, Kheda, Ahmedabad",
+          "Non-Cooperation Movement",
+          "Civil Disobedience Movement",
+          "Gandhi-Irwin Pact",
+          "Quit India Movement"
+        ]
+      },
+      {
+        "chapter": "Forward Bloc and the INA",
+        "topics": [
+          "Subhas Chandra Bose and Forward Bloc",
+          "Objectives of Forward Bloc",
+          "Indian National Army (INA)",
+          "Contribution of INA",
+          "Impact of INA Trials"
+        ]
+      },
+      {
+        "chapter": "Independence and Partition of India",
+        "topics": [
+          "Cabinet Mission Plan",
+          "Mountbatten Plan",
+          "Indian Independence Act 1947",
+          "Causes of Partition",
+          "Integration of Princely States"
+        ]
+      },
+      {
+        "chapter": "The First World War",
+        "topics": [
+          "Causes of the First World War",
+          "Events (brief overview)",
+          "Results (Treaty of Versailles)",
+          "League of Nations (Formation)",
+          "Failure of the League"
+        ]
+      },
+      {
+        "chapter": "Rise of Dictatorships",
+        "topics": [
+          "Fascism in Italy (Mussolini)",
+          "Causes for rise of Fascism",
+          "Nazism in Germany (Hitler)",
+          "Causes for rise of Nazism",
+          "Impact of Dictatorships"
+        ]
+      },
+      {
+        "chapter": "The Second World War and United Nations",
+        "topics": [
+          "Causes of the Second World War",
+          "Consequences of the War",
+          "Formation of UNO",
+          "Objectives of UNO",
+          "Principal Organs of UNO"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Geography",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Map Study (Topographical Maps)",
+        "topics": [
+          "Interpretation of contours",
+          "Identifying landforms",
+          "Drainage patterns",
+          "Settlement patterns",
+          "Measuring area and distances"
+        ]
+      },
+      {
+        "chapter": "Location, Extent and Physical Features of India",
+        "topics": [
+          "India's location and extent",
+          "Himalayan Mountain Range",
+          "Northern Plains",
+          "Peninsular Plateau",
+          "Coastal Plains and Islands"
+        ]
+      },
+      {
+        "chapter": "Climate of India",
+        "topics": [
+          "Factors affecting India's climate",
+          "The Monsoon mechanism",
+          "Seasons in India",
+          "Distribution of Rainfall",
+          "Impact of Climate on economy"
+        ]
+      },
+      {
+        "chapter": "Soil Resources in India",
+        "topics": [
+          "Types of Soils (Alluvial, Black, Red, Laterite)",
+          "Characteristics of Soils",
+          "Distribution of Soils",
+          "Soil Erosion causes",
+          "Soil Conservation methods"
+        ]
+      },
+      {
+        "chapter": "Natural Vegetation of India",
+        "topics": [
+          "Importance of Forests",
+          "Tropical Evergreen Forests",
+          "Tropical Deciduous Forests",
+          "Desert and Mountain Vegetation",
+          "Forest Conservation"
+        ]
+      },
+      {
+        "chapter": "Water Resources",
+        "topics": [
+          "Need for Water Conservation",
+          "Sources of Irrigation",
+          "Well and Tube well irrigation",
+          "Canal and Tank irrigation",
+          "Rainwater Harvesting"
+        ]
+      },
+      {
+        "chapter": "Mineral Resources",
+        "topics": [
+          "Iron Ore distribution and uses",
+          "Manganese distribution and uses",
+          "Copper distribution and uses",
+          "Bauxite distribution and uses",
+          "Conservation of Minerals"
+        ]
+      },
+      {
+        "chapter": "Agriculture in India",
+        "topics": [
+          "Types of Farming",
+          "Food Crops (Rice, Wheat)",
+          "Cash Crops (Sugarcane, Cotton)",
+          "Beverage Crops (Tea, Coffee)",
+          "Problems of Indian Agriculture"
+        ]
+      },
+      {
+        "chapter": "Manufacturing Industries",
+        "topics": [
+          "Agro-based Industries (Cotton, Silk)",
+          "Sugar Industry",
+          "Mineral-based Industries (Iron and Steel)",
+          "Petrochemical Industry",
+          "Electronics Industry"
+        ]
+      },
+      {
+        "chapter": "Transport",
+        "topics": [
+          "Importance of Transport",
+          "Roadways (National Highways, Expressways)",
+          "Railways advantages and challenges",
+          "Airways and Terminals",
+          "Waterways (Inland and Oceanic)"
+        ]
+      },
+      {
+        "chapter": "Waste Management: Impact of Waste Accumulation",
+        "topics": [
+          "Spoilage of landscape",
+          "Pollution (Air, Water, Soil)",
+          "Health hazards",
+          "Effect on terrestrial life",
+          "Effect on aquatic life"
+        ]
+      },
+      {
+        "chapter": "Waste Management: Methods of Safe Disposal",
+        "topics": [
+          "Segregation of Waste",
+          "Dumping and Composting",
+          "Incineration",
+          "Sanitary Landfills",
+          "Reduce, Reuse, Recycle"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "English",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Julius Caesar - Act I",
+        "topics": [
+          "The Feast of Lupercal",
+          "Cassius's persuasion of Brutus",
+          "Casca's report of Caesar",
+          "The storm and omens",
+          "Conspiracy formation"
+        ]
+      },
+      {
+        "chapter": "Julius Caesar - Act II",
+        "topics": [
+          "Brutus's soliloquy",
+          "The conspirators' meeting",
+          "Portia's concern",
+          "Calpurnia's dream",
+          "Decius Brutus's manipulation"
+        ]
+      },
+      {
+        "chapter": "Julius Caesar - Act III",
+        "topics": [
+          "The Assassination of Caesar",
+          "Antony's reaction",
+          "Brutus's funeral speech",
+          "Antony's funeral oration",
+          "The mutiny of the mob"
+        ]
+      },
+      {
+        "chapter": "Treasure Chest - Short Stories",
+        "topics": [
+          "The Little Match Girl",
+          "My Greatest Olympic Prize",
+          "The Blue Bead",
+          "A Horse and Two Goats",
+          "An Angel in Disguise"
+        ]
+      },
+      {
+        "chapter": "Treasure Chest - Poems",
+        "topics": [
+          "I Know Why the Caged Bird Sings",
+          "The Patriot",
+          "Abou Ben Adhem",
+          "Nine Gold Medals",
+          "Daffodils"
+        ]
+      },
+      {
+        "chapter": "Composition Skills",
+        "topics": [
+          "Argumentative Essay",
+          "Descriptive Essay",
+          "Narrative Essay",
+          "Picture Composition",
+          "Reflective Essay"
+        ]
+      },
+      {
+        "chapter": "Letter Writing",
+        "topics": [
+          "Formal Letters Format",
+          "Informal Letters Format",
+          "Letters to the Editor",
+          "Application Letters",
+          "Complaint Letters"
+        ]
+      },
+      {
+        "chapter": "Notice and Email",
+        "topics": [
+          "Drafting School Notices",
+          "Format details of Notice",
+          "Writing Formal Emails",
+          "Co-relating Notice and Email",
+          "Clarity of Communication"
+        ]
+      },
+      {
+        "chapter": "Unseen Comprehension",
+        "topics": [
+          "Reading Strategies",
+          "Vocabulary Testing",
+          "Inferential Answering",
+          "Summary Writing (Precis)",
+          "Drafting precisely within word limits"
+        ]
+      },
+      {
+        "chapter": "Functional Grammar",
+        "topics": [
+          "Sequence of Tenses",
+          "Active and Passive Voice",
+          "Direct and Indirect Speech",
+          "Prepositions usage",
+          "Transformation of Sentences"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Hindi",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Sahitya Sagar - Kahaniyan",
+        "topics": [
+          "Bade Ghar Ki Beti",
+          "Do Kalakar",
+          "Sandeha",
+          "Bheed Me Khoya Aadmi",
+          "Bhed Aur Bhediye"
+        ]
+      },
+      {
+        "chapter": "Sahitya Sagar - Kahani Samiksha",
+        "topics": [
+          "Charitra Chitran (Kahaniyan)",
+          "Uddeshya Aur Sandesh",
+          "Bhasha Shailee",
+          "Prashnottar",
+          "Aashay Spasht"
+        ]
+      },
+      {
+        "chapter": "Sahitya Sagar - Kavitaayein",
+        "topics": [
+          "Sur Ke Pad",
+          "Vinay Ke Pad",
+          "Bhikshuk",
+          "Chaldiye",
+          "Matribhoomi"
+        ]
+      },
+      {
+        "chapter": "Sahitya Sagar - Kavya Samiksha",
+        "topics": [
+          "Kavita Ka Moolbhav",
+          "Kavya Saundarya",
+          "Kavi Parichay",
+          "Spashtikaran",
+          "Prashnottar"
+        ]
+      },
+      {
+        "chapter": "Naya Rasta (Novel)",
+        "topics": [
+          "Adhyay 11 se 26",
+          "Meenu Ke Sangharsh",
+          "Amit Ka Nirnay",
+          "Samajik Kuritiyon Par Prahar",
+          "Kahani Ka Ant"
+        ]
+      },
+      {
+        "chapter": "Ekanki Suman",
+        "topics": [
+          "Matribhoomi Ka Maan",
+          "Sukhi Daali",
+          "Mahabharat Ki Ek Sanjh",
+          "Ekanki Ke Tatva",
+          "Samvad Aur Charitra"
+        ]
+      },
+      {
+        "chapter": "Vyakaran: Vakya aur Pad",
+        "topics": [
+          "Vakya Shuddhi Avanik",
+          "Vakya Parivartan Niyam",
+          "Ling Nirnay",
+          "Vachan Parivartan",
+          "Kaarak"
+        ]
+      },
+      {
+        "chapter": "Vyakaran: Shabd Gyan",
+        "topics": [
+          "Paryayvachi aur Vilom Shabd",
+          "Muhavare Aur Lokoktiyan",
+          "Anek Shabdon Ke Liye Ek Shabd",
+          "Shrutisam Bhinnarthak",
+          "Vartani Shuddhi"
+        ]
+      },
+      {
+        "chapter": "Rachna: Patra Lekhan",
+        "topics": [
+          "Prasasan Ko Patra",
+          "Mitra Aur Parichiton Ko Patra",
+          "Sampadak Ko Patra",
+          "Shikayati Patra",
+          "Avedan Patra"
+        ]
+      },
+      {
+        "chapter": "Rachna: Nibandh Lekhan",
+        "topics": [
+          "Samsamayik Vishayon Par Nibandh",
+          "Kahanivat Nibandh",
+          "Chitra Par Aadharit Lekhan",
+          "Prastavna Aur Nishkarsh",
+          "Sutron/Uddharanon Ka Prayog"
+        ]
+      }
+    ]
+  }
+]

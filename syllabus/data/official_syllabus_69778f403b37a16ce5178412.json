@@ -1,0 +1,1028 @@
+[
+  {
+    "subject": "Discrete Mathematics",
+    "year": 1,
+    "semester": 1,
+    "chapters": [
+      {
+        "chapter": "Set Theory",
+        "topics": [
+          "Set operations",
+          "Power set",
+          "Venn diagrams",
+          "Cartesian product",
+          "Infinite sets"
+        ]
+      },
+      {
+        "chapter": "Logic",
+        "topics": [
+          "Propositional logic",
+          "Truth tables",
+          "Logical equivalence",
+          "Quantifiers",
+          "Predicate logic"
+        ]
+      },
+      {
+        "chapter": "Relations",
+        "topics": [
+          "Binary relations",
+          "Equivalence relation",
+          "Partial order",
+          "Lattices",
+          "Closure properties"
+        ]
+      },
+      {
+        "chapter": "Combinatorics",
+        "topics": [
+          "Permutations",
+          "Combinations",
+          "Pigeonhole principle",
+          "Inclusion-Exclusion",
+          "Recurrence relations"
+        ]
+      },
+      {
+        "chapter": "Graph Theory",
+        "topics": [
+          "Graph isomorphism",
+          "Eulerian paths",
+          "Hamiltonian cycles",
+          "Graph coloring",
+          "Trees and spanning"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Programming for Problem Solving",
+    "year": 1,
+    "semester": 1,
+    "chapters": [
+      {
+        "chapter": "Computer Basics",
+        "topics": [
+          "Block diagram",
+          "Memory CPU",
+          "Instruction set",
+          "Compilers",
+          "Operating systems"
+        ]
+      },
+      {
+        "chapter": "C Syntax",
+        "topics": [
+          "Keywords types",
+          "Operators expr",
+          "Formatted IO",
+          "Character set",
+          "Syntax rules"
+        ]
+      },
+      {
+        "chapter": "Control Logic",
+        "topics": [
+          "Selection if",
+          "Iteration while",
+          "Case switch",
+          "Goto label",
+          "Break continue"
+        ]
+      },
+      {
+        "chapter": "Functions Arrays",
+        "topics": [
+          "Prototyping",
+          "Recursive call",
+          "Matrix 2D",
+          "Array passing",
+          "Local static"
+        ]
+      },
+      {
+        "chapter": "Pointers",
+        "topics": [
+          "Address value",
+          "Pointer array",
+          "Call reference",
+          "Dangling pointers",
+          "Double pointers"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Digital Electronics",
+    "year": 1,
+    "semester": 1,
+    "chapters": [
+      {
+        "chapter": "Boolean Algebra",
+        "topics": [
+          "Logic gates",
+          "K-Map 4 variable",
+          "Canonical forms",
+          "Universal gates",
+          "Logic families"
+        ]
+      },
+      {
+        "chapter": "Arithmetic Logic",
+        "topics": [
+          "Binary adders",
+          "Subtraction code",
+          "Multiplier circuit",
+          "Comparator bits",
+          "ALU design"
+        ]
+      },
+      {
+        "chapter": "MSI Devices",
+        "topics": [
+          "Encoder decoder",
+          "Mux Demux",
+          "Magnitude compare",
+          "Parity bits",
+          "Code converters"
+        ]
+      },
+      {
+        "chapter": "Latching Logic",
+        "topics": [
+          "SR Flip flop",
+          "JK Master slave",
+          "D/T edge trigger",
+          "State transition",
+          "Excitation tables"
+        ]
+      },
+      {
+        "chapter": "Registers",
+        "topics": [
+          "Shift left right",
+          "SIPO PISO",
+          "Asy counters",
+          "Synch counters",
+          "Mod-N design"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Data Structures",
+    "year": 1,
+    "semester": 2,
+    "chapters": [
+      {
+        "chapter": "Introduction",
+        "topics": [
+          "ADT concepts",
+          "Time complexity",
+          "Space complexity",
+          "Asymptotic Big O",
+          "Data types"
+        ]
+      },
+      {
+        "chapter": "Linear Structures",
+        "topics": [
+          "Stack LIFO",
+          "Queue FIFO",
+          "Circular queue",
+          "Priority queue",
+          "Deque"
+        ]
+      },
+      {
+        "chapter": "Linked Lists",
+        "topics": [
+          "Singly link",
+          "Doubly link",
+          "Header nodes",
+          "Cycle detection",
+          "List reversal"
+        ]
+      },
+      {
+        "chapter": "Trees",
+        "topics": [
+          "BST properties",
+          "AVL balancing",
+          "Heap structure",
+          "B-Trees",
+          "Traversals"
+        ]
+      },
+      {
+        "chapter": "Graphs",
+        "topics": [
+          "Adj matrix list",
+          "BFS queue",
+          "DFS stack",
+          "Topological sort",
+          "Dijkstra algorithm"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Database Systems",
+    "year": 1,
+    "semester": 2,
+    "chapters": [
+      {
+        "chapter": "Architecture",
+        "topics": [
+          "Three level schema",
+          "Data independence",
+          "DBA roles",
+          "Client server",
+          "Query processing"
+        ]
+      },
+      {
+        "chapter": "ER Modeling",
+        "topics": [
+          "Entity sets",
+          "Relationship types",
+          "Weak entities",
+          "Mapping rules",
+          "Normalization"
+        ]
+      },
+      {
+        "chapter": "SQL Language",
+        "topics": [
+          "DDL commands",
+          "DML commands",
+          "Joins nested",
+          "Views triggers",
+          "Constraints"
+        ]
+      },
+      {
+        "chapter": "Transactions",
+        "topics": [
+          "ACID properties",
+          "Concurrency lock",
+          "Strict 2PL",
+          "Deadlock wait",
+          "Crash recovery"
+        ]
+      },
+      {
+        "chapter": "NoSQL Basics",
+        "topics": [
+          "BASE theorem",
+          "Key value stores",
+          "Document DB",
+          "Graph DB",
+          "Map Reduce"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Computer Organization",
+    "year": 2,
+    "semester": 3,
+    "chapters": [
+      {
+        "chapter": "Datapath",
+        "topics": [
+          "Register transfer",
+          "Micro operations",
+          "Hardwired ctrl",
+          "Microprogrammed",
+          "ALU flags"
+        ]
+      },
+      {
+        "chapter": "Arithmetic",
+        "topics": [
+          "Booths algo",
+          "Divider bits",
+          "IEEE float",
+          "Carry save",
+          "Pipeline mult"
+        ]
+      },
+      {
+        "chapter": "Instruction Set",
+        "topics": [
+          "Opcode design",
+          "Addressing modes",
+          "Stack machine",
+          "RISC pipelines",
+          "Hazard logic"
+        ]
+      },
+      {
+        "chapter": "Memory",
+        "topics": [
+          "Cache mapping",
+          "Virtual memory",
+          "TLB look",
+          "SRAM DRAM",
+          "Page faults"
+        ]
+      },
+      {
+        "chapter": "Peripherals",
+        "topics": [
+          "Programmed IO",
+          "Interrupt IO",
+          "DMA logic",
+          "Bus arbitration",
+          "USB protocols"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Operating Systems",
+    "year": 2,
+    "semester": 3,
+    "chapters": [
+      {
+        "chapter": "Processes",
+        "topics": [
+          "Process state",
+          "PCB context",
+          "Thread model",
+          "Scheduling CPU",
+          "Fork join"
+        ]
+      },
+      {
+        "chapter": "Sync",
+        "topics": [
+          "Critical section",
+          "Mutex semaphore",
+          "Monitors",
+          "Classic problems",
+          "Spinlocks"
+        ]
+      },
+      {
+        "chapter": "Deadlocks",
+        "topics": [
+          "Bankers algo",
+          "Resource graph",
+          "Prevention lock",
+          "Avoidance rules",
+          "Detection poll"
+        ]
+      },
+      {
+        "chapter": "Memory Management",
+        "topics": [
+          "Segmentation",
+          "Paging multi",
+          "Replacement opt",
+          "Thrashing",
+          "Demand paging"
+        ]
+      },
+      {
+        "chapter": "File Systems",
+        "topics": [
+          "Inode structure",
+          "File allocation",
+          "Disk scheduling",
+          "RAID levels",
+          "Mounting FS"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Java Programming",
+    "year": 2,
+    "semester": 3,
+    "chapters": [
+      {
+        "chapter": "OO Basics",
+        "topics": [
+          "Class object",
+          "Method overload",
+          "Constructor this",
+          "Final keyword",
+          "Static blocks"
+        ]
+      },
+      {
+        "chapter": "Inheritance",
+        "topics": [
+          "Super keyword",
+          "Method override",
+          "Interfaces set",
+          "Abstract class",
+          "Package import"
+        ]
+      },
+      {
+        "chapter": "Exceptions",
+        "topics": [
+          "Try catch finally",
+          "Throws keyword",
+          "Custom error",
+          "Assert logic",
+          "Multi catch"
+        ]
+      },
+      {
+        "chapter": "Multithreading",
+        "topics": [
+          "Thread life",
+          "Runnable interface",
+          "Wait notify",
+          "Synchronized",
+          "Executor service"
+        ]
+      },
+      {
+        "chapter": "GUI & Events",
+        "topics": [
+          "Swing buttons",
+          "AWT layout",
+          "Listener model",
+          "JavaFX intro",
+          "Applet lifecycle"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Software Engineering",
+    "year": 2,
+    "semester": 4,
+    "chapters": [
+      {
+        "chapter": "Process Models",
+        "topics": [
+          "Waterfall spiral",
+          "Agile Scrum",
+          "XP Kanban",
+          "Capability CMMI",
+          "Iterative dev"
+        ]
+      },
+      {
+        "chapter": "Requirements",
+        "topics": [
+          "SRS document",
+          "User stories",
+          "UML Use case",
+          "Feasibility",
+          "Elicitation tech"
+        ]
+      },
+      {
+        "chapter": "Testing",
+        "topics": [
+          "Unit testing",
+          "Black box white",
+          "Regression test",
+          "Integration test",
+          "System pilot"
+        ]
+      },
+      {
+        "chapter": "Maintenance",
+        "topics": [
+          "Version control",
+          "CI CD pipeline",
+          "Legacy systems",
+          "Refactoring",
+          "Code reviews"
+        ]
+      },
+      {
+        "chapter": "Metrics",
+        "topics": [
+          "COCOMO model",
+          "Function point",
+          "Cyclomatic index",
+          "Defect density",
+          "Project risk"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Computer Networks",
+    "year": 2,
+    "semester": 4,
+    "chapters": [
+      {
+        "chapter": "OSI Reference",
+        "topics": [
+          "Physical link",
+          "Data link layer",
+          "Network layer",
+          "Transport layer",
+          "Application"
+        ]
+      },
+      {
+        "chapter": "IP Layer",
+        "topics": [
+          "IPv4 subnet",
+          "IPv6 header",
+          "ICMP ARP",
+          "NAT DHCP",
+          "Routing OSPF"
+        ]
+      },
+      {
+        "chapter": "Transport",
+        "topics": [
+          "TCP handshake",
+          "UDP datagram",
+          "Window sliding",
+          "Congestion CTRL",
+          "Port numbers"
+        ]
+      },
+      {
+        "chapter": "Application",
+        "topics": [
+          "HTTP DNS",
+          "SMTP FTP",
+          "Telnet SSH",
+          "SNMP tel",
+          "Web sockets"
+        ]
+      },
+      {
+        "chapter": "Security",
+        "topics": [
+          "DES RSA crypto",
+          "Digital sign",
+          "SSL TLS cert",
+          "Firewalls IDS",
+          "IPSec VPN"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Design & Analysis of Algorithms",
+    "year": 2,
+    "semester": 4,
+    "chapters": [
+      {
+        "chapter": "Principles",
+        "topics": [
+          "Divide conquer",
+          "Binary search",
+          "Merge Sort",
+          "Quick Sort",
+          "Selection rank"
+        ]
+      },
+      {
+        "chapter": "Greedy",
+        "topics": [
+          "Fractional Knap",
+          "Huffman Tree",
+          "Kruskal MST",
+          "Prim MST",
+          "Job scheduling"
+        ]
+      },
+      {
+        "chapter": "Dynamic",
+        "topics": [
+          "Longest common",
+          "Matrix chain",
+          "Integer Knap",
+          "Floyd Warshall",
+          "Traveling Sales"
+        ]
+      },
+      {
+        "chapter": "Backtracking",
+        "topics": [
+          "N-Queen puzzle",
+          "Subset sum",
+          "Graph color",
+          "Hamiltonian",
+          "Branch bound"
+        ]
+      },
+      {
+        "chapter": "Complexity",
+        "topics": [
+          "NP Hardness",
+          "Boolean SAT",
+          "Clique problem",
+          "Vertex cover",
+          "Approximate"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Web Automation",
+    "year": 3,
+    "semester": 5,
+    "chapters": [
+      {
+        "chapter": "Frontend Scripts",
+        "topics": [
+          "ES6 modules",
+          "DOM selectors",
+          "Fetch API",
+          "Event bubbling",
+          "Async await"
+        ]
+      },
+      {
+        "chapter": "Node Backend",
+        "topics": [
+          "Express routing",
+          "Middleware logs",
+          "Body parser",
+          "Auth JWT",
+          "File uploads"
+        ]
+      },
+      {
+        "chapter": "Automation",
+        "topics": [
+          "Puppeteer SCR",
+          "Selenium IDE",
+          "Jest testing",
+          "Cypress E2E",
+          "Mocking API"
+        ]
+      },
+      {
+        "chapter": "DevOps",
+        "topics": [
+          "Docker setup",
+          "Kubernetes pod",
+          "Jenkins CI",
+          "Cloud AWS S3",
+          "Serverless"
+        ]
+      },
+      {
+        "chapter": "Data Extract",
+        "topics": [
+          "Beautiful Soup",
+          "Scrapy spider",
+          "Regex parsing",
+          "CSV export",
+          "JSON handling"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Cloud Computing",
+    "year": 3,
+    "semester": 5,
+    "chapters": [
+      {
+        "chapter": "Virtualization",
+        "topics": [
+          "Hypervisors",
+          "Type 1 vs 2",
+          "Hardware assist",
+          "Network virt",
+          "Storage virt"
+        ]
+      },
+      {
+        "chapter": "Cloud Models",
+        "topics": [
+          "IaaS Azure",
+          "PaaS Heroku",
+          "SaaS Email",
+          "Public private",
+          "Hybrid cloud"
+        ]
+      },
+      {
+        "chapter": "Infrastructure",
+        "topics": [
+          "Compute engine",
+          "Bucket storage",
+          "VPC subnet",
+          "Load balancer",
+          "Auto scaling"
+        ]
+      },
+      {
+        "chapter": "Serverless",
+        "topics": [
+          "Lambda func",
+          "Cloud triggers",
+          "API gateway",
+          "Firebase sync",
+          "FaaS logic"
+        ]
+      },
+      {
+        "chapter": "Security",
+        "topics": [
+          "IAM policy",
+          "KMS encrypt",
+          "Audit logs",
+          "Compliance",
+          "Threat detect"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Data Mining",
+    "year": 3,
+    "semester": 6,
+    "chapters": [
+      {
+        "chapter": "Preprocessing",
+        "topics": [
+          "Data clean",
+          "Outlier noise",
+          "Normalization",
+          "Missing values",
+          "Feature select"
+        ]
+      },
+      {
+        "chapter": "Classification",
+        "topics": [
+          "Decision tree",
+          "Naive Bayes",
+          "SVM planes",
+          "Random forest",
+          "Neural networks"
+        ]
+      },
+      {
+        "chapter": "Clustering",
+        "topics": [
+          "K-Means",
+          "Hierarchical",
+          "DBSCAN density",
+          "Silhouette",
+          "GMM models"
+        ]
+      },
+      {
+        "chapter": "Association",
+        "topics": [
+          "Apriori model",
+          "FP-Growth",
+          "Support conf",
+          "Lift ratio",
+          "Market basket"
+        ]
+      },
+      {
+        "chapter": "Warehousing",
+        "topics": [
+          "OLAP cube",
+          "Star schema",
+          "Snowflake core",
+          "ETL process",
+          "Big data tool"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Information Security",
+    "year": 3,
+    "semester": 6,
+    "chapters": [
+      {
+        "chapter": "Crypto",
+        "topics": [
+          "Public private",
+          "AES cipher",
+          "Hashing MD5",
+          "Quantum crypto",
+          "Key exchange"
+        ]
+      },
+      {
+        "chapter": "Threats",
+        "topics": [
+          "XSS injection",
+          "SQL injection",
+          "CSRF tokens",
+          "Phishing kit",
+          "Ransomware"
+        ]
+      },
+      {
+        "chapter": "Auth",
+        "topics": [
+          "MFA tokens",
+          "Biometrics",
+          "OAuth 2.0",
+          "SAML sign on",
+          "LDAP setup"
+        ]
+      },
+      {
+        "chapter": "Network Sec",
+        "topics": [
+          "Packet sniff",
+          "Nmap scanning",
+          "VPN tunnels",
+          "Proxy servers",
+          "DNSSEC logic"
+        ]
+      },
+      {
+        "chapter": "Forensics",
+        "topics": [
+          "Disk image",
+          "Memory dump",
+          "Steganography",
+          "Registry logs",
+          "Event tracing"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Mobile Computing",
+    "year": 4,
+    "semester": 7,
+    "chapters": [
+      {
+        "chapter": "Android Dev",
+        "topics": [
+          "Activity life",
+          "Intent bridge",
+          "Service background",
+          "SQLite storage",
+          "Adapters view"
+        ]
+      },
+      {
+        "chapter": "Hybrid Apps",
+        "topics": [
+          "React Native",
+          "Flutter Dart",
+          "PWA service",
+          "Cordova plugin",
+          "Native modules"
+        ]
+      },
+      {
+        "chapter": "iOS Logic",
+        "topics": [
+          "Swift syntax",
+          "Storyboard UI",
+          "Cocoa pods",
+          "Core data",
+          "App store cycle"
+        ]
+      },
+      {
+        "chapter": "Architecture",
+        "topics": [
+          "MVC pattern",
+          "MVVM logic",
+          "Clean bundle",
+          "Dependency inj",
+          "Unit test app"
+        ]
+      },
+      {
+        "chapter": "Emerging App",
+        "topics": [
+          "AR Core mobile",
+          "Machine learn",
+          "Tensorflow LITE",
+          "Push notify",
+          "Payment gateway"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Information Retrieval",
+    "year": 4,
+    "semester": 7,
+    "chapters": [
+      {
+        "chapter": "Indexing",
+        "topics": [
+          "Inverted index",
+          "Zipf's law",
+          "Stop words",
+          "Lemmatization",
+          "Spelling correct"
+        ]
+      },
+      {
+        "chapter": "Models",
+        "topics": [
+          "Boolean model",
+          "Vector space",
+          "TF-IDF weights",
+          "Cosine similarity",
+          "Probabilistic"
+        ]
+      },
+      {
+        "chapter": "Evaluation",
+        "topics": [
+          "Precision recall",
+          "F-measure",
+          "MAP score",
+          "NDCG ranking",
+          "User feedback"
+        ]
+      },
+      {
+        "chapter": "Web Crawl",
+        "topics": [
+          "Politeness rule",
+          "PageRank math",
+          "HITS algorithm",
+          "Duplicate detect",
+          "Deep web"
+        ]
+      },
+      {
+        "chapter": "NLP Basics",
+        "topics": [
+          "NER tags",
+          "Sentiment analysis",
+          "Transformer IR",
+          "BERT semantic",
+          "Vector DB"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Cyber Ethics",
+    "year": 4,
+    "semester": 8,
+    "chapters": [
+      {
+        "chapter": "Legal Framework",
+        "topics": [
+          "IT Act 2000",
+          "GDPR laws",
+          "IPR patents",
+          "Copyright act",
+          "Terms of service"
+        ]
+      },
+      {
+        "chapter": "Sustainability",
+        "topics": [
+          "Waste E-waste",
+          "Green computing",
+          "Carbon footprint",
+          "Server heat",
+          "Device recycle"
+        ]
+      },
+      {
+        "chapter": "Workplace",
+        "topics": [
+          "Privacy policy",
+          "NDA agreements",
+          "Whistleblow",
+          "Remote work",
+          "Freelance gig"
+        ]
+      },
+      {
+        "chapter": "AI Bias",
+        "topics": [
+          "Algorithmic bias",
+          "Face recognition",
+          "Profiling logic",
+          "Moral Turing",
+          "Explainable AI"
+        ]
+      },
+      {
+        "chapter": "Future Ethics",
+        "topics": [
+          "Brain interface",
+          "Transhumanism",
+          "Virtual persona",
+          "Digital estate",
+          "Autonomous ethic"
+        ]
+      }
+    ]
+  }
+]

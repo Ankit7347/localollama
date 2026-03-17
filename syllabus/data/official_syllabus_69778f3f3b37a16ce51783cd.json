@@ -1,0 +1,930 @@
+[
+  {
+    "subject": "Mathematics",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Rational and Irrational Numbers",
+        "topics": [
+          "Rational numbers properties",
+          "Irrational numbers concept",
+          "Representation on number line",
+          "Surds and their properties",
+          "Rationalization of denominator"
+        ]
+      },
+      {
+        "chapter": "Compound Interest",
+        "topics": [
+          "Review of Simple Interest",
+          "Compound Interest without formula",
+          "Compound Interest using formula",
+          "Growth and Depreciation",
+          "Population growth problems"
+        ]
+      },
+      {
+        "chapter": "Expansions",
+        "topics": [
+          "Expansion of (a±b)^2",
+          "Expansion of (a±b)^3",
+          "Expansion of (a+b+c)^2",
+          "Finding value of algebraic expressions",
+          "Application of identities"
+        ]
+      },
+      {
+        "chapter": "Factorisation",
+        "topics": [
+          "Taking out common factors",
+          "Grouping of terms",
+          "Difference of two squares",
+          "Sum or difference of two cubes",
+          "Splitting the middle term"
+        ]
+      },
+      {
+        "chapter": "Simultaneous Linear Equations",
+        "topics": [
+          "Method of Substitution",
+          "Method of Elimination",
+          "Method of Cross Multiplication",
+          "Equations reducible to linear form",
+          "Word problems"
+        ]
+      },
+      {
+        "chapter": "Indices",
+        "topics": [
+          "Laws of Indices",
+          "Zero exponent and negative integral exponents",
+          "Fractional exponents",
+          "Solving equations involving indices",
+          "Simplification of expressions"
+        ]
+      },
+      {
+        "chapter": "Logarithms",
+        "topics": [
+          "Concept of Logarithm",
+          "Laws of Logarithms",
+          "Interconversion of logarithmic and exponential forms",
+          "Common Logarithms",
+          "Solving equations using logarithms"
+        ]
+      },
+      {
+        "chapter": "Triangles",
+        "topics": [
+          "Congruency conditions (SSS, SAS, ASA, RHS)",
+          "Properties of Isosceles triangles",
+          "Inequalities in triangles",
+          "Mid-point Theorem",
+          "Converse of Mid-point Theorem"
+        ]
+      },
+      {
+        "chapter": "Pythagoras Theorem",
+        "topics": [
+          "Statement and proof of Pythagoras Theorem",
+          "Converse of Pythagoras Theorem",
+          "Applications in 2D figures",
+          "Finding length of diagonal",
+          "Word problems"
+        ]
+      },
+      {
+        "chapter": "Rectilinear Figures",
+        "topics": [
+          "Properties of quadrilaterals",
+          "Parallelogram properties",
+          "Rhombus, Rectangle, Square",
+          "Trapezium and Kite",
+          "Condition for a quadrilateral to be a parallelogram"
+        ]
+      },
+      {
+        "chapter": "Theorems on Area",
+        "topics": [
+          "Figures on the same base and between same parallels",
+          "Area of parallelograms",
+          "Area of triangles",
+          "Proof of area theorems",
+          "Applications of area theorems"
+        ]
+      },
+      {
+        "chapter": "Circle",
+        "topics": [
+          "Terms related to circle",
+          "Properties of chords",
+          "Perpendicular from centre to chord",
+          "Equal chords and their distance from centre",
+          "Angles subtended by arcs"
+        ]
+      },
+      {
+        "chapter": "Statistics",
+        "topics": [
+          "Collection and presentation of data",
+          "Frequency distribution tables",
+          "Mean of ungrouped data",
+          "Median of ungrouped data",
+          "Graphical representation (Histogram, Frequency Polygon)"
+        ]
+      },
+      {
+        "chapter": "Mensuration",
+        "topics": [
+          "Area and perimeter of Triangles",
+          "Heron's Formula",
+          "Area and perimeter of Quadrilaterals",
+          "Area and circumference of Circle",
+          "Surface area and volume of Cube and Cuboid"
+        ]
+      },
+      {
+        "chapter": "Trigonometry",
+        "topics": [
+          "Trigonometric Ratios (sin, cos, tan)",
+          "Reciprocal ratios",
+          "Trigonometric ratios of standard angles (0, 30, 45, 60, 90)",
+          "Simple 2D problems using Right Angled Triangle",
+          "Relation between trigonometric ratios"
+        ]
+      },
+      {
+        "chapter": "Coordinate Geometry",
+        "topics": [
+          "Cartesian Plane system",
+          "Plotting of points",
+          "Distance formula concept",
+          "Graphical solution of linear equations",
+          "Determining equation of a line"
+        ]
+      },
+      {
+        "chapter": "Probability",
+        "topics": [
+          "Concept of Probability",
+          "Random experiments",
+          "Sample space",
+          "Event",
+          "Probability of an event"
+        ]
+      },
+      {
+        "chapter": "Graphic Solutions",
+        "topics": [
+          "Solution of simultaneous linear equations graphically",
+          "Distance-time graphs",
+          "Velocity-time graphs",
+          "Reading and interpreting graphs",
+          "Applications"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Physics",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Measurements and Experimentation",
+        "topics": [
+          "Systems of units (SI)",
+          "Measurement of length (Vernier Caliper, Micrometer)",
+          "Measurement of mass and time",
+          "Simple Pendulum",
+          "Significant figures"
+        ]
+      },
+      {
+        "chapter": "Motion in One Dimension",
+        "topics": [
+          "Rest and Motion",
+          "Distance and Displacement",
+          "Speed and Velocity",
+          "Acceleration and Retardation",
+          "Equations of motion"
+        ]
+      },
+      {
+        "chapter": "Laws of Motion",
+        "topics": [
+          "Contact and non-contact forces",
+          "Newton's First Law (Inertia)",
+          "Newton's Second Law (F=ma)",
+          "Newton's Third Law",
+          "Universal Law of Gravitation"
+        ]
+      },
+      {
+        "chapter": "Pressure in Fluids and Atmospheric Pressure",
+        "topics": [
+          "Thrust and Pressure",
+          "Pressure in liquids",
+          "Pascal's Law",
+          "Atmospheric pressure and its measurement",
+          "Barometer (Simple and Fortin's)"
+        ]
+      },
+      {
+        "chapter": "Upthrust in Fluids, Archimedes' Principle and Floatation",
+        "topics": [
+          "Buoyancy and Upthrust",
+          "Archimedes' Principle",
+          "Relative density",
+          "Law of floatation",
+          "Plimsoll line"
+        ]
+      },
+      {
+        "chapter": "Heat and Energy",
+        "topics": [
+          "Heat and temperature",
+          "Anomalous expansion of water",
+          "Global warming and Green House effect",
+          "Energy flow and conservation",
+          "Sources of energy"
+        ]
+      },
+      {
+        "chapter": "Reflection of Light",
+        "topics": [
+          "Laws of reflection",
+          "Formation of image by plane mirror",
+          "Spherical mirrors",
+          "Image formation by spherical mirrors",
+          "Magnification and sign convention"
+        ]
+      },
+      {
+        "chapter": "Propagation of Sound Waves",
+        "topics": [
+          "Production and propagation of sound",
+          "Transverse and longitudinal waves",
+          "Terms related to waves (amplitude, frequency, wavelength)",
+          "Speed of sound in different media",
+          "Infrasonic and Ultrasonic sound"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Chemistry",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "The Language of Chemistry",
+        "topics": [
+          "Symbols of elements",
+          "Valency and radicals",
+          "Chemical formulae writing",
+          "Chemical equations and balancing",
+          "Atomic weight and Molecular weight"
+        ]
+      },
+      {
+        "chapter": "Chemical Changes and Reactions",
+        "topics": [
+          "Types of chemical changes",
+          "Direct combination and decomposition",
+          "Displacement and double decomposition",
+          "Energy changes in chemical reactions",
+          "Characteristics of chemical reactions"
+        ]
+      },
+      {
+        "chapter": "Water",
+        "topics": [
+          "Water as a universal solvent",
+          "Solutions (saturated, unsaturated, supersaturated)",
+          "Solubility and its variation with temperature",
+          "Hard and soft water",
+          "Methods to remove hardness"
+        ]
+      },
+      {
+        "chapter": "Atomic Structure and Chemical Bonding",
+        "topics": [
+          "Structure of atom (electrons, protons, neutrons)",
+          "Atomic number, mass number, isotopes",
+          "Electronic configuration (up to atomic number 20)",
+          "Electrovalent (Ionic) bonding",
+          "Covalent bonding"
+        ]
+      },
+      {
+        "chapter": "The Periodic Table",
+        "topics": [
+          "Dobereiner's Triads, Newlands' Octaves",
+          "Mendeleev's Periodic Table",
+          "Modern Periodic Table structure",
+          "Groups and Periods",
+          "Periodicity in properties"
+        ]
+      },
+      {
+        "chapter": "Study of the First Element - Hydrogen",
+        "topics": [
+          "Position of hydrogen in periodic table",
+          "Laboratory preparation of hydrogen",
+          "Industrial manufacture (Bosch process)",
+          "Properties of hydrogen",
+          "Uses of hydrogen and oxidation/reduction"
+        ]
+      },
+      {
+        "chapter": "Study of Gas Laws",
+        "topics": [
+          "Behavior of gases",
+          "Boyle's Law",
+          "Charles's Law",
+          "Gas equation (PV=RT)",
+          "Standard Temperature and Pressure (STP)"
+        ]
+      },
+      {
+        "chapter": "Atmospheric Pollution",
+        "topics": [
+          "Acid rain - causes and impacts",
+          "Global warming and Greenhouse effect",
+          "Ozone depletion",
+          "Air pollutants",
+          "Control of air pollution"
+        ]
+      },
+      {
+        "chapter": "Practical Chemistry",
+        "topics": [
+          "Identification of gases (H2, O2, CO2, Cl2, HCl, SO2, NO2, NH3)",
+          "Action of heat on given substances",
+          "Action of dilute acids on given substances",
+          "Flame tests",
+          "Preparation of simple salts"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Biology",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Cell: The Unit of Life",
+        "topics": [
+          "Cell structure (Plant and Animal)",
+          "Cell organelles and their functions",
+          "Prokaryotic and Eukaryotic cells",
+          "Differences between plant and animal cells",
+          "Cell Cycle and Cell Division"
+        ]
+      },
+      {
+        "chapter": "Tissues: Plant and Animal Tissues",
+        "topics": [
+          "Meristematic and Permanent plant tissues",
+          "Epithelial tissue",
+          "Connective tissue",
+          "Muscular tissue",
+          "Nervous tissue"
+        ]
+      },
+      {
+        "chapter": "The Flower",
+        "topics": [
+          "Structure of a typical flower",
+          "Functions of floral parts",
+          "Different types of flowers (Complete, Incomplete)",
+          "Placentation",
+          "Inflorescence"
+        ]
+      },
+      {
+        "chapter": "Pollination and Fertilization",
+        "topics": [
+          "Self and Cross pollination",
+          "Agents of pollination",
+          "Fertilization process in plants",
+          "Double fertilization",
+          "Formation of fruit and seed"
+        ]
+      },
+      {
+        "chapter": "Seeds Structure and Germination",
+        "topics": [
+          "Structure of Dicot seed (Bean)",
+          "Structure of Monocot seed (Maize)",
+          "Types of germination (Epigeal, Hypogeal)",
+          "Conditions necessary for germination",
+          "Experiments on germination"
+        ]
+      },
+      {
+        "chapter": "Respiration in Plants",
+        "topics": [
+          "Aerobic and Anaerobic respiration",
+          "Respiration vs Photosynthesis",
+          "Experiments to demonstrate respiration",
+          "Heat production during respiration",
+          "Respiration in roots, stems, and leaves"
+        ]
+      },
+      {
+        "chapter": "Five Kingdom Classification",
+        "topics": [
+          "Basis of classification",
+          "Monera and Protista",
+          "Fungi and Plantae",
+          "Animalia",
+          "Economic importance of Bacteria and Fungi"
+        ]
+      },
+      {
+        "chapter": "Economic Importance of Bacteria and Fungi",
+        "topics": [
+          "Useful role of bacteria (Agriculture, Industry)",
+          "Harmful role of bacteria (Diseases, Food spoilage)",
+          "Useful role of fungi (Bakeries, Breweries, Medicine)",
+          "Harmful role of fungi",
+          "Antibiotics and Vaccines"
+        ]
+      },
+      {
+        "chapter": "Nutrition",
+        "topics": [
+          "Classes of food (Carbohydrates, Proteins, Fats)",
+          "Vitamins and Minerals",
+          "Water and Roughage",
+          "Balanced Diet",
+          "Malnutrition and Deficiency diseases"
+        ]
+      },
+      {
+        "chapter": "Digestive System",
+        "topics": [
+          "Human alimentary canal",
+          "Digestive glands and enzymes",
+          "Digestion of carbohydrates, proteins, fats",
+          "Absorption and assimilation",
+          "Dental caries"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "History & Civics",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "The Harappan Civilisation",
+        "topics": [
+          "Sources of Information",
+          "Extent and Origin",
+          "Urban Planning",
+          "Society and Religion",
+          "Decline of the Civilisation"
+        ]
+      },
+      {
+        "chapter": "The Vedic Period",
+        "topics": [
+          "Sources (Vedas, Epics)",
+          "Early Vedic Society and Economy",
+          "Later Vedic Society and Economy",
+          "Religion and Philosophy",
+          "Impact of Vedic Culture"
+        ]
+      },
+      {
+        "chapter": "Jainism and Buddhism",
+        "topics": [
+          "Causes for the rise of Jainism and Buddhism",
+          "Life and Teachings of Mahavira",
+          "Life and Teachings of Buddha",
+          "Spread and Decline of both religions",
+          "Impact on Indian culture"
+        ]
+      },
+      {
+        "chapter": "The Mauryan Empire",
+        "topics": [
+          "Sources (Arthashastra, Indica, Edicts)",
+          "Chandragupta Maurya and Bindusara",
+          "Ashoka the Great and Kalinga War",
+          "Ashoka's Dhamma",
+          "Mauryan Administration"
+        ]
+      },
+      {
+        "chapter": "The Sangam Age",
+        "topics": [
+          "Sources (Tirukkural, Megaliths)",
+          "Society during Sangam age",
+          "Economy of the Cheras, Cholas, Pandyas",
+          "Culture and Literature",
+          "Trade and Commerce"
+        ]
+      },
+      {
+        "chapter": "The Age of the Guptas",
+        "topics": [
+          "Sources (Allahabad Pillar Inscription, Accounts of Fa Hien)",
+          "Chandragupta I, Samudragupta, Chandragupta II",
+          "Administration",
+          "Golden Age of Art and Architecture",
+          "Science, Literature and Education"
+        ]
+      },
+      {
+        "chapter": "Medieval India: The Cholas",
+        "topics": [
+          "Sources of Information",
+          "Rajaraja I and Rajendra I",
+          "Chola Administration (Local Self-Government)",
+          "Art and Architecture (Brihadeshwara Temple)",
+          "Trade and Overseas Expansion"
+        ]
+      },
+      {
+        "chapter": "The Delhi Sultanate",
+        "topics": [
+          "Qutubuddin Aibak and Iltutmish",
+          "Alauddin Khalji's reforms",
+          "Muhammad Bin Tughlaq's experiments",
+          "Administration under the Sultanate",
+          "Art and Architecture (Qutub Minar)"
+        ]
+      },
+      {
+        "chapter": "The Mughal Empire",
+        "topics": [
+          "Babur and Battle of Panipat",
+          "Akbar's conquests and administration",
+          "Jahangir, Shah Jahan (Art and Architecture)",
+          "Aurangzeb's policies",
+          "Decline of Mughal Empire"
+        ]
+      },
+      {
+        "chapter": "Composite Culture",
+        "topics": [
+          "Bhakti Movement (Kabir, Nanak, Meerabai)",
+          "Sufism (Nizamuddin Auliya)",
+          "Influence of Islam on Indian Culture",
+          "Influence of Hinduism on Islamic Culture",
+          "Indo-Islamic Architecture"
+        ]
+      },
+      {
+        "chapter": "Our Constitution",
+        "topics": [
+          "Making of the Constitution",
+          "Preamble and its objectives",
+          "Features of the Constitution",
+          "Single Citizenship",
+          "Universal Adult Franchise"
+        ]
+      },
+      {
+        "chapter": "Fundamental Rights and Duties",
+        "topics": [
+          "Meaning of Fundamental Rights",
+          "Six Fundamental Rights",
+          "Fundamental Duties",
+          "Importance of Duties",
+          "Restrictions on Rights"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Geography",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Earth as a Planet",
+        "topics": [
+          "Shape and Size of the Earth",
+          "Earth as a unique planet",
+          "Conditions supporting life",
+          "Proofs of Earth's sphericity",
+          "Earth in the Solar System"
+        ]
+      },
+      {
+        "chapter": "Geographic Grid: Latitudes and Longitudes",
+        "topics": [
+          "Concept of Latitudes and Longitudes",
+          "Important lines of Latitude",
+          "Prime Meridian and Longitude",
+          "Local Time and Standard Time",
+          "International Date Line"
+        ]
+      },
+      {
+        "chapter": "Rotation and Revolution",
+        "topics": [
+          "Rotation of Earth and its effects",
+          "Revolution of Earth",
+          "Seasons and their causes",
+          "Equinoxes and Solstices",
+          "Varying lengths of day and night"
+        ]
+      },
+      {
+        "chapter": "Earth's Structure",
+        "topics": [
+          "Core, Mantle, and Crust",
+          "Characteristics of the layers",
+          "Composition of the Earth",
+          "Rocks and their types (Igneous, Sedimentary, Metamorphic)",
+          "Rock Cycle"
+        ]
+      },
+      {
+        "chapter": "Landforms of the Earth",
+        "topics": [
+          "Mountains (Fold, Block, Volcanic)",
+          "Plateaus",
+          "Plains",
+          "Significance of Landforms",
+          "Impact on human life"
+        ]
+      },
+      {
+        "chapter": "Rocks and Rock Cycle",
+        "topics": [
+          "Igneous rocks (formation and characteristics)",
+          "Sedimentary rocks (formation and characteristics)",
+          "Metamorphic rocks (formation and characteristics)",
+          "Economic importance of rocks",
+          "The continuous Rock Cycle"
+        ]
+      },
+      {
+        "chapter": "Volcanoes",
+        "topics": [
+          "Causes of Volcanism",
+          "Types of Volcanoes (Active, Dormant, Extinct)",
+          "Distribution of Volcanoes",
+          "Constructive effects of Volcanoes",
+          "Destructive effects of Volcanoes"
+        ]
+      },
+      {
+        "chapter": "Earthquakes",
+        "topics": [
+          "Causes of Earthquakes",
+          "Measurement (Richter Scale, Seismograph)",
+          "Distribution of Earthquakes",
+          "Effects of Earthquakes",
+          "Safety measures"
+        ]
+      },
+      {
+        "chapter": "Weathering and Denudation",
+        "topics": [
+          "Concept of Weathering and Denudation",
+          "Physical Weathering",
+          "Chemical Weathering",
+          "Biological Weathering",
+          "Mass Wasting"
+        ]
+      },
+      {
+        "chapter": "Tides and Ocean Currents",
+        "topics": [
+          "Causes of tides",
+          "Spring and Neap tides",
+          "Types of ocean currents",
+          "Factors affecting ocean currents",
+          "Effects of ocean currents on climate"
+        ]
+      },
+      {
+        "chapter": "Hydrosphere",
+        "topics": [
+          "Distribution of water on Earth",
+          "Oceans, Seas, Gulfs, Bays",
+          "Importance of Oceans",
+          "Ocean Temperature and Salinity",
+          "Water cycle"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "English",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Merchant of Venice - Act I",
+        "topics": [
+          "Antonio's melancholy",
+          "Bassanio's request",
+          "Portia's suitors",
+          "The bond with Shylock",
+          "Character analysis of Antonio and Shylock"
+        ]
+      },
+      {
+        "chapter": "Merchant of Venice - Act II",
+        "topics": [
+          "The Prince of Morocco's choice",
+          "Jessica's elopement",
+          "Launcelot Gobbo's role",
+          "The Prince of Arragon's choice",
+          "Theft of Shylock's wealth"
+        ]
+      },
+      {
+        "chapter": "Merchant of Venice - Act III",
+        "topics": [
+          "Shylock's passion for revenge",
+          "Bassanio's successful choice of casket",
+          "Portia's plan to save Antonio",
+          "The role of the rings",
+          "Theme of justice and mercy"
+        ]
+      },
+      {
+        "chapter": "Treasure Trove - Short Stories",
+        "topics": [
+          "Chief Seattle's Speech",
+          "Old Man at the Bridge",
+          "A Horse and Two Goats",
+          "Hearts and Hands",
+          "A Face in the Dark"
+        ]
+      },
+      {
+        "chapter": "Treasure Trove - Poems",
+        "topics": [
+          "The Heart of the Tree",
+          "The Cold Within",
+          "The Bangle Sellers",
+          "After Blenheim",
+          "Television"
+        ]
+      },
+      {
+        "chapter": "Composition Skills",
+        "topics": [
+          "Narrative Essay",
+          "Descriptive Essay",
+          "Argumentative Essay",
+          "Short Story Writing",
+          "Picture Composition"
+        ]
+      },
+      {
+        "chapter": "Letter Writing",
+        "topics": [
+          "Formal Letters",
+          "Informal Letters",
+          "Format of Letters",
+          "Tone and Register",
+          "Common errors in Letter Writing"
+        ]
+      },
+      {
+        "chapter": "Notice and Email Writing",
+        "topics": [
+          "Format of a Notice",
+          "Drafting Notices for School Events",
+          "Format of an Email",
+          "Writing Formal Emails",
+          "Clarity and Conciseness"
+        ]
+      },
+      {
+        "chapter": "Comprehension",
+        "topics": [
+          "Reading Unseen Passages",
+          "Answering Questions concisely",
+          "Vocabulary from the passage",
+          "Summary Writing (Precis)",
+          "Drafting grid for summary"
+        ]
+      },
+      {
+        "chapter": "Applied Grammar",
+        "topics": [
+          "Tenses",
+          "Prepositions",
+          "Conjunctions",
+          "Transformation of Sentences",
+          "Synthesis of Sentences"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Hindi",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Sahitya Sagar - Kahaniyan",
+        "topics": [
+          "Baat Athanni Ki",
+          "Kaki",
+          "Maha Yagya Ka Puraskar",
+          "Netaji Ka Chashma",
+          "Apna Apna Bhagya"
+        ]
+      },
+      {
+        "chapter": "Sahitya Sagar - Kahani Samiksha",
+        "topics": [
+          "Bade Ghar Ki Beti",
+          "Bheed Me Khoya Aadmi",
+          "Bhed Aur Bhediye",
+          "Do Kalakar",
+          "Sandeha"
+        ]
+      },
+      {
+        "chapter": "Sahitya Sagar - Kavitaayein",
+        "topics": [
+          "Sakhi (Kabir Das)",
+          "Girdhar Ki Kundaliyan",
+          "Swarg Bana Sakte Hain",
+          "Wah Janmabhoomi Meri",
+          "Megh Aaye"
+        ]
+      },
+      {
+        "chapter": "Sahitya Sagar - Kavya Samiksha",
+        "topics": [
+          "Sur Ke Pad",
+          "Vinay Ke Pad",
+          "Bhikshuk",
+          "Chaldiye",
+          "Matribhoomi"
+        ]
+      },
+      {
+        "chapter": "Naya Rasta (Novel)",
+        "topics": [
+          "Adhyay 1 se 10",
+          "Meenu Ka Charitra Chitran",
+          "Amit Ka Charitra Chitran",
+          "Samajik Samasyaein",
+          "Upanyas Ka Uddeshya"
+        ]
+      },
+      {
+        "chapter": "Ekanki Suman",
+        "topics": [
+          "Sanskar Aur Bhavna",
+          "Bahu Ki Vida",
+          "Matribhoomi Ka Maan",
+          "Sukhi Daali",
+          "Mahabharat Ki Ek Sanjh"
+        ]
+      },
+      {
+        "chapter": "Vyakaran: Shabda Bhed",
+        "topics": [
+          "Paryayvachi Shabd",
+          "Vilom Shabd",
+          "Anek Shabdon Ke Liye Ek Shabd",
+          "Shrutisam Bhinnarthak Shabd",
+          "Tatsam Aur Tadbhav"
+        ]
+      },
+      {
+        "chapter": "Vyakaran: Vakya aur Muhavare",
+        "topics": [
+          "Vakya Parivartan",
+          "Vakya Shuddhi",
+          "Muhavare Aur Unka Prayog",
+          "Lokoktiyan",
+          "Ling Aur Vachan"
+        ]
+      },
+      {
+        "chapter": "Rachna: Patra Lekhan",
+        "topics": [
+          "Anaupcharik Patra Format",
+          "Aupcharik Patra Format",
+          "Sampadak Ko Patra",
+          "Pradhanacharya Ko Patra",
+          "Mitra/Parivar Ko Patra"
+        ]
+      },
+      {
+        "chapter": "Rachna: Nibandh Lekhan",
+        "topics": [
+          "Varnanatmak Nibandh",
+          "Vicharatmak Nibandh",
+          "Bhavatmak Nibandh",
+          "Prastavna Aur Upansanhar",
+          "Chitra Aadharit Lekhan"
+        ]
+      }
+    ]
+  }
+]

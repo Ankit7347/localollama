@@ -1,0 +1,890 @@
+[
+  {
+    "subject": "Mathematics",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Sets and Functions",
+        "topics": [
+          "Sets and their representations",
+          "Types of sets and Subsets",
+          "Venn diagrams and operations on sets",
+          "Relations and Functions",
+          "Domain, Codomain, and Range"
+        ]
+      },
+      {
+        "chapter": "Trigonometry",
+        "topics": [
+          "Angles and their measures (radians/degrees)",
+          "Trigonometric functions and their properties",
+          "Trigonometric functions of sum and difference of two angles",
+          "Trigonometric Equations",
+          "Properties of Triangles"
+        ]
+      },
+      {
+        "chapter": "Algebra: Complex Numbers and Quadratic Equations",
+        "topics": [
+          "Concept of iota and complex numbers",
+          "Algebra of complex numbers",
+          "Argand plane and polar representation",
+          "Fundamental Theorem of Algebra",
+          "Roots of a quadratic equation"
+        ]
+      },
+      {
+        "chapter": "Algebra: Permutations and Combinations",
+        "topics": [
+          "Fundamental principle of counting",
+          "Factorial notation",
+          "Permutations calculation",
+          "Combinations calculation",
+          "Applications to simple problems"
+        ]
+      },
+      {
+        "chapter": "Sequence and Series",
+        "topics": [
+          "Arithmetic Progression (A.P.)",
+          "Geometric Progression (G.P.)",
+          "General term and sum to n terms",
+          "Arithmetic Mean (A.M.) and Geometric Mean (G.M.)",
+          "Sum to infinity of a G.P."
+        ]
+      },
+      {
+        "chapter": "Coordinate Geometry: Straight Lines",
+        "topics": [
+          "Slope of a line and angle between two lines",
+          "Various forms of equations of a line",
+          "General equation of a line",
+          "Distance of a point from a line",
+          "Family of lines"
+        ]
+      },
+      {
+        "chapter": "Coordinate Geometry: Conic Sections",
+        "topics": [
+          "Sections of a cone",
+          "Equations of Circle and Parabola",
+          "Equations of Ellipse and Hyperbola",
+          "Standard equations and properties",
+          "Latus rectum and eccentricity"
+        ]
+      },
+      {
+        "chapter": "Calculus: Limits and Derivatives",
+        "topics": [
+          "Intuitive idea of limit",
+          "Limits of polynomials and rational functions",
+          "Limits of trigonometric functions",
+          "Derivative introduced as rate of change",
+          "Derivative of polynomials and trigonometric functions"
+        ]
+      },
+      {
+        "chapter": "Statistics",
+        "topics": [
+          "Measure of dispersion",
+          "Mean deviation",
+          "Variance",
+          "Standard deviation",
+          "Analysis of frequency distributions"
+        ]
+      },
+      {
+        "chapter": "Probability",
+        "topics": [
+          "Random experiments and sample space",
+          "Events and occurrence of events",
+          "Axiomatic approach to probability",
+          "Addition theorem of probability",
+          "Mutually exclusive and exhaustive events"
+        ]
+      },
+      {
+        "chapter": "Mathematical Reasoning",
+        "topics": [
+          "Statements and logical operations",
+          "Implications and equivalence",
+          "Validating statements",
+          "Understanding truth tables",
+          "Evaluating compound statements"
+        ]
+      },
+      {
+        "chapter": "Linear Inequalities",
+        "topics": [
+          "Linear inequalities in one variable",
+          "Algebraic solutions and number line",
+          "Graphical representation of inequalities",
+          "Linear inequalities in two variables",
+          "System of linear inequalities"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Physics",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Physical World and Measurement",
+        "topics": [
+          "Scope of Physics",
+          "Systems of units and SI Units",
+          "Significant figures",
+          "Dimensions of physical quantities",
+          "Dimensional analysis and applications"
+        ]
+      },
+      {
+        "chapter": "Kinematics",
+        "topics": [
+          "Motion in a straight line",
+          "Position-time and velocity-time graphs",
+          "Equations of kinematics",
+          "Scalars and Vectors",
+          "Projectile motion"
+        ]
+      },
+      {
+        "chapter": "Laws of Motion",
+        "topics": [
+          "Newton's laws of motion",
+          "Law of conservation of linear momentum",
+          "Friction (Static and Kinetic)",
+          "Laws of friction",
+          "Uniform circular motion dynamics"
+        ]
+      },
+      {
+        "chapter": "Work, Energy and Power",
+        "topics": [
+          "Work done by constant/variable force",
+          "Kinetic and Potential energy",
+          "Work-energy theorem",
+          "Conservation of mechanical energy",
+          "Elastic and inelastic collisions"
+        ]
+      },
+      {
+        "chapter": "Motion of System of Particles and Rigid Body",
+        "topics": [
+          "Centre of mass",
+          "Moment of force (Torque)",
+          "Angular momentum and conservation",
+          "Moment of inertia",
+          "Radius of gyration"
+        ]
+      },
+      {
+        "chapter": "Gravitation",
+        "topics": [
+          "Kepler's laws of planetary motion",
+          "Universal law of gravitation",
+          "Acceleration due to gravity",
+          "Gravitational potential energy",
+          "Escape velocity and Orbital velocity"
+        ]
+      },
+      {
+        "chapter": "Properties of Bulk Matter",
+        "topics": [
+          "Elastic behavior (Stress and Strain)",
+          "Hooke's law and Young's modulus",
+          "Fluid pressure and Pascal's law",
+          "Bernoulli's principle",
+          "Surface tension and viscosity"
+        ]
+      },
+      {
+        "chapter": "Heat and Thermodynamics",
+        "topics": [
+          "Thermal expansion and Specific heat",
+          "First law of thermodynamics",
+          "Isothermal and adiabatic processes",
+          "Second law of thermodynamics",
+          "Heat engines and refrigerators"
+        ]
+      },
+      {
+        "chapter": "Behavior of Perfect Gases and Kinetic Theory",
+        "topics": [
+          "Equation of state of a perfect gas",
+          "Kinetic theory postulates",
+          "Concept of pressure",
+          "Kinetic interpretation of temperature",
+          "Degrees of freedom and equipartition of energy"
+        ]
+      },
+      {
+        "chapter": "Oscillations and Waves",
+        "topics": [
+          "Simple harmonic motion (SHM)",
+          "Energy in SHM",
+          "Wave motion (Transverse and Longitudinal)",
+          "Speed of travelling wave",
+          "Superposition of waves and standing waves"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Chemistry",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Some Basic Concepts of Chemistry",
+        "topics": [
+          "Laws of chemical combination",
+          "Dalton's atomic theory",
+          "Atomic and molecular masses",
+          "Mole concept and molar mass",
+          "Stoichiometry and calculations"
+        ]
+      },
+      {
+        "chapter": "Structure of Atom",
+        "topics": [
+          "Discovery of Subatomic Particles",
+          "Bohr's model and its limitations",
+          "Dual nature of matter and light",
+          "Quantum mechanical model",
+          "Electronic configurations (Aufbau, Pauli, Hund)"
+        ]
+      },
+      {
+        "chapter": "Classification of Elements and Periodicity",
+        "topics": [
+          "Modern periodic law",
+          "Types of elements (s, p, d, f blocks)",
+          "Periodic trends in properties",
+          "Atomic radii and ionic radii",
+          "Ionization enthalpy and electron gain enthalpy"
+        ]
+      },
+      {
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "topics": [
+          "Ionic and Covalent Bonds",
+          "VSEPR Theory",
+          "Valence Bond Theory",
+          "Hybridization involving s, p and d orbitals",
+          "Molecular Orbital Theory"
+        ]
+      },
+      {
+        "chapter": "States of Matter: Gases and Liquids",
+        "topics": [
+          "Intermolecular forces",
+          "Gas laws (Boyle, Charles, Gay Lussac)",
+          "Ideal gas equation",
+          "Kinetic molecular theory of gases",
+          "Vapour pressure, viscosity, surface tension"
+        ]
+      },
+      {
+        "chapter": "Chemical Thermodynamics",
+        "topics": [
+          "Concepts of system and surroundings",
+          "Work, heat, energy, enthalpy",
+          "First law of thermodynamics",
+          "Hess's law of constant heat summation",
+          "Entropy and Gibbs energy change"
+        ]
+      },
+      {
+        "chapter": "Equilibrium",
+        "topics": [
+          "Equilibrium in physical and chemical processes",
+          "Law of mass action and Equilibrium constant",
+          "Le Chatelier's principle",
+          "Ionic equilibrium (Acids, Bases, Salts)",
+          "pH and Buffer solutions"
+        ]
+      },
+      {
+        "chapter": "Redox Reactions",
+        "topics": [
+          "Concept of oxidation and reduction",
+          "Oxidation number",
+          "Balancing redox reactions",
+          "Applications of redox reactions",
+          "Electrochemical cells basics"
+        ]
+      },
+      {
+        "chapter": "Hydrogen",
+        "topics": [
+          "Position of hydrogen in periodic table",
+          "Isotopes of hydrogen",
+          "Preparation and properties of hydrogen",
+          "Hydrides (Ionic, covalent, interstitial)",
+          "Water and Hydrogen Peroxide"
+        ]
+      },
+      {
+        "chapter": "s-Block Elements",
+        "topics": [
+          "Alkali metals properties",
+          "Alkaline earth metals properties",
+          "Anomalous behavior of first element",
+          "Important compounds of sodium and calcium",
+          "Biological importance of Na, K, Mg, Ca"
+        ]
+      },
+      {
+        "chapter": "Some p-Block Elements",
+        "topics": [
+          "Group 13 elements properties",
+          "Important compounds of Boron",
+          "Group 14 elements properties",
+          "Allotropes of Carbon",
+          "Compounds of Silicon"
+        ]
+      },
+      {
+        "chapter": "Organic Chemistry - Basic Principles and Techniques",
+        "topics": [
+          "Tetravalence of carbon",
+          "IUPAC nomenclature",
+          "Isomerism",
+          "Fundamental concepts in reaction mechanism",
+          "Methods of purification and analysis"
+        ]
+      },
+      {
+        "chapter": "Hydrocarbons",
+        "topics": [
+          "Classification of hydrocarbons",
+          "Alkanes (Preparation and properties)",
+          "Alkenes (Preparation and properties)",
+          "Alkynes (Preparation and properties)",
+          "Aromatic hydrocarbons (Benzene)"
+        ]
+      },
+      {
+        "chapter": "Environmental Chemistry",
+        "topics": [
+          "Environmental pollution",
+          "Atmospheric pollution (Tropospheric and Stratospheric)",
+          "Acid rain",
+          "Water pollution",
+          "Green chemistry strategies"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Biology",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Diversity of Living Organisms",
+        "topics": [
+          "Taxonomy and Systematics",
+          "Five kingdom classification",
+          "Plant Kingdom (Algae, Bryophytes, Pteridophytes)",
+          "Animal Kingdom (Non-chordates)",
+          "Animal Kingdom (Chordates)"
+        ]
+      },
+      {
+        "chapter": "Structural Organisation in Animals and Plants",
+        "topics": [
+          "Morphology of flowering plants",
+          "Anatomy of flowering plants",
+          "Animal tissues",
+          "Morphology of earthworm",
+          "Morphology of cockroach and frog"
+        ]
+      },
+      {
+        "chapter": "Cell Structure and Function",
+        "topics": [
+          "Cell theory and cell as basic unit of life",
+          "Structure of prokaryotic and eukaryotic cells",
+          "Cell organelles (Plastids, Mitochondria, ER)",
+          "Biomolecules (Proteins, Carbohydrates, Lipids)",
+          "Cell cycle and Cell division (Mitosis/Meiosis)"
+        ]
+      },
+      {
+        "chapter": "Plant Physiology: Transport and Nutrition",
+        "topics": [
+          "Transport in plants (Diffusion, Osmosis)",
+          "Absorption of water and Ascent of sap",
+          "Transpiration mechanism",
+          "Mineral nutrition (Macronutrients/Micronutrients)",
+          "Nitrogen cycle and biological nitrogen fixation"
+        ]
+      },
+      {
+        "chapter": "Plant Physiology: Photosynthesis and Respiration",
+        "topics": [
+          "Photosynthesis site and pigments",
+          "Light and Dark reactions",
+          "Cellular respiration (Glycolysis, Krebs cycle)",
+          "Electron Transport System (ETS)",
+          "Plant growth and development (Hormones)"
+        ]
+      },
+      {
+        "chapter": "Human Physiology: Digestion and Respiration",
+        "topics": [
+          "Alimentary canal and digestive glands",
+          "Digestion and absorption of food",
+          "Nutritional disorders",
+          "Respiratory organs in animals",
+          "Mechanism of breathing and gas exchange"
+        ]
+      },
+      {
+        "chapter": "Human Physiology: Circulation and Excretion",
+        "topics": [
+          "Composition of blood and lymph",
+          "Human circulatory system structure",
+          "Cardiac cycle and ECG",
+          "Human excretory system structure",
+          "Urine formation and osmoregulation"
+        ]
+      },
+      {
+        "chapter": "Human Physiology: Locomotion and Movement",
+        "topics": [
+          "Types of movement (Ciliary, Flagellar, Muscular)",
+          "Skeletal muscle structure and contraction",
+          "Skeletal system and its functions",
+          "Joints and their types",
+          "Disorders of muscular and skeletal system"
+        ]
+      },
+      {
+        "chapter": "Human Physiology: Neural Control",
+        "topics": [
+          "Neuron and Nerves",
+          "Generation and conduction of nerve impulse",
+          "Central nervous system (Brain, Spinal Cord)",
+          "Reflex action and Reflex arc",
+          "Sensory perception (Eye, Ear)"
+        ]
+      },
+      {
+        "chapter": "Human Physiology: Chemical Coordination",
+        "topics": [
+          "Endocrine glands and hormones",
+          "Human endocrine system",
+          "Mechanism of hormone action",
+          "Role of hormones as messengers",
+          "Hypo and hyperactivity disorders"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Accounts",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Introduction to Accounting",
+        "topics": [
+          "Meaning and objectives of Accounting",
+          "Accounting information users",
+          "Basic accounting terms",
+          "Accounting concepts and conventions",
+          "Accounting Standards and IFRS"
+        ]
+      },
+      {
+        "chapter": "Theory Base of Accounting",
+        "topics": [
+          "Double entry system",
+          "Bases of accounting (Cash vs Accrual)",
+          "Accounting equation",
+          "Rules of debit and credit",
+          "Source documents and vouchers"
+        ]
+      },
+      {
+        "chapter": "Recording of Transactions",
+        "topics": [
+          "Journal and Ledger",
+          "Cash Book (Single and Double Column)",
+          "Petty Cash Book",
+          "Purchases and Sales Journal",
+          "Purchases Return and Sales Return Journal"
+        ]
+      },
+      {
+        "chapter": "Bank Reconciliation Statement",
+        "topics": [
+          "Need and preparation",
+          "Causes of difference",
+          "Preparation without evaluating Cash Book",
+          "Preparation with amended Cash Book",
+          "Bank overdraft scenarios"
+        ]
+      },
+      {
+        "chapter": "Depreciation, Provisions and Reserves",
+        "topics": [
+          "Concept and causes of Depreciation",
+          "Straight line method",
+          "Written down value method",
+          "Provisions vs Reserves",
+          "Types of Reserves"
+        ]
+      },
+      {
+        "chapter": "Trial Balance and Rectification of Errors",
+        "topics": [
+          "Meaning and objectives of Trial Balance",
+          "Preparation of Trial Balance",
+          "Errors not affecting Trial Balance",
+          "Errors affecting Trial Balance",
+          "Suspense Account"
+        ]
+      },
+      {
+        "chapter": "Financial Statements of Sole Proprietorship",
+        "topics": [
+          "Meaning and objectives",
+          "Trading and Profit & Loss Account",
+          "Balance Sheet",
+          "Grouping and Marshalling",
+          "Operating profit calculation"
+        ]
+      },
+      {
+        "chapter": "Adjustments in Preparation of Financial Statements",
+        "topics": [
+          "Closing stock and Outstanding expenses",
+          "Prepaid expenses and Accrued income",
+          "Depreciation and Bad Debts",
+          "Provision for Doubtful Debts",
+          "Manager's commission"
+        ]
+      },
+      {
+        "chapter": "Accounts from Incomplete Records",
+        "topics": [
+          "Meaning and Features (Single Entry System)",
+          "Reasons for keeping incomplete records",
+          "Statement of Affairs method",
+          "Conversion into Double Entry",
+          "Ascertainment of profit/loss"
+        ]
+      },
+      {
+        "chapter": "Computers in Accounting",
+        "topics": [
+          "Introduction to computerised accounting",
+          "Advantages and limitations",
+          "Accounting Information System (AIS)",
+          "Ready-made vs Customised software",
+          "Spreadsheets for accounting applications"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Commerce",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Nature and Purpose of Business",
+        "topics": [
+          "Economic and Non-economic activities",
+          "Meaning and characteristics of Business",
+          "Profession and Employment",
+          "Objectives of Business",
+          "Classification of Business activities"
+        ]
+      },
+      {
+        "chapter": "Forms of Business Organisations",
+        "topics": [
+          "Sole Proprietorship",
+          "Joint Hindu Family Business",
+          "Partnership (Features and Types)",
+          "Cooperative Societies",
+          "Joint Stock Company"
+        ]
+      },
+      {
+        "chapter": "Public, Private and Global Enterprises",
+        "topics": [
+          "Private Sector and Public Sector",
+          "Forms of Public Sector Enterprises",
+          "Departmental Undertakings",
+          "Statutory Corporations and Government Companies",
+          "Multinational Companies (MNCs)"
+        ]
+      },
+      {
+        "chapter": "Business Services",
+        "topics": [
+          "Banking (Types of Bank Accounts)",
+          "Banking Services (Draft, Overdraft, RTGS)",
+          "Insurance (Principles and Types)",
+          "Life, Health, Fire and Marine Insurance",
+          "Postal and Telecom services"
+        ]
+      },
+      {
+        "chapter": "Emerging Modes of Business",
+        "topics": [
+          "E-Business (Scope and Benefits)",
+          "Difference between Traditional and E-Business",
+          "Outsourcing (BPO/KPO)",
+          "Need for outsourcing",
+          "Smart Cards and ATMs"
+        ]
+      },
+      {
+        "chapter": "Social Responsibility of Business and Business Ethics",
+        "topics": [
+          "Concept of social responsibility",
+          "Responsibility towards different interest groups",
+          "Business and Environmental Protection",
+          "Causes of environmental pollution",
+          "Business Ethics concepts"
+        ]
+      },
+      {
+        "chapter": "Sources of Business Finance",
+        "topics": [
+          "Meaning and nature of business finance",
+          "Owner's Funds (Equity/Preference shares)",
+          "Retained Earnings",
+          "Borrowed Funds (Debentures/Bonds)",
+          "Loan from Financial Institutions"
+        ]
+      },
+      {
+        "chapter": "Small Business and Enterprises",
+        "topics": [
+          "Role of Small Business in India",
+          "Government schemes for Small Scale Industries",
+          "National Small Industries Corporation (NSIC)",
+          "District Industrial Centers (DIC)",
+          "Entrepreneurial Development"
+        ]
+      },
+      {
+        "chapter": "Internal Trade",
+        "topics": [
+          "Services of a Wholesaler",
+          "Services of a Retailer",
+          "Types of Retail Trade",
+          "Departmental Stores and Chain Stores",
+          "GST overview in Internal Trade"
+        ]
+      },
+      {
+        "chapter": "International Business",
+        "topics": [
+          "Concept and complex problems of foreign trade",
+          "Export Trade procedures",
+          "Import Trade procedures",
+          "World Trade Organisation (WTO)",
+          "Foreign Trade Promotion measures"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Economics",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Introduction to Microeconomics",
+        "topics": [
+          "Definition and Scope of Economics",
+          "Micro vs Macro Economics",
+          "Central problems of an economy",
+          "Production Possibility Curve (PPC)",
+          "Opportunity Cost"
+        ]
+      },
+      {
+        "chapter": "Consumer's Equilibrium and Demand",
+        "topics": [
+          "Utility concept and Marginal Utility",
+          "Law of Diminishing Marginal Utility",
+          "Indifference Curve Analysis",
+          "Consumer's Equilibrium (Cardinal and Ordinal)",
+          "Demand and Determinants of Demand"
+        ]
+      },
+      {
+        "chapter": "Elasticity of Demand",
+        "topics": [
+          "Price Elasticity of Demand meaning",
+          "Degrees of Price Elasticity",
+          "Measurement of Price Elasticity (Percentage method)",
+          "Measurement of Price Elasticity (Geometric method)",
+          "Factors affecting Elasticity of Demand"
+        ]
+      },
+      {
+        "chapter": "Producer Behavior and Supply",
+        "topics": [
+          "Production Function (Short and Long Run)",
+          "Law of Variable Proportions",
+          "Returns to Scale",
+          "Concepts of Cost (Fixed, Variable, Total, Marginal)",
+          "Supply and Elasticity of Supply"
+        ]
+      },
+      {
+        "chapter": "Forms of Market and Price Determination",
+        "topics": [
+          "Perfect Competition features",
+          "Monopoly features",
+          "Monopolistic Competition features",
+          "Oligopoly features",
+          "Price determination under perfect competition"
+        ]
+      },
+      {
+        "chapter": "Introduction to Statistics",
+        "topics": [
+          "Meaning and Importance of Statistics",
+          "Collection of Data (Primary/Secondary)",
+          "Census and Sample Survey",
+          "Organisation of Data",
+          "Tabular Presentation"
+        ]
+      },
+      {
+        "chapter": "Diagrammatic and Graphic Presentation",
+        "topics": [
+          "Bar Diagrams",
+          "Pie Diagrams",
+          "Histograms",
+          "Polygon and Ogive",
+          "Time Series Graphs"
+        ]
+      },
+      {
+        "chapter": "Measures of Central Tendency",
+        "topics": [
+          "Arithmetic Mean (Simple and Weighted)",
+          "Median",
+          "Mode",
+          "Relationship between Mean, Median, Mode",
+          "Partition Values (Quartiles)"
+        ]
+      },
+      {
+        "chapter": "Measures of Dispersion",
+        "topics": [
+          "Range and Quartile Deviation",
+          "Mean Deviation",
+          "Standard Deviation",
+          "Coefficient of Variation",
+          "Lorenz Curve"
+        ]
+      },
+      {
+        "chapter": "Correlation and Index Numbers",
+        "topics": [
+          "Meaning and types of Correlation",
+          "Karl Pearson's method",
+          "Spearman's Rank Correlation",
+          "Meaning and uses of Index Numbers",
+          "Construction of Price Index Numbers"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "English",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "The Tempest - Act I",
+        "topics": [
+          "The Storm and Shipwreck",
+          "Prospero's History",
+          "Ariel's Role",
+          "Caliban's Nature",
+          "Miranda and Ferdinand's Meeting"
+        ]
+      },
+      {
+        "chapter": "The Tempest - Act II",
+        "topics": [
+          "The Royal Party's Survival",
+          "Gonzalo's Commonwealth",
+          "Antonio and Sebastian's Plot",
+          "Trinculo and Stephano",
+          "Caliban's new masters"
+        ]
+      },
+      {
+        "chapter": "Echoes: Short Stories",
+        "topics": [
+          "Salvatore",
+          "Fritz",
+          "Quality",
+          "The Chinese Statue",
+          "A Gorilla in the Guest Room"
+        ]
+      },
+      {
+        "chapter": "Reverie: Prose",
+        "topics": [
+          "The Story of an Hour",
+          "To Build a Fire",
+          "The Sound Machine",
+          "The Singing Lesson",
+          "B. Wordsworth"
+        ]
+      },
+      {
+        "chapter": "Poetry Appreciation",
+        "topics": [
+          "The Darkling Thrush",
+          "Birches",
+          "Crossing the Bar",
+          "Dover Beach",
+          "We are the Music Makers"
+        ]
+      },
+      {
+        "chapter": "Composition Skills",
+        "topics": [
+          "Argumentative Essays",
+          "Discursive Essays",
+          "Descriptive Essays",
+          "Narrative Essays",
+          "Reflective Essays"
+        ]
+      },
+      {
+        "chapter": "Proposal Writing",
+        "topics": [
+          "Format of a Proposal",
+          "Statement of Objective",
+          "List of measures",
+          "Financial Implications",
+          "Clarity and Persuasion"
+        ]
+      },
+      {
+        "chapter": "Directed Writing",
+        "topics": [
+          "Article Writing",
+          "Book Review",
+          "Film Review",
+          "Speech Writing",
+          "Report Writing"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,890 @@
+[
+  {
+    "subject": "Mathematics",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Relations and Functions",
+        "topics": [
+          "Types of relations (reflexive, symmetric, transitive)",
+          "Equivalence relation",
+          "One to one and onto functions",
+          "Composite functions",
+          "Inverse of a function"
+        ]
+      },
+      {
+        "chapter": "Inverse Trigonometric Functions",
+        "topics": [
+          "Definition and Range",
+          "Domain and Principal value branch",
+          "Graphs of inverse trigonometric functions",
+          "Elementary properties of inverse trigonometric functions",
+          "Solving inverse trigonometric equations"
+        ]
+      },
+      {
+        "chapter": "Matrices",
+        "topics": [
+          "Concept and notation",
+          "Order and equality of matrices",
+          "Operations on matrices",
+          "Transpose and symmetric matrices",
+          "Invertible matrices and proof of uniqueness of inverse"
+        ]
+      },
+      {
+        "chapter": "Determinants",
+        "topics": [
+          "Determinant of a square matrix (up to 3x3)",
+          "Properties of determinants",
+          "Minors and Cofactors",
+          "Adjoint and inverse of a square matrix",
+          "Solving system of linear equations"
+        ]
+      },
+      {
+        "chapter": "Continuity and Differentiability",
+        "topics": [
+          "Continuity concept and examples",
+          "Differentiability concept",
+          "Derivative of composite functions",
+          "Derivative of implicit functions",
+          "Logarithmic and exponential differentiation"
+        ]
+      },
+      {
+        "chapter": "Applications of Derivatives",
+        "topics": [
+          "Rate of change of bodies",
+          "Increasing and decreasing functions",
+          "Tangents and normals",
+          "Maxima and minima concept",
+          "Simple problems on maxima/minima"
+        ]
+      },
+      {
+        "chapter": "Integrals",
+        "topics": [
+          "Integration as inverse process of differentiation",
+          "Integration by substitution",
+          "Integration by parts",
+          "Integration by partial fractions",
+          "Definite integrals as limit of a sum"
+        ]
+      },
+      {
+        "chapter": "Applications of the Integrals",
+        "topics": [
+          "Applications in finding area",
+          "Area under simple curves",
+          "Area of circles/parabolas/ellipses",
+          "Area between two curves",
+          "Word problems using integration"
+        ]
+      },
+      {
+        "chapter": "Differential Equations",
+        "topics": [
+          "Definition, order and degree",
+          "Formation of differential equation",
+          "Solution of differential equations by variable separation",
+          "Homogeneous differential equations",
+          "Linear differential equations"
+        ]
+      },
+      {
+        "chapter": "Vectors",
+        "topics": [
+          "Vectors and scalars",
+          "Magnitude and direction",
+          "Direction cosines and ratios",
+          "Types of vectors",
+          "Scalar and vector products"
+        ]
+      },
+      {
+        "chapter": "Three-dimensional Geometry",
+        "topics": [
+          "Direction cosines and ratios of a line",
+          "Equation of a line in space",
+          "Angle between two lines",
+          "Shortest distance between two lines",
+          "Equation of a plane"
+        ]
+      },
+      {
+        "chapter": "Probability",
+        "topics": [
+          "Conditional probability",
+          "Multiplication theorem on probability",
+          "Independent events",
+          "Bayes' theorem",
+          "Random variable and its probability distribution"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Physics",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Electrostatics",
+        "topics": [
+          "Electric charges and conservation",
+          "Coulomb's law",
+          "Electric field and field lines",
+          "Electric dipole and flux",
+          "Gauss's theorem and applications"
+        ]
+      },
+      {
+        "chapter": "Current Electricity",
+        "topics": [
+          "Electric current and drift velocity",
+          "Ohm's law and electrical resistance",
+          "V-I characteristics (linear/non-linear)",
+          "Kirchhoff's laws",
+          "Wheatstone bridge and Meter bridge"
+        ]
+      },
+      {
+        "chapter": "Magnetic Effects of Current and Magnetism",
+        "topics": [
+          "Concept of magnetic field and Oersted's experiment",
+          "Biot - Savart law",
+          "Ampere's law and its applications",
+          "Force on a moving charge in magnetic field",
+          "Moving coil galvanometer"
+        ]
+      },
+      {
+        "chapter": "Electromagnetic Induction",
+        "topics": [
+          "Electromagnetic induction concept",
+          "Faraday's laws",
+          "Induced EMF and current",
+          "Lenz's Law and Eddy currents",
+          "Self and mutual induction"
+        ]
+      },
+      {
+        "chapter": "Alternating Currents",
+        "topics": [
+          "Alternating currents and peak/RMS value",
+          "Reactance and impedance",
+          "LCR series circuit and resonance",
+          "Power in AC circuits",
+          "AC generator and transformer"
+        ]
+      },
+      {
+        "chapter": "Electromagnetic Waves",
+        "topics": [
+          "Displacement current concept",
+          "Electromagnetic waves and their characteristics",
+          "Transverse nature of EM waves",
+          "Electromagnetic spectrum",
+          "Uses of different EM waves"
+        ]
+      },
+      {
+        "chapter": "Optics: Ray Optics",
+        "topics": [
+          "Reflection of light and spherical mirrors",
+          "Refraction of light and total internal reflection",
+          "Refraction at spherical surfaces and lenses",
+          "Lensmaker's formula",
+          "Optical instruments (Microscopes, Telescopes)"
+        ]
+      },
+      {
+        "chapter": "Optics: Wave Optics",
+        "topics": [
+          "Wave front and Huygens' principle",
+          "Proof of laws of reflection/refraction",
+          "Interference and Young's double slit experiment",
+          "Diffraction due to a single slit",
+          "Polarisation and Brewster's law"
+        ]
+      },
+      {
+        "chapter": "Dual Nature of Radiation and Matter",
+        "topics": [
+          "Dual nature of radiation",
+          "Photoelectric effect",
+          "Hertz and Lenard's observations",
+          "Einstein's photoelectric equation",
+          "De Broglie relation"
+        ]
+      },
+      {
+        "chapter": "Atoms and Nuclei",
+        "topics": [
+          "Alpha-particle scattering experiment",
+          "Rutherford's model of atom",
+          "Bohr model and energy levels",
+          "Composition and size of nucleus",
+          "Mass-energy relation and binding energy"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Chemistry",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Solutions",
+        "topics": [
+          "Types of solutions",
+          "Expressing concentration of solutions",
+          "Solubility of gases in liquids (Henry's Law)",
+          "Raoult's Law and ideal/non-ideal solutions",
+          "Colligative properties and determination of molar mass"
+        ]
+      },
+      {
+        "chapter": "Electrochemistry",
+        "topics": [
+          "Redox reactions and Electrochemical cells",
+          "Galvanic cells and Nernst equation",
+          "Conductance in electrolytic solutions",
+          "Kohlrausch's Law",
+          "Batteries and Fuel cells"
+        ]
+      },
+      {
+        "chapter": "Chemical Kinetics",
+        "topics": [
+          "Rate of a chemical reaction",
+          "Factors influencing reaction rate",
+          "Order and molecularity of a reaction",
+          "Integrated rate equations (zero/first order)",
+          "Collision theory of chemical reactions"
+        ]
+      },
+      {
+        "chapter": "Surface Chemistry",
+        "topics": [
+          "Adsorption (Physisorption and Chemisorption)",
+          "Factors affecting adsorption of gases",
+          "Catalysis (Homogeneous and Heterogeneous)",
+          "Colloidal state and types of colloids",
+          "Properties of colloids (Tyndall effect/Brownian movement)"
+        ]
+      },
+      {
+        "chapter": "General Principles and Processes of Isolation of Elements",
+        "topics": [
+          "Principles and methods of extraction",
+          "Concentration of ores",
+          "Oxidation, reduction, and electrolytic method",
+          "Refining of metals",
+          "Occurrence and extraction of Al, Cu, Zn, Fe"
+        ]
+      },
+      {
+        "chapter": "p-Block Elements",
+        "topics": [
+          "Group 15 elements properties",
+          "Compounds of Nitrogen and Phosphorus",
+          "Group 16 elements properties",
+          "Compounds of Oxygen and Sulphur",
+          "Group 17 and 18 elements properties"
+        ]
+      },
+      {
+        "chapter": "d and f Block Elements",
+        "topics": [
+          "General introduction and electronic configuration",
+          "Transition metals trends in properties",
+          "Preparation and properties of K2Cr2O7 and KMnO4",
+          "Lanthanoids and their properties",
+          "Actinoids and comparison with lanthanoids"
+        ]
+      },
+      {
+        "chapter": "Coordination Compounds",
+        "topics": [
+          "Coordination compounds introduction",
+          "Ligands and coordination number",
+          "IUPAC nomenclature of coordination compounds",
+          "Bonding (Valence bond and Crystal field theory)",
+          "Isomerism in coordination compounds"
+        ]
+      },
+      {
+        "chapter": "Haloalkanes and Haloarenes",
+        "topics": [
+          "Classification and nomenclature",
+          "Nature of C-X bond",
+          "Preparation methods of haloalkanes",
+          "Physical and chemical properties (SN1 and SN2)",
+          "Uses and environmental effects of polyhalogen compounds"
+        ]
+      },
+      {
+        "chapter": "Alcohols, Phenols and Ethers",
+        "topics": [
+          "Classification and nomenclature",
+          "Preparation of alcohols and phenols",
+          "Physical and chemical properties",
+          "Mechanism of dehydration",
+          "Preparation and properties of ethers"
+        ]
+      },
+      {
+        "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+        "topics": [
+          "Nomenclature and nature of carbonyl group",
+          "Methods of preparation of aldehydes and ketones",
+          "Physical and chemical properties",
+          "Mechanism of nucleophilic addition",
+          "Preparation and properties of carboxylic acids"
+        ]
+      },
+      {
+        "chapter": "Organic Compounds containing Nitrogen",
+        "topics": [
+          "Amines classification and nomenclature",
+          "Preparation of amines",
+          "Physical and chemical properties of amines",
+          "Diazonium salts preparation",
+          "Importance of diazonium salts in synthesis"
+        ]
+      },
+      {
+        "chapter": "Biomolecules",
+        "topics": [
+          "Carbohydrates (Classification and properties)",
+          "Proteins (Amino acids, Peptide bond)",
+          "Enzymes and Vitamins",
+          "Nucleic acids (DNA and RNA)",
+          "Structure and function"
+        ]
+      },
+      {
+        "chapter": "Polymers",
+        "topics": [
+          "Classification of polymers",
+          "Methods of polymerization",
+          "Copolymerization",
+          "Important polymers (Polythene, Nylon, Polyesters)",
+          "Biodegradable and non-biodegradable polymers"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Biology",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Reproduction in Organisms",
+        "topics": [
+          "Asexual reproduction types",
+          "Vegetative propagation in plants",
+          "Sexual reproduction characteristics",
+          "Pre-fertilization events",
+          "Post-fertilization events"
+        ]
+      },
+      {
+        "chapter": "Sexual Reproduction in Flowering Plants",
+        "topics": [
+          "Flower structure",
+          "Development of male and female gametophytes",
+          "Pollination types and agencies",
+          "Double fertilization",
+          "Post-fertilization (Seed and fruit formation)"
+        ]
+      },
+      {
+        "chapter": "Human Reproduction",
+        "topics": [
+          "Male reproductive system",
+          "Female reproductive system",
+          "Gametogenesis (Spermatogenesis/Oogenesis)",
+          "Menstrual cycle",
+          "Fertilization and Embryonic development"
+        ]
+      },
+      {
+        "chapter": "Reproductive Health",
+        "topics": [
+          "Need for reproductive health",
+          "Birth control methods",
+          "Medical termination of pregnancy (MTP)",
+          "Sexually transmitted diseases (STDs)",
+          "Infertility and assisted reproductive technologies"
+        ]
+      },
+      {
+        "chapter": "Principles of Inheritance and Variation",
+        "topics": [
+          "Mendelian inheritance",
+          "Deviations from Mendelism (Incomplete dominance)",
+          "Chromosomal theory of inheritance",
+          "Sex determination",
+          "Genetic disorders (Mendelian and Chromosomal)"
+        ]
+      },
+      {
+        "chapter": "Molecular Basis of Inheritance",
+        "topics": [
+          "Structure of DNA and RNA",
+          "DNA Packaging",
+          "DNA replication",
+          "Transcription",
+          "Translation and Genetic Code"
+        ]
+      },
+      {
+        "chapter": "Evolution",
+        "topics": [
+          "Origin of life",
+          "Biological evolution and Evidences",
+          "Darwin's contribution and Modern Synthetic Theory",
+          "Mechanism of evolution (Variation, Mutation)",
+          "Human evolution"
+        ]
+      },
+      {
+        "chapter": "Human Health and Disease",
+        "topics": [
+          "Pathogens causing human diseases",
+          "Basic concepts of immunology",
+          "Vaccines and Immunisation",
+          "AIDS and Cancer",
+          "Drugs and Alcohol abuse"
+        ]
+      },
+      {
+        "chapter": "Biotechnology: Principles and Processes",
+        "topics": [
+          "Genetic engineering",
+          "Tools of recombinant DNA technology",
+          "Restriction enzymes",
+          "Cloning vectors",
+          "Processes of recombinant DNA technology"
+        ]
+      },
+      {
+        "chapter": "Biotechnology and its Applications",
+        "topics": [
+          "Applications in agriculture (Bt cotton)",
+          "Applications in medicine (Genetically engineered insulin)",
+          "Gene therapy",
+          "Transgenic animals",
+          "Biosafety issues and Biopiracy"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Accounts",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Accounting for Partnership Firms - Fundamentals",
+        "topics": [
+          "Partnership features",
+          "Partnership Deed",
+          "Special aspects of partnership accounts",
+          "Maintenance of capital accounts",
+          "Past adjustments and guarantee of profit"
+        ]
+      },
+      {
+        "chapter": "Goodwill: Nature and Valuation",
+        "topics": [
+          "Meaning, nature and need for valuation",
+          "Factors affecting goodwill",
+          "Average Profit Method",
+          "Super Profit Method",
+          "Capitalisation Method"
+        ]
+      },
+      {
+        "chapter": "Change in Profit Sharing Ratio",
+        "topics": [
+          "Sacrificing ratio and Gaining ratio",
+          "Accounting for goodwill",
+          "Accounting for reserves and accumulated profits",
+          "Revaluation of assets and reassessment of liabilities",
+          "Adjustment of capitals"
+        ]
+      },
+      {
+        "chapter": "Admission of a Partner",
+        "topics": [
+          "Effect of admission of a partner",
+          "Change in profit sharing ratio",
+          "Treatment of goodwill",
+          "Revaluation of Assets and Liabilities",
+          "Adjustment of capital"
+        ]
+      },
+      {
+        "chapter": "Retirement and Death of a Partner",
+        "topics": [
+          "Ascertainment of gaining ratio",
+          "Treatment of goodwill",
+          "Revaluation of Assets and Liabilities",
+          "Settlement of loop account",
+          "Calculation of deceased partner's profit"
+        ]
+      },
+      {
+        "chapter": "Dissolution of Partnership Firm",
+        "topics": [
+          "Meaning of dissolution of firm",
+          "Settlement of accounts",
+          "Preparation of Realisation Account",
+          "Treatment of goodwill on dissolution",
+          "Treatment of unrecorded assets and liabilities"
+        ]
+      },
+      {
+        "chapter": "Accounting for Share Capital",
+        "topics": [
+          "Features and types of companies",
+          "Issue and allotment of shares",
+          "Over-subscription and under-subscription",
+          "Issue of shares at premium",
+          "Calls in arrears and calls in advance"
+        ]
+      },
+      {
+        "chapter": "Forfeiture and Reissue of Shares",
+        "topics": [
+          "Meaning of forfeiture of shares",
+          "Accounting entries for forfeiture",
+          "Reissue of forfeited shares",
+          "Calculation of capital reserve",
+          "Disclosure of share capital in balance sheet"
+        ]
+      },
+      {
+        "chapter": "Issue of Debentures",
+        "topics": [
+          "Meaning and types of debentures",
+          "Issue of debentures for cash",
+          "Issue of debentures for consideration other than cash",
+          "Issue of debentures as collateral security",
+          "Terms of issue of debentures"
+        ]
+      },
+      {
+        "chapter": "Financial Statements of a Company",
+        "topics": [
+          "Meaning of Financial Statements",
+          "Form of Balance Sheet",
+          "Form of Statement of Profit and Loss",
+          "Analysis of Financial Statements",
+          "Comparative and Common Size Statements"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Commerce",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Business Environment",
+        "topics": [
+          "Meaning and features of Business Environment",
+          "Importance of Business Environment",
+          "Dimensions of Business Environment",
+          "Economic Environment in India",
+          "Impact of Government policy changes"
+        ]
+      },
+      {
+        "chapter": "Principles of Management",
+        "topics": [
+          "Concept and significance of principles",
+          "Fayol's principles of management",
+          "Taylor's Scientific Management",
+          "Techniques of Scientific Management",
+          "Comparison between Fayol and Taylor"
+        ]
+      },
+      {
+        "chapter": "Planning and Organising",
+        "topics": [
+          "Concept and importance of planning",
+          "Planning process",
+          "Concept and importance of organising",
+          "Organising process",
+          "Delegation and Decentralization"
+        ]
+      },
+      {
+        "chapter": "Staffing and Directing",
+        "topics": [
+          "Concept and importance of staffing",
+          "Staffing process (Recruitment, Selection, Training)",
+          "Concept and importance of directing",
+          "Elements of directing (Supervision, Motivation)",
+          "Leadership and Communication"
+        ]
+      },
+      {
+        "chapter": "Controlling",
+        "topics": [
+          "Concept and importance of controlling",
+          "Relationship between planning and controlling",
+          "Steps in controlling process",
+          "Techniques of controlling",
+          "Management by Exception"
+        ]
+      },
+      {
+        "chapter": "Financial Management",
+        "topics": [
+          "Concept and objectives of Financial Management",
+          "Financial decisions (Investment, Financing, Dividend)",
+          "Financial Planning concept",
+          "Capital Structure concept",
+          "Fixed and Working Capital"
+        ]
+      },
+      {
+        "chapter": "Financial Markets",
+        "topics": [
+          "Concept of Financial Market",
+          "Money Market terminology",
+          "Capital Market concept",
+          "Primary and Secondary Market",
+          "Stock Exchange and SEBI"
+        ]
+      },
+      {
+        "chapter": "Marketing Management",
+        "topics": [
+          "Concept of Marketing and Marketing Mix",
+          "Product (Branding, Labeling, Packaging)",
+          "Price determination",
+          "Physical Distribution channels",
+          "Promotion (Advertising, Personal Selling)"
+        ]
+      },
+      {
+        "chapter": "Consumer Protection",
+        "topics": [
+          "Concept and importance of Consumer Protection",
+          "Consumer Protection Act",
+          "Consumer Rights and Responsibilities",
+          "Ways and means of Consumer Protection",
+          "Role of Consumer organizations and NGOs"
+        ]
+      },
+      {
+        "chapter": "Entrepreneurship Development",
+        "topics": [
+          "Concept and functions of an Entrepreneur",
+          "Characteristics of Entrepreneurship",
+          "Process of Entrepreneurship Development",
+          "Startup India Scheme",
+          "Intellectual Property Rights"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Economics",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Introduction to Macroeconomics",
+        "topics": [
+          "Emergence of Macroeconomics",
+          "Basic concepts (consumption goods, capital goods, final goods)",
+          "Stocks and Flows",
+          "Gross investment and depreciation",
+          "Circular flow of income"
+        ]
+      },
+      {
+        "chapter": "National Income Accounting",
+        "topics": [
+          "Methods of calculating National Income",
+          "Value Added method",
+          "Income method",
+          "Expenditure method",
+          "Real and Nominal GDP, GDP and Welfare"
+        ]
+      },
+      {
+        "chapter": "Money and Banking",
+        "topics": [
+          "Meaning of money and supply of money",
+          "Currency held by public and net demand deposits",
+          "Money creation by commercial banks",
+          "Central bank and its functions",
+          "Control of credit (CRR, SLR, Repo Rate)"
+        ]
+      },
+      {
+        "chapter": "Determination of Income and Employment",
+        "topics": [
+          "Aggregate Demand and Aggregate Supply",
+          "Propensity to consume and propensity to save (APC, MPC)",
+          "Short run equilibrium output",
+          "Investment multiplier and its mechanism",
+          "Deficient demand and excess demand measures"
+        ]
+      },
+      {
+        "chapter": "Government Budget and the Economy",
+        "topics": [
+          "Government budget meaning and components",
+          "Objectives of government budget",
+          "Classification of receipts (revenue and capital)",
+          "Classification of expenditure (revenue and capital)",
+          "Measures of government deficit"
+        ]
+      },
+      {
+        "chapter": "Balance of Payments",
+        "topics": [
+          "Balance of payments account",
+          "Meaning and components of BoP",
+          "BoP Deficit and Surplus",
+          "Foreign exchange rate meaning",
+          "Determination of exchange rate"
+        ]
+      },
+      {
+        "chapter": "Indian Economy on the Eve of Independence",
+        "topics": [
+          "Low level of economic development under colonial rule",
+          "Agricultural sector status",
+          "Industrial sector status",
+          "Foreign trade status",
+          "Demographic conditions and Infrastructure"
+        ]
+      },
+      {
+        "chapter": "Economic Reforms Since 1991",
+        "topics": [
+          "Need and main features of liberalisation",
+          "Globalisation strategy",
+          "Privatisation concepts",
+          "Appraisal of LPG policies",
+          "Impact of reforms on agricultural and industrial sectors"
+        ]
+      },
+      {
+        "chapter": "Current Challenges Facing the Indian Economy",
+        "topics": [
+          "Human Capital Formation",
+          "Rural development (credit and marketing)",
+          "Employment (formal and informal)",
+          "Sustainable Economic Development",
+          "Infrastructure challenges"
+        ]
+      },
+      {
+        "chapter": "Development Experience of India: A Comparison with Neighbours",
+        "topics": [
+          "India and Pakistan comparative analysis",
+          "India and China comparative analysis",
+          "Issues of economic growth",
+          "Population growth trends",
+          "Sectoral development patterns"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "English",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Macbeth - Act I",
+        "topics": [
+          "The Witches' Prophecies",
+          "Macbeth's bravery in battle",
+          "Lady Macbeth's ambition",
+          "Duncan's arrival at Inverness",
+          "The plot against Duncan"
+        ]
+      },
+      {
+        "chapter": "Macbeth - Act II",
+        "topics": [
+          "The Dagger Soliloquy",
+          "The Murder of Duncan",
+          "The discovery of the murder",
+          "Flight of Malcolm and Donalbain",
+          "Macbeth's coronation"
+        ]
+      },
+      {
+        "chapter": "Macbeth - Act III",
+        "topics": [
+          "Banquo's suspicion",
+          "The murder of Banquo",
+          "Fleance's escape",
+          "The Banquet Scene and Banquo's ghost",
+          "Hecate and the witches' plan"
+        ]
+      },
+      {
+        "chapter": "Echoes: Short Stories",
+        "topics": [
+          "To Build a Fire",
+          "The Story of an Hour",
+          "The Sound Machine",
+          "The Singing Lesson",
+          "B. Wordsworth"
+        ]
+      },
+      {
+        "chapter": "Reverie: Poems",
+        "topics": [
+          "The Darkling Thrush",
+          "Birches",
+          "Crossing the Bar",
+          "Dover Beach",
+          "We are the Music Makers"
+        ]
+      },
+      {
+        "chapter": "Composition Skills",
+        "topics": [
+          "Descriptive Writing",
+          "Narrative Writing",
+          "Argumentative Essays",
+          "Reflective Essays",
+          "Discursive Essays"
+        ]
+      },
+      {
+        "chapter": "Directed Writing",
+        "topics": [
+          "Article Writing",
+          "Book Review",
+          "Film Review",
+          "Statement of Purpose (SOP)",
+          "Cultural Program Report"
+        ]
+      },
+      {
+        "chapter": "Proposal Writing",
+        "topics": [
+          "Structure of a Proposal",
+          "Stating Objectives Clearly",
+          "Detailing Measures and Steps",
+          "Drafting within word limits",
+          "Clarity and Register"
+        ]
+      }
+    ]
+  }
+]

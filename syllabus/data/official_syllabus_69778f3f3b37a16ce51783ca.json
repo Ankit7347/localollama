@@ -1,0 +1,750 @@
+[
+  {
+    "subject": "Mathematics",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Rational Numbers",
+        "topics": [
+          "Properties of Rational Numbers",
+          "Representation on Number Line",
+          "Rational Numbers between two rational numbers",
+          "Operations on Rational Numbers",
+          "Word Problems on Rational Numbers"
+        ]
+      },
+      {
+        "chapter": "Exponents and Powers",
+        "topics": [
+          "Laws of Exponents",
+          "Negative Integral Exponents",
+          "Scientific Notation",
+          "Comparing very large and small numbers",
+          "Application of Exponents"
+        ]
+      },
+      {
+        "chapter": "Squares and Square Roots",
+        "topics": [
+          "Properties of Square Numbers",
+          "Finding Square of a Number",
+          "Square Roots by Prime Factorisation",
+          "Square Roots by Division Method",
+          "Square Roots of Decimals"
+        ]
+      },
+      {
+        "chapter": "Cubes and Cube Roots",
+        "topics": [
+          "Properties of Cubes",
+          "Finding Cube of a Number",
+          "Cube Roots by Prime Factorisation",
+          "Cube Root of a Perfect Cube",
+          "Word Problems on Cubes"
+        ]
+      },
+      {
+        "chapter": "Playing with Numbers",
+        "topics": [
+          "Numbers in General Form",
+          "Games with Numbers",
+          "Letters for Digits",
+          "Tests of Divisibility (2, 3, 5, 9, 10)",
+          "Divisibility Rules for 7 and 11"
+        ]
+      },
+      {
+        "chapter": "Algebraic Expressions and Identities",
+        "topics": [
+          "Terms, Factors and Coefficients",
+          "Addition and Subtraction of Algebraic Expressions",
+          "Multiplication of Algebraic Expressions",
+          "Standard Identities (a+b)2, (a-b)2",
+          "Identity (x+a)(x+b)"
+        ]
+      },
+      {
+        "chapter": "Factorisation",
+        "topics": [
+          "Method of Common Factors",
+          "Factorisation by Regrouping Terms",
+          "Factorisation using Identities",
+          "Division of Algebraic Expressions",
+          "Division of Polynomial by Polynomial"
+        ]
+      },
+      {
+        "chapter": "Linear Equations in One Variable",
+        "topics": [
+          "Solving Equations with Linear Expressions",
+          "Applications of Linear Equations",
+          "Solving Equations with Variables on Both Sides",
+          "Reducing Equations to Simpler Form",
+          "Equations Reducible to Linear Form"
+        ]
+      },
+      {
+        "chapter": "Comparing Quantities",
+        "topics": [
+          "Ratios and Percentages",
+          "Finding Discounts",
+          "Estimation in Percentages",
+          "Prices related to Buying and Selling (Profit/Loss)",
+          "Sales Tax and Value Added Tax"
+        ]
+      },
+      {
+        "chapter": "Compound Interest",
+        "topics": [
+          "Meaning of Compound Interest",
+          "Deducing the Formula for Compound Interest",
+          "Rate Compounded Annually or Half Yearly",
+          "Applications of Compound Interest Formula",
+          "Population Growth and Depreciation"
+        ]
+      },
+      {
+        "chapter": "Direct and Inverse Proportions",
+        "topics": [
+          "Concept of Direct Proportion",
+          "Methods to solve Direct Proportion",
+          "Concept of Inverse Proportion",
+          "Methods to solve Inverse Proportion",
+          "Time and Work Problems"
+        ]
+      },
+      {
+        "chapter": "Understanding Quadrilaterals",
+        "topics": [
+          "Polygons and their Classification",
+          "Angle Sum Property of Polygons",
+          "Sum of Measures of Exterior Angles",
+          "Kinds of Quadrilaterals (Trapezium, Kite)",
+          "Parallelogram and its Properties"
+        ]
+      },
+      {
+        "chapter": "Practical Geometry",
+        "topics": [
+          "Constructing a Quadrilateral given 4 sides and 1 diagonal",
+          "Constructing given 3 sides and 2 diagonals",
+          "Constructing given 3 sides and 2 included angles",
+          "Constructing given 2 adjacent sides and 3 angles",
+          "Some Special Cases (Square, Rhombus)"
+        ]
+      },
+      {
+        "chapter": "Visualising Solid Shapes",
+        "topics": [
+          "Faces, Edges and Vertices",
+          "Nets for building 3D Shapes",
+          "Drawing Solids on a Flat Surface",
+          "Isometric Sketches",
+          "Viewing Different Sections of a Solid"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Physics",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Matter",
+        "topics": [
+          "Kinetic Theory of Matter",
+          "State variables of Matter",
+          "Change of State (Boiling, Melting)",
+          "Evaporation and Condensation",
+          "Latent Heat concept"
+        ]
+      },
+      {
+        "chapter": "Physical Quantities and Measurement",
+        "topics": [
+          "Measurement of Density",
+          "Relative Density determination",
+          "Floating and Sinking",
+          "Archimedes Principle",
+          "Law of Floatation"
+        ]
+      },
+      {
+        "chapter": "Force and Pressure",
+        "topics": [
+          "Turning effect of Force (Moment)",
+          "Pressure exerted by Solids",
+          "Pressure in Liquids",
+          "Atmospheric Pressure",
+          "Applications of Pressure"
+        ]
+      },
+      {
+        "chapter": "Energy",
+        "topics": [
+          "Work and Energy relationship",
+          "Potential and Kinetic Energy formulas",
+          "Power derivation",
+          "Transformation of Energy examples",
+          "Conservation of Energy"
+        ]
+      },
+      {
+        "chapter": "Light Energy",
+        "topics": [
+          "Spherical Mirrors (Concave/Convex)",
+          "Image formation by Spherical Mirrors",
+          "Refraction of Light",
+          "Lenses and their types",
+          "Dispersion of Light"
+        ]
+      },
+      {
+        "chapter": "Heat Transfer",
+        "topics": [
+          "Conduction in Solids",
+          "Convection in Liquids and Gases",
+          "Radiation of Heat",
+          "Thermos Flask functioning",
+          "Specific Heat Capacity"
+        ]
+      },
+      {
+        "chapter": "Sound",
+        "topics": [
+          "Amplitude, Time Period and Frequency",
+          "Pitch and Loudness",
+          "Quality/Timbre of Sound",
+          "Noise and Music",
+          "Musical Instruments"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Chemistry",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Matter",
+        "topics": [
+          "Postulates of Kinetic Theory",
+          "Explanation of Changes of State",
+          "Difference between Boiling and Evaporation",
+          "Sublimation and Deposition",
+          "Law of Conservation of Mass"
+        ]
+      },
+      {
+        "chapter": "Physical and Chemical Changes",
+        "topics": [
+          "Review of Physical Changes",
+          "Review of Chemical Changes",
+          "Characteristics of Chemical Reactions",
+          "Types of Chemical Reactions",
+          "Exothermic and Endothermic Reactions"
+        ]
+      },
+      {
+        "chapter": "Elements, Compounds and Mixtures",
+        "topics": [
+          "Classification of Matter",
+          "Pure Substances vs Mixtures",
+          "Separation by Sublimation",
+          "Separation by Chromatography",
+          "Fractional Distillation"
+        ]
+      },
+      {
+        "chapter": "Atomic Structure",
+        "topics": [
+          "Subatomic Particles (Electron, Proton, Neutron)",
+          "Atomic Number and Mass Number",
+          "Bohr-Bury Scheme of Electronic Configuration",
+          "Octet Rule and Stability",
+          "Isotopes and Isobars"
+        ]
+      },
+      {
+        "chapter": "Language of Chemistry",
+        "topics": [
+          "Chemical Formulae of Compounds",
+          "Writing Chemical Equations",
+          "Balancing Complex Equations",
+          "Atomic Weight",
+          "Molecular Weight"
+        ]
+      },
+      {
+        "chapter": "Chemical Reactions",
+        "topics": [
+          "Combination Reactions",
+          "Decomposition Reactions",
+          "Displacement Reactions",
+          "Double Displacement Reactions",
+          "Oxidation and Reduction"
+        ]
+      },
+      {
+        "chapter": "Carbon and its Compounds",
+        "topics": [
+          "Occurrence of Carbon",
+          "Allotropes of Carbon (Diamond, Graphite)",
+          "Amorphous forms of Carbon",
+          "Carbon Dioxide preparation and properties",
+          "Carbon Monoxide"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Biology",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Transport of Food and Minerals in Plants",
+        "topics": [
+          "Xylem and Phloem structure",
+          "Absorption of Water by Roots",
+          "Ascent of Sap",
+          "Transpiration process",
+          "Importance of Transpiration"
+        ]
+      },
+      {
+        "chapter": "Reproduction in Plants",
+        "topics": [
+          "Asexual Reproduction methods",
+          "Vegetative Propagation",
+          "Artificial Vegetative Propagation",
+          "Sexual Reproduction in Flowers",
+          "Pollination and Fertilization"
+        ]
+      },
+      {
+        "chapter": "Reproduction in Animals",
+        "topics": [
+          "Sexual Reproduction in Humans",
+          "Male Reproductive System",
+          "Female Reproductive System",
+          "Fertilization and Development",
+          "Metamorphosis in Frogs and Insects"
+        ]
+      },
+      {
+        "chapter": "Ecosystems",
+        "topics": [
+          "Components of Ecosystem",
+          "Food Chains and Food Webs",
+          "Ecological Pyramids",
+          "Interdependence between Organisms",
+          "Forest Ecosystem"
+        ]
+      },
+      {
+        "chapter": "Endocrine System",
+        "topics": [
+          "Endocrine vs Exocrine Glands",
+          "Pituitary Gland",
+          "Thyroid Gland",
+          "Pancreas (Islets of Langerhans)",
+          "Adrenal Glands"
+        ]
+      },
+      {
+        "chapter": "The Circulatory System",
+        "topics": [
+          "Structure of the Heart",
+          "Blood Vessels (Arteries, Veins, Capillaries)",
+          "Composition of Blood",
+          "Blood Groups (ABO System)",
+          "Lymphatic System"
+        ]
+      },
+      {
+        "chapter": "Nervous System",
+        "topics": [
+          "Structure of Brain",
+          "Functions of Cerebrum and Cerebellum",
+          "Functions of Medulla Oblongata",
+          "Types of Nerves",
+          "Sense Organs (Eye and Ear)"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "History & Civics",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "A Period of Transition",
+        "topics": [
+          "Renaissance in Europe",
+          "Impact of Renaissance",
+          "Voyages of Discovery",
+          "Reformation Movement",
+          "Industrial Revolution"
+        ]
+      },
+      {
+        "chapter": "The Growth of Nationalism",
+        "topics": [
+          "American War of Independence",
+          "French Revolution Causes",
+          "French Revolution Impact",
+          "Rise of Napoleon Bonaparte",
+          "Unification of Italy and Germany"
+        ]
+      },
+      {
+        "chapter": "India in the 18th Century",
+        "topics": [
+          "Decline of the Mughal Empire",
+          "Rise of Regional Powers",
+          "The Marathas",
+          "The Sikhs",
+          "The Advent of Europeans"
+        ]
+      },
+      {
+        "chapter": "Traders to Rulers",
+        "topics": [
+          "English East India Company",
+          "Carnatic Wars",
+          "Conquest of Bengal",
+          "Battle of Plassey",
+          "Battle of Buxar"
+        ]
+      },
+      {
+        "chapter": "British Policies and Impacts",
+        "topics": [
+          "Dual Government in Bengal",
+          "Subsidiary Alliance",
+          "Doctrine of Lapse",
+          "Economic Impact of British Rule",
+          "Land Revenue Settlements"
+        ]
+      },
+      {
+        "chapter": "The Great Uprising of 1857",
+        "topics": [
+          "Political Causes",
+          "Socio-Religious Causes",
+          "Economic Causes",
+          "Military Causes",
+          "Results of the Uprising"
+        ]
+      },
+      {
+        "chapter": "Socio-Religious Reforms",
+        "topics": [
+          "Brahmo Samaj (Raja Ram Mohan Roy)",
+          "Arya Samaj (Swami Dayanand Saraswati)",
+          "Ramakrishna Mission (Swami Vivekananda)",
+          "Aligarh Movement (Sir Syed Ahmed Khan)",
+          "Impact of Reform Movements"
+        ]
+      },
+      {
+        "chapter": "The Union Legislature",
+        "topics": [
+          "Lok Sabha Composition",
+          "Rajya Sabha Composition",
+          "Qualifications for Members",
+          "Powers of the Parliament",
+          "Law-Making Process"
+        ]
+      },
+      {
+        "chapter": "The Union Executive",
+        "topics": [
+          "The President: Election and Term",
+          "Powers of the President",
+          "The Vice-President",
+          "The Prime Minister",
+          "Council of Ministers"
+        ]
+      },
+      {
+        "chapter": "The Judiciary",
+        "topics": [
+          "Supreme Court Composition",
+          "Jurisdiction of Supreme Court",
+          "High Courts",
+          "Subordinate Courts",
+          "Independence of Judiciary"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Geography",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Interpreting Topographical Maps",
+        "topics": [
+          "Four-figure grid reference",
+          "Six-figure grid reference",
+          "Conventional symbols and signs",
+          "Identifying landforms on map",
+          "Settlement patterns"
+        ]
+      },
+      {
+        "chapter": "Population Dynamics",
+        "topics": [
+          "Distribution of Population",
+          "Density of Population",
+          "Overpopulation and Underpopulation",
+          "Impact of Overpopulation",
+          "Migration and its Impacts"
+        ]
+      },
+      {
+        "chapter": "Migration",
+        "topics": [
+          "Push factors of Migration",
+          "Pull factors of Migration",
+          "Types of Migration (Internal/International)",
+          "Brain Drain",
+          "Impact of Migration on society"
+        ]
+      },
+      {
+        "chapter": "Urbanisation",
+        "topics": [
+          "Causes of Urbanisation",
+          "Impact of Urbanisation",
+          "Smart Cities concept",
+          "Satellite Cities",
+          "Urban environmental issues"
+        ]
+      },
+      {
+        "chapter": "Natural and Man-made Disasters",
+        "topics": [
+          "Earthquakes and Volcanoes",
+          "Floods and Droughts",
+          "Cyclones",
+          "Industrial accidents",
+          "Biological disasters"
+        ]
+      },
+      {
+        "chapter": "Disaster Management",
+        "topics": [
+          "Role of Government",
+          "Role of Community",
+          "Preparedness and Mitigation",
+          "First Aid measures",
+          "Case Studies"
+        ]
+      },
+      {
+        "chapter": "Asia: Location and Physical Features",
+        "topics": [
+          "Boundaries of Asia",
+          "Northern Lowlands",
+          "Central Highlands",
+          "Southern Plateaus",
+          "River Basins and Islands"
+        ]
+      },
+      {
+        "chapter": "Asia: Climate and Natural Vegetation",
+        "topics": [
+          "Factors affecting Climate",
+          "Tundra and Taiga Vegetation",
+          "Monsoon Climate and Vegetation",
+          "Desert Climate and Vegetation",
+          "Equatorial Climate and Vegetation"
+        ]
+      },
+      {
+        "chapter": "India: Geographical Features",
+        "topics": [
+          "Location and Extent",
+          "The Himalayas",
+          "The Northern Plains",
+          "The Peninsular Plateau",
+          "Coastal Plains and Islands"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "English",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Prose Section 1",
+        "topics": [
+          "Advanced Reading Comprehension",
+          "Critical Thinking Questions",
+          "Character motivations",
+          "Author's Tone",
+          "Vocabulary in Context"
+        ]
+      },
+      {
+        "chapter": "Prose Section 2",
+        "topics": [
+          "Inferential Questions",
+          "Plot Analysis",
+          "Summary Writing",
+          "Extract Based Answers",
+          "Creative responses"
+        ]
+      },
+      {
+        "chapter": "Poetry Section 1",
+        "topics": [
+          "Poetic Devices (Personification)",
+          "Alliteration and Assonance",
+          "Imagery",
+          "Message of the Poem",
+          "Paraphrasing stanzas"
+        ]
+      },
+      {
+        "chapter": "Poetry Section 2",
+        "topics": [
+          "Theme Analysis",
+          "Rhyme Scheme variations",
+          "Critical Appreciation",
+          "Comparative study of poems",
+          "Writing short poems"
+        ]
+      },
+      {
+        "chapter": "Grammar: Clauses and Sentences",
+        "topics": [
+          "Main and Subordinate Clauses",
+          "Noun Clauses",
+          "Adjective Clauses",
+          "Adverb Clauses",
+          "Transformation of Sentences"
+        ]
+      },
+      {
+        "chapter": "Grammar: Prepositions and Conjunctions",
+        "topics": [
+          "Appropriate Prepositions",
+          "Phrasal Verbs with Prepositions",
+          "Coordinating Conjunctions",
+          "Subordinating Conjunctions",
+          "Correlative Conjunctions"
+        ]
+      },
+      {
+        "chapter": "Composition",
+        "topics": [
+          "Descriptive Essays",
+          "Narrative Essays",
+          "Formal Letters (To Editor)",
+          "Article Writing",
+          "Speech Writing"
+        ]
+      },
+      {
+        "chapter": "Reading Skills",
+        "topics": [
+          "Unseen Passages",
+          "Note Making",
+          "Précis Writing",
+          "skimming and scanning",
+          "Vocabulary building"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Hindi",
+    "year": 2026,
+    "chapters": [
+      {
+        "chapter": "Sahitya Bhag 1",
+        "topics": [
+          "Kavita Path aur Vyakha",
+          "Kavishraya",
+          "Kavya Saundarya",
+          "Shabdarth evam Vakya",
+          "Prashnottar"
+        ]
+      },
+      {
+        "chapter": "Sahitya Bhag 2",
+        "topics": [
+          "Gadyansh Vyakha",
+          "Lekhak Parichay",
+          "Kahani Samiksha",
+          "Charitra Chitran",
+          "Bhasha Shailee"
+        ]
+      },
+      {
+        "chapter": "Sahitya Bhag 3",
+        "topics": [
+          "Ekanki Path",
+          "Samvad Lekhan",
+          "Natak ke Tatva",
+          "Uddeshya",
+          "Moolya Aadharit Prashn"
+        ]
+      },
+      {
+        "chapter": "Vyakaran: Shabda Bhed",
+        "topics": [
+          "Tatsam aur Tadbhav",
+          "Deshaj aur Videshi Shabd",
+          "Roodh, Yaugik, Yogroodh",
+          "Paryayvachi Shabd",
+          "Vilom Shabd"
+        ]
+      },
+      {
+        "chapter": "Vyakaran: Pad Parichay",
+        "topics": [
+          "Sangya Pad Parichay",
+          "Sarvanam Pad Parichay",
+          "Visheshan Pad Parichay",
+          "Kriya Pad Parichay",
+          "Avyay Pad Parichay"
+        ]
+      },
+      {
+        "chapter": "Vyakaran: Muhavare aur Lokoktiyan",
+        "topics": [
+          "Muhavaron ka Arth",
+          "Muhavaron ka Vakya Prayog",
+          "Lokoktiyon ka Arth",
+          "Lokoktiyon ka Vakya Prayog",
+          "Antar evam Abhyas"
+        ]
+      },
+      {
+        "chapter": "Rachna: Patra aur Suchna",
+        "topics": [
+          "Aupcharik Patra Lekhan",
+          "Anaupcharik Patra Lekhan",
+          "Suchna Lekhan",
+          "Vigyapan Lekhan",
+          "Dainandini (Diary) Lekhan"
+        ]
+      },
+      {
+        "chapter": "Rachna: Nibandh Lekhan",
+        "topics": [
+          "Vicharatmak Nibandh",
+          "Varnanatmak Nibandh",
+          "Vivranatmak Nibandh",
+          "Bhumika aur Upansanhar",
+          "Rooprekha Nirman"
+        ]
+      }
+    ]
+  }
+]

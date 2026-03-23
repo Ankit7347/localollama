@@ -127,15 +127,121 @@
           },
           {
             "topic": "Using Brackets",
-            "definition": "## Using Brackets: Unlocking the World of Numbers\nBrackets are a powerful tool that helps us organize and group numbers in mathematics. They allow us to express complex numbers and expressions in a clear and concise way.\n**What are Brackets?**\nThink of brackets as parentheses that enclose a group of numbers, making them a \"boxed\" unit. These boxes allow us to perform mathematical operations on the numbers inside while keeping them separate from other groupings.\n**Examples:**\n* 3 + 4 = 7\nThis simple addition creates a group of two numbers, 3 and 4, enclosed in brackets.\n* (2 + 3) - 4\nThis expression first adds 2 and 3, then subtracts 4 from the result. The parentheses group the numbers 2 and 3, while the subtraction operation is performed on the resulting group.\n**Benefits of Using Brackets:**\n* **Grouping:** Brackets help us group numbers and expressions together, making it clear how they are related.\n* **Order of operations:** By using brackets, we can express complex expressions with a specific order of operations.\n* **Simplifying expressions:** Brackets allow us to combine like terms and simplify complex expressions.\n**Challenge:**\nCan you create a group of three numbers using brackets? What about a group of four? How about a group with two numbers and a single operator?"
+            "definition": "## Using Brackets: Unlocking the World of Numbers\nBrackets are a powerful tool that helps us organize and group numbers in mathematics. They allow us to express complex numbers and expressions in a clear and concise way.\n**What are Brackets?**\nThink of brackets as parentheses that enclose a group of numbers, making them a \"boxed\" unit. These boxes allow us to perform mathematical operations on the numbers inside while keeping them separate from other groupings.\n**Examples:**\n* 3 + 4 = 7\nThis simple addition creates a group of two numbers, 3 and 4, enclosed in brackets.\n* (2 + 3) - 4\nThis expression first adds 2 and 3, then subtracts 4 from the result. The parentheses group the numbers 2 and 3, while the subtraction operation is performed on the resulting group.\n**Benefits of Using Brackets:**\n* **Grouping:** Brackets help us group numbers and expressions together, making it clear how they are related.\n* **Order of operations:** By using brackets, we can express complex expressions with a specific order of operations.\n* **Simplifying expressions:** Brackets allow us to combine like terms and simplify complex expressions.\n**Challenge:**\nCan you create a group of three numbers using brackets? What about a group of four? How about a group with two numbers and a single operator?",
+            "quizzes": []
           },
           {
             "topic": "Roman Numerals",
-            "definition": "Roman numerals are a system of writing numbers used by the Romans. They were introduced in the 7th century BCE and gradually became the dominant numeric system throughout the Roman Empire, lasting for over 500 years. \nThe system consists of seven symbols, each representing a different power of 10:\n- **M** (1000)\n- **D** (100)\n- **C** (10)\n- **L** (5)\n- **X** (0.1)\n- **V** (0.05)\n- **I** (0.01)\nThe symbols are arranged from left to right, with the leftmost symbol representing the largest power of 10. A number is represented by the sum of the individual values of its individual symbols.\nFor example, 1234 is represented as MMCCXL. \nRoman numerals can be used to represent both whole numbers and fractions. For example, 3/4 is represented as 3/4, which is the same as 0.75 in decimal.\nRoman numerals are still used today in various contexts, including finance, history, and science. They are a powerful tool for communicating numerical information and have played a significant role in shaping human history"
+            "definition": "Roman numerals are a system of writing numbers used by the Romans. They were introduced in the 7th century BCE and gradually became the dominant numeric system throughout the Roman Empire, lasting for over 500 years. \nThe system consists of seven symbols, each representing a different power of 10:\n- **M** (1000)\n- **D** (100)\n- **C** (10)\n- **L** (5)\n- **X** (0.1)\n- **V** (0.05)\n- **I** (0.01)\nThe symbols are arranged from left to right, with the leftmost symbol representing the largest power of 10. A number is represented by the sum of the individual values of its individual symbols.\nFor example, 1234 is represented as MMCCXL. \nRoman numerals can be used to represent both whole numbers and fractions. For example, 3/4 is represented as 3/4, which is the same as 0.75 in decimal.\nRoman numerals are still used today in various contexts, including finance, history, and science. They are a powerful tool for communicating numerical information and have played a significant role in shaping human history",
+            "quizzes": [
+              {
+                "question": "What is the value of Roman numeral 1234?",
+                "options": [
+                  "MMCCXL",
+                  "MMCCCX",
+                  "MMCCCM",
+                  "MMCCCD"
+                ],
+                "answer": "Correct Option",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which symbol represents the largest power of 10 in Roman numerals?",
+                "options": [
+                  "M",
+                  "D",
+                  "C",
+                  "L"
+                ],
+                "answer": "Correct Option",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is the equivalent fraction of 3/4 in Roman numerals?",
+                "options": [
+                  "0.75",
+                  "0.6",
+                  "0.5",
+                  "0.25"
+                ],
+                "answer": "Correct Option",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which Roman numeral is used to represent the number 100?",
+                "options": [
+                  "I",
+                  "IV",
+                  "V",
+                  "X"
+                ],
+                "answer": "Correct Option",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is the value of the Roman numeral 19?",
+                "options": [
+                  "I",
+                  "V",
+                  "X",
+                  "L"
+                ],
+                "answer": "Correct Option",
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "Estimation",
-            "definition": "**Estimation**\nEstimation is a process of making an approximate or rough guess about a quantity or value without having an exact or precise measurement. It is often used to make decisions or solve problems quickly and efficiently.\n**How Estimation Works**\nEstimation involves using various methods and strategies to arrive at an approximate answer. These methods can include:\n- **Counting:** Counting objects or items in a set or sequence.\n- **Measuring:** Using tools or instruments to measure the length, width, or height of an object.\n- **Using Patterns:** Recognizing patterns in data or relationships between objects.\n- **Using Formulas:** Applying mathematical formulas or equations to the given situation.\n- **Making Guesswork:** Using educated guesses or reasonable estimates based on prior knowledge or experience.\n**Importance of Estimation**\nEstimation has several important purposes:\n- **Simplifying Complex Problems:** Estimation can make solving complex problems easier by allowing us to focus on the most significant digits or factors.\n- **Improving Accuracy:** By making rough estimates, we can get a better understanding of the true value and identify areas where more accurate measurements are needed.\n- **Developing Critical Thinking Skills:** Estimation challenges us to think logically, analyze patterns, and make inferences based on limited information.\n- **Real-World Applications:** Estimation is widely used in various fields, including science, technology, economics, and everyday life.\n**Examples of Estimation**\n- **A teacher estimates the number of students in a classroom by counting 30 students and adding 10 more.**\n- **A chef estimates the cooking time for a dish by observing its cooking process and making an educated guess.**\n- **An engineer estimates the distance to a distant city by measuring the distance to a known landmark and using that as a rough estimate.**"
+            "definition": "**Estimation**\nEstimation is a process of making an approximate or rough guess about a quantity or value without having an exact or precise measurement. It is often used to make decisions or solve problems quickly and efficiently.\n**How Estimation Works**\nEstimation involves using various methods and strategies to arrive at an approximate answer. These methods can include:\n- **Counting:** Counting objects or items in a set or sequence.\n- **Measuring:** Using tools or instruments to measure the length, width, or height of an object.\n- **Using Patterns:** Recognizing patterns in data or relationships between objects.\n- **Using Formulas:** Applying mathematical formulas or equations to the given situation.\n- **Making Guesswork:** Using educated guesses or reasonable estimates based on prior knowledge or experience.\n**Importance of Estimation**\nEstimation has several important purposes:\n- **Simplifying Complex Problems:** Estimation can make solving complex problems easier by allowing us to focus on the most significant digits or factors.\n- **Improving Accuracy:** By making rough estimates, we can get a better understanding of the true value and identify areas where more accurate measurements are needed.\n- **Developing Critical Thinking Skills:** Estimation challenges us to think logically, analyze patterns, and make inferences based on limited information.\n- **Real-World Applications:** Estimation is widely used in various fields, including science, technology, economics, and everyday life.\n**Examples of Estimation**\n- **A teacher estimates the number of students in a classroom by counting 30 students and adding 10 more.**\n- **A chef estimates the cooking time for a dish by observing its cooking process and making an educated guess.**\n- **An engineer estimates the distance to a distant city by measuring the distance to a known landmark and using that as a rough estimate.**",
+            "quizzes": [
+              {
+                "question": "How many apples are in a basket if there are 15 apples, 10 oranges, and 3 bananas?",
+                "options": [
+                  "5",
+                  "7",
+                  "10",
+                  "12"
+                ],
+                "answer": "10",
+                "type": "single_correct"
+              },
+              {
+                "question": "Estimate the distance from your school to the nearest supermarket by measuring the distance on a map and then multiplying it by 100.",
+                "options": [
+                  "50, 70, 90, 110"
+                ],
+                "answer": "70",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "A rectangular box has a length of 12 cm and a width of 8 cm. What is the area of the box?",
+                "options": [
+                  "192",
+                  "200",
+                  "216",
+                  "224"
+                ],
+                "answer": "200",
+                "type": "single_correct"
+              },
+              {
+                "question": "An engineer is estimating the weight of a beam of steel. He measures the beam's length to be 10 m and its weight to be 1000 N. What is the beam's density?",
+                "options": [
+                  "7850, 8000, 8200, 8500"
+                ],
+                "answer": "8000",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Estimate the population of a town based on the number of houses, the average number of people per household, and the average number of people per house in a similar town.",
+                "options": [
+                  "10,000, 12,000, 15,000, 18,000"
+                ],
+                "answer": "15,000",
+                "type": "single_correct"
+              }
+            ]
           }
         ]
       },
@@ -144,19 +250,251 @@
         "topics": [
           {
             "topic": "Introduction",
-            "definition": "## Introduction to Whole Numbers\nWhole numbers are a fundamental and essential branch of mathematics that encompasses the understanding and manipulation of numbers beyond the realm of natural and rational numbers. These numbers, including 1, 2, 3, 4, 5, 6, 7, and 8, serve as the building blocks for building more complex mathematical concepts and pave the way for exploring other branches such as arithmetic, algebra, and calculus.\nThey occupy a central position in mathematics because they provide a concrete and tangible representation of the systematic arrangement of objects in the natural world. They enable us to visualize patterns and relationships between different numbers, fostering critical thinking and problem-solving skills.\nFor instance, the number 5 can be represented through various visual tools, such as a circle with five points, a rectangle with five sides, or a group of five objects arranged in a line. This concrete representation helps us understand and appreciate the concept of whole numbers in a tangible and relatable manner"
+            "definition": "## Introduction to Whole Numbers\nWhole numbers are a fundamental and essential branch of mathematics that encompasses the understanding and manipulation of numbers beyond the realm of natural and rational numbers. These numbers, including 1, 2, 3, 4, 5, 6, 7, and 8, serve as the building blocks for building more complex mathematical concepts and pave the way for exploring other branches such as arithmetic, algebra, and calculus.\nThey occupy a central position in mathematics because they provide a concrete and tangible representation of the systematic arrangement of objects in the natural world. They enable us to visualize patterns and relationships between different numbers, fostering critical thinking and problem-solving skills.\nFor instance, the number 5 can be represented through various visual tools, such as a circle with five points, a rectangle with five sides, or a group of five objects arranged in a line. This concrete representation helps us understand and appreciate the concept of whole numbers in a tangible and relatable manner",
+            "quizzes": [
+              {
+                "question": "Which number is represented by a circle with five points?",
+                "options": [
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5"
+                ],
+                "answer": "5",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which visual tool is used to represent the number 5?",
+                "options": [
+                  "A circle",
+                  "A rectangle",
+                  "A square",
+                  "A triangle"
+                ],
+                "answer": "A circle",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which property relates whole numbers?",
+                "options": [
+                  "Addition",
+                  "Multiplication",
+                  "Division",
+                  "Subtraction"
+                ],
+                "answer": "Addition",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which concept is built upon the foundation of whole numbers?",
+                "options": [
+                  "Arithmetic",
+                  "Algebra",
+                  "Geometry",
+                  "Logic"
+                ],
+                "answer": "Arithmetic",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is the significance of whole numbers in the natural world?",
+                "options": [
+                  "They are the building blocks of all other numbers",
+                  "They are the only numbers that are not negative",
+                  "They are the only numbers that can be represented on a number line",
+                  "They are the only numbers that can be used to measure time"
+                ],
+                "answer": "They are the building blocks of all other numbers",
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "Whole Numbers",
-            "definition": "Whole numbers are a set of numbers that include 0, 1, 2, 3, 4, and 5. These numbers are commonly used in mathematics and have various applications in different fields, including arithmetic, geometry, and probability.\nA whole number can be expressed in different ways, such as 3, 4.5, or 5. Whole numbers can also be described as natural numbers, counting numbers from 1 to 5, including 0.\nAn example of a whole number is 3, which is a natural number. \nWhole numbers have certain properties, including the following: \n- Whole numbers are commutative, meaning a + b = b + a. \n- Whole numbers are additive inverse, meaning a - b = b - a. \n- Whole numbers are closed under multiplication and division, meaning a * b and a / b are whole numbers if a and b are whole numbers"
+            "definition": "Whole numbers are a set of numbers that include 0, 1, 2, 3, 4, and 5. These numbers are commonly used in mathematics and have various applications in different fields, including arithmetic, geometry, and probability.\nA whole number can be expressed in different ways, such as 3, 4.5, or 5. Whole numbers can also be described as natural numbers, counting numbers from 1 to 5, including 0.\nAn example of a whole number is 3, which is a natural number. \nWhole numbers have certain properties, including the following: \n- Whole numbers are commutative, meaning a + b = b + a. \n- Whole numbers are additive inverse, meaning a - b = b - a. \n- Whole numbers are closed under multiplication and division, meaning a * b and a / b are whole numbers if a and b are whole numbers",
+            "quizzes": [
+              {
+                "question": "Which whole number is the smallest?**",
+                "options": [
+                  "0",
+                  "1",
+                  "2",
+                  "3",
+                  "4"
+                ],
+                "answer": "0",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which whole number is the largest?**",
+                "options": [
+                  "0",
+                  "1",
+                  "2",
+                  "3",
+                  "4"
+                ],
+                "answer": "5",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which whole number is not a natural number?**",
+                "options": [
+                  "0",
+                  "1",
+                  "2",
+                  "3",
+                  "4"
+                ],
+                "answer": "5",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which property is not a property of whole numbers?**",
+                "options": [
+                  "Commutative",
+                  "Additive inverse",
+                  "Closed under multiplication and division"
+                ],
+                "answer": "Closed under multiplication and division",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which whole number is the most representative of the set of whole numbers?**",
+                "options": [
+                  "0",
+                  "1",
+                  "2",
+                  "3",
+                  "4"
+                ],
+                "answer": "3",
+                "type": "single_correct"
+              }
+            ]
           },
           {
             "topic": "The Number Line",
-            "definition": "**The Number Line**\nThe number line is a horizontal, vertical, and infinite line that extends infinitely in both directions. It is a powerful tool that helps us understand and represent the concept of numbers.\nThe number line is often used to plot and compare different numbers on the same scale. It is a useful tool for visualizing the relationship between the numbers and understanding how they relate to each other.\nIn addition to being used to plot numbers, the number line is also used in other mathematical concepts, such as addition, subtraction, multiplication, and division.\nThe number line is an essential tool for learning about mathematics. It helps students to visualize and understand the concept of numbers, and it provides a foundation for other mathematical concepts"
+            "definition": "**The Number Line**\nThe number line is a horizontal, vertical, and infinite line that extends infinitely in both directions. It is a powerful tool that helps us understand and represent the concept of numbers.\nThe number line is often used to plot and compare different numbers on the same scale. It is a useful tool for visualizing the relationship between the numbers and understanding how they relate to each other.\nIn addition to being used to plot numbers, the number line is also used in other mathematical concepts, such as addition, subtraction, multiplication, and division.\nThe number line is an essential tool for learning about mathematics. It helps students to visualize and understand the concept of numbers, and it provides a foundation for other mathematical concepts",
+            "quizzes": [
+              {
+                "question": "What is the purpose of the number line?",
+                "options": [
+                  "To plot and compare different numbers on the same scale",
+                  "To learn about the concept of numbers",
+                  "To visualize the relationship between numbers",
+                  "To solve mathematical problems"
+                ],
+                "answer": "To plot and compare different numbers on the same scale",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is the number line used for?",
+                "options": [
+                  "Plotting and comparing different numbers",
+                  "Addition and subtraction",
+                  "Multiplication and division",
+                  "Understanding the concept of numbers"
+                ],
+                "answer": "Plotting and comparing different numbers",
+                "type": "single_correct"
+              },
+              {
+                "question": "How can the number line help students to understand the concept of numbers?",
+                "options": [
+                  "It helps students to visualize and understand the concept of numbers",
+                  "It helps students to solve mathematical problems",
+                  "It helps students to develop problem-solving skills",
+                  "It helps students to understand the relationships between numbers"
+                ],
+                "answer": "It helps students to visualize and understand the concept of numbers",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is the number line used for in addition and subtraction?",
+                "options": [
+                  "To find the total of two numbers",
+                  "To find the difference between two numbers",
+                  "To find the product of two numbers",
+                  "To find the quotient of two numbers"
+                ],
+                "answer": "To find the difference between two numbers",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is the number line used for in multiplication and division?",
+                "options": [
+                  "To find the total of two numbers",
+                  "To find the difference between two numbers",
+                  "To find the product of two numbers",
+                  "To find the quotient of two numbers"
+                ],
+                "answer": "To find the product of two numbers",
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "Properties of Whole Numbers",
-            "definition": "**Properties of Whole Numbers:**\nWhole numbers refer to the non-negative integers (1, 2, 3, 4, 5, 6, 7, 8, 9, and 10) and their combinations. These numbers are often represented on a number line, where they are arranged in order from left to right.\n**Properties:**\n1. **Closure under addition:** Adding two whole numbers always results in a whole number. For example, 3 + 4 = 7 is a whole number.\n2. **Closure under subtraction:** Subtracting a whole number from another whole number always results in a whole number. For example, 5 - 3 = 2 is a whole number.\n3. **Closure under multiplication:** Multiplying two whole numbers always results in a whole number, except when both numbers are 0. For example, 2 * 3 = 6 is a whole number, while 0 * 0 = 0 is not a whole number.\n4. **Division by 1:** Division by 1 results in the original number. For example, 10 ÷ 1 = 10 is a whole number.\n5. **Identity property with addition and subtraction:** Adding two whole numbers or subtracting two whole numbers results in the same whole number. For example, 7 + 8 = 15 and 10 - 5 = 5 are both whole numbers.\n6. **Transitive property for multiplication:** Multiplying three or more whole numbers results in a whole number, regardless of the order of the numbers. For example, 3 * 4 * 5 = 60 is a whole number.\nThese properties allow us to perform various mathematical operations with whole numbers, including addition, subtraction, multiplication, and division, while ensuring that the results remain whole numbers"
+            "definition": "**Properties of Whole Numbers:**\nWhole numbers refer to the non-negative integers (1, 2, 3, 4, 5, 6, 7, 8, 9, and 10) and their combinations. These numbers are often represented on a number line, where they are arranged in order from left to right.\n**Properties:**\n1. **Closure under addition:** Adding two whole numbers always results in a whole number. For example, 3 + 4 = 7 is a whole number.\n2. **Closure under subtraction:** Subtracting a whole number from another whole number always results in a whole number. For example, 5 - 3 = 2 is a whole number.\n3. **Closure under multiplication:** Multiplying two whole numbers always results in a whole number, except when both numbers are 0. For example, 2 * 3 = 6 is a whole number, while 0 * 0 = 0 is not a whole number.\n4. **Division by 1:** Division by 1 results in the original number. For example, 10 ÷ 1 = 10 is a whole number.\n5. **Identity property with addition and subtraction:** Adding two whole numbers or subtracting two whole numbers results in the same whole number. For example, 7 + 8 = 15 and 10 - 5 = 5 are both whole numbers.\n6. **Transitive property for multiplication:** Multiplying three or more whole numbers results in a whole number, regardless of the order of the numbers. For example, 3 * 4 * 5 = 60 is a whole number.\nThese properties allow us to perform various mathematical operations with whole numbers, including addition, subtraction, multiplication, and division, while ensuring that the results remain whole numbers",
+            "quizzes": [
+              {
+                "question": "Which property ensures that adding two whole numbers always results in a whole number?",
+                "options": [
+                  "Closure under addition",
+                  "Closure under subtraction",
+                  "Closure under multiplication",
+                  "Division by 1"
+                ],
+                "answer": "Closure under addition",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which property ensures that subtracting a whole number from another whole number always results in a whole number?",
+                "options": [
+                  "Closure under addition",
+                  "Closure under subtraction",
+                  "Closure under multiplication",
+                  "Division by 1"
+                ],
+                "answer": "Closure under subtraction",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which property allows us to perform various mathematical operations with whole numbers?",
+                "options": [
+                  "Closure under addition and subtraction",
+                  "Closure under multiplication",
+                  "Division by 1",
+                  "Transitive property for multiplication"
+                ],
+                "answer": "Closure under multiplication",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which property allows us to multiply three or more whole numbers results in a whole number, regardless of the order of the numbers?",
+                "options": [
+                  "Closure under addition and subtraction",
+                  "Closure under multiplication",
+                  "Division by 1",
+                  "Transitive property for multiplication"
+                ],
+                "answer": "Transitive property for multiplication",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which property ensures that adding two whole numbers or subtracting two whole numbers results in the same whole number?",
+                "options": [
+                  "Closure under addition and subtraction",
+                  "Closure under multiplication",
+                  "Division by 1",
+                  "Transitive property for addition and subtraction"
+                ],
+                "answer": "Closure under addition and subtraction",
+                "type": "multiple_correct"
+              }
+            ]
           }
         ]
       },
@@ -165,11 +503,134 @@
         "topics": [
           {
             "topic": "Introduction",
-            "definition": "## Introduction\nThe realm of mathematics encompasses an astonishing array of fascinating concepts and fascinating problems. While the intricacies of each individual subject may be complex, the overarching principle that binds them all is a unifying thread. This chapter serves as an introduction to the captivating world of mathematics, introducing you to the fundamentals of a discipline known as **playful number exploration**.\nThink of mathematics as a playground where you can freely explore and experiment with different numbers and their relationships. By engaging in playful number exploration, you will embark on a captivating journey of discovery, uncovering patterns, solving challenges, and developing critical thinking skills"
+            "definition": "## Introduction\nThe realm of mathematics encompasses an astonishing array of fascinating concepts and fascinating problems. While the intricacies of each individual subject may be complex, the overarching principle that binds them all is a unifying thread. This chapter serves as an introduction to the captivating world of mathematics, introducing you to the fundamentals of a discipline known as **playful number exploration**.\nThink of mathematics as a playground where you can freely explore and experiment with different numbers and their relationships. By engaging in playful number exploration, you will embark on a captivating journey of discovery, uncovering patterns, solving challenges, and developing critical thinking skills",
+            "quizzes": [
+              {
+                "question": "What is the definition of playful number exploration?",
+                "options": [
+                  "A branch of mathematics focused on exploring and experimenting with numbers",
+                  "A branch of mathematics focused on solving problems",
+                  "A branch of mathematics focused on finding patterns",
+                  "A branch of mathematics focused on discovering new mathematical concepts"
+                ],
+                "answer": "A branch of mathematics focused on exploring and experimenting with numbers",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which number is the building block of all numbers?",
+                "options": [
+                  "1",
+                  "2",
+                  "3",
+                  "4"
+                ],
+                "answer": "1",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is the relationship between 5 and 10?",
+                "options": [
+                  "5 is bigger than 10",
+                  "5 is equal to 10",
+                  "5 is smaller than 10",
+                  "5 is a factor of 10"
+                ],
+                "answer": "5 is bigger than 10",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "How many numbers are there between 1 and 10?",
+                "options": [
+                  "2",
+                  "3",
+                  "4",
+                  "5"
+                ],
+                "answer": "4",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is the concept of patterns in mathematics?",
+                "options": [
+                  "A sequence of numbers that follows a specific order",
+                  "A pattern is a repeating sequence of numbers",
+                  "A pattern is a relationship between two numbers",
+                  "A pattern is a number that is larger than its next number"
+                ],
+                "answer": "A pattern is a repeating sequence of numbers",
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "Factors and Multiples",
-            "definition": "**Factors and Multiples**\n**Definition:**\nFactors are the positive integers that divide a given number without leaving a remainder. For example, factors of 12 are 1, 2, 3, 4, 6, and 12.\n**Multiples:**\nA multiple is a number that is divisible by a given number. For example, 6 is a multiple of 3, because 3 divides 6 evenly.\n**Relationship between Factors and Multiples:**\nFactors and multiples are related in the following way:\n* A number's factors are all the positive integers that divide it.\n* A number's multiples are all the positive integers that are divisible by it.\n* A number's factors and multiples can be found by listing all the factors of the number and then finding all the positive integers that divide each factor.\n**Examples:**\n* Factors of 12: 1, 2, 3, 4, 6, and 12\n* Multiples of 6: 3, 6, 9, 12, 15, and 18\n**Applications of Factors and Multiples:**\n* **Problem-solving:** Factors and multiples are used in various mathematical problems, such as finding the greatest common factor (GCF) of two numbers, finding the least common multiple (LCM) of two numbers, and simplifying fractions.\n* **Data analysis:** Factors and multiples are used in data analysis to identify patterns and trends in data sets.\n* **Everyday life:** Factors and multiples are encountered in everyday life, such as finding the number of people in a group or the number of items in a box.\n**Additional Notes:**\n* A number can be factored into only one set of factors, while a number can be divisible by multiple sets of factors.\n* A factor of 0 is always 1, since 0 divided by any number is always 0.\n* A multiple of 0 is also equal to 0, since 0 divided by any number is always 0"
+            "definition": "**Factors and Multiples**\n**Definition:**\nFactors are the positive integers that divide a given number without leaving a remainder. For example, factors of 12 are 1, 2, 3, 4, 6, and 12.\n**Multiples:**\nA multiple is a number that is divisible by a given number. For example, 6 is a multiple of 3, because 3 divides 6 evenly.\n**Relationship between Factors and Multiples:**\nFactors and multiples are related in the following way:\n* A number's factors are all the positive integers that divide it.\n* A number's multiples are all the positive integers that are divisible by it.\n* A number's factors and multiples can be found by listing all the factors of the number and then finding all the positive integers that divide each factor.\n**Examples:**\n* Factors of 12: 1, 2, 3, 4, 6, and 12\n* Multiples of 6: 3, 6, 9, 12, 15, and 18\n**Applications of Factors and Multiples:**\n* **Problem-solving:** Factors and multiples are used in various mathematical problems, such as finding the greatest common factor (GCF) of two numbers, finding the least common multiple (LCM) of two numbers, and simplifying fractions.\n* **Data analysis:** Factors and multiples are used in data analysis to identify patterns and trends in data sets.\n* **Everyday life:** Factors and multiples are encountered in everyday life, such as finding the number of people in a group or the number of items in a box.\n**Additional Notes:**\n* A number can be factored into only one set of factors, while a number can be divisible by multiple sets of factors.\n* A factor of 0 is always 1, since 0 divided by any number is always 0.\n* A multiple of 0 is also equal to 0, since 0 divided by any number is always 0",
+            "quizzes": [
+              {
+                "question": "Which number has the following factors: 1, 2, 3, 4, 6, and 12?",
+                "options": [
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "6",
+                  "12"
+                ],
+                "answer": "12",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which number has the following factors: 1, 2, 3, 4, 6, and 12?",
+                "options": [
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "6",
+                  "12"
+                ],
+                "answer": "6",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which number has the following factors: 1, 2, 3, 4, 6, and 12?",
+                "options": [
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "6",
+                  "12"
+                ],
+                "answer": "12",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which number is divisible by both 3 and 4?",
+                "options": [
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "6"
+                ],
+                "answer": "4",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which number is divisible by both 6 and 12?",
+                "options": [
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "6",
+                  "12"
+                ],
+                "answer": "12",
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "Prime and Composite Numbers",

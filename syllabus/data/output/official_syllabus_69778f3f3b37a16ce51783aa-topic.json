@@ -634,23 +634,330 @@
           },
           {
             "topic": "Prime and Composite Numbers",
-            "definition": "**Prime and Composite Numbers**\n**Prime Numbers:**\nA prime number is a number that is only divisible by itself and 1 without any other factors. For example, 7, 11, and 13 are all prime numbers. These numbers are also called \"prime suspects\" because they behave strangely compared to composite numbers.\n**Composite Numbers:**\nA composite number is a number that is divisible by at least two different factors. For example, 6 is a composite number because it is divisible by 1 and 2. Composite numbers are more common than prime numbers, and they play an important role in number theory.\n**Examples:**\n- 7 is a prime number.\n- 12 is a composite number because it is divisible by 2 and 3.\n- 15 is a composite number because it is divisible by 3 and 5.\n- 19 is a prime number.\n- 30 is a composite number because it is divisible by 2 and 3.\n**Key Differences:**\n- **Prime:** A number is only divisible by itself and 1.\n- **Composite:** A number is divisible by at least two different factors.\n**Additional Notes:**\n- All composite numbers are greater than 1.\n- The number 1 is not considered a prime or composite number.\n- A number that is divisible by only 1 and itself is called a self-prime number.\n**Exercises:**\n- Find all the prime numbers between 10 and 25.\n- Find all the composite numbers between 20 and 40"
+            "definition": "**Prime and Composite Numbers**\n**Prime Numbers:**\nA prime number is a number that is only divisible by itself and 1 without any other factors. For example, 7, 11, and 13 are all prime numbers. These numbers are also called \"prime suspects\" because they behave strangely compared to composite numbers.\n**Composite Numbers:**\nA composite number is a number that is divisible by at least two different factors. For example, 6 is a composite number because it is divisible by 1 and 2. Composite numbers are more common than prime numbers, and they play an important role in number theory.\n**Examples:**\n- 7 is a prime number.\n- 12 is a composite number because it is divisible by 2 and 3.\n- 15 is a composite number because it is divisible by 3 and 5.\n- 19 is a prime number.\n- 30 is a composite number because it is divisible by 2 and 3.\n**Key Differences:**\n- **Prime:** A number is only divisible by itself and 1.\n- **Composite:** A number is divisible by at least two different factors.\n**Additional Notes:**\n- All composite numbers are greater than 1.\n- The number 1 is not considered a prime or composite number.\n- A number that is divisible by only 1 and itself is called a self-prime number.\n**Exercises:**\n- Find all the prime numbers between 10 and 25.\n- Find all the composite numbers between 20 and 40",
+            "quizzes": [
+              {
+                "question": "Which number is a prime number?",
+                "options": [
+                  "7",
+                  "11",
+                  "13",
+                  "17"
+                ],
+                "answer": [
+                  "7",
+                  "11",
+                  "13"
+                ],
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which number is a composite number?",
+                "options": [
+                  "12",
+                  "15",
+                  "18",
+                  "21"
+                ],
+                "answer": [
+                  "12"
+                ],
+                "type": "single_correct"
+              },
+              {
+                "question": "Which number is not a prime number?",
+                "options": [
+                  "3",
+                  "5",
+                  "7",
+                  "9"
+                ],
+                "answer": [
+                  "3"
+                ],
+                "type": "single_correct"
+              },
+              {
+                "question": "Which number is a self-prime number?",
+                "options": [
+                  "1",
+                  "2",
+                  "3",
+                  "4"
+                ],
+                "answer": [
+                  "1"
+                ],
+                "type": "single_correct"
+              },
+              {
+                "question": "Which number is divisible by both 2 and 3?",
+                "options": [
+                  "6",
+                  "8",
+                  "10",
+                  "12"
+                ],
+                "answer": [
+                  "6"
+                ],
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "Tests for Divisibility of Numbers",
-            "definition": "**Tests for Divisibility of Numbers**\nA number is divisible by a number 'm' if the remainder is 0 when the number is divided by 'm'. This means that the result of the division is equal to 'm'.\nThere are several tests that can be used to determine if a number is divisible by a specific number. These tests include:\n* **Divisor's criterion:** A number is divisible by 'm' if the remainder is 0 when it is divided by 'm'.\n* **Little's theorem:** A number is divisible by 'm' if the number written in expanded form ends in the digit 'm'.\n* **GCD and LCM:** The greatest common divisor (gcd) of two numbers is the largest number that divides both numbers evenly, while the least common multiple (lcm) of two numbers is the smallest number that is divisible by both numbers. If the gcd and lcm are equal to the same number, the numbers are divisible by that number.\nBy using these tests, we can determine whether a number is divisible by a specific number and find its factors"
+            "definition": "**Tests for Divisibility of Numbers**\nA number is divisible by a number 'm' if the remainder is 0 when the number is divided by 'm'. This means that the result of the division is equal to 'm'.\nThere are several tests that can be used to determine if a number is divisible by a specific number. These tests include:\n* **Divisor's criterion:** A number is divisible by 'm' if the remainder is 0 when it is divided by 'm'.\n* **Little's theorem:** A number is divisible by 'm' if the number written in expanded form ends in the digit 'm'.\n* **GCD and LCM:** The greatest common divisor (gcd) of two numbers is the largest number that divides both numbers evenly, while the least common multiple (lcm) of two numbers is the smallest number that is divisible by both numbers. If the gcd and lcm are equal to the same number, the numbers are divisible by that number.\nBy using these tests, we can determine whether a number is divisible by a specific number and find its factors",
+            "quizzes": [
+              {
+                "question": "Which test can be used to determine if a number is divisible by a specific number?",
+                "options": [
+                  "Divisor's criterion",
+                  "Little's theorem",
+                  "GCD and LCM",
+                  "All of the above"
+                ],
+                "answer": "All of the above",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which test is used to determine if a number is divisible by a specific number?",
+                "options": [
+                  "Divisor's criterion",
+                  "Little's theorem",
+                  "GCD and LCM",
+                  "None of the above"
+                ],
+                "answer": "Divisor's criterion",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is the greatest common divisor of 12 and 24?",
+                "options": [
+                  "4",
+                  "6",
+                  "8",
+                  "12"
+                ],
+                "answer": "12",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is the least common multiple of 12 and 24?",
+                "options": [
+                  "12",
+                  "24",
+                  "36",
+                  "48"
+                ],
+                "answer": "24",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which test can be used to determine if two numbers are divisible by the same number?",
+                "options": [
+                  "Divisor's criterion",
+                  "Little's theorem",
+                  "GCD and LCM",
+                  "None of the above"
+                ],
+                "answer": "GCD and LCM",
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "Common Factors and Common Multiples",
-            "definition": "## Common Factors and Common Multiples\n**Common factors** are the positive factors that divide two numbers evenly, meaning the result is 1 for all the numbers in the set. For example, the factors of 12 and 24 are 1, 2, 3, 4, and 6, so 1, 2, 3, 4, and 6 are all common factors of 12 and 24.\n**Common multiples** are the positive factors that divide two numbers evenly, other than 1. For instance, the common multiples of 12 and 24 are 12, 24, 36, 48, and 60, since each of these numbers divided by both 12 and 24 results in a quotient of 1.\nIt is important to note that the **greatest common factor (GCF)** of two numbers is the largest number that divides both of them without leaving a remainder. The **least common multiple (LCM)** of two numbers is the smallest number that is divisible by both of them without leaving a remainder.\n**Examples:**\n* The factors of 12 are 1, 2, 3, 4, and 6.\n* The common factors of 12 and 24 are 1, 2, 3, 4, and 6.\n* The greatest common factor of 12 and 24 is 12.\n* The least common multiple of 12 and 24 is 24.\n**Applications:**\nCommon factors and multiples are used in various mathematical concepts, including division, ratios, and percentages. They also appear in geometric shapes, such as squares and rectangles, where the sides are related to the dimensions of the shapes"
+            "definition": "## Common Factors and Common Multiples\n**Common factors** are the positive factors that divide two numbers evenly, meaning the result is 1 for all the numbers in the set. For example, the factors of 12 and 24 are 1, 2, 3, 4, and 6, so 1, 2, 3, 4, and 6 are all common factors of 12 and 24.\n**Common multiples** are the positive factors that divide two numbers evenly, other than 1. For instance, the common multiples of 12 and 24 are 12, 24, 36, 48, and 60, since each of these numbers divided by both 12 and 24 results in a quotient of 1.\nIt is important to note that the **greatest common factor (GCF)** of two numbers is the largest number that divides both of them without leaving a remainder. The **least common multiple (LCM)** of two numbers is the smallest number that is divisible by both of them without leaving a remainder.\n**Examples:**\n* The factors of 12 are 1, 2, 3, 4, and 6.\n* The common factors of 12 and 24 are 1, 2, 3, 4, and 6.\n* The greatest common factor of 12 and 24 is 12.\n* The least common multiple of 12 and 24 is 24.\n**Applications:**\nCommon factors and multiples are used in various mathematical concepts, including division, ratios, and percentages. They also appear in geometric shapes, such as squares and rectangles, where the sides are related to the dimensions of the shapes",
+            "quizzes": [
+              {
+                "question": "What are the common factors of 12 and 24?",
+                "options": [
+                  "1, 2, 3, 4, 6",
+                  "1, 2, 3, 4",
+                  "1, 2, 3, 4, 6",
+                  "1, 2, 4"
+                ],
+                "answer": "Correct Answer: 1, 2, 3, 4, 6",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which numbers are divisible by both 12 and 24 without leaving a remainder?",
+                "options": [
+                  "12, 24, 36, 48, 60",
+                  "12, 24, 36, 48",
+                  "12, 24, 36, 48, 60",
+                  "12, 24, 36, 48"
+                ],
+                "answer": "Correct Answer: 12, 24, 36, 48",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is the greatest common factor of 12 and 24?",
+                "options": [
+                  "1, 2, 3, 4, 6",
+                  "2, 4, 6",
+                  "3, 6, 8",
+                  "4, 6, 8"
+                ],
+                "answer": "Correct Answer: 12",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is the least common multiple of 12 and 24?",
+                "options": [
+                  "12, 24, 36, 48, 60",
+                  "12, 24, 36, 48, 60",
+                  "12, 24, 36, 48, 60",
+                  "12, 24, 36, 48"
+                ],
+                "answer": "Correct Answer: 24",
+                "type": "single_correct"
+              },
+              {
+                "question": "How can common factors and multiples be used in different mathematical concepts?",
+                "options": [
+                  "True",
+                  "False"
+                ],
+                "answer": "Correct Answer: True",
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "Some More Divisibility Rules",
-            "definition": "## Some More Divisibility Rules\nDivisibility rules help us determine whether a number is divisible by a specific number. These rules can help us quickly identify numbers that are divisible by a particular number without having to perform long division.\n**Rule 1: First, check divisibility by 2.**\nA number is divisible by 2 if the last digit of the number is even. For example, 10 is divisible by 2 because 10 ÷ 2 = 5, which is even.\n**Rule 2: If the number is divisible by 3, it will also be divisible by 9.**\nThis is because 3 is divisible by 3, and a number divisible by 3 will also be divisible by 9, which is a multiple of 3. For example, 15 is divisible by 3 but not divisible by 9 because 15 ÷ 9 = 1, which is not divisible by 3.\n**Rule 3: If a number is divisible by 4, it will also be divisible by 8.**\nThis is because 4 and 8 are divisible by the same number, which is 2. Therefore, any number divisible by 4 must also be divisible by 8. For example, 24 is divisible by 4 but not divisible by 8.\n**Rule 4: If a number ends in 0, it is divisible by 10.**\nThis is because any number divisible by 10 ends in either 0 or 5, which are both divisible by 10. For example, 420 is divisible by 10 but not divisible by 5.\n**Rule 5: If a number ends in a unit (5 or 0), it is divisible by 5.**\nThis is because any number ending in a unit is divisible by 5, as it can be divided equally by 5 without leaving a remainder. For example, 75 is divisible by 5 but not divisible by 10.\nBy understanding these rules, we can quickly identify which numbers are divisible by specific numbers without having to perform long division"
+            "definition": "## Some More Divisibility Rules\nDivisibility rules help us determine whether a number is divisible by a specific number. These rules can help us quickly identify numbers that are divisible by a particular number without having to perform long division.\n**Rule 1: First, check divisibility by 2.**\nA number is divisible by 2 if the last digit of the number is even. For example, 10 is divisible by 2 because 10 ÷ 2 = 5, which is even.\n**Rule 2: If the number is divisible by 3, it will also be divisible by 9.**\nThis is because 3 is divisible by 3, and a number divisible by 3 will also be divisible by 9, which is a multiple of 3. For example, 15 is divisible by 3 but not divisible by 9 because 15 ÷ 9 = 1, which is not divisible by 3.\n**Rule 3: If a number is divisible by 4, it will also be divisible by 8.**\nThis is because 4 and 8 are divisible by the same number, which is 2. Therefore, any number divisible by 4 must also be divisible by 8. For example, 24 is divisible by 4 but not divisible by 8.\n**Rule 4: If a number ends in 0, it is divisible by 10.**\nThis is because any number divisible by 10 ends in either 0 or 5, which are both divisible by 10. For example, 420 is divisible by 10 but not divisible by 5.\n**Rule 5: If a number ends in a unit (5 or 0), it is divisible by 5.**\nThis is because any number ending in a unit is divisible by 5, as it can be divided equally by 5 without leaving a remainder. For example, 75 is divisible by 5 but not divisible by 10.\nBy understanding these rules, we can quickly identify which numbers are divisible by specific numbers without having to perform long division",
+            "quizzes": [
+              {
+                "question": "Question text",
+                "options": [
+                  "Option 1",
+                  "Option 2",
+                  "Option 3",
+                  "Option 4"
+                ],
+                "answer": "Correct Option",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which number is divisible by 2?",
+                "options": [
+                  "5",
+                  "10",
+                  "15",
+                  "20"
+                ],
+                "answer": [
+                  "5"
+                ],
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which number is divisible by 3?",
+                "options": [
+                  "3",
+                  "6",
+                  "9",
+                  "12"
+                ],
+                "answer": [
+                  "9"
+                ],
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which number is divisible by both 4 and 8?",
+                "options": [
+                  "16",
+                  "24",
+                  "32",
+                  "40"
+                ],
+                "answer": [
+                  "40"
+                ],
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which number ends in a unit (5 or 0)",
+                "options": [
+                  "15",
+                  "20",
+                  "25",
+                  "30"
+                ],
+                "answer": [
+                  "25"
+                ],
+                "type": "single_correct"
+              }
+            ]
           },
           {
             "topic": "Prime Factorisation",
-            "definition": "## Prime Factorisation\nPrime factorisation is a way of writing a number as a product of its smallest possible factors. For example, the number 12 is prime factorised as 12 = 2 * 2 * 3.\n**Key points about prime factorisation:**\n* A number is **prime** if it is only divisible by itself and 1.\n* A factor of a number is any number that divides the original number evenly.\n* The **prime factors** of a number are all the different positive factors that it is divisible by.\n* A number can have more than two prime factors.\n* The **factors of a number** are the different combinations of the two smallest positive factors that divide the original number.\n**Example:**\nLet's factorise the number 15 into its prime factors:\n15 = 1 * 3 * 5\n**Here are some more examples of prime factorisation:**\n* 30 = 2 * 2 * 3\n* 60 = 2 * 2 * 3 * 3\n* 90 = 2 * 3 * 3 * 5\n**Benefits of learning prime factorisation:**\n* It helps us to understand how numbers are divisible.\n* It allows us to write numbers in a more compact and efficient form.\n* It is a useful skill for many mathematical problems"
+            "definition": "## Prime Factorisation\nPrime factorisation is a way of writing a number as a product of its smallest possible factors. For example, the number 12 is prime factorised as 12 = 2 * 2 * 3.\n**Key points about prime factorisation:**\n* A number is **prime** if it is only divisible by itself and 1.\n* A factor of a number is any number that divides the original number evenly.\n* The **prime factors** of a number are all the different positive factors that it is divisible by.\n* A number can have more than two prime factors.\n* The **factors of a number** are the different combinations of the two smallest positive factors that divide the original number.\n**Example:**\nLet's factorise the number 15 into its prime factors:\n15 = 1 * 3 * 5\n**Here are some more examples of prime factorisation:**\n* 30 = 2 * 2 * 3\n* 60 = 2 * 2 * 3 * 3\n* 90 = 2 * 3 * 3 * 5\n**Benefits of learning prime factorisation:**\n* It helps us to understand how numbers are divisible.\n* It allows us to write numbers in a more compact and efficient form.\n* It is a useful skill for many mathematical problems",
+            "quizzes": [
+              {
+                "question": "Which of the following is a prime number?",
+                "options": [
+                  "12",
+                  "15",
+                  "18",
+                  "24"
+                ],
+                "answer": "Correct Option",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which of the following is a factor of 12?",
+                "options": [
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "6"
+                ],
+                "answer": "Correct Option",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which of the following is not a factor of 18?",
+                "options": [
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "6"
+                ],
+                "answer": "Correct Option",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which of the following is a prime factor of 30?",
+                "options": [
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "6"
+                ],
+                "answer": "Correct Option",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which of the following is the smallest factor of 60?",
+                "options": [
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "6"
+                ],
+                "answer": "Correct Option",
+                "type": "multiple_correct"
+              }
+            ]
           }
         ]
       },
@@ -659,27 +966,311 @@
         "topics": [
           {
             "topic": "Introduction",
-            "definition": "## Introduction\nThe **Introduction** chapter lays the foundation for the entire subject of mathematics. It introduces the fundamental concepts and ideas that will be explored in the subsequent chapters.\n**Key topics covered in the introduction:**\n* **Numbers and sets:** This section introduces the basic concepts of numbers (whole, natural, integer, rational, and real) and sets (finite and infinite sets).\n* **Measurement:** The chapter explains different units of measurement and how to calculate the area and perimeter of various shapes.\n* **Geometry:** This section introduces the basic concepts of geometry, including lines, angles, shapes, and geometric relationships.\n* **Coordinate geometry:** This section focuses on the coordinate plane and how to represent points, lines, and shapes using coordinates.\n**Examples:**\n* The chapter introduces the concept of **sets** with simple examples like sets of toys or a set of natural numbers.\n* It demonstrates the concept of **measurement** by explaining how to find the perimeter of a rectangle with different side lengths.\n* The chapter introduces the coordinate plane with points represented by ordered pairs of numbers, showcasing how coordinates can be used to locate and describe shapes and geometric figures"
+            "definition": "## Introduction\nThe **Introduction** chapter lays the foundation for the entire subject of mathematics. It introduces the fundamental concepts and ideas that will be explored in the subsequent chapters.\n**Key topics covered in the introduction:**\n* **Numbers and sets:** This section introduces the basic concepts of numbers (whole, natural, integer, rational, and real) and sets (finite and infinite sets).\n* **Measurement:** The chapter explains different units of measurement and how to calculate the area and perimeter of various shapes.\n* **Geometry:** This section introduces the basic concepts of geometry, including lines, angles, shapes, and geometric relationships.\n* **Coordinate geometry:** This section focuses on the coordinate plane and how to represent points, lines, and shapes using coordinates.\n**Examples:**\n* The chapter introduces the concept of **sets** with simple examples like sets of toys or a set of natural numbers.\n* It demonstrates the concept of **measurement** by explaining how to find the perimeter of a rectangle with different side lengths.\n* The chapter introduces the coordinate plane with points represented by ordered pairs of numbers, showcasing how coordinates can be used to locate and describe shapes and geometric figures",
+            "quizzes": [
+              {
+                "question": "What is a set?",
+                "options": [
+                  "A collection of distinct objects",
+                  "A set of numbers",
+                  "A set of people",
+                  "A set of animals"
+                ],
+                "answer": "A collection of distinct objects",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which unit of measurement is used to find the perimeter of a rectangle?",
+                "options": [
+                  "Meter",
+                  "Kilometer",
+                  "Millimeter",
+                  "Inch"
+                ],
+                "answer": "Millimeter",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is the coordinate of the point represented by the ordered pair (2, 3)?",
+                "options": [
+                  "(2, 4)",
+                  "(-1, 5)",
+                  "(3, 1)",
+                  "(-3, 4)"
+                ],
+                "answer": "(-3, 4)",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which geometric figure is represented by the equation (x + 2) = 5?",
+                "options": [
+                  "Triangle",
+                  "Circle",
+                  "Rectangle",
+                  "Parallelogram"
+                ],
+                "answer": "Circle",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which concept is introduced in the Introduction chapter to lay the foundation for the entire subject of mathematics?",
+                "options": [
+                  "Numbers and sets",
+                  "Measurement",
+                  "Geometry",
+                  "Coordinate geometry"
+                ],
+                "answer": "Numbers and sets",
+                "type": "single_correct"
+              }
+            ]
           },
           {
             "topic": "Points",
-            "definition": "## Points: A Conceptual Exploration\nPoints are a fundamental concept in geometry that helps us understand and measure the relative positions of figures. They offer a visual representation of the distance and direction between points, making it easier to visualize and analyze geometric shapes and relationships.\nImagine a grid of perfectly spaced points on a sheet of paper. Each point represents a specific location, and the distance between points tells us how far apart they are. We can use points to mark specific locations on a map or chart, highlighting features, landmarks, or positions of different objects.\nPoints also help us define lines and angles. A line is a continuous path of points, while an angle measures the angle formed between two rays. By counting the number of points in a line and the angles at different points, we can determine if two lines are parallel, perpendicular, or intersect.\nUnderstanding points is crucial for comprehending more advanced geometric concepts like lines, angles, shapes, and geometric relationships. By learning how to analyze and create points, students develop a strong foundation for spatial reasoning and problem-solving in geometry"
+            "definition": "## Points: A Conceptual Exploration\nPoints are a fundamental concept in geometry that helps us understand and measure the relative positions of figures. They offer a visual representation of the distance and direction between points, making it easier to visualize and analyze geometric shapes and relationships.\nImagine a grid of perfectly spaced points on a sheet of paper. Each point represents a specific location, and the distance between points tells us how far apart they are. We can use points to mark specific locations on a map or chart, highlighting features, landmarks, or positions of different objects.\nPoints also help us define lines and angles. A line is a continuous path of points, while an angle measures the angle formed between two rays. By counting the number of points in a line and the angles at different points, we can determine if two lines are parallel, perpendicular, or intersect.\nUnderstanding points is crucial for comprehending more advanced geometric concepts like lines, angles, shapes, and geometric relationships. By learning how to analyze and create points, students develop a strong foundation for spatial reasoning and problem-solving in geometry",
+            "quizzes": [
+              {
+                "question": "Which of the following is not a point?**",
+                "options": [
+                  "A line",
+                  "A circle",
+                  "A point",
+                  "A ray"
+                ],
+                "answer": "A line",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "How can we measure the distance between two points on a plane?**",
+                "options": [
+                  "Using a ruler",
+                  "Using a compass",
+                  "Using a scale",
+                  "Using a protractor"
+                ],
+                "answer": "Using a ruler",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which property of lines is essential for determining if two lines are parallel?**",
+                "options": [
+                  "Slope",
+                  "Gradient",
+                  "Parallel lines",
+                  "Distance"
+                ],
+                "answer": "Slope",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is the angle formed by two rays?**",
+                "options": [
+                  "Acute",
+                  "Right",
+                  "Obtuse",
+                  "Equal"
+                ],
+                "answer": "Equal",
+                "type": "single_correct"
+              },
+              {
+                "question": "How can we determine if two lines are perpendicular?**",
+                "options": [
+                  "By counting the number of points in a line",
+                  "By measuring the angles at different points",
+                  "By using a compass",
+                  "By measuring the distance between the lines"
+                ],
+                "answer": "By counting the number of points in a line",
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "A Line Segment",
-            "definition": "**A Line Segment**\nA line segment is a straight line that joins two points in a geometric figure. It is a subset of a line that has a specific length and direction.\n**Properties of a Line Segment:**\n* A line segment has two endpoints, which are the two points that it connects.\n* A line segment has a length, which is a measure of the distance between the two endpoints.\n* A line segment is a subset of the line, meaning that it is contained within the line.\n* A line segment can be drawn with a ruler and a pencil.\n**Examples of Line Segments:**\n* The line segment connecting points A and B is called the line segment AB.\n* The line segment connecting points C and D is called the line segment CD.\n* The line segment connecting points E and F is called the line segment EF.\n**Applications of Line Segments:**\nLine segments have many applications in geometry, such as:\n* Finding the distance between two points\n* Calculating the area of a geometric figure\n* Determining if two lines are parallel or perpendicular"
+            "definition": "**A Line Segment**\nA line segment is a straight line that joins two points in a geometric figure. It is a subset of a line that has a specific length and direction.\n**Properties of a Line Segment:**\n* A line segment has two endpoints, which are the two points that it connects.\n* A line segment has a length, which is a measure of the distance between the two endpoints.\n* A line segment is a subset of the line, meaning that it is contained within the line.\n* A line segment can be drawn with a ruler and a pencil.\n**Examples of Line Segments:**\n* The line segment connecting points A and B is called the line segment AB.\n* The line segment connecting points C and D is called the line segment CD.\n* The line segment connecting points E and F is called the line segment EF.\n**Applications of Line Segments:**\nLine segments have many applications in geometry, such as:\n* Finding the distance between two points\n* Calculating the area of a geometric figure\n* Determining if two lines are parallel or perpendicular",
+            "quizzes": [
+              {
+                "question": "Which property of a line segment defines its length?",
+                "options": [
+                  "The length is equal to the distance between the two endpoints.",
+                  "The length is equal to the product of the two endpoints",
+                  "The length is equal to the sum of the two endpoints",
+                  "The length is equal to the minimum distance between any two points on the line"
+                ],
+                "answer": "The length is equal to the distance between the two endpoints.",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which property of a line segment defines its direction?",
+                "options": [
+                  "The line segment is always horizontal or vertical.",
+                  "The line segment is always perpendicular to the xy-plane",
+                  "The line segment is always in the same direction as the positive x-axis",
+                  "The line segment is always perpendicular to the positive y-axis"
+                ],
+                "answer": "The line segment is always perpendicular to the xy-plane.",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which property of a line segment defines its position within a geometric figure?",
+                "options": [
+                  "The line segment is always inside the figure",
+                  "The line segment is always outside the figure",
+                  "The line segment is always equal to the length of the diagonal of the figure",
+                  "The line segment is always equal to the length of the perimeter of the figure"
+                ],
+                "answer": "The line segment is always inside the figure.",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which property of a line segment can be used to find the distance between two points?",
+                "options": [
+                  "The length of the line segment",
+                  "The angle formed by the line segment",
+                  "The area of the geometric figure",
+                  "The perimeter of the geometric figure"
+                ],
+                "answer": "The length of the line segment.",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which real-world application of a line segment is used to calculate the area of a geometric figure?",
+                "options": [
+                  "Finding the distance between two points",
+                  "Calculating the area of a rectangle",
+                  "Determining if two lines are parallel or perpendicular",
+                  "Calculating the volume of a prism"
+                ],
+                "answer": "Calculating the area of a rectangle.",
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "A Line",
-            "definition": "**A Line**\nA line is a straight path with no width that connects two points in a plane. We can draw a line using a pencil on paper, a ruler, or a protractor.\n**Characteristics of a Line:**\n* A line is always straight.\n* A line has no thickness or width.\n* A line has no endpoints.\n* A line can be horizontal, vertical, or diagonal.\n**Examples of Lines:**\n* The line from point A(1, 2) to point B(3, 5) is a straight line.\n* The line passing through points C(4, 6) and D(6, 8) is a horizontal line.\n* The line passing through points E(2, 4) and F(6, 8) is a vertical line.\n**Applications of Lines:**\n* Lines are used in many real-world applications, such as construction, art, and transportation.\n* Lines can be used to represent relationships between objects, such as the distance between two cities or the angle between two lines.\n* Lines can be used to solve problems, such as finding the distance between two points or the slope of a line"
+            "definition": "**A Line**\nA line is a straight path with no width that connects two points in a plane. We can draw a line using a pencil on paper, a ruler, or a protractor.\n**Characteristics of a Line:**\n* A line is always straight.\n* A line has no thickness or width.\n* A line has no endpoints.\n* A line can be horizontal, vertical, or diagonal.\n**Examples of Lines:**\n* The line from point A(1, 2) to point B(3, 5) is a straight line.\n* The line passing through points C(4, 6) and D(6, 8) is a horizontal line.\n* The line passing through points E(2, 4) and F(6, 8) is a vertical line.\n**Applications of Lines:**\n* Lines are used in many real-world applications, such as construction, art, and transportation.\n* Lines can be used to represent relationships between objects, such as the distance between two cities or the angle between two lines.\n* Lines can be used to solve problems, such as finding the distance between two points or the slope of a line",
+            "quizzes": []
           },
           {
             "topic": "Intersecting Lines",
-            "definition": "## Intersecting Lines\nLines can intersect, meaning they meet at a single point, or they can be parallel and not intersect. When two lines intersect, they create a region called the intersection. \nThere are various ways to determine if two lines intersect. Two lines intersect if and only if the following two conditions are satisfied:\n1. The lines have the same slope.\n2. The lines have the same y-intercept.\n**Slope** is a measure of how steeply the line rises or falls for each unit change in the x-direction. The slope of a line can be determined by looking at the ratio of changes in the y- and x-coordinates. \n**Y-intercept** is the point where the line crosses the y-axis. The y-intercept can be found by setting x to 0 in the equation of the line.\nHere are some examples of lines intersecting in different ways:\n* **Parallel lines:** Lines with the same slope do not intersect.\n* **Collinear lines:** Two lines that intersect at a single point are collinear.\n* **Intersecting lines:** Two lines that intersect at a single point are not collinear.\nBy understanding the concepts of slope and y-intercept, we can determine whether two lines intersect and find the intersection point if they do"
+            "definition": "## Intersecting Lines\nLines can intersect, meaning they meet at a single point, or they can be parallel and not intersect. When two lines intersect, they create a region called the intersection. \nThere are various ways to determine if two lines intersect. Two lines intersect if and only if the following two conditions are satisfied:\n1. The lines have the same slope.\n2. The lines have the same y-intercept.\n**Slope** is a measure of how steeply the line rises or falls for each unit change in the x-direction. The slope of a line can be determined by looking at the ratio of changes in the y- and x-coordinates. \n**Y-intercept** is the point where the line crosses the y-axis. The y-intercept can be found by setting x to 0 in the equation of the line.\nHere are some examples of lines intersecting in different ways:\n* **Parallel lines:** Lines with the same slope do not intersect.\n* **Collinear lines:** Two lines that intersect at a single point are collinear.\n* **Intersecting lines:** Two lines that intersect at a single point are not collinear.\nBy understanding the concepts of slope and y-intercept, we can determine whether two lines intersect and find the intersection point if they do",
+            "quizzes": [
+              {
+                "question": "Which condition must be satisfied for two lines to intersect?",
+                "options": [
+                  "The slope must be the same",
+                  "The y-intercepts must be equal",
+                  "The lines must be parallel"
+                ],
+                "answer": "The slope must be the same",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is the point where two lines intersect?",
+                "options": [
+                  "The origin",
+                  "The point where the lines intersect",
+                  "The y-axis",
+                  "The point where the lines intersect"
+                ],
+                "answer": "The point where the lines intersect",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which of the following is an example of lines that intersect at a single point?",
+                "options": [
+                  "Parallel lines",
+                  "Collinear lines",
+                  "Intersecting lines"
+                ],
+                "answer": "Intersecting lines",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is the equation of a line parallel to the y-axis?",
+                "options": [
+                  "y = 0",
+                  "y = x",
+                  "y = 2x",
+                  "y = 3x"
+                ],
+                "answer": "y = 0",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which line is perpendicular to the line with the equation y = 2x + 1?",
+                "options": [
+                  "y = 2x - 1",
+                  "y = 2x + 2",
+                  "y = 4x - 3",
+                  "y = 4x + 4"
+                ],
+                "answer": "y = 2x - 1",
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "Parallel Lines",
-            "definition": "## Parallel Lines\nA **parallel line** is a line that **does not intersect** another line. It is parallel to the original line, meaning they are **equal distance apart** and on the **same side** of the original line.\nImagine a highway running parallel to a main road. Cars driving on the main road can safely drive on the parallel road without colliding with each other.\nHere are some key characteristics of parallel lines:\n* **Same distance apart:** Parallel lines are equidistant, meaning the distance between any two points on the two lines is the same.\n* **Do not intersect:** Parallel lines never meet at a single point, even if they are drawn to the same point.\n* **Equal distance:** The distance from any point on one line to any point on the other line is the same.\nBy understanding the properties of parallel lines, we can draw shapes, analyze geometric figures, and solve problems related to them"
+            "definition": "## Parallel Lines\nA **parallel line** is a line that **does not intersect** another line. It is parallel to the original line, meaning they are **equal distance apart** and on the **same side** of the original line.\nImagine a highway running parallel to a main road. Cars driving on the main road can safely drive on the parallel road without colliding with each other.\nHere are some key characteristics of parallel lines:\n* **Same distance apart:** Parallel lines are equidistant, meaning the distance between any two points on the two lines is the same.\n* **Do not intersect:** Parallel lines never meet at a single point, even if they are drawn to the same point.\n* **Equal distance:** The distance from any point on one line to any point on the other line is the same.\nBy understanding the properties of parallel lines, we can draw shapes, analyze geometric figures, and solve problems related to them",
+            "quizzes": [
+              {
+                "question": "Which line is parallel to line A?",
+                "options": [
+                  "Line B",
+                  "Line C",
+                  "Line D",
+                  "Line E"
+                ],
+                "answer": "Line B",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is the distance between points A and C on line A?",
+                "options": [
+                  "2",
+                  "4",
+                  "6",
+                  "8"
+                ],
+                "answer": "4",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which line is perpendicular to line A?",
+                "options": [
+                  "Line B",
+                  "Line C",
+                  "Line D",
+                  "Line E"
+                ],
+                "answer": "Line C",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is the equation of a line parallel to line A and passing through point B?",
+                "options": [
+                  "x = 2",
+                  "y = 3",
+                  "x = 4",
+                  "y = 6"
+                ],
+                "answer": "x = 4",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which line is parallel to line A and intersects point D?",
+                "options": [
+                  "Line B",
+                  "Line C",
+                  "Line D",
+                  "Line E"
+                ],
+                "answer": "Line D",
+                "type": "multiple_correct"
+              }
+            ]
           }
         ]
       },
@@ -688,27 +1279,368 @@
         "topics": [
           {
             "topic": "Introduction",
-            "definition": "## Introduction\nThe **Introduction** chapter lays the foundation for understanding and exploring the world of elementary shapes. This chapter introduces the concept of shapes and provides a systematic approach to understanding their properties and relationships. \n**Key concepts explored in the Introduction:**\n* **Shape:** A 2D figure that has specific properties, including sides and angles.\n* **Point:** A place in space with no dimension.\n* **Line:** A 1D object that connects two points.\n* **Shape vocabulary:** This includes terms like square, triangle, circle, rectangle, etc., which are used to describe the characteristics of shapes.\n* **Symmetry:** A shape that reflects across a line in a way that it stays in its original shape.\nThrough engaging examples and clear explanations, the Introduction chapter helps students develop a strong understanding of shapes and their relationships. Students will learn to recognize and name different shapes, understand their properties, and discover how shapes can be arranged to create new shapes"
+            "definition": "## Introduction\nThe **Introduction** chapter lays the foundation for understanding and exploring the world of elementary shapes. This chapter introduces the concept of shapes and provides a systematic approach to understanding their properties and relationships. \n**Key concepts explored in the Introduction:**\n* **Shape:** A 2D figure that has specific properties, including sides and angles.\n* **Point:** A place in space with no dimension.\n* **Line:** A 1D object that connects two points.\n* **Shape vocabulary:** This includes terms like square, triangle, circle, rectangle, etc., which are used to describe the characteristics of shapes.\n* **Symmetry:** A shape that reflects across a line in a way that it stays in its original shape.\nThrough engaging examples and clear explanations, the Introduction chapter helps students develop a strong understanding of shapes and their relationships. Students will learn to recognize and name different shapes, understand their properties, and discover how shapes can be arranged to create new shapes",
+            "quizzes": [
+              {
+                "question": "What is a shape?",
+                "options": [
+                  "A 2D figure with specific properties",
+                  "A 1D object that connects two points",
+                  "A line",
+                  "A point"
+                ],
+                "answer": "Correct Option",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which term is used to describe the characteristics of a shape?",
+                "options": [
+                  "Shape vocabulary",
+                  "Symmetry",
+                  "Line",
+                  "Point"
+                ],
+                "answer": "Correct Option",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is a line?",
+                "options": [
+                  "A 1D object that connects two points",
+                  "A 2D figure with specific properties",
+                  "A point",
+                  "A 3D shape"
+                ],
+                "answer": "Correct Option",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which property of a shape tells us how many sides it has?",
+                "options": [
+                  "Number of angles",
+                  "Perimeter",
+                  "Area",
+                  "Symmetry"
+                ],
+                "answer": "Correct Option",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which property of a shape tells us how it looks in relation to other shapes?",
+                "options": [
+                  "Symmetry",
+                  "Perimeter",
+                  "Area",
+                  "Volume"
+                ],
+                "answer": "Correct Option",
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "Measuring Line Segments",
-            "definition": "## Measuring Line Segments\nA line segment is a portion of a line that has a defined length. It can be created by drawing a line with a specific length and then connecting the two ends. \nThere are two main ways to measure the length of a line segment:\n**1. Using a ruler:**\n- Use a ruler to draw a line segment on a paper.\n- Make sure the line segment is long enough to be measured accurately.\n- Read the length of the line segment from the ruler.\n**2. Using a scale:**\n- Use a scale to measure the length of a line segment.\n- Place the scale on the line segment and read the length from the scale.\n**3. Using geometric shapes:**\n- For certain shapes, such as circles and squares, you can measure the length of a line segment by using geometric properties.\n- For example, the perimeter of a circle is the length of its circumference, which is equal to 2πr, where r is the radius of the circle.\n**4. Measuring on a coordinate plane:**\n- Locate the coordinates of the two end points of the line segment on a coordinate plane.\n- Measure the difference between the coordinates of the two points.\n- This is the length of the line segment.\n**Here are some additional things to keep in mind about measuring line segments:**\n* A line segment can be any length, from a few inches to several feet or meters.\n* It is important to choose the right tool for measuring the length of a line segment, depending on the situation.\n* The units of measurement for length are usually inches, centimeters, or meters"
+            "definition": "## Measuring Line Segments\nA line segment is a portion of a line that has a defined length. It can be created by drawing a line with a specific length and then connecting the two ends. \nThere are two main ways to measure the length of a line segment:\n**1. Using a ruler:**\n- Use a ruler to draw a line segment on a paper.\n- Make sure the line segment is long enough to be measured accurately.\n- Read the length of the line segment from the ruler.\n**2. Using a scale:**\n- Use a scale to measure the length of a line segment.\n- Place the scale on the line segment and read the length from the scale.\n**3. Using geometric shapes:**\n- For certain shapes, such as circles and squares, you can measure the length of a line segment by using geometric properties.\n- For example, the perimeter of a circle is the length of its circumference, which is equal to 2πr, where r is the radius of the circle.\n**4. Measuring on a coordinate plane:**\n- Locate the coordinates of the two end points of the line segment on a coordinate plane.\n- Measure the difference between the coordinates of the two points.\n- This is the length of the line segment.\n**Here are some additional things to keep in mind about measuring line segments:**\n* A line segment can be any length, from a few inches to several feet or meters.\n* It is important to choose the right tool for measuring the length of a line segment, depending on the situation.\n* The units of measurement for length are usually inches, centimeters, or meters",
+            "quizzes": [
+              {
+                "question": "How can you measure the length of a line segment using a ruler?",
+                "options": [
+                  "Draw a line segment on a paper and then measure its length with a ruler.",
+                  "Use a scale to measure the length of a line segment.",
+                  "Use geometric properties to measure the length of a line segment.",
+                  "All of the above."
+                ],
+                "answer": "All of the above",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which method is used to measure the length of a line segment on a coordinate plane?",
+                "options": [
+                  "Using a ruler",
+                  "Using a scale",
+                  "Using geometric properties",
+                  "Using a coordinate plane"
+                ],
+                "answer": "Using a coordinate plane",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is the formula for calculating the perimeter of a circle?",
+                "options": [
+                  "2πr",
+                  "r",
+                  "πr",
+                  "r²"
+                ],
+                "answer": "2πr",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "How can you measure the length of a line segment in a geometric shape?",
+                "options": [
+                  "The perimeter",
+                  "The circumference",
+                  "The area",
+                  "The diameter"
+                ],
+                "answer": "The circumference",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which unit is typically used to measure the length of a line segment?",
+                "options": [
+                  "Inches",
+                  "Centimeters",
+                  "Meters",
+                  "Millimeters"
+                ],
+                "answer": "Inches",
+                "type": "single_correct"
+              }
+            ]
           },
           {
             "topic": "Angles - 'Right' and 'Straight'",
-            "definition": "**Angles** are measurements of the angles formed between two rays of light. They are typically measured in degrees, minutes, and seconds.\n**Right angles** have a measure of 90 degrees. This is the largest angle in a triangle, and all right angles are congruent to each other.\n**Straight angles** have a measure of 180 degrees. They are the angles formed between two lines that intersect at a single point.\n**Examples:**\n* An angle that measures 45 degrees is called a right angle.\n* An angle that measures 120 degrees is called a straight angle.\n* An angle that measures 30 degrees is called an acute angle"
+            "definition": "**Angles** are measurements of the angles formed between two rays of light. They are typically measured in degrees, minutes, and seconds.\n**Right angles** have a measure of 90 degrees. This is the largest angle in a triangle, and all right angles are congruent to each other.\n**Straight angles** have a measure of 180 degrees. They are the angles formed between two lines that intersect at a single point.\n**Examples:**\n* An angle that measures 45 degrees is called a right angle.\n* An angle that measures 120 degrees is called a straight angle.\n* An angle that measures 30 degrees is called an acute angle",
+            "quizzes": [
+              {
+                "question": "Which angle is largest?",
+                "options": [
+                  "90 degrees",
+                  "180 degrees",
+                  "270 degrees",
+                  "360 degrees"
+                ],
+                "answer": "90 degrees",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which angle is smallest?",
+                "options": [
+                  "Acute angle",
+                  "Right angle",
+                  "Obtuse angle",
+                  "Straight angle"
+                ],
+                "answer": "Acute angle",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which angle is formed between two lines that intersect at a single point?",
+                "options": [
+                  "Right angle",
+                  "Acute angle",
+                  "Obtuse angle",
+                  "Straight angle"
+                ],
+                "answer": "Straight angle",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which angle measures 45 degrees?",
+                "options": [
+                  "Acute angle",
+                  "Right angle",
+                  "Obtuse angle",
+                  "Straight angle"
+                ],
+                "answer": "Right angle",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which angle measures 180 degrees?",
+                "options": [
+                  "Acute angle",
+                  "Right angle",
+                  "Obtuse angle",
+                  "Straight angle"
+                ],
+                "answer": "Straight angle",
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "Angles - 'Acute', 'Obtuse' and 'Reflex'",
-            "definition": "**Angles**\nAn angle is the angle formed at the intersection of two or more rays. It is often represented by a letter, such as $\\angle A$, with the apex pointing towards the direction of the rays.\n**Acute angles**\nAn acute angle is an angle that measures less than 90 degrees. This means that the angle measures between 0 and 90 degrees.\n**Obtuse angles**\nAn obtuse angle is an angle that measures between 90 and 180 degrees. This means that the angle measures between 90 and 180 degrees.\n**Reflex angles**\nA reflex angle is the angle formed when a ray of light reflects back on itself. This means that the angle is equal to the original angle"
+            "definition": "**Angles**\nAn angle is the angle formed at the intersection of two or more rays. It is often represented by a letter, such as $\\angle A$, with the apex pointing towards the direction of the rays.\n**Acute angles**\nAn acute angle is an angle that measures less than 90 degrees. This means that the angle measures between 0 and 90 degrees.\n**Obtuse angles**\nAn obtuse angle is an angle that measures between 90 and 180 degrees. This means that the angle measures between 90 and 180 degrees.\n**Reflex angles**\nA reflex angle is the angle formed when a ray of light reflects back on itself. This means that the angle is equal to the original angle",
+            "quizzes": [
+              {
+                "question": "Which angle measures less than 90 degrees?",
+                "options": [
+                  "Acute",
+                  "Obtuse",
+                  "Right",
+                  "Reflex"
+                ],
+                "answer": "Acute",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which angle measures between 90 and 180 degrees?",
+                "options": [
+                  "Acute",
+                  "Obtuse",
+                  "Right",
+                  "Reflex"
+                ],
+                "answer": "Obtuse",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which angle measures between 0 and 90 degrees?",
+                "options": [
+                  "Acute",
+                  "Obtuse",
+                  "Right",
+                  "Reflex"
+                ],
+                "answer": "Acute",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is a reflex angle?",
+                "options": [
+                  "The angle formed when a ray of light hits a wall",
+                  "The angle formed when a ray of light reflects on itself",
+                  "The angle formed when a ray of light hits a light bulb",
+                  "The angle formed when a ray of light hits a mirror"
+                ],
+                "answer": "The angle formed when a ray of light reflects on itself",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which angle is formed at the intersection of two rays?",
+                "options": [
+                  "Acute",
+                  "Obtuse",
+                  "Right",
+                  "Reflex"
+                ],
+                "answer": "Reflex",
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "Measuring Angles",
-            "definition": "**Measuring Angles**\nAngles are formed between two rays that intersect at a point. We can measure the angle by using a protractor and a compass. \n- A protractor is a device with two scales that can be used to measure angles. One scale is called the \"vertex scale,\" and the other scale is called the \"ray scale.\" \n- The vertex scale is graduated in degrees, and the ray scale is graduated in minutes.\n- To measure an angle, place the vertex scale on the vertex of the angle and the ray scale on the corresponding side. Make sure that the scales are parallel. \n- Use the vertex scale to measure the degree measure of the angle, and use the ray scale to measure the minute measure of the angle.\n**Examples:**\n- An angle that measures 45 degrees is formed between two rays that intersect at a point 45 degrees from the vertex. \n- An angle that measures 120 degrees is formed between two rays that intersect at a point 120 degrees from the vertex.\n- An angle that measures 30 degrees is formed between two rays that intersect at a point 30 degrees from the vertex"
+            "definition": "**Measuring Angles**\nAngles are formed between two rays that intersect at a point. We can measure the angle by using a protractor and a compass. \n- A protractor is a device with two scales that can be used to measure angles. One scale is called the \"vertex scale,\" and the other scale is called the \"ray scale.\" \n- The vertex scale is graduated in degrees, and the ray scale is graduated in minutes.\n- To measure an angle, place the vertex scale on the vertex of the angle and the ray scale on the corresponding side. Make sure that the scales are parallel. \n- Use the vertex scale to measure the degree measure of the angle, and use the ray scale to measure the minute measure of the angle.\n**Examples:**\n- An angle that measures 45 degrees is formed between two rays that intersect at a point 45 degrees from the vertex. \n- An angle that measures 120 degrees is formed between two rays that intersect at a point 120 degrees from the vertex.\n- An angle that measures 30 degrees is formed between two rays that intersect at a point 30 degrees from the vertex",
+            "quizzes": [
+              {
+                "question": "Which scale is used to measure the angle?",
+                "options": [
+                  "Vertex scale",
+                  "Ray scale",
+                  "Both scale"
+                ],
+                "answer": "Ray scale",
+                "type": "single_correct"
+              },
+              {
+                "question": "How many degrees are there on the vertex scale?",
+                "options": [
+                  "1",
+                  "2",
+                  "3",
+                  "4"
+                ],
+                "answer": "1",
+                "type": "single_correct"
+              },
+              {
+                "question": "How many minutes are there on the ray scale?",
+                "options": [
+                  "1",
+                  "2",
+                  "3",
+                  "4"
+                ],
+                "answer": "30",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which angle is formed between two rays that intersect at a point 45 degrees from the vertex?",
+                "options": [
+                  "45 degrees",
+                  "60 degrees",
+                  "75 degrees",
+                  "90 degrees"
+                ],
+                "answer": "45 degrees",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which angle is formed between two rays that intersect at a point 120 degrees from the vertex?",
+                "options": [
+                  "45 degrees",
+                  "60 degrees",
+                  "75 degrees",
+                  "90 degrees"
+                ],
+                "answer": "120 degrees",
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "Perpendicular Lines",
-            "definition": "## Understanding Perpendicular Lines\nPerpendicular lines are two lines that intersect at a right angle, creating a 90-degree angle at their intersection point. They are the only lines that intersect a given line at right angles.\nThink of them like the two hands of a clock. When they are perpendicular, their hands can never overlap or meet. \nHere are some key characteristics of perpendicular lines:\n* They are **parallel** to each other but **at right angles**.\n* They have a **constant distance** from each other, regardless of the distance between the lines.\n* Any line that intersects both lines will intersect them at right angles.\n* They are **colinear**, meaning they lie in the same straight line.\n* Any point on one line will always be the same distance from both lines.\n**Examples:**\n* The lines on a compass are perpendicular because they intersect at a right angle.\n* The lines on a ruler are perpendicular because they intersect at a right angle.\n* A line passing through the centers of two circles is perpendicular to both circles' radii.\n* The line from the top of a pencil to the base is perpendicular to the line from the bottom of the pencil to the point where it touches the ground"
+            "definition": "## Understanding Perpendicular Lines\nPerpendicular lines are two lines that intersect at a right angle, creating a 90-degree angle at their intersection point. They are the only lines that intersect a given line at right angles.\nThink of them like the two hands of a clock. When they are perpendicular, their hands can never overlap or meet. \nHere are some key characteristics of perpendicular lines:\n* They are **parallel** to each other but **at right angles**.\n* They have a **constant distance** from each other, regardless of the distance between the lines.\n* Any line that intersects both lines will intersect them at right angles.\n* They are **colinear**, meaning they lie in the same straight line.\n* Any point on one line will always be the same distance from both lines.\n**Examples:**\n* The lines on a compass are perpendicular because they intersect at a right angle.\n* The lines on a ruler are perpendicular because they intersect at a right angle.\n* A line passing through the centers of two circles is perpendicular to both circles' radii.\n* The line from the top of a pencil to the base is perpendicular to the line from the bottom of the pencil to the point where it touches the ground",
+            "quizzes": [
+              {
+                "question": "Which lines are perpendicular to the line from top to bottom of a pencil?",
+                "options": [
+                  "The line from bottom to top",
+                  "The line from left to right",
+                  "The line from left to right",
+                  "The compass lines"
+                ],
+                "answer": "The line from bottom to top",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which lines are perpendicular to each other?",
+                "options": [
+                  "The line on a compass",
+                  "The lines on a ruler",
+                  "The line through the centers of two circles",
+                  "The line from top to bottom of a pencil"
+                ],
+                "answer": "The line through the centers of two circles",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which lines are perpendicular to both circles' radii?",
+                "options": [
+                  "The line from the top to the base",
+                  "The line from the bottom to the point where it touches the ground",
+                  "The line from the top to the bottom",
+                  "The compass lines"
+                ],
+                "answer": "The line from the top to the bottom",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which lines are perpendicular to each other?",
+                "options": [
+                  "The line on a compass",
+                  "The lines on a ruler",
+                  "The line through the centers of two circles",
+                  "The line from bottom to top of a pencil"
+                ],
+                "answer": "The line from bottom to top of a pencil",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is the distance between two perpendicular lines?",
+                "options": [
+                  "0",
+                  "1",
+                  "2",
+                  "3"
+                ],
+                "answer": "2",
+                "type": "single_correct"
+              }
+            ]
           },
           {
             "topic": "Classification of Triangles",

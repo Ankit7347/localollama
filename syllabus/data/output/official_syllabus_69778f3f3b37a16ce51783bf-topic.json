@@ -70,7 +70,58 @@
           {
             "topic": "Types of Functions",
             "definition": "## Types of Functions\nA function is a mathematical rule that assigns to each element in a set a unique element in another set. In simpler terms, a function tells us the output for each input. \nThere are three main types of functions: \n**1. One-to-One Functions (Injective Functions)**\n- A function is one-to-one if each element in the input set has exactly one corresponding output in the output set. \n- This means that each input can only be mapped to one output, and no two outputs can be mapped to the same input. \n- Examples: A function like \"distance traveled\" is one-to-one, as each point on the road corresponds to exactly one location on the map.\n**2. Many-to-One Functions**\n- A function is many-to-one if each element in the input set can be mapped to multiple elements in the output set. \n- This means that multiple outputs can be associated with the same input. \n- Examples: A function like \"color of a painting\" is many-to-one, as multiple paintings can have the same color.\n**3. Many-to-Many Functions**\n- A function is many-to-many if each element in the input set can be mapped to multiple elements in the output set. \n- This means that multiple outputs can be associated with the same input. \n- Examples: A function like \"city of birth\" is many-to-many, as multiple people can be born in the same city.\nUnderstanding these different types of functions is crucial for various mathematical fields, including algebra, calculus, and analysis. It helps us analyze the relationships between different sets and solve problems related to these sets",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "Which type of function assigns to each element in a set a unique element in another set?",
+                "options": [
+                  "One-to-One",
+                  "Many-to-One",
+                  "Many-to-Many"
+                ],
+                "answer": "**One-to-One**",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which type of function assigns to each element in a set a unique element in another set?",
+                "options": [
+                  "One-to-One",
+                  "Many-to-One",
+                  "Many-to-Many"
+                ],
+                "answer": "**Many-to-One**",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which type of function assigns to each element in a set a unique element in another set?",
+                "options": [
+                  "One-to-One",
+                  "Many-to-One",
+                  "Many-to-Many"
+                ],
+                "answer": "**Many-to-Many**",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which type of function is crucial for various mathematical fields, including algebra, calculus, and analysis?",
+                "options": [
+                  "One-to-One",
+                  "Many-to-One",
+                  "Many-to-Many"
+                ],
+                "answer": "**Many-to-Many**",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which type of function assigns to each element in a set a unique element in another set?",
+                "options": [
+                  "One-to-One",
+                  "Many-to-One",
+                  "Many-to-Many"
+                ],
+                "answer": "**One-to-One**",
+                "type": "single_correct"
+              }
+            ]
           },
           {
             "topic": "Composition of Functions and Invertible Function",
@@ -419,7 +470,63 @@
           {
             "topic": "Operations on Matrices",
             "definition": "A **matrix** is an rectangular array of numbers (m x n) where m and n are integers. Each element in the matrix is represented by an entry in the array.\nThe **addition of matrices** is defined component-wise. This means that we add the corresponding elements of the matrices, and we take the resulting element as the new element in the resulting matrix.\n$$A + B = \\begin{bmatrix} a_{11} + b_{11} & a_{11} + b_{12} & \\cdots & a_{11} + b_{mn} \\\\\\ a_{21} + b_{21} & a_{21} + b_{22} & \\cdots & a_{21} + b_{mn} \\\\\\ \\vdots & \\vdots & \\vdots & \\vdots \\\\\\ a_{m1} + b_{m1} & a_{m1} + b_{m2} & \\cdots & a_{m1} + b_{mn} \\end{bmatrix}$$\nThe **multiplication of matrices** is more complex and requires specific conditions. If the matrices are **compatible**, which means they have the same dimensions, then we can multiply them by multiplying the elements of the corresponding positions in the matrices.\n$$AB = \\begin{bmatrix} a_{11}b_{11} + a_{11}b_{12} + \\cdots + a_{11}b_{mn} \\\\\\ a_{12}b_{11} + a_{12}b_{12} + \\cdots + a_{12}b_{mn} \\\\\\ \\vdots & \\vdots & \\vdots & \\vdots \\\\\\ a_{m1}b_{11} + a_{m1}b_{12} + \\cdots + a_{m1}b_{mn} \\end{bmatrix}$$\nThe **transpose of a matrix** is a new matrix formed by reflecting the original matrix over its diagonal.\n$$A^T = \\begin{bmatrix} a_{11} & a_{21} & \\cdots & a_{m1} \\\\\\ a_{12} & a_{22} & \\cdots & a_{m2} \\\\\\ \\vdots & \\vdots & \\vdots & \\vdots \\\\\\ a_{1n} & a_{2n} & \\cdots & a_{mn} \\end{bmatrix}$$\nOperations on matrices can be performed both sequentially and simultaneously, depending on the specific matrix dimensions. These operations can be used to solve a variety of mathematical and real-world problems involving matrices, such as solving linear systems of equations, finding eigenvalues and eigenvectors, and solving optimization problems",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "Which operation is defined component-wise for matrices?",
+                "options": [
+                  "Addition",
+                  "Multiplication",
+                  "Transpose",
+                  "None"
+                ],
+                "answer": "Addition",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which property defines compatibility for matrices?",
+                "options": [
+                  "Same dimensions",
+                  "Non-zero entries",
+                  "Symmetric matrix",
+                  "Transpose of diagonal elements"
+                ],
+                "answer": "Same dimensions",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which operation results in the reflection of a matrix over its diagonal?",
+                "options": [
+                  "Addition",
+                  "Multiplication",
+                  "Transpose",
+                  "None"
+                ],
+                "answer": "Transpose",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which operation is performed by mirroring the original matrix over its diagonal?",
+                "options": [
+                  "Addition",
+                  "Multiplication",
+                  "Transpose",
+                  "None"
+                ],
+                "answer": "Transpose",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which matrix operation is used to solve a linear system of equations?",
+                "options": [
+                  "Addition",
+                  "Multiplication",
+                  "Transpose",
+                  "Determinant"
+                ],
+                "answer": "Addition",
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "Transpose of a Matrix",
@@ -896,7 +1003,85 @@
           {
             "topic": "Applications of Determinants and Matrices",
             "definition": "## Applications of Determinants and Matrices\nDeterminants and matrices are powerful tools in mathematics used to analyze and solve problems involving multi-dimensional data. These concepts can be applied to a wide range of areas, including:\n**1. Solving Systems of Linear Equations:**\nDeterminants can be used to solve systems of linear equations by evaluating a single scalar value. This is known as Cramer's rule. For example, if we have the following system of linear equations:\nx + y = 2\nx - y = 1\nThe determinant of the coefficient matrix is:\n| 1 & 1 |\n| -1 & 1 |\nThe determinant is non-zero, indicating that the system has a unique solution. In this case, the solution is x = 3 and y = 1.\n**2. Calculating Volumes and Areas:**\nThe determinant of a diagonal matrix representing a rectangular prism or other object with linear dimensions is the product of the dimensions of its individual linear faces. This allows us to calculate the volume or area of such shapes.\n**3. Finding Eigenvalues and Eigenvectors:**\nDeterminants can be used to find the eigenvalues and eigenvectors of a matrix. Eigenvalues represent the roots of the characteristic polynomial of the matrix, which is a polynomial related to the determinant. Eigenvectors correspond to the linearly independent vectors associated with each eigenvalue.\n**4. Solving Quadratic Equations:**\nDeterminants play a crucial role in solving quadratic equations, which have the form of a^2 + b^2 = c^2. By manipulating the determinant of a matrix associated with the quadratic equation, we can determine the solutions for a and b.\n**5. Representing Transformations:**\nThe determinant can be used to represent linear transformations between vector spaces. It provides information about the scaling and rotation of the linear transformation.\n**6. Analyzing Data Relationships:**\nDeterminants can be used to identify patterns and relationships between variables in multi-dimensional datasets. By calculating the determinant of correlation matrices, we can assess the strength and direction of linear relationships between different features.\n**7. Solving Sparse and Singular Matrices:**\nDeterminants are particularly useful when dealing with sparse or singular matrices. These matrices have very few non-zero elements, which can make it difficult to solve linear equations or find eigenvalues. However, by utilizing determinants, we can obtain valuable insights into the properties of sparse and singular matrices.\n**Applications of Determinants and Matrices:**\n* Determining the area and perimeter of geometric shapes.\n* Solving systems of linear equations, including systems with multiple equations.\n* Finding the eigenvalues and eigenvectors of matrices, which are essential for understanding the behavior of linear transformations.\n* Identifying linear relationships between variables in data analysis.\n* Understanding the properties of sparse and singular matrices",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "**1. Solving Systems of Linear Equations**",
+                "options": [
+                  "**Option 1: Cramer's Rule**",
+                  "**Option 2: Eigenvalues and Eigenvectors**",
+                  "**Option 3: Quadratic Equations**",
+                  "**Option 4: Representing Transformations**"
+                ],
+                "answer": "**Option 1: Cramer's Rule**",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "**2. Calculating Volumes and Areas**",
+                "options": [
+                  "**Option 1: The determinant of a diagonal matrix is the product of the dimensions of its individual linear faces.**",
+                  "**Option 2: The determinant of a diagonal matrix is equal to the area of the corresponding geometric shape.**",
+                  "**Option 3: The determinant of a singular matrix is zero.**",
+                  "**Option 4: The determinant of a matrix is equal to the volume of the parallelepiped formed by its column vectors.**"
+                ],
+                "answer": "**Option 1: The determinant of a diagonal matrix is the product of the dimensions of its individual linear faces.**",
+                "type": "single_correct"
+              },
+              {
+                "question": "**3. Finding Eigenvalues and Eigenvectors**",
+                "options": [
+                  "**Option 1: Determinants can be used to find the eigenvalues of a matrix.**",
+                  "**Option 2: Eigenvalues represent the roots of the characteristic polynomial of the matrix.**",
+                  "**Option 3: Eigenvectors correspond to the linearly independent vectors associated with each eigenvalue.**",
+                  "**Option 4: Determinants can be used to solve quadratic equations.**"
+                ],
+                "answer": "**Option 1: Determinants can be used to find the eigenvalues of a matrix.**",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "**4. Solving Quadratic Equations**",
+                "options": [
+                  "**Option 1: Determinants can be used to solve quadratic equations directly.**",
+                  "**Option 2: Determinants can be used to find the eigenvalues of the coefficient matrix of a quadratic equation.**",
+                  "**Option 3: Determinants can be used to determine the determinant of a quadratic form.**",
+                  "**Option 4: Determinants can be used to represent the quadratic form in terms of a diagonal matrix.**"
+                ],
+                "answer": "**Option 1: Determinants can be used to solve quadratic equations directly.**",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "**5. Representing Transformations**",
+                "options": [
+                  "**Option 1: Determinants can be used to represent linear transformations between vector spaces.**",
+                  "**Option 2: Determinants can be used to calculate the determinant of a linear transformation matrix.**",
+                  "**Option 3: Determinants can be used to solve linear equations associated with linear transformations.**",
+                  "**Option 4: Determinants can be used to find the determinant of a linear transformation matrix.**"
+                ],
+                "answer": "**Option 1: Determinants can be used to represent linear transformations between vector spaces.**",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "**6. Analyzing Data Relationships**",
+                "options": [
+                  "**Option 1: Determinants can be used to identify linear relationships between variables in data.**",
+                  "**Option 2: Determinants can be used to calculate the determinant of correlation matrices.**",
+                  "**Option 3: Determinants can be used to identify non-linear relationships between variables in data.**",
+                  "**Option 4: Determinants can be used to solve linear regression models.**"
+                ],
+                "answer": "**Option 1: Determinants can be used to identify linear relationships between variables in data.**",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "**7. Solving Sparse and Singular Matrices**",
+                "options": [
+                  "**Option 1: Determinants are particularly useful when dealing with sparse and singular matrices.**",
+                  "**Option 2: Determinants can be used to find the determinant of a sparse or singular matrix directly.**",
+                  "**Option 3: Determinants can be used to solve linear equations or find eigenvalues for sparse and singular matrices.**",
+                  "**Option 4: Determinants are not useful for solving linear equations or finding eigenvalues for sparse and singular matrices.**"
+                ],
+                "answer": "**Option 1: Determinants are particularly useful when dealing with sparse and singular matrices.**",
+                "type": "multiple_correct"
+              }
+            ]
           }
         ]
       },
@@ -1098,12 +1283,123 @@
           {
             "topic": "Second Order Derivative",
             "definition": "The **Second Order Derivative** is a mathematical concept that describes the rate of change of the second derivative of a function. It measures the instantaneous rate of change of the rate of change of a function at a given point.\n**Formally**, the second order derivative is given by the following limit:\n$$f''(x) = \\lim\\limits_{h\\to 0} \\frac{f'(x+h)-f'(x)}{h}$$\nwhere \\(f'(x)\\) is the first order derivative of the function and \\(f''(x)\\) is the second order derivative.\n**Interpretation:**\nThe Second Order Derivative represents the rate of change of the rate of change of the function at a particular point. It tells us how quickly the rate of change of the function is changing at that point.\n**Examples:**\n* The second derivative of a function of a single variable represents the rate of change of the rate of change of the function.\n* The second derivative of a function of several variables represents the rate of change of the rate of change of the function with respect to each variable.\n* The second derivative of a function of a real variable can be used to analyze the concavity and curvature of the graph of the function.\nBy studying the second order derivative, we can gain valuable insights into the behavior of a function, including its rate of change and its local and global behavior",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "What is the definition of the Second Order Derivative?",
+                "options": [
+                  "The rate of change of the rate of change of the function",
+                  "The rate of change of the function",
+                  "The rate of change of the second derivative of the function",
+                  "The instantaneous rate of change of the rate of change of the function"
+                ],
+                "answer": "The rate of change of the rate of change of the function",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which property of the Second Order Derivative tells us how the rate of change of the function is changing at a point?",
+                "options": [
+                  "It is always positive",
+                  "It is always negative",
+                  "It is always zero",
+                  "It can be positive or negative"
+                ],
+                "answer": "It is always positive",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is the interpretation of the Second Order Derivative?",
+                "options": [
+                  "It tells us how quickly the rate of change of the function is changing at a particular point",
+                  "It tells us how quickly the function is changing",
+                  "It tells us the instantaneous rate of change of the function at a particular point",
+                  "It tells us the rate of change of the function with respect to each variable"
+                ],
+                "answer": "It tells us how quickly the rate of change of the function is changing at a particular point",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is the application of the Second Order Derivative?",
+                "options": [
+                  "To analyze the concavity and curvature of the graph of the function",
+                  "To find the critical points of the function",
+                  "To find the points of maximum and minimum of the function",
+                  "All of the above"
+                ],
+                "answer": "All of the above",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is the second order derivative of a function?",
+                "options": [
+                  "The rate of change of the second derivative of the function",
+                  "The instantaneous rate of change of the second derivative of the function",
+                  "The rate of change of the rate of change of the second derivative of the function",
+                  "The rate of change of the function"
+                ],
+                "answer": "The rate of change of the second derivative of the function",
+                "type": "single_correct"
+              }
+            ]
           },
           {
             "topic": "Mean Value Theorem",
             "definition": "The **Mean Value Theorem** is a fundamental theorem in calculus that provides a connection between the concepts of **continuity** and **differentiability**. It states that for any function defined on an open interval within a closed interval, there exists a number \\(c\\) in that interval such that the average rate of change of the function over that interval is equal to the instantaneous rate of change at \\(c\\). \nThat is,\n$$f'(c) = \\frac{f(b) - f(a)}{b - a}$$\nwhere \\(a\\) and \\(b\\) are any points in the open interval \\( (a, b) \\).\nHere's a more formal proof of the mean value theorem:\nLet \\(f\\) be a function defined on the open interval \\( (a, b)\\). Suppose that \\(f\\) is continuous on \\( (a, b)\\). Then, by the definition of continuous function, the limit of the difference quotient as \\(h\\) approaches 0 is equal to the derivative of \\(f\\) at \\(c\\), which is defined as \\(f'(c)\\).\nTherefore, it follows that\n$$\\lim_{h \\to 0} \\frac{f(b) - f(a)}{h} = f'(c)$$\nwhich proves that \\(f'(c) = \\frac{f(b) - f(a)}{b - a}\\).\nThis theorem has several applications in calculus, including finding critical points of functions, determining whether a function is increasing or decreasing, and finding the average rate of change of a function",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "What is the Mean Value Theorem?",
+                "options": [
+                  "The theorem connects continuity and differentiability.",
+                  "The theorem states that the average rate of change of a function over an interval is equal to its instantaneous rate of change at a point in the interval.",
+                  "The theorem states that the average rate of change of a function over an interval is equal to the derivative of the function at a point in the interval"
+                ],
+                "answer": "Correct Option",
+                "type": "single_correct"
+              },
+              {
+                "question": "According to the Mean Value Theorem, which property of a function must be continuous to ensure that the average rate of change is equal to the instantaneous rate of change at a point?",
+                "options": [
+                  "a) Domain",
+                  "b) Range",
+                  "c) Continuity",
+                  "d) Slope"
+                ],
+                "answer": "c) Continuity",
+                "type": "single_correct"
+              },
+              {
+                "question": "How can the Mean Value Theorem be applied to find critical points of a function?",
+                "options": [
+                  "By setting the derivative equal to 0",
+                  "By finding the interval where the derivative is positive",
+                  "By finding the intervals where the first derivative is negative",
+                  "By finding the intervals where the second derivative is positive"
+                ],
+                "answer": "Correct Option",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is the significance of the Mean Value Theorem in finding critical points of a function?",
+                "options": [
+                  "It tells you the absolute minimum of the function",
+                  "It tells you the relative minimum of the function",
+                  "It tells you the relative maximum of the function",
+                  "It tells you the absolute maximum of the function"
+                ],
+                "answer": "Correct Option",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which property of a function must be continuous to ensure that the average rate of change is equal to the instantaneous rate of change at a point?",
+                "options": [
+                  "a) Increasing",
+                  "b) Decreasing",
+                  "c) Positive",
+                  "d) None"
+                ],
+                "answer": "c) Positive",
+                "type": "single_correct"
+              }
+            ]
           }
         ]
       },
@@ -1594,7 +1890,63 @@
           {
             "topic": "Definite Integral",
             "definition": "## Definite Integral\nA **definite integral**, also called an **antiderivative**, is the inverse operation of differentiation. It takes a function and returns another function that has the original function's derivative.\nFormally, the definite integral of a function f(x) with respect to x from a to b is denoted by:\n$$\\int_a^b f(x) dx$$\nThis means we are finding the area under the graph of f(x) between x = a and x = b.\n**Examples:**\n* If f(x) = x^2, then the definite integral from 0 to 4 is:\n$$\\int_0^4 x^2 dx = \\left[\\frac{x^3}{3} \\right]_0^4 = 16$$\nThis means the area of the region under the graph of f(x) = x^2 between x = 0 and x = 4 is 16 square units.\n* If f(x) = 1/x, then the definite integral from 1 to infinity is:\n$$\\int_1^\\infty \\frac{1}{x} dx = \\lim_{b\\to\\infty} \\int_1^b \\frac{1}{x} dx = \\lim_{b\\to\\infty} [x]\\Big|_1^b = \\infty$$\nThis means that the area under the graph of f(x) = 1/x between x = 1 and x = infinity is infinite.\n**Key Points:**\n* A definite integral is a calculation of the area under the graph of a function.\n* It is the inverse operation of differentiation.\n* The definite integral of a function with respect to x from a to b is denoted by an integral sign from a to b.\n* Definite integrals can be evaluated by finding the area under the graph of the function",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "Which definition best describes the **definite integral** of a function?",
+                "options": [
+                  "**A.** A function that represents the area under the graph of a function.",
+                  "**B.** The inverse operation of differentiation",
+                  "**C.** A function that gives the area of a certain region under the curve",
+                  "**D.** A function that gives the slope of a curve"
+                ],
+                "answer": "**B.** The inverse operation of differentiation",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is the definite integral of f(x) = x^2 with respect to x from 0 to 4?",
+                "options": [
+                  "16",
+                  "18",
+                  "20",
+                  "22"
+                ],
+                "answer": "16",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which is the definite integral of f(x) = 1/x with respect to x from 1 to infinity?",
+                "options": [
+                  "∞",
+                  "2",
+                  "4",
+                  "8"
+                ],
+                "answer": "∞",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which property of definite integrals is used to evaluate the definite integral of f(x) = x^2 between x = 0 and x = 4?",
+                "options": [
+                  "**Closure**",
+                  "**Sum rule**",
+                  "**Chain rule**",
+                  "**Power rule**"
+                ],
+                "answer": "**Closure",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Evaluate the definite integral of f(x) = 1/x with respect to x from 1 to infinity.",
+                "options": [
+                  "1",
+                  "∞",
+                  "2",
+                  "4"
+                ],
+                "answer": "∞",
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "Fundamental Theorem of Calculus",
@@ -1690,7 +2042,63 @@
           {
             "topic": "Basic Concepts",
             "definition": "## Basic Concepts in Differential Equations\nA **differential equation** is an equation that relates a function and its derivatives. This means that the equation tells us how the function changes with respect to changes in its input. We can solve differential equations by using various methods, such as separation of variables, integrating factors, and using power series.\n**Key concepts** in differential equations include:\n* **Functions:** A function is a rule that assigns a single output value to each input value.\n* **Derivatives:** The derivative of a function is a measure of how quickly the function changes with respect to changes in its input.\n* **Limits:** A limit is the value that a function approaches as its input approaches a specific value.\n* **Integration:** Integration is the reverse of differentiation and allows us to find the function whose derivative is a given function.\n**Examples:**\n* **Differential equation:** $$y' + y^2 = 0$$\n* **Solution:** This equation can be solved by separation of variables, yielding $$y(t) = C e^{-t}$$\n* **Another example:**\n$$\\frac{d}{dx} [x^2 e^{x}] = 2x e^{x}$$\nBy understanding these basic concepts, students can gain a strong foundation in differential equations and solve various problems involving related topics such as optimization, kinematics, and mechanics",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "What is the definition of a function?",
+                "options": [
+                  "A rule that assigns a single output value to each input value.",
+                  "A rule that assigns a single input value to each output value.",
+                  "A rule that assigns a single input value to a set of output values.",
+                  "A rule that assigns a set of input values to a single output value"
+                ],
+                "answer": "A rule that assigns a single output value to each input value",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is the derivative of a function?",
+                "options": [
+                  "The rate of change of a function with respect to changes in its input.",
+                  "The integral of a function with respect to changes in its input.",
+                  "The limit of a function as its input approaches a specific value.",
+                  "The product of two functions"
+                ],
+                "answer": "The rate of change of a function with respect to changes in its input",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is the limit of a function as its input approaches a specific value?",
+                "options": [
+                  "The value of the function at that specific value.",
+                  "The value of the derivative of the function at that specific value.",
+                  "The value of the function at that specific value divided by the difference between that value and the next value",
+                  "The value of the function at that specific value multiplied by the difference between that value and the next value"
+                ],
+                "answer": "The value of the function at that specific value",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which of the following is an example of a differential equation?",
+                "options": [
+                  "y' + y^2 = 0",
+                  "dx^2 + dy^2 = 1",
+                  "y' = 0",
+                  "x^3 + y^4 = 1"
+                ],
+                "answer": "y' + y^2 = 0",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which of the following is not a key concept in differential equations?",
+                "options": [
+                  "Functions",
+                  "Derivatives",
+                  "Limits",
+                  "Integration"
+                ],
+                "answer": "Integration",
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "General and Particular Solutions of a Differential Equation",
@@ -1815,7 +2223,58 @@
           {
             "topic": "Methods of Solving First degree, First order Differential Equations",
             "definition": "## Methods of Solving First Degree, First Order Differential Equations\nA **differential equation** is an equation that expresses the rate of change of a quantity in terms of other quantities. Solving a **first-degree, first-order differential equation** involves finding the **general solution** of the equation, which is a function that describes the quantity and its behavior over time.\nThere are three main **methods** for solving first-degree, first-order differential equations:\n**1. Separation of Variables:**\nThis method involves separating the variables in the differential equation, then integrating both sides. This method is suitable for equations with **constant coefficients**.\n**2. Integrating Factor:**\nThis method involves finding an integrating factor for the differential equation, which is a function that makes the equation exact. Then, integrating both sides leads to the general solution. This method is applicable to **homogeneous** differential equations.\n**3. Separation of Variables with Particular Integral:**\nThis method involves applying the separation of variables method to an **homogeneous** differential equation with a **particular integral**. The particular integral is a function that is added to both sides to ensure the solution is valid for the original equation.\n**Examples:**\n**1. Separating Variables:**\nConsider the differential equation:\n`(x+y)' = y(x+y)'\nApplying separation of variables gives:\n(x+y)dx = y(x+y)dx\nwhich is solved by integrating both sides:\n(x+y) = C(x+y)^2 + C_1\nwhere C and C_1 are constants of integration.\n**2. Integrating Factor:**\nConsider the differential equation:\n`(y') = (y+1)^2 dx\nFinding the integrating factor:\n`(1/2)(y+1)^2 dx = dx\nIntegrating both sides gives:\n(y+1)^2 = C e^{x}\nwhere C is a constant of integration.\n**3. Separation of Variables with Particular Integral:**\nConsider the differential equation:\n`(x)(y') = y^2 dx\nApplying the separation of variables method with a particular integral:\ny' = (y^2)/x dx\nwhich is solved by:\ny(x) = Ce^(x)^2 + C_2\nwhere C and C_2 are constants of integration",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "Which method is suitable for solving first-degree, first-order differential equations with constant coefficients?",
+                "options": [
+                  "Separation of Variables",
+                  "Integrating Factor",
+                  "Separation of Variables with Particular Integral"
+                ],
+                "answer": "Separation of Variables",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which method is applicable to homogeneous differential equations?",
+                "options": [
+                  "Separation of Variables",
+                  "Integrating Factor",
+                  "Separation of Variables with Particular Integral"
+                ],
+                "answer": "Integration Factor",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which method is suitable for solving first-degree, first-order differential equations with a particular integral?",
+                "options": [
+                  "Separation of Variables",
+                  "Integrating Factor",
+                  "Separation of Variables with Particular Integral"
+                ],
+                "answer": "Separation of Variables with Particular Integral",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which method is used to solve the differential equation y' = (y+1)^2 dx?",
+                "options": [
+                  "Separation of Variables",
+                  "Integrating Factor",
+                  "Separation of Variables with Particular Integral"
+                ],
+                "answer": "Separation of Variables with Particular Integral",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which method is used to solve the differential equation (x)(y') = y^2 dx?",
+                "options": [
+                  "Separation of Variables",
+                  "Integrating Factor",
+                  "Separation of Variables with Particular Integral"
+                ],
+                "answer": "Separation of Variables with Particular Integral",
+                "type": "multiple_correct"
+              }
+            ]
           }
         ]
       },
@@ -1946,7 +2405,57 @@
           {
             "topic": "Multiplication of a Vector by a Scalar",
             "definition": "**Multiplication of a Vector by a Scalar**\nThe **multiplication of a vector by a scalar** is a linear operation that scales each element of the vector by the same scalar factor. This means that the length of each vector component will remain unchanged, but the direction of the vector will be reversed for positive scalar values.\n**Formula:**\na * v = |a| * |v| * cos(θ)\nwhere:\n* **a** is the scalar factor\n* **v** is the vector\n* **|a|** is the absolute value of the scalar\n* **|v|** is the magnitude of the vector\n* **θ** is the angle between the vector and the positive direction\n**Examples:**\n* If the vector **v** = [2, 3, 4] and the scalar **a** = 3, then the multiplication is:\n3 * [2, 3, 4] = [6, 9, 12]\n* If the vector **v** = [5, 7, 9] and the scalar **a** = -2, then the multiplication is:\n-2 * [5, 7, 9] = [-10, -14, -27]\n**Applications:**\nThe multiplication of a vector by a scalar is used in various applications, including:\n* **Linear transformation:** Vectors can be transformed by multiplying them by scalars, which change their length and angle.\n* **Optimization:** In optimization problems, vectors are often used as search directions.\n* **Physics:** Vectors are used to represent the position and momentum of objects in motion.\n* **Engineering:** Vectors are used in engineering designs and calculations.\n**Note:**\nThe multiplication of a vector by a scalar is a linear operation, which means that it is a linear combination of scalar multiplication and vector addition. This means that the multiplication of a vector by a scalar can be expressed in terms of scalar multiplication and vector addition",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "What is the multiplication of a vector **v** = [2, 3, 4] by a scalar **a** = 3?",
+                "options": [
+                  "6, 9, 12"
+                ],
+                "answer": "Correct Option",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is the multiplication of the vector **v** = [5, 7, 9] by a scalar **a** = -2?",
+                "options": [
+                  "-10, -14, -27"
+                ],
+                "answer": "Correct Option",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which formula describes the multiplication of a vector by a scalar?",
+                "options": [
+                  "a * v = |a| * |v| * cos(θ)",
+                  "a * v = |a| * |v| * sin(θ)",
+                  "a * v = |a| * |v| * tan(θ)",
+                  "a * v = |a| * |v|"
+                ],
+                "answer": "Correct Option",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is the application of the multiplication of a vector by a scalar in linear transformations?",
+                "options": [
+                  "Changing the length of a vector",
+                  "Changing the angle of a vector",
+                  "Changing the direction of a vector",
+                  "All of the above"
+                ],
+                "answer": "Correct Option",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which application of the multiplication of a vector by a scalar involves finding the direction of the vector?",
+                "options": [
+                  "Linear transformation",
+                  "Optimization",
+                  "Physics",
+                  "Engineering"
+                ],
+                "answer": "Correct Option",
+                "type": "single_correct"
+              }
+            ]
           },
           {
             "topic": "Product of Two Vectors",
@@ -2017,7 +2526,63 @@
           {
             "topic": "Direction Cosines and Direction Ratios of a Line",
             "definition": "## The Direction Cosines and Direction Ratios of a Line\nA line has a **direction cosines** and a **direction ratio**. These two quantities provide valuable information about the line's orientation in the 3D space. \n**Direction Cosines:**\n- They tell us the angle a line makes with the **positive x-axis**. \n- We can calculate the direction cosine using the following formula: \n$$\\cos \\theta = \\frac{a}{\\|a\\|}$$ \n- where: \n- **a** is the length of the line segment in the direction of the line\n- **\\|a\\|** is the magnitude (length) of the vector representing the line segment\n**Direction Ratios:**\n- They tell us the **scale factor** of the line. \n- We can calculate the direction ratio by dividing the length of the line segment by its width (or the distance between points on the line). \n$$ \\frac{a}{b} = \\frac{\\|a\\|}}{\\|b\\|} $$\n**Examples:**\n1. If the length of the line segment is 5 cm and its width is 3 cm, then the direction ratio is 5/3. \n2. If the line segment is perpendicular to the x-axis, then the direction cosine would be 0 (as the line makes a right angle with the positive x-axis). \n3. If the line segment lies along the y-axis, then the direction cosine would be 1 (as the line makes a 45° angle with the positive x-axis).\nThese quantities are crucial in various applications of geometry, such as finding the distance from a point to a line, calculating the angle between two lines, and determining the direction of a ray of light",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "If the length of the line segment is 5 cm and its width is 3 cm, then the direction ratio is ___.",
+                "options": [
+                  "5/3",
+                  "3/5",
+                  "1/2",
+                  "2/3"
+                ],
+                "answer": "Correct Option",
+                "type": "single_correct"
+              },
+              {
+                "question": "If the line segment is perpendicular to the x-axis, then the direction cosine would be ___.",
+                "options": [
+                  "0",
+                  "1",
+                  "∞",
+                  "None"
+                ],
+                "answer": "Correct Option",
+                "type": "single_correct"
+              },
+              {
+                "question": "If the line segment lies along the y-axis, then the direction cosine would be ___.",
+                "options": [
+                  "1",
+                  "0",
+                  "∞",
+                  "None"
+                ],
+                "answer": "Correct Option",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which equation is used to calculate the direction cosine?",
+                "options": [
+                  "a = b",
+                  "a/b = 1",
+                  "a/b = -1",
+                  "a = 2b"
+                ],
+                "answer": "Correct Option",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which equation is used to calculate the direction ratio?",
+                "options": [
+                  "a/b = 1",
+                  "a/b = -1",
+                  "a = b",
+                  "a = 2b"
+                ],
+                "answer": "Correct Option",
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "Equation of a Line in Space",
@@ -3727,7 +4292,63 @@
           {
             "topic": "Applications of Gauss's Law",
             "definition": "## Applications of Gauss's Law\nGauss's Law provides a powerful method for analyzing the behavior of electric charges and fields. It describes the distribution of electric charge and the resulting electric field in a three-dimensional space. \n**Key principles:**\n* **Electric field lines:** These lines illustrate the direction of the electric field. They are always perpendicular to the surface of a positive charge and point towards the negative charge.\n* **Electric flux:** This is the amount of electric flux passing through a given surface. It is directly proportional to the electric field strength and the area of the surface.\n* **Gauss's Law:** This law states that the total net electric flux through any closed surface is equal to the net charge enclosed by that surface.\n**Applications:**\n* **Electric field strength:** Gauss's Law allows us to calculate the electric field strength at any point in a space based on the total charge and the distance from the charge.\n* **Electric potential:** We can calculate the electric potential at a point in a space by integrating the electric field lines.\n* **Conductors and insulators:** Gauss's Law helps us understand how the distribution of charge affects the electric field and, consequently, the behavior of conductors and insulators.\n* **Electrostatic forces:** Understanding electric fields and the distribution of charges is crucial for analyzing electrostatic forces between various objects.\n* **Magnetic fields:** The magnetic field is a consequence of electric current distribution, and Gauss's Law plays a significant role in understanding it.\n**Examples:**\n1. Imagine a point charge placed at the center of a spherical conductor. The electric field lines will form a ring around the charge, with the field lines pointing away from the charge.\n2. Consider a point charge placed in a region with an electric field. The electric flux through a closed surface surrounding the point charge will be equal to the magnitude of the electric field.\n3. Calculate the electric potential difference between two points in an electric field. Use Gauss's Law to relate the electric field strength and the potential difference.\nBy applying Gauss's Law, we can gain valuable insights into the behavior of electric charges and fields, allowing us to predict the forces and interactions between these fundamental components of matter",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "Imagine a point charge placed at the center of a spherical conductor. The electric field lines will form a ring around the charge, with the field lines pointing away from the charge. Which statement best describes the direction of the electric field lines?",
+                "options": [
+                  "* The electric field lines point towards the positive charge.*",
+                  "The electric field lines point towards the negative charge.*",
+                  "The electric field lines are parallel to the surface of the conductor.*",
+                  "The electric field lines are perpendicular to the surface of the conductor.*"
+                ],
+                "answer": "Correct Option",
+                "type": "single_correct"
+              },
+              {
+                "question": "Consider a point charge placed in a region with an electric field. The electric flux through a closed surface surrounding the point charge will be equal to what?",
+                "options": [
+                  "* The magnitude of the electric field.*",
+                  "The magnitude of the electric flux.*",
+                  "The magnitude of the net charge enclosed by the surface.*",
+                  "The area of the surface.*"
+                ],
+                "answer": "Correct Option",
+                "type": "single_correct"
+              },
+              {
+                "question": "Calculate the electric potential difference between two points in an electric field. Use Gauss's Law to relate the electric field strength and the potential difference. Which statement best describes the relationship between the electric field strength and the potential difference?",
+                "options": [
+                  "* They are equal.*",
+                  "They are inversely proportional.*",
+                  "They are proportional to each other.*",
+                  "They are independent of each other.*"
+                ],
+                "answer": "Correct Option",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which statement best describes the distribution of electric charges in conductors and insulators?",
+                "options": [
+                  "* Charges are distributed uniformly throughout the conductor.*",
+                  "Charges are distributed non-uniformly throughout the conductor.*",
+                  "Charges are distributed only on the surface of the conductor.*",
+                  "Charges are distributed randomly throughout the conductor.*"
+                ],
+                "answer": "Correct Option",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "By applying Gauss's Law, what can we gain valuable insights into the behavior of electric charges and fields?",
+                "options": [
+                  "* The magnitude of the electric field.*",
+                  "The direction of the electric field.*",
+                  "The potential difference between two points in an electric field.*",
+                  "All of the above.*"
+                ],
+                "answer": "Correct Option",
+                "type": "multiple_correct"
+              }
+            ]
           }
         ]
       },
@@ -3737,7 +4358,63 @@
           {
             "topic": "Electrostatic Potential",
             "definition": "Electrostatic potential is a measure of the electrical potential energy per unit charge in an electric field. It is defined as the amount of work done per unit charge to move a charge from one point to another in an electric field. The electric potential at a point in an electric field is determined by the charge distribution and the geometry of the field.\nMathematically, the electrostatic potential at a point P in an electric field is given by:\n$$V = \\frac{1}{4\\pi\\varepsilon_0}\\frac{q}{r}$$\nwhere:\n- V is the potential difference in volts (V)\n- q is the magnitude of the charge in coulombs (C)\n- r is the distance from the point P to the reference point in meters (m)\n- $\\varepsilon_0$ is the vacuum permittivity (8.85 x 10^-12 C^2/N^2$)\nElectrostatic potential is a scalar quantity, meaning it has only magnitude and no direction. It is a conservative quantity, meaning that the work done in moving a charge between two points in an electric field is independent of the path taken.\nElectrostatic potential is an essential concept in electromagnetism and is used to determine the behavior of electric charges in various applications, such as capacitors, resistors, and electromagnets",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "What is the formula for the electrostatic potential at a point P in an electric field?",
+                "options": [
+                  "**1/4πε₀q/r**",
+                  "1/2πε₀q/r",
+                  "πε₀q/r",
+                  "ε₀q/r"
+                ],
+                "answer": "**1/4πε₀q/r**",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which property of an electric field determines the direction of the electric potential?",
+                "options": [
+                  "**Electric field lines are parallel to the equipotential lines**",
+                  "Electric field lines are perpendicular to the equipotential lines",
+                  "Electric field lines are independent of the direction of the charge",
+                  "Electric field lines are the same color as the equipotential lines"
+                ],
+                "answer": "**Electric field lines are parallel to the equipotential lines**",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is the unit of electric potential in the SI system?",
+                "options": [
+                  "**Volts (V)**",
+                  "Coulombs (C)",
+                  "Newtons (N)",
+                  "Pascals (Pa)"
+                ],
+                "answer": "**Volts (V)**",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which application of electrostatic potential is used to store energy in an electric system?",
+                "options": [
+                  "**Capacitors**",
+                  "Resistors",
+                  "Electromagnets",
+                  "Inductors"
+                ],
+                "answer": "**Capacitors**",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is the relationship between electric potential and electric potential difference?",
+                "options": [
+                  "**They are equal**",
+                  "They are inversely proportional",
+                  "They are directly proportional",
+                  "They are independent"
+                ],
+                "answer": "**They are equal**",
+                "type": "single_correct"
+              }
+            ]
           },
           {
             "topic": "Potential due to a Point Charge",
@@ -6302,7 +6979,63 @@
           {
             "topic": "Permanent Magnets and Electromagnets",
             "definition": "## Permanent Magnets and Electromagnets\n**Permanent Magnets:**\nA permanent magnet is an object that exhibits a magnetic field regardless of the presence of any external magnetic field. This means that the magnet itself contains a magnetic domain, which is a region with a net magnetic field. Examples of permanent magnets include iron, nickel, and cobalt coins, nail magnets, and magnets embedded in wood. \n**Electromagnets:**\nAn electromagnet is an object that can attract or repel magnets due to the presence of a magnetic field. This occurs because electromagnets contain a conductor (usually a metal) that can conduct electricity. When a voltage is applied to the conductor, it creates a magnetic field that can attract or repel nearby magnets. Electromagnets are commonly used in various applications, such as speakers, computer hard drives, and compass needles",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "Which material is most likely to be a permanent magnet?",
+                "options": [
+                  "Iron",
+                  "Nickel",
+                  "Cobalt",
+                  "Wood"
+                ],
+                "answer": "Iron",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which material is most likely to be an electromagnet?",
+                "options": [
+                  "Iron",
+                  "Nickel",
+                  "Copper",
+                  "Wood"
+                ],
+                "answer": "Iron",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which object is most likely to be a permanent magnet?",
+                "options": [
+                  "Iron nail",
+                  "Wooden spoon",
+                  "Metal sphere",
+                  "Electromagnet"
+                ],
+                "answer": "Iron nail",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which object is most likely to be an electromagnet?",
+                "options": [
+                  "Iron coin",
+                  "Copper wire",
+                  "Wood board",
+                  "Electromagnet"
+                ],
+                "answer": "Iron coin",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which of the following is NOT a type of magnet?",
+                "options": [
+                  "Permanent magnet",
+                  "Electromagnet",
+                  "Magnetic field",
+                  "Magnetic domain"
+                ],
+                "answer": "Magnetic field",
+                "type": "multiple_correct"
+              }
+            ]
           }
         ]
       },
@@ -6556,7 +7289,63 @@
           {
             "topic": "Motional Electromotive Force",
             "definition": "**Motional Electromotive Force**\nMotional electromotive force is the electromotive force (EMF) induced in a conductor when it is subjected to a magnetic field. It is directly related to the velocity of the conductor and the strength of the magnetic field.\n**Explanation:**\nConsider a conductor moving through a magnetic field. The magnetic field exerts a force on the charges within the conductor, causing them to accelerate or change their direction of motion. According to Faraday's law of electromagnetic induction, this induced electromotive force (EMF) is induced in the conductor.\nThe direction of the induced EMF is determined by the direction of the magnetic field and the direction of the motion of the conductor. The EMF is proportional to the magnitude of the magnetic field, the velocity of the conductor, and the area of the conductor through which the magnetic field passes.\n**Examples:**\n* When a current-carrying conductor is placed in a magnetic field, the conductor experiences a force and an induced EMF.\n* A generator is a device that converts mechanical energy into electrical energy by using a magnetic field to induce an EMF in a conductor.\n* When a magnet is moved through a coil of wire, the coil induces an EMF in the wire.\n* A conductor moving through a magnetic field can also generate a current in a nearby conductor",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "Which type of device is used to convert mechanical energy into electrical energy by using a magnetic field to induce an EMF in a conductor?",
+                "options": [
+                  "Generator",
+                  "Transformer",
+                  "Inductor",
+                  "Diodes"
+                ],
+                "answer": "Generator",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which direction of motion of the conductor will produce an induced EMF in the conductor?",
+                "options": [
+                  "Parallel",
+                  "Perpendicular",
+                  "Same direction",
+                  "None"
+                ],
+                "answer": "Parallel",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is the direction of the induced EMF in the conductor when a current-carrying conductor is placed in a magnetic field?",
+                "options": [
+                  "Same direction as the magnetic field",
+                  "Perpendicular to the magnetic field",
+                  "Parallel to the magnetic field",
+                  "It depends on the direction of the magnetic field"
+                ],
+                "answer": "Same direction as the magnetic field",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which property of a conductor determines the magnitude of the induced EMF?",
+                "options": [
+                  "Resistance",
+                  "Area",
+                  "Length",
+                  "Velocity"
+                ],
+                "answer": "Velocity",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which device is used to generate a current in a nearby conductor when a magnet is moved through a coil of wire?",
+                "options": [
+                  "Transformer",
+                  "Inductor",
+                  "Diodes",
+                  "Conductors"
+                ],
+                "answer": "Inductor",
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "Energy Consideration: A Quantitative Study",
@@ -7545,7 +8334,63 @@
           {
             "topic": "Refraction at Spherical Surfaces and by Lenses",
             "definition": "## Refraction at Spherical Surfaces and by Lenses\n**Spherical surfaces** are those that curve inward or outward, and can be described by a single equation:\n**r = |d| / 2**\nwhere:\n* **r** is the distance from the center of the sphere to the point on the surface\n* **d** is the distance from the center of the sphere to the object or point of interest\nThese surfaces are often found in various optical instruments, including **mirrors, lenses, and telescopes**.\n**Refraction** is the bending of a ray of light as it transitions from one medium to another, such as when light passes from air to water. This phenomenon causes the angle of incidence (the angle between the incoming ray and the normal) to change, which can lead to refraction.\nThe **angle of refraction** (θ_r) is given by the following equation:\n**θ_r = sin^{-1} (n sin θ_i)**\nwhere:\n* **θ_i** is the angle of incidence\n* **n** is the refractive index of the second medium (in this case, water)\n* **θ_r** is the angle of refraction\n**The refractive index** is a measure of how a medium affects the speed of light. It is defined as the ratio of the speed of light in a vacuum to the speed of light in the second medium.\n**Lenses** are curved surfaces that diverge incoming rays of light. This causes light to focus at a single point, which can be observed by an observer placed at the focal point.\nThere are two main types of lenses: **concave lenses** and **convex lenses**. A **concave lens** curves inward, while a **convex lens** curves outward.\nThe focal length (f) of a lens is the distance from the center of the lens to its focal point. It can be calculated using the following formula:\n**1/f = 1/d_i + 1/d_o**\nwhere:\n* **d_i** is the distance from the object to the lens\n* **d_o** is the distance from the lens to the image\n**The relationship between lenses and refractions** allows us to control the focus of light, which is essential in various applications such as cameras, microscopes, and telescopes",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "What is the equation for the distance from the center of a sphere to the point on the surface?",
+                "options": [
+                  "r = |d| / 2",
+                  "r = d - |d| / 2",
+                  "r = d + |d| / 2",
+                  "r = 2d"
+                ],
+                "answer": "r = |d| / 2",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is the angle of refraction of a ray of light as it transitions from air to water?",
+                "options": [
+                  "θ_i, θ_r",
+                  "θ_i + θ_r",
+                  "θ_i - θ_r",
+                  "θ_i * θ_r"
+                ],
+                "answer": "θ_r = sin^{-1} (n sin θ_i)",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which type of lens curves inward?",
+                "options": [
+                  "Concave",
+                  "Convex",
+                  "Both",
+                  "Neither"
+                ],
+                "answer": "Concave",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which type of lens curves outward?",
+                "options": [
+                  "Concave",
+                  "Convex",
+                  "Both",
+                  "Neither"
+                ],
+                "answer": "Convex",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is the focal length of a lens?",
+                "options": [
+                  "d_i + d_o",
+                  "d_i - d_o",
+                  "d_i * d_o",
+                  "d_i / d_o"
+                ],
+                "answer": "1/f = 1/d_i + 1/d_o",
+                "type": "single_correct"
+              }
+            ]
           },
           {
             "topic": "Refraction through a Prism",
@@ -8460,7 +9305,63 @@
           {
             "topic": "Particle Nature of Light: The Photon",
             "definition": "## Particle Nature of Light: The Photon\nLight, like other forms of electromagnetic radiation such as heat and radio waves, exhibits both wave-like and particle-like properties. This means that light can behave like a wave or a particle, depending on the conditions of the observation. The particle nature of light is best understood by considering the **photon**.\nA photon is the smallest possible unit of light, a quantum of electromagnetic energy. This means that light only exists in discrete packets, and its energy and momentum are precisely defined at any given moment. Photons are responsible for all forms of electromagnetic radiation, including visible light, radio waves, and X-rays.\nThe particle nature of light is best observed when light interacts with matter. When light interacts with matter, it can be scattered, reflected, or absorbed. The specific properties of the scattered or absorbed light depend on the properties of the material. This allows us to use the particle nature of light to understand the properties of matter and to predict the behavior of light in different materials.\nThe concept of the photon is a fundamental concept in physics. It provides a way to understand how light interacts with matter and how it can be used to study the properties of matter",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "What is the smallest possible unit of light?**",
+                "options": [
+                  "A photon",
+                  "An electron",
+                  "A wave",
+                  "A quantum"
+                ],
+                "answer": "A photon",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is the energy of a photon?**",
+                "options": [
+                  "Constant",
+                  "Variable",
+                  "Undefined",
+                  "Variable depending on the material"
+                ],
+                "answer": "Constant",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which property of a material best influences the scattered or absorbed light?**",
+                "options": [
+                  "Polarity",
+                  "Speed of light",
+                  "Frequency",
+                  "Density"
+                ],
+                "answer": "Density",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which property of a photon is responsible for its wave-like properties?**",
+                "options": [
+                  "Energy",
+                  "Momentum",
+                  "Frequency",
+                  "Wavelength"
+                ],
+                "answer": "Momentum",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is the equation that describes the energy of a photon?**",
+                "options": [
+                  "E = hf",
+                  "E = h(v)",
+                  "E = c",
+                  "E = f(v)"
+                ],
+                "answer": "E = hf",
+                "type": "single_correct"
+              }
+            ]
           },
           {
             "topic": "Wave Nature of Matter",
@@ -8831,7 +9732,64 @@
           {
             "topic": "DE Broglie's Explanation of Bohr's Second Postulate of Quantisation",
             "definition": "**DE Broglie's Explanation of Bohr's Second Postulate of Quantisation:**\nDe Broglie proposed a wave-particle duality for the electron that could be explained within Bohr's quantum theory. This means that the electron could exhibit characteristics of both a wave and a particle.\nAccording to Bohr's second postulate of quantization, the angular momentum of the electron in an energy level is quantized. This means that the angular momentum can only take specific values, which are determined by the energy level.\nDe Broglie argued that the wave function of the electron could be represented by a wave that propagated in the form of a spiral. This wave could have different frequencies associated with different angular momentum values. The spiral was also said to have nodes where the wave amplitude was zero.\nDe Broglie's explanation was based on the idea that the electron could exist in multiple energy levels simultaneously. This is known as superposition. According to quantum mechanics, an electron can exist in multiple states until it is observed or measured.\nThe wave function of the electron would collapse into a specific energy level when it was observed. This is what Bohr meant by quantization.\nDe Broglie's explanation was a major breakthrough in the development of quantum mechanics and helped to solidify our understanding of the behavior of matter at the atomic level",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "What was the main idea behind De Broglie's explanation of Bohr's second postulate of quantization?",
+                "options": [
+                  "The electron could exhibit characteristics of both a wave and a particle.",
+                  "The wave function of the electron could be represented by a wave that propagated in the form of a spiral.",
+                  "The wave function of the electron could only take specific values, which were determined by the energy level.",
+                  "The wave function of the electron could exist in multiple states simultaneously.",
+                  "The wave function of the electron collapsed into a specific energy level when it was observed."
+                ],
+                "answer": "The main idea behind De Broglie's explanation of Bohr's second postulate of quantization was that the electron could exist in multiple energy levels simultaneously.",
+                "type": "single_correct"
+              },
+              {
+                "question": "According to Bohr's second postulate of quantization, what is the angular momentum of the electron in an energy level?",
+                "options": [
+                  "It is quantized and can only take specific values",
+                  "It is quantized and can only take specific values, which were determined by the energy level",
+                  "It is not quantized",
+                  "It is not quantized"
+                ],
+                "answer": "It is quantized and can only take specific values, which were determined by the energy level",
+                "type": "single_correct"
+              },
+              {
+                "question": "What was De Broglie's explanation based on?",
+                "options": [
+                  "The idea that the electron could exist in multiple energy levels simultaneously",
+                  "The idea that the wave function of the electron could be represented by a wave that propagated in the form of a spiral",
+                  "The idea that the wave function of the electron could only take specific values, which were determined by the energy level",
+                  "The idea that the wave function of the electron could collapse into a specific energy level when it was observed"
+                ],
+                "answer": "The idea that the wave function of the electron could only take specific values, which were determined by the energy level",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What was De Broglie's explanation based on?",
+                "options": [
+                  "The idea that the electron could exist in multiple states simultaneously",
+                  "The idea that the wave function of the electron could be represented by a wave that propagated in the form of a spiral",
+                  "The idea that the wave function of the electron could only take specific values, which were determined by the energy level",
+                  "The idea that the wave function of the electron could collapse into a specific energy level when it was observed"
+                ],
+                "answer": "The idea that the wave function of the electron could only take specific values, which were determined by the energy level",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "How did De Broglie's explanation help to solidify our understanding of the behavior of matter at the atomic level?",
+                "options": [
+                  "It helped to solidify our understanding of the behavior of matter at the atomic level",
+                  "It helped to develop quantum mechanics",
+                  "It helped to develop quantum field theory",
+                  "It helped to develop general relativity"
+                ],
+                "answer": "It helped to solidify our understanding of the behavior of matter at the atomic level",
+                "type": "multiple_correct"
+              }
+            ]
           }
         ]
       },
@@ -10966,7 +11924,63 @@
           {
             "topic": "Adsorption",
             "definition": "Adsorption is the process by which a substance (solid or liquid) is attracted and held onto another substance (also solid or liquid) due to forces like dipole-dipole interaction. The process is reversible, meaning that the adsorbed substance can be desorbed back into its original state. \nAdsorption is a crucial phenomenon in many areas of chemistry, such as biology, environmental science, and materials science. In biology, adsorption is responsible for the absorption of nutrients, drugs, and toxins by cells. In environmental science, adsorption plays a vital role in the removal of contaminants from water and soil. In materials science, adsorption is used to improve the performance of materials in various applications, such as in water purification and catalysis.\nAdsorption can be represented graphically with a solid-line arrow pointing from the adsorbate to the adsorbent. The adsorbate is the substance that is attracted to the adsorbent, and the adsorbent is the substance that attracts the adsorbate. The forces that hold the adsorbate in place are typically dipole-dipole interactions, which are caused by the temporary dipoles induced in the adsorbent due to the polarity of the adsorbate",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "Which of the following is responsible for the absorption of nutrients, drugs, and toxins by cells?",
+                "options": [
+                  "Adsorption",
+                  "Desorption",
+                  "Diffusion",
+                  "Osmosis"
+                ],
+                "answer": "Adsorption",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which forces hold the adsorbate in place?",
+                "options": [
+                  "Dipole-dipole interactions",
+                  "Hydrogen bonding",
+                  "Ionic bonding",
+                  "Van der Waals forces"
+                ],
+                "answer": "Dipole-dipole interactions",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "How can adsorption be represented graphically?",
+                "options": [
+                  "Solid-line arrow pointing from the adsorbate to the adsorbent",
+                  "Solid-line arrow pointing from the adsorbent to the adsorbate",
+                  "Solid circle pointing from the adsorbent to the adsorbate",
+                  "Solid square pointing from the adsorbent to the adsorbate"
+                ],
+                "answer": "Solid-line arrow pointing from the adsorbate to the adsorbent",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is the direction of the forces that hold the adsorbate in place?",
+                "options": [
+                  "From the adsorbent to the adsorbate",
+                  "From the adsorbate to the environment",
+                  "From the environment to the adsorbent",
+                  "The forces are independent of the direction"
+                ],
+                "answer": "From the adsorbent to the adsorbate",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which area of chemistry is most heavily impacted by adsorption?",
+                "options": [
+                  "Biological chemistry",
+                  "Environmental science",
+                  "Materials science",
+                  "All of the above"
+                ],
+                "answer": "All of the above",
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "Catalysis",
@@ -11773,7 +12787,70 @@
           {
             "topic": "Group 15 Elements",
             "definition": "## Group 15 Elements: A Comprehensive Overview\n**Group 15** is a group of **seven elements** situated in the **p-block** of the **periodic table**. These elements are characterized by their **seven valence electrons**, which are responsible for their unique chemical properties and reactivity.\n**Here's a closer look at the characteristics of each element in the group:**\n* **Mercury (Hg)**: A **p-block metal** known for its unique properties, including its ability to melt at room temperature and form a tellurium-like solid at lower temperatures.\n* **Thallium (Tl)**: A **p-block metal** with beautiful **white and pale-yellow colors** due to the presence of a large amount of thallium in its crystal structure.\n* **Lead (Pb)**: A **p-block metal** known for its **ductile and malleable nature**. It is often used in the production of paints, roofing materials, and other industrial applications.\n* **Inert gas (Ne)**: The **only noble gas** in the group. It is colorless, odorless, and non-flammable.\n* **Xenon (Xe)**: A **p-block gas** known for its **dense and colorless nature**. It is the second-most inert gas in the world after neon.\n* **Radon (Rn)**: A radioactive gas that is used in a variety of applications, including cancer therapy and in scientific research.\n* **Oganesson (Og)**: The **latest known element** in the group, discovered in 1952. It is a highly reactive gas with a unique electronic configuration.\n**The properties and reactivity of these elements are influenced by their atomic number, electronic configuration, and chemical bonding patterns.** Understanding these characteristics is crucial for predicting the behavior and reactions of elements in different groups.\n**Remember, Group 15 elements are highly reactive, and their compounds are often used in various industrial applications.** Understanding their properties and behavior is essential for various scientific and technological fields, including chemistry, physics, and materials science",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "Which element is known for its ability to melt at room temperature and form a tellurium-like solid at lower temperatures?",
+                "options": [
+                  "Mercury (Hg)",
+                  "Thallium (Tl)",
+                  "Lead (Pb)",
+                  "Inert gas (Ne)",
+                  "Xenon (Xe)"
+                ],
+                "answer": "Mercury (Hg)",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which of the following is not an element in Group 15?",
+                "options": [
+                  "Oxygen (O)",
+                  "Nitrogen (N)",
+                  "Argon (Ar)",
+                  "Helium (He)",
+                  "Radon (Rn)",
+                  "Oganesson (Og)"
+                ],
+                "answer": "Oganesson (Og)",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which of the following is responsible for the unique properties of elements in Group 15?",
+                "options": [
+                  "Atomic number",
+                  "Electronic configuration",
+                  "Chemical bonding patterns",
+                  "All of the above"
+                ],
+                "answer": "All of the above",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which element is known for its **white and pale-yellow colors** due to the presence of a large amount of thallium in its crystal structure?",
+                "options": [
+                  "Mercury (Hg)",
+                  "Thallium (Tl)",
+                  "Lead (Pb)",
+                  "Inert gas (Ne)",
+                  "Xenon (Xe)"
+                ],
+                "answer": "Thallium (Tl)",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which element is the **latest known element** in Group 15?**",
+                "options": [
+                  "Mercury (Hg)",
+                  "Thallium (Tl)",
+                  "Lead (Pb)",
+                  "Inert gas (Ne)",
+                  "Xenon (Xe)",
+                  "Radon (Rn)",
+                  "Oganesson (Og)"
+                ],
+                "answer": "Radon (Rn)",
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "Dinitrogen",
@@ -12220,7 +13297,63 @@
           {
             "topic": "Oxoacids of Phosphorus",
             "definition": "Oxoacids of phosphorus exhibit unique properties and reactivity due to the presence of both oxygen and phosphorus atoms within their molecules. These compounds are crucial in various biological and industrial applications, and understanding their structures and behavior is essential for gaining insights into the chemistry of these elements.\nThe oxidation state of phosphorus in oxoacids can vary from +3 to +5, depending on the oxidation of other elements present in the molecule. For instance, in phosphoglyceric acid, the oxidation state of phosphorus is +4, while in phosphate rock, the oxidation state is +5.\nThese oxoacids are characterized by their ability to form coordinate bonds with other molecules, leading to complex molecular structures. The oxidation state of phosphorus dictates the number and types of ligands that can bind to it, influencing the chemical properties of the compound.\nOxoacids also exhibit acidic behavior due to the presence of hydrogen bonding between the oxygen atom and the phosphorus atom. This acidic nature allows oxoacids to donate protons (H+) to other molecules, making them important intermediates in various biochemical reactions.\nExamples of oxoacids of phosphorus include:\n1. Phosphatic acid (H3PO4): A commonly known acid used in food processing and as a phosphate source in various industrial applications.\n2. Oxalic acid (C2H4O4): A toxic organic acid found in certain fruits and vegetables and used in the production of perfumes and cosmetics.\n3. Citric acid (C6H8O7): A triacid commonly found in citrus fruits and used in food additives and pharmaceuticals.\n4. Pyrophosphoric acid (H3PO4): An acid used as a catalyst in organic reactions and as a reagent in chemical testing.\nUnderstanding oxoacids of phosphorus requires a comprehensive understanding of the principles of organic chemistry, coordination chemistry, and biochemistry. It provides valuable insights into the diverse properties and behavior of these fascinating compounds in various fields, including medicine, food, and environmental science",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "Which oxoacid of phosphorus is commonly known as a source of phosphate in industrial applications?",
+                "options": [
+                  "**Phosphatic acid**",
+                  "Oxalic acid",
+                  "Citric acid",
+                  "Pyrophosphoric acid"
+                ],
+                "answer": "**Phosphatic acid**",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which oxoacid of phosphorus exhibits acidic behavior due to the presence of hydrogen bonding between the oxygen atom and the phosphorus atom?",
+                "options": [
+                  "**Phosphatic acid**",
+                  "Oxalic acid",
+                  "Citric acid",
+                  "Pyrophosphoric acid"
+                ],
+                "answer": "**Phosphatic acid**",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which oxoacid of phosphorus is a triacid commonly found in citrus fruits and used in food additives and pharmaceuticals?",
+                "options": [
+                  "**Citric acid**",
+                  "Oxalic acid",
+                  "Phosphatic acid",
+                  "Pyrophosphoric acid"
+                ],
+                "answer": "**Citric acid**",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which oxoacid of phosphorus exhibits unique properties and reactivity due to the presence of both oxygen and phosphorus atoms?",
+                "options": [
+                  "**Phosphatic acid**",
+                  "Oxalic acid",
+                  "Citric acid",
+                  "Pyrophosphoric acid"
+                ],
+                "answer": "**Phosphatic acid**",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which oxoacid of phosphorus is used as a catalyst in organic reactions and as a reagent in chemical testing?",
+                "options": [
+                  "**Pyrophosphoric acid**",
+                  "Oxalic acid",
+                  "Phosphatic acid",
+                  "Citric acid"
+                ],
+                "answer": "**Pyrophosphoric acid**",
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "Group 16 Elements",
@@ -15624,7 +16757,63 @@
           {
             "topic": "Importance of Diazonium Salts in Synthesis of Aromatic Compounds",
             "definition": "Diazonium salts are a class of compounds that exhibit significant importance in the field of organic chemistry due to their remarkable ability to facilitate the synthesis of aromatic compounds through a process known as diazonation. Diazonium salts, which are derived from diazonium reagents, such as sodium or potassium nitrite, react with aromatic compounds, such as aldehydes and ketones, to form the corresponding diazonium intermediates, which subsequently rearrange to produce a wide range of aromatic products, including benzenes, aromatic alkanes, and aromatic nitro compounds.\nDiazonium salts can be prepared by various methods, including the reaction of diazonium reagents with aromatic compounds, such as aldehydes or ketones. Diazonium salts are also commercially available from suppliers specializing in organic chemicals.\nThese salts are particularly useful in the synthesis of aromatic compounds due to their ability to facilitate a variety of electrophilic aromatic substitution reactions. This reaction involves the addition of a nucleophile to an aromatic ring, which results in the replacement of an existing hydrogen atom with a nucleophile. Diazonium salts, with their ability to donate electrons, facilitate the electrophilic aromatic substitution reaction, allowing them to act as nucleophiles and promote the addition of nucleophiles to aromatic rings.\nDiazonium salts are also important in the synthesis of azo dyes, which are widely used in various industries, such as textile, pharmaceutical, and food industries. These dyes are synthesized by the condensation of diazonium salts with aromatic compounds in the presence of acid catalysts. The azo dyes produced are highly stable and have vibrant colors, making them valuable in the production of textiles and other products.\nOverall, diazonium salts are versatile reagents in organic chemistry that play a crucial role in facilitating the synthesis of aromatic compounds through diazonation reactions",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "What is the chemical formula of a diazonium salt?",
+                "options": [
+                  "NaNO2",
+                  "KNO2",
+                  "KO2",
+                  "KNO3"
+                ],
+                "answer": "Correct Option: NaNO2",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which diazonium salt is commonly used for the synthesis of aromatic compounds?",
+                "options": [
+                  "Sodium nitrite",
+                  "Potassium nitrite",
+                  "Calcium nitrite",
+                  "Sodium chloride"
+                ],
+                "answer": "Correct Option: Sodium nitrite",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which aromatic compound is typically used in the synthesis of azo dyes?",
+                "options": [
+                  "Aniline",
+                  "Phenol",
+                  "Benzaldehyde",
+                  "Azo dye"
+                ],
+                "answer": "Correct Option: Azo dye",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is the primary mechanism involved in diazonation reactions?",
+                "options": [
+                  "Electrophilic aromatic substitution",
+                  "Nucleophilic aromatic substitution",
+                  "Substitution reaction",
+                  "Rearrangement reaction"
+                ],
+                "answer": "Correct Option: Electrophilic aromatic substitution",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which product is typically obtained as a byproduct in diazonation reactions?",
+                "options": [
+                  "Aromatic compound",
+                  "Diazonium intermediate",
+                  "Azo dye",
+                  "Alkene"
+                ],
+                "answer": "Correct Option: Diazonium intermediate",
+                "type": "multiple_correct"
+              }
+            ]
           }
         ]
       },
@@ -16183,7 +17372,63 @@
           {
             "topic": "Polymers of Commercial Importance",
             "definition": "Polymers are long chains of repeating units joined together by covalent bonds. They are found in a wide variety of products, from plastics and rubber to food and pharmaceuticals. The properties of polymers depend on the type of polymer, its molecular weight, and the monomers that make it up.\nSome of the most important polymers used in commercial products include:\n* **Polystyrene (PS)** is used to make polystyrene cups, bottles, and packaging.\n* **Polypropylene (PP)** is used to make polypropylene plastic, which is used for food packaging, automotive parts, and other applications.\n* **Nylon (nylon)** is a synthetic polymer that is used for upholstery, carpets, and other applications.\n* **Polyvinyl chloride (PVC)** is used to make PVC pipes, siding, and other applications.\n* **Polypropylene (PP)** is used to make polypropylene plastic, which is used for food packaging, automotive parts, and other applications.\nPolymers are an important part of our modern world. They are used in a wide variety of products and are essential for many industrial processes. By understanding the properties and applications of polymers, we can better understand the world around us",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "Which polymer is used to make polystyrene cups, bottles, and packaging?",
+                "options": [
+                  "Polystyrene (PS)",
+                  "Polypropylene (PP)",
+                  "Nylon (nylon)",
+                  "Polyvinyl chloride (PVC)"
+                ],
+                "answer": "Polystyrene (PS)",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which polymer is used to make polypropylene plastic, which is used for food packaging, automotive parts, and other applications?",
+                "options": [
+                  "Polystyrene (PS)",
+                  "Polypropylene (PP)",
+                  "Nylon (nylon)",
+                  "Polyvinyl chloride (PVC)"
+                ],
+                "answer": "Polypropylene (PP)",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which polymer is used for upholstery, carpets, and other applications?",
+                "options": [
+                  "Polystyrene (PS)",
+                  "Polypropylene (PP)",
+                  "Nylon (nylon)",
+                  "Polyvinyl chloride (PVC)"
+                ],
+                "answer": "Nylon (nylon)",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which polymer is used to make PVC pipes, siding, and other applications?",
+                "options": [
+                  "Polystyrene (PS)",
+                  "Polypropylene (PP)",
+                  "Nylon (nylon)",
+                  "Polyvinyl chloride (PVC)"
+                ],
+                "answer": "Polyvinyl chloride (PVC)",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which polymer is used to make polypropylene plastic, which is used for food packaging, automotive parts, and other applications?",
+                "options": [
+                  "Polystyrene (PS)",
+                  "Polypropylene (PP)",
+                  "Nylon (nylon)",
+                  "Polyvinyl chloride (PVC)"
+                ],
+                "answer": "Polypropylene (PP)",
+                "type": "multiple_correct"
+              }
+            ]
           }
         ]
       },
@@ -16998,7 +18243,48 @@
           {
             "topic": "Strategies for Enhancement in Food Production",
             "definition": "**Strategies for Enhancement in Food Production**\n**Introduction:**\nFood production is a complex and multifaceted process that involves numerous factors and strategies to ensure sufficient food supply for a growing human population. Enhancing food production is crucial for addressing challenges related to food security, nutrition, and climate change.\n**Key Strategies for Enhancement:**\n**1. Sustainable Agriculture Practices:**\n- Implementing practices such as organic farming, crop rotation, and agroforestry to minimize chemical use and protect the environment.\n- Utilizing sustainable farming techniques, such as drip irrigation and precision agriculture, to optimize water and resource usage.\n**2. Precision Agriculture:**\n- Utilizing advanced technologies like GPS monitoring, sensors, and drones to monitor and manage agricultural practices, including crop yield, soil health, and livestock health.\n- Implementing precision farming techniques, such as targeted fertilizer application and disease control, to optimize resource utilization.\n**3. Livestock and Poultry Production:**\n- Improving breeding programs to enhance the traits and productivity of livestock, such as meat quality, milk production, and disease resistance.\n- Promoting sustainable practices for poultry, including organic poultry and integrated pest management.\n**4. Food Processing and Preservation:**\n- Implementing modern processing technologies, such as high-temperature processing (HTP) and freezing, to preserve food products and reduce food waste.\n- Developing safe and efficient food distribution systems to ensure food safety and accessibility.\n**5. Food Security and Nutrition:**\n- Investing in agricultural infrastructure, such as irrigation systems, storage facilities, and transportation networks, to ensure efficient food distribution.\n- Promoting nutrition education and awareness campaigns to improve dietary intake and reduce malnutrition.\n**6. Research and Development:**\n- Investing in scientific research to develop new technologies, crop varieties, and sustainable farming practices.\n- Collaborating with researchers and experts in the field to address challenges and find innovative solutions.\n**7. Consumer Behavior:**\n- Educating consumers about the importance of responsible food choices, such as reducing food waste and supporting local and organic farming.\n- Encouraging consumer demand for sustainable and nutritious food products.\n**Conclusion:**\nEnhancing food production requires a comprehensive approach that integrates strategies for sustainable agriculture, precision agriculture, animal and poultry production, food processing and preservation, food security, nutrition, and consumer behavior. By implementing these strategies, we can address food shortages, improve nutritional outcomes, and contribute to a sustainable future",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "Sustainable Agriculture Practices:",
+                "options": [
+                  "Organic farming, Crop rotation, Agroforestry"
+                ],
+                "answer": "Correct Option",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Precision Agriculture:",
+                "options": [
+                  "GPS monitoring, Sensors, Drones"
+                ],
+                "answer": "Correct Option",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Food Processing and Preservation:",
+                "options": [
+                  "High-temperature processing (HTP), Freezing"
+                ],
+                "answer": "Correct Option",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Food Security and Nutrition:",
+                "options": [
+                  "Investing in agricultural infrastructure, Promoting nutrition education"
+                ],
+                "answer": "Correct Option",
+                "type": "single_correct"
+              },
+              {
+                "question": "Research and Development:",
+                "options": [
+                  "Developing new technologies, Crop varieties, and sustainable farming practices"
+                ],
+                "answer": "Correct Option",
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "Microbes in Human Welfare",
@@ -17315,7 +18601,61 @@
           {
             "topic": "Biodiversity and Conservation",
             "definition": "**Biodiversity and Conservation**\nBiodiversity refers to the variety of life forms on Earth, including plants, animals, and microorganisms, and the genetic diversity within each species. Conservation is the practice of protecting and maintaining biodiversity for present and future generations.\n**Importance of Biodiversity:**\nBiodiversity plays a crucial role in maintaining the balance and functioning of ecosystems. It provides essential services such as pollination, nutrient cycling, water purification, and climate regulation. Biodiversity also supports human well-being, providing food, medicine, and recreation.\n**Threats to Biodiversity:**\nHuman activities, such as habitat destruction, pollution, climate change, and overexploitation, are major threats to biodiversity. Habitat loss reduces species' ability to find food, reproduce, and avoid predators. Pollution can kill or deform organisms, and climate change can disrupt ecosystems and affect species' distribution and availability of resources.\n**Conservation Efforts:**\nConservation efforts focus on protecting and restoring natural habitats, reducing human impacts, and educating the public about the importance of biodiversity. Key conservation methods include habitat conservation, species conservation, and pollution control.\n**Conservation Strategies:**\nConservation strategies include establishing protected areas, implementing sustainable land use practices, reducing pollution, and educating communities about conservation efforts.\n**Biodiversity and Human Well-being:**\nBiodiversity is essential for human well-being and health. Biodiversity supports food security, provides clean air and water, regulates the climate, and offers recreational opportunities.\n**Conclusion:**\nBiodiversity and conservation are fundamental for maintaining the health and sustainability of our planet. By protecting biodiversity, we protect the environment and ensure the availability of resources for future generations",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "What is biodiversity?",
+                "options": [
+                  "The variety of life forms on Earth",
+                  "The genetic diversity within each species",
+                  "Both a and b"
+                ],
+                "answer": "Both a and b",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What are the main threats to biodiversity?",
+                "options": [
+                  "Habitat destruction, pollution, climate change, and overexploitation",
+                  "Yes, all of the above",
+                  "None of the above"
+                ],
+                "answer": [
+                  "Yes, all of the above"
+                ],
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What are conservation efforts mainly focused on?",
+                "options": [
+                  "Protecting and restoring natural habitats",
+                  "Reducing human impacts",
+                  "Both a and b"
+                ],
+                "answer": "Both a and b",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What are conservation strategies? ",
+                "options": [
+                  "Establishing protected areas, implementing sustainable land use practices, reducing pollution, and educating communities about conservation efforts",
+                  "Correct Option",
+                  "None of the above"
+                ],
+                "answer": "Correct Option",
+                "type": "single_correct"
+              },
+              {
+                "question": "How does biodiversity support human well-being?",
+                "options": [
+                  "It supports food security",
+                  "Correct Option",
+                  "It provides clean air and water",
+                  "None of the above"
+                ],
+                "answer": "Correct Option",
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "Environmental Issues",
@@ -17453,7 +18793,63 @@
           {
             "topic": "Accounting for Partnership: Basic Concepts",
             "definition": "**Accounting for Partnerships: Basic Concepts**\n**Understanding Partnerships:**\nA partnership is a legal entity formed by two or more individuals who share the financial and managerial responsibility for the partnership. Unlike corporations, partnerships lack the legal capacity to enter into contracts independently.\n**Accounting for Partnerships:**\nPartners need to maintain accurate financial records to ensure transparency and accountability. This involves recording the following:\n* **Income:** Any money earned by the partnership, including profits generated through business activities.\n* **Expenses:** All costs incurred by the partnership, such as salaries, marketing, and rent.\n* **Capital:** The initial capital contribution made by each partner and any additional funds invested by the partnership.\n* **Drawings:** The withdrawals made by the partners from the partnership, similar to dividends in a corporation.\n**Financial Statements:**\nPartners need to prepare financial statements, including the Balance Sheet and Income Statement. These statements provide a comprehensive overview of the partnership's financial position and performance.\n**Financial Statements for Partnerships:**\n* **Balance Sheet:** As of a specific date, the balance sheet displays the partnership's assets, liabilities, and owner's equity.\n* **Income Statement:** The income statement tracks the partnership's revenues and expenses over a period.\n**Accounting Procedures:**\n* Partners should agree on a clear system for recording and tracking financial transactions.\n* Records should be maintained in a timely and organized manner.\n* Regular financial audits should be conducted to ensure accuracy and compliance with accounting standards.\n**Key Accounting Concepts:**\n* **Owner's equity:** The portion of the partnership capital that belongs to the partners.\n* **Dividends:** Payments made to partners from the partnership's profits.\n* **Basis of accounting:** The method used to value assets and expenses, such as the accrual or cash basis.\n* **Accounting standards:** The guidelines and regulations that govern accounting practices for partnerships.\n**Conclusion:**\nUnderstanding accounting for partnerships is crucial for both financial professionals and business owners who involve partnerships. By adhering to proper accounting practices, partners can ensure transparency, accountability, and financial stability for the partnership",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "What is the definition of a partnership?",
+                "options": [
+                  "A legal entity formed by two or more individuals who share the financial and managerial responsibility for the partnership.",
+                  "A company that is not owned by individuals or corporations.",
+                  "A non-profit organization that is not involved in commerce or profit-making activities.",
+                  "A legal entity that is not legally recognized by the state."
+                ],
+                "answer": "A legal entity formed by two or more individuals who share the financial and managerial responsibility for the partnership.",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is a key accounting concept related to partnerships?",
+                "options": [
+                  "Owner's equity",
+                  "Capital",
+                  "Income",
+                  "Accounting standards"
+                ],
+                "answer": "Owner's equity",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which financial statement provides a comprehensive overview of the partnership's financial position and performance?",
+                "options": [
+                  "Balance Sheet",
+                  "Income Statement",
+                  "Cash Flow Statement",
+                  "Shareholders' Equity Statement"
+                ],
+                "answer": "Balance Sheet",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which accounting concept is used to value assets and expenses in partnerships?",
+                "options": [
+                  "Basis of accounting",
+                  "Accounting standards",
+                  "Income statement",
+                  "Balance sheet"
+                ],
+                "answer": "Basis of accounting",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which accounting practice involves conducting regular financial audits to ensure accuracy and compliance with accounting standards?",
+                "options": [
+                  "Internal control",
+                  "Accounting standards",
+                  "Financial reporting",
+                  "Tax compliance"
+                ],
+                "answer": "Internal control",
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "Reconstitution of a Partnership Firm - Admission of a Partner",
@@ -18076,7 +19472,63 @@
           {
             "topic": "Principles of Management",
             "definition": "## Principles of Management\nManagement is a multifaceted discipline concerned with the planning, organizing, and directing of resources to achieve organizational goals. It encompasses various functions that contribute to the smooth operation of an organization, ranging from strategic planning and leadership to financial management and personnel development.\n**Key principles of management include:**\n1. **Planning:** Setting clear goals and objectives, and developing strategies to achieve them. This involves analyzing the external and internal environment, identifying opportunities and threats, and outlining a comprehensive plan of action.\n2. **Leadership:** Inspiring and motivating individuals to perform at their best. Effective leaders provide direction, support, and a shared vision for the team or organization.\n3. **Communication:** Effective communication channels allow for clear information sharing, collaboration, and feedback exchange. This ensures that everyone involved in the organization operates on the same page.\n4. **Motivation:** Creating a positive and engaging work environment that motivates employees to strive for excellence. This involves setting clear expectations, offering incentives, and fostering a sense of belonging.\n5. **Decision-making:** Making informed and timely decisions that are consistent with the organization's goals and objectives. This involves analyzing data, considering various perspectives, and evaluating potential risks and rewards.\n6. **Resource allocation:** Efficiently allocating resources such as personnel, financial resources, and materials to achieve organizational goals. This involves considering cost-benefit analysis and optimizing resource utilization.\n7. **Quality control:** Ensuring that products or services meet customer expectations and standards. This involves implementing quality control measures and monitoring production and service processes.\n8. **Teamwork:** Working collaboratively with team members to achieve shared goals. This involves fostering a sense of shared responsibility, encouraging teamwork, and resolving conflicts effectively.\n**Effective management also requires:**\n* **Adaptability:** Managing an organization through change and uncertainty.\n* **Critical thinking:** Analyzing and evaluating situations to identify problem areas and opportunities for improvement.\n* **Innovation:** Embracing creativity and change to stay ahead of the competition.\n* **Ethical behavior:** Operating with integrity and transparency, adhering to ethical standards and values.\n* **Continuous learning:** Staying updated on the latest management practices and trends.\nBy understanding and applying these principles, managers can effectively lead organizations to achieve their goals and maximize their potential",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "What is one principle of management?",
+                "options": [
+                  "Planning",
+                  "Leadership",
+                  "Communication",
+                  "Motivation"
+                ],
+                "answer": "Correct Option: Planning",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which principle of management involves inspiring and motivating individuals to perform at their best?",
+                "options": [
+                  "Planning",
+                  "Leadership",
+                  "Communication",
+                  "Motivation"
+                ],
+                "answer": "Correct Option: Leadership",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is an effective way to communicate in an organization?",
+                "options": [
+                  "Clear and concise",
+                  "Inconsistent and unclear",
+                  "Too formal and distant",
+                  "Too informal and biased"
+                ],
+                "answer": "Correct Option: Clear and concise",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is a principle of management that involves creating a positive and engaging work environment?",
+                "options": [
+                  "Planning",
+                  "Motivation",
+                  "Teamwork",
+                  "Quality control"
+                ],
+                "answer": "Correct Option: Motivation",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which principle of management involves making informed and timely decisions that are consistent with the organization's goals and objectives?",
+                "options": [
+                  "Planning",
+                  "Leadership",
+                  "Communication",
+                  "Decision-making"
+                ],
+                "answer": "Correct Option: Decision-making",
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "Business Environment",
@@ -20172,7 +21624,63 @@
           {
             "topic": "The Enemy",
             "definition": "## The Enemy: A Mystery Unveiled\nThe term \"enemy\" carries a complex and multifaceted meaning. It can signify an individual or group actively seeking to harm or defeat another, but it can also refer to a force, event, or challenge that opposes or challenges something or someone.\nThe concept of the enemy often arises in the context of **warfare**, where nations or individuals engage in combat to achieve dominance. The **enemy force** is typically represented by military symbols like a shield and sword, symbolizing the aggressor's power and intent to inflict harm.\nHowever, the term \"enemy\" can also be used in a more **general sense** to describe anything that opposes or challenges something. This could be a **difficult relationship**, a **negative influence** on our own development, or even a **self-fulfilling prophecy** that sets in motion a chain of events leading to our downfall.\nThe **nature of the enemy** itself can also be varied. It could be a **single individual**, a **group of people**, or a **larger force**, each with their own motivations and strategies. Sometimes, the enemy is **well-defined** by its specific goals or ideology, while other times its essence is **more abstract**, encompassing a broader range of concepts and ideas.\nUnderstanding the different meanings of the term \"enemy\" requires careful analysis and context. By considering the surrounding situation and the nature of the relationship, we can discern the true meaning and potential impact of this term",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "What is the most common meaning of the term 'enemy' in the context of warfare?",
+                "options": [
+                  "A. A single individual",
+                  "B. A group of people",
+                  "C. A force that opposes a nation's military",
+                  "D. A self-fulfilling prophecy"
+                ],
+                "answer": "C. A force that opposes a nation's military",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is the nature of the enemy described in the passage?",
+                "options": [
+                  "A. Well-defined by specific goals and ideology",
+                  "B. More abstract, encompassing a broader range of concepts and ideas",
+                  "C. Both A and B",
+                  "D. None of the above"
+                ],
+                "answer": "B. More abstract, encompassing a broader range of concepts and ideas",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which statement best describes the concept of the enemy in a broader sense?",
+                "options": [
+                  "A. It refers to an individual actively seeking to harm or defeat another",
+                  "B. It refers to a force or event that opposes something",
+                  "C. It refers to a self-fulfilling prophecy that sets in motion a chain of events leading to our downfall",
+                  "D. It refers to a group of people who work together to achieve a common goal"
+                ],
+                "answer": "C. It refers to a self-fulfilling prophecy that sets in motion a chain of events leading to our downfall",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which symbol or image is commonly used to represent the enemy force in warfare?",
+                "options": [
+                  "A. Shield and sword",
+                  "B. Cross",
+                  "C. Cross and sword",
+                  "D. None of the above"
+                ],
+                "answer": "A. Shield and sword",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is the true meaning and potential impact of the term 'enemy' when used in a more general sense?",
+                "options": [
+                  "A. It signifies an individual or group actively seeking to harm or defeat another",
+                  "B. It signifies a force or event that opposes something",
+                  "C. Both A and B",
+                  "D. None of the above"
+                ],
+                "answer": "A. It signifies an individual or group actively seeking to harm or defeat another",
+                "type": "single_correct"
+              }
+            ]
           },
           {
             "topic": "Should Wizard hit Mommy",

@@ -83,6 +83,38 @@ There are three main types of functions:
 - Examples: A function like "city of birth" is many-to-many, as multiple people can be born in the same city.
 Understanding these different types of functions is crucial for various mathematical fields, including algebra, calculus, and analysis. It helps us analyze the relationships between different sets and solve problems related to these sets
 
+**Quizzes:**
+
+**Q1: Which type of function assigns to each element in a set a unique element in another set?**
+
+- [ ] One-to-One
+- [ ] Many-to-One
+- [ ] Many-to-Many
+
+**Q2: Which type of function assigns to each element in a set a unique element in another set?**
+
+- [ ] One-to-One
+- [ ] Many-to-One
+- [ ] Many-to-Many
+
+**Q3: Which type of function assigns to each element in a set a unique element in another set?**
+
+- [ ] One-to-One
+- [ ] Many-to-One
+- [ ] Many-to-Many
+
+**Q4: Which type of function is crucial for various mathematical fields, including algebra, calculus, and analysis?**
+
+- [ ] One-to-One
+- [ ] Many-to-One
+- [ ] Many-to-Many
+
+**Q5: Which type of function assigns to each element in a set a unique element in another set?**
+
+- [ ] One-to-One
+- [ ] Many-to-One
+- [ ] Many-to-Many
+
 ---
 
 ### Composition of Functions and Invertible Function
@@ -407,6 +439,43 @@ $$AB = \begin{bmatrix} a_{11}b_{11} + a_{11}b_{12} + \cdots + a_{11}b_{mn} \\\ a
 The **transpose of a matrix** is a new matrix formed by reflecting the original matrix over its diagonal.
 $$A^T = \begin{bmatrix} a_{11} & a_{21} & \cdots & a_{m1} \\\ a_{12} & a_{22} & \cdots & a_{m2} \\\ \vdots & \vdots & \vdots & \vdots \\\ a_{1n} & a_{2n} & \cdots & a_{mn} \end{bmatrix}$$
 Operations on matrices can be performed both sequentially and simultaneously, depending on the specific matrix dimensions. These operations can be used to solve a variety of mathematical and real-world problems involving matrices, such as solving linear systems of equations, finding eigenvalues and eigenvectors, and solving optimization problems
+
+**Quizzes:**
+
+**Q1: Which operation is defined component-wise for matrices?**
+
+- [x] Addition
+- [ ] Multiplication
+- [ ] Transpose
+- [ ] None
+
+**Q2: Which property defines compatibility for matrices?**
+
+- [x] Same dimensions
+- [ ] Non-zero entries
+- [ ] Symmetric matrix
+- [ ] Transpose of diagonal elements
+
+**Q3: Which operation results in the reflection of a matrix over its diagonal?**
+
+- [ ] Addition
+- [ ] Multiplication
+- [x] Transpose
+- [ ] None
+
+**Q4: Which operation is performed by mirroring the original matrix over its diagonal?**
+
+- [ ] Addition
+- [ ] Multiplication
+- [x] Transpose
+- [ ] None
+
+**Q5: Which matrix operation is used to solve a linear system of equations?**
+
+- [x] Addition
+- [ ] Multiplication
+- [ ] Transpose
+- [ ] Determinant
 
 ---
 
@@ -900,6 +969,57 @@ Determinants are particularly useful when dealing with sparse or singular matric
 * Identifying linear relationships between variables in data analysis.
 * Understanding the properties of sparse and singular matrices
 
+**Quizzes:**
+
+**Q1: **1. Solving Systems of Linear Equations****
+
+- [x] **Option 1: Cramer's Rule**
+- [ ] **Option 2: Eigenvalues and Eigenvectors**
+- [ ] **Option 3: Quadratic Equations**
+- [ ] **Option 4: Representing Transformations**
+
+**Q2: **2. Calculating Volumes and Areas****
+
+- [x] **Option 1: The determinant of a diagonal matrix is the product of the dimensions of its individual linear faces.**
+- [ ] **Option 2: The determinant of a diagonal matrix is equal to the area of the corresponding geometric shape.**
+- [ ] **Option 3: The determinant of a singular matrix is zero.**
+- [ ] **Option 4: The determinant of a matrix is equal to the volume of the parallelepiped formed by its column vectors.**
+
+**Q3: **3. Finding Eigenvalues and Eigenvectors****
+
+- [x] **Option 1: Determinants can be used to find the eigenvalues of a matrix.**
+- [ ] **Option 2: Eigenvalues represent the roots of the characteristic polynomial of the matrix.**
+- [ ] **Option 3: Eigenvectors correspond to the linearly independent vectors associated with each eigenvalue.**
+- [ ] **Option 4: Determinants can be used to solve quadratic equations.**
+
+**Q4: **4. Solving Quadratic Equations****
+
+- [x] **Option 1: Determinants can be used to solve quadratic equations directly.**
+- [ ] **Option 2: Determinants can be used to find the eigenvalues of the coefficient matrix of a quadratic equation.**
+- [ ] **Option 3: Determinants can be used to determine the determinant of a quadratic form.**
+- [ ] **Option 4: Determinants can be used to represent the quadratic form in terms of a diagonal matrix.**
+
+**Q5: **5. Representing Transformations****
+
+- [x] **Option 1: Determinants can be used to represent linear transformations between vector spaces.**
+- [ ] **Option 2: Determinants can be used to calculate the determinant of a linear transformation matrix.**
+- [ ] **Option 3: Determinants can be used to solve linear equations associated with linear transformations.**
+- [ ] **Option 4: Determinants can be used to find the determinant of a linear transformation matrix.**
+
+**Q6: **6. Analyzing Data Relationships****
+
+- [x] **Option 1: Determinants can be used to identify linear relationships between variables in data.**
+- [ ] **Option 2: Determinants can be used to calculate the determinant of correlation matrices.**
+- [ ] **Option 3: Determinants can be used to identify non-linear relationships between variables in data.**
+- [ ] **Option 4: Determinants can be used to solve linear regression models.**
+
+**Q7: **7. Solving Sparse and Singular Matrices****
+
+- [x] **Option 1: Determinants are particularly useful when dealing with sparse and singular matrices.**
+- [ ] **Option 2: Determinants can be used to find the determinant of a sparse or singular matrix directly.**
+- [ ] **Option 3: Determinants can be used to solve linear equations or find eigenvalues for sparse and singular matrices.**
+- [ ] **Option 4: Determinants are not useful for solving linear equations or finding eigenvalues for sparse and singular matrices.**
+
 ---
 
 ## Continuity and Differentiability
@@ -1147,6 +1267,43 @@ The Second Order Derivative represents the rate of change of the rate of change 
 * The second derivative of a function of a real variable can be used to analyze the concavity and curvature of the graph of the function.
 By studying the second order derivative, we can gain valuable insights into the behavior of a function, including its rate of change and its local and global behavior
 
+**Quizzes:**
+
+**Q1: What is the definition of the Second Order Derivative?**
+
+- [x] The rate of change of the rate of change of the function
+- [ ] The rate of change of the function
+- [ ] The rate of change of the second derivative of the function
+- [ ] The instantaneous rate of change of the rate of change of the function
+
+**Q2: Which property of the Second Order Derivative tells us how the rate of change of the function is changing at a point?**
+
+- [x] It is always positive
+- [ ] It is always negative
+- [ ] It is always zero
+- [ ] It can be positive or negative
+
+**Q3: What is the interpretation of the Second Order Derivative?**
+
+- [x] It tells us how quickly the rate of change of the function is changing at a particular point
+- [ ] It tells us how quickly the function is changing
+- [ ] It tells us the instantaneous rate of change of the function at a particular point
+- [ ] It tells us the rate of change of the function with respect to each variable
+
+**Q4: What is the application of the Second Order Derivative?**
+
+- [ ] To analyze the concavity and curvature of the graph of the function
+- [ ] To find the critical points of the function
+- [ ] To find the points of maximum and minimum of the function
+- [x] All of the above
+
+**Q5: What is the second order derivative of a function?**
+
+- [x] The rate of change of the second derivative of the function
+- [ ] The instantaneous rate of change of the second derivative of the function
+- [ ] The rate of change of the rate of change of the second derivative of the function
+- [ ] The rate of change of the function
+
 ---
 
 ### Mean Value Theorem
@@ -1162,6 +1319,42 @@ Therefore, it follows that
 $$\lim_{h \to 0} \frac{f(b) - f(a)}{h} = f'(c)$$
 which proves that \(f'(c) = \frac{f(b) - f(a)}{b - a}\).
 This theorem has several applications in calculus, including finding critical points of functions, determining whether a function is increasing or decreasing, and finding the average rate of change of a function
+
+**Quizzes:**
+
+**Q1: What is the Mean Value Theorem?**
+
+- [ ] The theorem connects continuity and differentiability.
+- [ ] The theorem states that the average rate of change of a function over an interval is equal to its instantaneous rate of change at a point in the interval.
+- [ ] The theorem states that the average rate of change of a function over an interval is equal to the derivative of the function at a point in the interval
+
+**Q2: According to the Mean Value Theorem, which property of a function must be continuous to ensure that the average rate of change is equal to the instantaneous rate of change at a point?**
+
+- [ ] a) Domain
+- [ ] b) Range
+- [x] c) Continuity
+- [ ] d) Slope
+
+**Q3: How can the Mean Value Theorem be applied to find critical points of a function?**
+
+- [ ] By setting the derivative equal to 0
+- [ ] By finding the interval where the derivative is positive
+- [ ] By finding the intervals where the first derivative is negative
+- [ ] By finding the intervals where the second derivative is positive
+
+**Q4: What is the significance of the Mean Value Theorem in finding critical points of a function?**
+
+- [ ] It tells you the absolute minimum of the function
+- [ ] It tells you the relative minimum of the function
+- [ ] It tells you the relative maximum of the function
+- [ ] It tells you the absolute maximum of the function
+
+**Q5: Which property of a function must be continuous to ensure that the average rate of change is equal to the instantaneous rate of change at a point?**
+
+- [ ] a) Increasing
+- [ ] b) Decreasing
+- [x] c) Positive
+- [ ] d) None
 
 ---
 

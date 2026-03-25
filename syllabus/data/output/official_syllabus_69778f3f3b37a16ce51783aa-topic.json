@@ -128,7 +128,63 @@
           {
             "topic": "Using Brackets",
             "definition": "## Using Brackets: Unlocking the World of Numbers\nBrackets are a powerful tool that helps us organize and group numbers in mathematics. They allow us to express complex numbers and expressions in a clear and concise way.\n**What are Brackets?**\nThink of brackets as parentheses that enclose a group of numbers, making them a \"boxed\" unit. These boxes allow us to perform mathematical operations on the numbers inside while keeping them separate from other groupings.\n**Examples:**\n* 3 + 4 = 7\nThis simple addition creates a group of two numbers, 3 and 4, enclosed in brackets.\n* (2 + 3) - 4\nThis expression first adds 2 and 3, then subtracts 4 from the result. The parentheses group the numbers 2 and 3, while the subtraction operation is performed on the resulting group.\n**Benefits of Using Brackets:**\n* **Grouping:** Brackets help us group numbers and expressions together, making it clear how they are related.\n* **Order of operations:** By using brackets, we can express complex expressions with a specific order of operations.\n* **Simplifying expressions:** Brackets allow us to combine like terms and simplify complex expressions.\n**Challenge:**\nCan you create a group of three numbers using brackets? What about a group of four? How about a group with two numbers and a single operator?",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "What are Brackets?",
+                "options": [
+                  "**Parentheses**",
+                  "Brackets",
+                  "Parenthesis",
+                  "Box"
+                ],
+                "answer": "Correct Option",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which of the following is an example of a group of two numbers using brackets?",
+                "options": [
+                  "3 + 4 = 7",
+                  "(2 + 3) - 4",
+                  "3 + 4",
+                  "2 + 3 - 4"
+                ],
+                "answer": "Correct Option",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which of the following is an example of a group of four numbers using brackets?",
+                "options": [
+                  "3 + 4 + 5",
+                  "2 + 3 - 4 + 6",
+                  "(2 + 3) - 4 + 5",
+                  "3 + 4 + 5 - 6"
+                ],
+                "answer": "Correct Option",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which of the following is an example of a group of two numbers with a single operator?",
+                "options": [
+                  "3 + 4",
+                  "(2 + 3) - 4",
+                  "3 + 4 + 5",
+                  "2 + 3 - 4 + 5"
+                ],
+                "answer": "Correct Option",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is the benefit of using brackets in mathematics?",
+                "options": [
+                  "**Simplifies complex expressions**",
+                  "**Groups numbers and expressions together**",
+                  "**Expands multiplication and division operations**",
+                  "**Both A and B**"
+                ],
+                "answer": "Correct Option",
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "Roman Numerals",

@@ -726,7 +726,58 @@
           {
             "topic": "Determinant",
             "definition": "**Determinant**\nThe determinant is a scalar value associated with a square matrix. It serves as a scalar that can be used to determine the determinant of a matrix. The determinant represents a scalar value that can provide significant insights into the behavior and properties of a matrix. \nThe determinant is calculated by evaluating the value of a determinant of a specific square matrix, which is a function that maps a square matrix to another square matrix of the same dimensions.\n**Properties of Determinants:**\n- A determinant of the identity matrix is equal to the value of the identity matrix's determinant, which is equal to 1.\n- Determinants of singular matrices (matrices with zero determinant) are equal to 0.\n- Determinants of symmetric matrices are equal to the determinant of the transpose of the matrix.\n- Determinants of matrices with positive determinant are positive, while determinants of matrices with negative determinant are negative.\n**Examples:**\n- The determinant of the matrix \\(\\begin{bmatrix} 2 & 3 & 4 \\\\\\ 5 & 6 & 7 \\\\\\ 8 & 9 & 10 \\end{bmatrix}\\) is 24, as calculated by evaluating \\(\\det\\begin{bmatrix} 2 & 3 & 4 \\\\\\ 5 & 6 & 7 \\\\\\ 8 & 9 & 10 \\end{bmatrix}\\).\n- The determinant of the matrix \\(\\begin{bmatrix} 0 & 0 & 0 \\\\\\ 0 & 1 & 0 \\\\\\ 0 & 0 & 1 \\end{bmatrix}\\) is 0, since it is singular.\n- The determinant of the matrix \\(\\begin{bmatrix} 1 & 0 & 0 \\\\\\ 0 & 2 & 0 \\\\\\ 0 & 0 & 3 \\end{bmatrix}\\) is 6, since it is symmetric and positive definite",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "What is the determinant of the identity matrix?",
+                "options": [
+                  "1",
+                  "0",
+                  "i"
+                ],
+                "answer": "1",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which property is true for a singular matrix?",
+                "options": [
+                  "Determinant is 0",
+                  "Determinant is 1",
+                  "Determinant is undefined"
+                ],
+                "answer": "Determinant is 0",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which property is true for a symmetric matrix?",
+                "options": [
+                  "Determinant is equal to the transpose of its determinant",
+                  "Determinant is always positive",
+                  "Determinant is always negative"
+                ],
+                "answer": "Determinant is equal to the determinant of the transpose of the matrix",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is the determinant of a positive definite matrix?",
+                "options": [
+                  "Positive",
+                  "Negative",
+                  "Zero"
+                ],
+                "answer": "Positive",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which property holds for a determinant of a matrix?",
+                "options": [
+                  "Determinant of a diagonal matrix is equal to the product of the diagonal elements",
+                  "Determinant of a singular matrix is always 0",
+                  "Determinant of a symmetric matrix is equal to the determinant of the transpose of the matrix"
+                ],
+                "answer": "Determinant of a symmetric matrix is equal to the determinant of the transpose of the matrix",
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "Properties of Determinants",
@@ -1832,7 +1883,63 @@
           {
             "topic": "Integrals of Some Particular Functions",
             "definition": "## Integrals of Some Particular Functions\nIntegrals are a powerful tool used in mathematics to quantify the area and other properties of regions bounded by curves. These areas can be calculated by finding the definite integrals of functions, which involve evaluating the area between the curve and the axis of integration.\n**Definition:**\nAn integral is a numerical measure that tells us the area bounded by the curve y = f(x) from x = a to x = b. The definite integral of f(x) with respect to x from a to b is denoted by:\n$$\\int_a^b f(x) dx$$\n**Evaluating the definite integral:**\nTo evaluate this integral, we need to find the area of the region bounded by the curve and the axis of integration. We can do this by subtracting the area of the region below the curve (also known as the definite integral) from the area of the entire region.\n**Properties of definite integrals:**\n* The definite integral of a constant function f(x) is equal to f(a) (where a is the lower limit of integration).\n* The definite integral of a sum of functions f(x) + g(x) is equal to the definite integral of f(x) dx + the definite integral of g(x) dx.\n* If f(x) is continuous on the closed interval [a, b], then the definite integral of f(x) dx is equal to the area of the region bounded by the curve and the axis of integration.\n**Common definite integrals:**\nSome common definite integrals include:\n* $\\int_0^1 x dx = \\frac{1}{2}$ (area of the first quadrant)\n* $\\int_1^3 (x^2) dx = \\frac{9}{3}$ (area of the parabolic region)\n* $\\int_0^4 e^x dx = \\infty$ (the area under the exponential curve)\n**Applications of definite integrals:**\nIntegrals have numerous applications in various fields, including:\n* **Physics:** finding the area of the curved surface of a body, calculating the force required to move an object, and determining the energy stored in a mechanical system.\n* **Economics:** calculating revenue, evaluating the profit from a business, and determining the value of a stock.\n* **Calculus:** finding the area of a region, calculating the arc length of a curve, and finding the average value of a function.\nBy understanding the properties of definite integrals and evaluating them for various functions, students can gain a deep understanding of the concept and apply it to real-world problems",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "What is the area bounded by the curve y = f(x) from x = 0 to x = 1?",
+                "options": [
+                  "1/2",
+                  "3/4",
+                  "5/6",
+                  "7/8"
+                ],
+                "answer": "Correct Option: 1/2",
+                "type": "single_correct"
+              },
+              {
+                "question": "Evaluate the definite integral of f(x) = x^2 with respect to x from 0 to 3.",
+                "options": [
+                  "9",
+                  "12",
+                  "15",
+                  "18"
+                ],
+                "answer": "Correct Option: 15",
+                "type": "single_correct"
+              },
+              {
+                "question": "Evaluate the definite integral of f(x) = sin(x) with respect to x from 0 to π.",
+                "options": [
+                  "0",
+                  "1",
+                  "π",
+                  "∞"
+                ],
+                "answer": "Correct Option: π",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Evaluate the definite integral of f(x) = x^3 with respect to x from 0 to 1.",
+                "options": [
+                  "1",
+                  "4",
+                  "9",
+                  "16"
+                ],
+                "answer": "Correct Option: 16",
+                "type": "single_correct"
+              },
+              {
+                "question": "Evaluate the definite integral of f(x) = e^x with respect to x from 0 to 1.",
+                "options": [
+                  "0",
+                  "1",
+                  "∞",
+                  "2"
+                ],
+                "answer": "Correct Option: 2",
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "Integration by Partial Fractions",
@@ -1951,7 +2058,63 @@
           {
             "topic": "Fundamental Theorem of Calculus",
             "definition": "The **Fundamental Theorem of Calculus** is a fundamental result in calculus that establishes a direct connection between the definite and indefinite integral. It allows us to evaluate definite integrals by evaluating the limit of a sequence of approximating Riemann sums.\nIn simpler terms, it states that the definite integral of a function f(x) from a to b is equal to the area of the region bounded by the graph of f(x) and the vertical lines from a to b.\nThe theorem implies that the definite integral and the area of the region are the same, irrespective of the specific partition of the interval [a, b]. This remarkable property provides a rigorous foundation for evaluating definite integrals and has numerous applications in various branches of mathematics and physics.\nHere's an example to illustrate the Fundamental Theorem of Calculus:\nSuppose we have a function f(x) = x^2.\nThe definite integral of f(x) from 0 to 1 is:\n$$\\int_0^1 x^2 dx = \\left[\\frac{x^3}{3} \\right]_0^1 = \\frac{1}{3}$$\nThe area of the region bounded by the graph of f(x) and the vertical lines from 0 to 1 is equal to the same value, which is 1/3.\nTherefore, we can conclude that:\n$$\\int_0^1 x^2 dx = \\frac{1}{3}$$\nThe Fundamental Theorem of Calculus has far-reaching implications, and its applications extend to solving various problems in areas such as definite and indefinite integration, optimization, and differential equations",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "Which property of the definite integral allows us to evaluate it by evaluating the limit of a sequence of Riemann sums?",
+                "options": [
+                  "* Direct connection between the definite and indefinite integral.*",
+                  " * Area of the region bounded by the graph of f(x) and the vertical lines from a to b.*",
+                  " * It implies that the definite and indefinite integral are equal.*",
+                  " * It provides a rigorous foundation for evaluating definite integrals.*"
+                ],
+                "answer": " *Direct connection between the definite and indefinite integral.*",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Evaluate the definite integral of f(x) = x^2 from 0 to 1 using the Fundamental Theorem of Calculus.",
+                "options": [
+                  "1/3",
+                  "2/3",
+                  "3/3",
+                  "4/3"
+                ],
+                "answer": "1/3",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which of the following is NOT an application of the Fundamental Theorem of Calculus?",
+                "options": [
+                  "* Solving problems in areas such as definite and indefinite integration, optimization, and differential equations.*",
+                  " * Finding the area of the region bounded by the graph of f(x) and the vertical lines from 0 to 1.*",
+                  " * Proving the fundamental theorem of calculus.*",
+                  " * Evaluating definite integrals.*"
+                ],
+                "answer": " * Proving the fundamental theorem of calculus.*",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is the Fundamental Theorem of Calculus? ",
+                "options": [
+                  "* A theorem that establishes a direct connection between the definite and indefinite integral.*",
+                  " * A theorem that states that the definite integral and the area of the region bounded by the graph of f(x) and the vertical lines from a to b are equal.*",
+                  " * A theorem that states that the definite integral is equal to the area of the region bounded by the graph of f(x) and the vertical lines from a to b.*",
+                  " * A theorem that states that the definite integral is equal to the average of the areas of the subintervals of the function.*"
+                ],
+                "answer": " *A theorem that establishes a direct connection between the definite and indefinite integral.*",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which property of the definite integral allows us to evaluate it by evaluating the limit of a sequence of Riemann sums?",
+                "options": [
+                  "* It allows us to evaluate definite integrals directly.*",
+                  " * It allows us to evaluate definite integrals by evaluating the area of the region bounded by the graph of f(x) and the vertical lines from a to b.*",
+                  " * It allows us to evaluate definite integrals by evaluating the sum of the areas of the subintervals of the function.*",
+                  " * It allows us to evaluate definite integrals by evaluating the difference between the areas of the subintervals of the function.*"
+                ],
+                "answer": " *It allows us to evaluate definite integrals by evaluating the sum of the areas of the subintervals of the function.*",
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "Evaluation of Definite Integrals by Substitution",
@@ -2400,7 +2563,63 @@
           {
             "topic": "Addition of Vectors",
             "definition": "## Addition of Vectors\nLet two vectors, **a** and **b**, be defined as follows:\n**a = <a_1, a_2, ..., a_n>}** and **b = <b_1, b_2, ..., b_n>**\nThen the **sum of the vectors**, denoted by **a + b**, is a new vector containing the components:\n**a + b = <a_1 + b_1, a_2 + b_2, ..., a_n + b_n>**\n**Geometric Interpretation:**\nThe addition of vectors represents adding the corresponding components of the vectors. For example, if **a = <1, 3, 5>` and **b = <2, 4, 6>**, then **a + b = <3, 7, 11>**.\n**Examples:**\n1. **Add the vectors **<1, 2, 3>` and **<4, 5, 6>**: **<5, 7, 9>`\n2. **Add the vectors **<2, 4, 6>` and **<3, 6, 9>**: **<5, 10, 15>`\n3. **Add the vectors **<a, b, c>` and **<d, e, f>**: **<a + d, b + e, c + f>`\n**Properties of Addition:**\n* **(a + b) + c = a + (b + c)**\n* **(a + b) - c = a - (b - c)**\n* **a + b = b + a**\nThe addition of vectors is a linear operation, meaning that the order in which the vectors are added does not affect the result",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "Which vector is the sum of **<1, 2, 3>` and **<4, 5, 6>** ?",
+                "options": [
+                  "<5, 7, 9>",
+                  "<1, 3, 5>",
+                  "<7, 9, 11>",
+                  "<9, 11, 13>"
+                ],
+                "answer": "**<5, 7, 9>**",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which vector is the difference between **<2, 4, 6>` and **<3, 6, 9>** ?",
+                "options": [
+                  "<1, 2, 3>",
+                  "<5, 10, 15>",
+                  "<7, 12, 18>",
+                  "<3, 9, 15>"
+                ],
+                "answer": "**<5, 10, 15>**",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which vector is the sum of **<a, b, c>` and **<d, e, f>** ?",
+                "options": [
+                  "<a - d, b - e, c - f>",
+                  "<a + b, c + d, a + e>",
+                  "<a - e, b - f, c + d>",
+                  "<a + b, c - d, a - e>",
+                  "<a + d, b + e, c - f>"
+                ],
+                "answer": "**<a + d, b + e, c + f>**",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which property is true for the addition of vectors?",
+                "options": [
+                  "True",
+                  "False",
+                  "It depends on the order of the vectors"
+                ],
+                "answer": "True",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is the addition of vectors represented geometrically?",
+                "options": [
+                  "The addition of vectors is represented by adding the corresponding components of the vectors.",
+                  "The addition of vectors is represented by subtracting the corresponding components of the vectors.",
+                  "The addition of vectors is represented by adding the components of the vectors in the order they appear in the vectors.",
+                  "The addition of vectors is represented by subtracting the components of the vectors in the order they appear in the vectors"
+                ],
+                "answer": "**The addition of vectors is represented by adding the corresponding components of the vectors.**",
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "Multiplication of a Vector by a Scalar",
@@ -3487,7 +3706,63 @@
           {
             "topic": "Bernoulli Trials and Binomial Distribution",
             "definition": "**Bernoulli Trials and Binomial Distribution**\nA Bernoulli trial is a single experiment that can result in only two possible outcomes, often called success and failure. The probability of success is constant throughout the trial, and the probability of failure is equal to the complement of the success probability.\nThe binomial distribution is a probability distribution that describes the number of successes in a sequence of independent Bernoulli trials, where the probability of success is constant. It is often used to model the number of heads or tails in a sequence of coin flips or rolls. \nThe probability mass function of the binomial distribution is given by: \n$$P(X = k) = \\left(\\begin{array}{c} n \\\\\\ k \\end{array} \\right) p^{k} (1-p)^{n-k}$$\nwhere:\n- \\(n\\) is the total number of trials.\n- \\(k\\) is the number of successes.\n- \\(p\\) is the probability of success on each trial.\nThe expected value of a Bernoulli random variable \\(X\\) with parameter \\(p\\) is given by:\n$$E(X) = np$$\nThe variance of a Bernoulli random variable \\(X\\) with parameter \\(p\\) is given by:\n$$Var(X) = np(1-p)$$\nThe binomial distribution is a versatile distribution that can be used to model a wide variety of real-world phenomena, including the number of defective items in a batch of products, the number of customers in a queue, and the number of heads or tails in a sequence of coin flips",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "What is the probability of getting exactly 2 successes in 5 Bernoulli trials with a probability of success of 0.6?",
+                "options": [
+                  "0.24",
+                  "0.36",
+                  "0.48",
+                  "0.64"
+                ],
+                "answer": "Correct Option",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is the expected value of a Bernoulli random variable with parameter p = 0.4?",
+                "options": [
+                  "0.4",
+                  "0.5",
+                  "0.6",
+                  "0.7"
+                ],
+                "answer": "Correct Option",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is the variance of a Bernoulli random variable with parameter p = 0.6?",
+                "options": [
+                  "0.08",
+                  "0.12",
+                  "0.16",
+                  "0.24"
+                ],
+                "answer": "Correct Option",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which probability distribution is used to model the number of successes in a sequence of independent Bernoulli trials?",
+                "options": [
+                  "Poisson distribution",
+                  "Binomial distribution",
+                  "Negative binomial distribution",
+                  "Hypergeometric distribution"
+                ],
+                "answer": "Correct Option",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is the probability of getting exactly 5 successes in 10 Bernoulli trials with a probability of success of 0.7?",
+                "options": [
+                  "0.28",
+                  "0.35",
+                  "0.5",
+                  "0.62"
+                ],
+                "answer": "Correct Option",
+                "type": "multiple_correct"
+              }
+            ]
           }
         ]
       }
@@ -20643,7 +20918,63 @@
           {
             "topic": "The Last Lesson",
             "definition": "The Last Lesson focuses on the metaphorical nature of lessons and how they influence our lives. The Flamingo explores the idea that lessons, much like the bird, can continue to guide us even after we have ceased learning formal subjects. The story suggests that lessons are like a \"last lesson,\" offering lasting wisdom and reminding us of our potential for growth and self-discovery.\nThe Flamingo's journey highlights the cyclical nature of life. Just as the bird must keep learning and adapting to survive, we too must engage in constant learning and growth to stay connected to our inner world and the world around us. The story emphasizes the importance of reflecting on our past experiences and lessons learned throughout life, as they shape our present and influence our future choices.\nThe Flamingo's story also serves as a reminder that lessons can take different forms beyond the classroom. It suggests that life experiences, relationships, and self-reflection can also contribute to our growth and understanding. By embracing the wisdom and lessons we have accumulated throughout our lives, we can find a continuous source of guidance and inspiration",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "What is the central theme of the story? ",
+                "options": [
+                  "The importance of lessons in shaping our future",
+                  "The cyclical nature of life",
+                  "The importance of reflection",
+                  "The power of imagination"
+                ],
+                "answer": "The importance of lessons in shaping our future",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "According to the story, what is a 'last lesson'?",
+                "options": [
+                  "A lesson that is no longer taught in school",
+                  "A lesson that is no longer relevant",
+                  "A lesson that is no longer remembered",
+                  "A lesson that is no longer impactful"
+                ],
+                "answer": "A lesson that is no longer taught in school",
+                "type": "single_correct"
+              },
+              {
+                "question": "How does the Flamingo's journey illustrate the cyclical nature of life?",
+                "options": [
+                  "It shows that life is a constant cycle of learning and growth",
+                  "It shows that life is a constant cycle of forgetting and forgetting",
+                  "It shows that life is a constant cycle of achieving and failing",
+                  "It shows that life is a constant cycle of beginning and ending"
+                ],
+                "answer": "It shows that life is a constant cycle of learning and growth",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is the main message of the story? ",
+                "options": [
+                  "Life is always about learning and growth",
+                  "Life is always about forgetting and forgetting",
+                  "Life is always about achieving and failing",
+                  "Life is always about reflecting on the past"
+                ],
+                "answer": "Life is always about learning and growth",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is the significance of the story's ending? ",
+                "options": [
+                  "It suggests that life is over after learning",
+                  "It suggests that we should never stop learning",
+                  "It suggests that we should always be mindful of our past experiences",
+                  "It suggests that we should use our past experiences to shape our future"
+                ],
+                "answer": "It suggests that we should always be mindful of our past experiences",
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "Lost Spring",

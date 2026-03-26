@@ -12152,7 +12152,58 @@
           {
             "topic": "Difference and Prejudice",
             "definition": "**Difference and Prejudice**\n**Difference:**\n* Difference refers to the inherent traits, qualities, or characteristics of a person, place, or thing.\n* It is based on facts and observations, and is not influenced by personal opinions or beliefs.\n* Differences can be based on various factors, including race, ethnicity, religion, disability, and socioeconomic status.\n**Prejudice:**\n* Prejudice is a negative attitude or bias towards a person or group based on their perceived membership in a particular category.\n* It is often formed through negative experiences or stereotypes, and can lead to unfair treatment or discrimination.\n* Prejudice can manifest itself in various ways, including negative comments, discriminatory practices, and unequal opportunities.\n**Examples:**\n* **Difference:** A person of color may have a higher blood pressure than someone of European descent.\n* **Prejudice:** A statement like \"all immigrants are dishonest\" is a prejudice that negatively stereotypes an entire group of people.\n**Understanding the Difference and Prejudice:**\n* Recognizing the difference between difference and prejudice is crucial for promoting fairness and understanding.\n* By challenging biases and stereotypes, we can create a more inclusive society where everyone is treated with respect and dignity.\n* It is essential to address both difference and prejudice to achieve true equality and social justice",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "What is the difference between **difference** and **prejudice**?",
+                "options": [
+                  "**Difference** refers to the inherent traits, qualities, or characteristics of a person, place, or thing.",
+                  "**Prejudice** refers to a neutral or positive attitude towards a person or group based on their perceived membership in a particular category."
+                ],
+                "answer": "**Difference** refers to the inherent traits, qualities, or characteristics of a person, place, or thing.",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which statement best illustrates the difference between **difference** and **prejudice**?",
+                "options": [
+                  "**Difference** is based on factual observations and personal opinions.",
+                  "**Prejudice** is a neutral or positive attitude towards a person or group based on their perceived membership in a particular category.",
+                  "Both **difference** and **prejudice** are based on facts and observations."
+                ],
+                "answer": "**Difference** is based on factual observations and personal opinions.",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is an example of **prejudice**?",
+                "options": [
+                  "A person's race is the only factor that determines their worth.",
+                  "A statement like 'all immigrants are dishonest' is a **prejudice**.",
+                  "Both **difference** and **prejudice** can manifest themselves in various ways"
+                ],
+                "answer": "A statement like 'all immigrants are dishonest' is a **prejudice**.",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which statement best describes the importance of addressing **difference** and **prejudice**?",
+                "options": [
+                  "**Difference** and **prejudice** are not important issues to address",
+                  "**Difference** and **prejudice** are equally important issues to address",
+                  "**Difference** and **prejudice** are more important issues to address for marginalized groups"
+                ],
+                "answer": "**Difference** and **prejudice** are more important issues to address for marginalized groups.",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is the ultimate goal of addressing **difference** and **prejudice**?",
+                "options": [
+                  "To promote fairness and understanding",
+                  "To achieve true equality and social justice",
+                  "To create a more inclusive society where everyone is treated with respect and dignity",
+                  "None of the above"
+                ],
+                "answer": "To achieve true equality and social justice",
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "Creating Stereotypes",
@@ -14055,7 +14106,63 @@
           {
             "topic": "Reading Comprehension",
             "definition": "## Reading Comprehension: Unlocking the Mysteries of the Story\nReading comprehension is the ability to understand and interpret what you read. It goes beyond merely reading the words on the page; it involves active engagement with the text, considering the author's intention, the characters' motivations, and the underlying meaning of the story.\nImagine yourself as an inquisitive detective piecing together a mystery. You carefully read the clues scattered throughout the story, like hidden messages and subtle hints. Each piece you uncover helps you understand the bigger picture and unravel the mystery that unfolds within the narrative.\nHere's how reading comprehension helps you:\n* **Makes the story more engaging**: By actively engaging with the text, you become more invested in the narrative, which leads to a deeper understanding and appreciation of the story.\n* **Identifies the author's intent**: Understanding the author's purpose behind writing the story helps you interpret the underlying message and appreciate the author's skills.\n* **Explores characters and their motivations**: By delving into the characters' personalities and motivations, you gain insights into their actions and their overall journey throughout the story.\n* **Develops critical thinking skills**: Reading comprehension requires you to analyze the text, identify different perspectives, and draw conclusions based on the evidence presented.\n* **Provides a deeper appreciation for language**: Reading comprehension helps you appreciate the nuances of language used by the author, including symbolism, figurative language, and literary devices.\nReading comprehension is a valuable skill that can be applied to various aspects of life, both academic and personal. By actively engaging with what you read, you can unlock the mysteries hidden within the story, discover the author's intention, and develop a deeper appreciation for the world around you",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "According to the passage, what is the main purpose of reading comprehension?",
+                "options": [
+                  "To read the words on the page",
+                  "To actively engage with the text",
+                  "To identify the author's intent",
+                  "To develop critical thinking skills"
+                ],
+                "answer": "To actively engage with the text",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which of the following best describes the character's journey throughout the story?",
+                "options": [
+                  "They are always happy and optimistic",
+                  "They are initially good but eventually turn evil",
+                  "They are the main antagonist throughout the story",
+                  "They are a tragic hero with a happy ending"
+                ],
+                "answer": "They are initially good but eventually turn evil",
+                "type": "single_correct"
+              },
+              {
+                "question": "According to the passage, what is one way reading comprehension helps develop critical thinking skills?",
+                "options": [
+                  "By analyzing the text, identifying different perspectives, and drawing conclusions",
+                  "By reading the same text multiple times",
+                  "By reading the text while ignoring certain details",
+                  "By summarizing the plot in your own words"
+                ],
+                "answer": "By analyzing the text, identifying different perspectives, and drawing conclusions",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which literary device is used to create a sense of suspense and mystery?",
+                "options": [
+                  "Simile",
+                  "Metaphor",
+                  "Personification",
+                  "Suspense"
+                ],
+                "answer": "Suspense",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is the main message that the passage conveys about the importance of reading comprehension?",
+                "options": [
+                  "Reading comprehension is a necessary skill for understanding and appreciating literature",
+                  "Reading comprehension allows you to discover the author's intentions and the underlying meaning of the story",
+                  "Reading comprehension helps you connect with the writer on a deeper level",
+                  "Reading comprehension is not important for understanding and appreciating literature"
+                ],
+                "answer": "Reading comprehension helps you discover the author's intentions and the underlying meaning of the story",
+                "type": "single_correct"
+              }
+            ]
           },
           {
             "topic": "Vocabulary - Synonyms",
@@ -17429,7 +17536,62 @@
           {
             "topic": "Reading & Meaning",
             "definition": "## Reading & Meaning: A Deep Dive into Paar Nazar Ke\nIn the realm of language, **reading** and **meaning** are not separate entities, but rather, two sides of the same coin that illuminate the vast ocean of words. To truly comprehend a text, it is crucial to explore not only the literal words but also the deeper layers of meaning that lie beneath the surface. \n**Reading** involves actively engaging with a text by deciphering its written form. It demands critical thinking, questioning, and analysis to decipher the meaning of individual words, phrases, and the entire text. By engaging in this process, we begin to unravel the intricate tapestry of the language, uncovering the hidden clues that guide our understanding.\n**Meaning** goes beyond merely extracting the literal meaning of individual words. It delves deeper, exploring the context, tone, and historical background of the text. It delves into the emotional and psychological impact of the language, revealing the deeper emotions and thoughts that the author might have intended to convey. By considering these layers of meaning, we gain a richer understanding of the text and its message.\n** Paar Nazar Ke** serves as a perfect example of the intricate relationship between reading and meaning. This story, filled with poetic language and deep symbolism, invites us to explore both the literal and metaphorical layers of meaning. By delving into the context, symbolism, and historical context of the text, we gain a profound understanding of the message it conveys.\n**Reading & Meaning** is an ongoing pursuit that encourages us to constantly question, explore, and seek deeper understanding. By actively engaging with a text, we unlock the hidden treasures of language, enriching our knowledge and expanding our horizons",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "In the realm of language, what is the difference between reading and meaning?",
+                "options": [
+                  "Reading involves actively engaging with a text by deciphering its written form.",
+                  "Meaning goes beyond merely extracting the literal meaning of individual words.",
+                  "Both reading and meaning are essential for a deep understanding of a text."
+                ],
+                "answer": "Correct Answer: Reading involves actively engaging with a text by deciphering its written form.",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which element in Paar Nazar Ke serves as a perfect example of the intricate relationship between reading and meaning?",
+                "options": [
+                  "The context",
+                  "The tone",
+                  "The historical background",
+                  "The all of the above"
+                ],
+                "answer": "Correct Answer: The context",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "In **Reading & Meaning**, which story invites us to explore both the literal and metaphorical layers of meaning?",
+                "options": [
+                  "Paar Nazar Ke",
+                  "Hamlet",
+                  "The Odyssey",
+                  "The Catcher in the Rye"
+                ],
+                "answer": "Correct Answer: Paar Nazar Ke",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is the main purpose of exploring the layers of meaning in **Reading & Meaning**?",
+                "options": [
+                  "To unlock the hidden treasures of language",
+                  "To improve critical thinking skills",
+                  "To deepen our understanding of a text",
+                  "To explore the writer's biography"
+                ],
+                "answer": "Correct Answer: To unlock the hidden treasures of language",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is an ongoing pursuit in **Reading & Meaning** that encourages us to constantly question, explore, and seek deeper understanding?",
+                "options": [
+                  "The pursuit of wealth",
+                  "The pursuit of pleasure",
+                  "The pursuit of fame",
+                  "The pursuit of knowledge"
+                ],
+                "answer": "Correct Answer: The pursuit of knowledge",
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "Interpretation",

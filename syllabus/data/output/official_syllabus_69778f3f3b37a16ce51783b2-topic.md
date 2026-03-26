@@ -1412,6 +1412,43 @@ By studying probability and learning its core concepts, you gain the ability to 
 ## Introduction
 Squares and square roots are fascinating and important mathematical concepts that provide a deeper understanding of measurement and geometry. In this chapter, we will explore the properties of squares and square roots, investigate how they relate to each other, and discover how they can be used to solve real-world problems
 
+**Quizzes:**
+
+**Q1: What is the definition of a square?**
+
+- [x] A shape with four sides and four corners
+- [ ] A shape with four vertices and four edges
+- [ ] A shape with four edges and four corners
+- [ ] A shape with four sides and four angles
+
+**Q2: Which of the following is not a property of a square?**
+
+- [x] The area of a square is equal to its perimeter squared
+- [ ] The perimeter of a square is equal to its side length squared
+- [ ] The area of a square is equal to the square root of its side length squared
+- [ ] All of the above
+
+**Q3: What is the square root of 9?**
+
+- [x] 3
+- [ ] 4
+- [ ] 5
+- [ ] 6
+
+**Q4: Which mathematical operation is used to find the area of a square?**
+
+- [ ] Addition
+- [ ] Subtraction
+- [x] Multiplication
+- [ ] Division
+
+**Q5: How can square roots be used to solve real-world problems?**
+
+- [ ] They can be used to find the length of a side of a square
+- [ ] They can be used to find the perimeter of a square
+- [ ] They can be used to find the area of a square
+- [x] All of the above
+
 ---
 
 ### Properties of Square Numbers
@@ -2325,6 +2362,44 @@ As the number of compounding periods increases, the value of your investment gro
 * Investigate different investment scenarios with varying interest rates and compounding frequencies.
 * Analyze how changing the principal amount affects the future value of your investment.
 * Explore real-world applications of compound interest, such as savings accounts, bonds, and retirement planning
+
+**Quizzes:**
+
+**Q1: What is the formula for compound interest?**
+
+- [ ] A = P(1 + i)^n
+- [ ] A = P - i
+- [ ] A = P(1 - i)
+- [ ] A = P(1 / i)
+- [ ] A = P(i)^n
+
+**Q2: Which is not a factor in the compound interest formula?**
+
+- [ ] P
+- [ ] i
+- [ ] n
+- [ ] A
+
+**Q3: What happens when the number of compounding periods increases?**
+
+- [ ] The final amount is higher
+- [ ] The final amount is lower
+- [ ] The final amount is the same
+- [ ] The final amount is unpredictable
+
+**Q4: How does changing the principal amount affect the future value of your investment?**
+
+- [ ] It has no impact
+- [ ] It increases the final amount
+- [ ] It decreases the final amount
+- [ ] It stays the same
+
+**Q5: What is a real-world application of compound interest?**
+
+- [ ] Savings account interest
+- [ ] Bond interest
+- [ ] Retirement planning
+- [ ] All of the above
 
 ---
 
@@ -3378,6 +3453,43 @@ To measure an object, we follow these steps:
 **Measurement accuracy:**
 Measurements are often measured in different units. It is important to use the same unit for all measurements of the same object. Accuracy is the closeness of the measured value to the actual value
 
+**Quizzes:**
+
+**Q1: What is measurement?**
+
+- [x] **A.** Determining the distance between two points
+- [ ] **B.** Determining the area of a shape
+- [ ] **C.** Determining the length of an object
+- [ ] **D.** Determining the mass of an object
+
+**Q2: Why is measurement important?**
+
+- [x] **A.** It allows us to compare objects
+- [ ] **B.** It allows us to figure out the relative positions of objects
+- [ ] **C.** Both A and B
+- [ ] **D.** None of the above
+
+**Q3: How are measurements taken?**
+
+- [x] **A.** Using different tools for each measurement
+- [ ] **B.** Using the same tool for all measurements
+- [ ] **C.** Using the most accurate tool for each measurement
+- [ ] **D.** Using the same tool for different measurements
+
+**Q4: What is a ruler used for?**
+
+- [x] **A.** Measuring length
+- [ ] **B.** Measuring width
+- [ ] **C.** Measuring height
+- [ ] **D.** Measuring mass
+
+**Q5: What is the purpose of a protractor?**
+
+- [x] **A.** Drawing straight lines
+- [ ] **B.** Measuring angles
+- [ ] **C.** Both A and B
+- [ ] **D.** None of the above
+
 ---
 
 ### Let us Recall
@@ -4426,6 +4538,46 @@ $$a^2 - b^2 = (a + b)(a - b)$$
 These are just a few examples of the many identities that can be used to factorise numbers. By applying these identities creatively, it is often possible to factorise a number in a unique and efficient way.
 Moreover, factorisation using identities can also be used to solve mathematical problems involving those numbers. For instance, if you are asked to find the factors of 12, you can factorise 12 as 2 * 2 * 3 * 3, which are the factors of those respective numbers.
 Overall, factorisation using identities is a powerful technique that can be used to simplify and solve mathematical expressions involving factors. By understanding and applying these identities, students can gain a deeper understanding of how to factorise numbers and apply this knowledge to solve various mathematical problems
+
+**Quizzes:**
+
+**Q1: Which identity can be used to factorise the expression (x + y)^2?**
+
+- [ ] (x + y)^2 = x^2 + 2xy + y^2
+- [ ] (x + y)^2 = x^2 - 2xy + y^2
+- [ ] (x + y)^2 = (x - y)^2
+- [ ] (x + y)^2 = (x + y)(x - y)
+- [ ] None
+
+**Q2: Which identity can be used to factorise the expression a^2 - b^2 = (a + b)(a - b)**
+
+- [ ] (a + b)^2 = a^2 - 2ab + b^2
+- [ ] (a + b)^2 = a^2 + 2ab - b^2
+- [ ] (a + b)^2 = (a - b)^2
+- [ ] (a + b)^2 = (a + b)(a - b)
+- [ ] None
+
+**Q3: Which identity can be used to factorise the expression 12 = 2 * 2 * 3 * 3?**
+
+- [ ] 12 = (1 + 2)(1 - 2)
+- [ ] 12 = (2 - 1)(2 + 3)
+- [ ] 12 = (3 + 2)(3 - 2)
+- [ ] 12 = (3 + 1)(3 - 1)
+- [ ] None
+
+**Q4: Which identity can be used to factorise the expression a^2 - b^2 = (a + b)(a - b)**
+
+- [ ] (a + b)^2 = a^2 + 2ab - b^2
+- [ ] (a + b)^2 = a^2 - 2ab + b^2
+- [ ] (a + b)^2 = (a + b)(a - b)
+- [ ] None
+
+**Q5: Which identity can be used to factorise the expression x^2 + 2xy + y^2 = (x + y)^2?**
+
+- [ ] x^2 + 2xy + y^2 = (x - y)^2
+- [ ] x^2 - 2xy + y^2 = (x + y)^2
+- [ ] x^2 + 4xy + y^2 = (x - y)^2
+- [ ] None
 
 ---
 
@@ -12727,6 +12879,43 @@ The pursuit of profit and gain led to a system of inequality and exploitation. C
 Moreover, company officials were involved in shaping laws and regulations that favored their own interests, further perpetuating a system of privilege and oppression. Their actions had significant consequences for society, as they influenced political decisions and shaped the economic and social landscape.
 The term "nabob" became synonymous with greed, corruption, and the pursuit of personal gain. It served as a cautionary tale about the dangers of unchecked ambition and the moral compromises necessary to achieve wealth and success
 
+**Quizzes:**
+
+**Q1: In what era did the term 'nabob' originate?**
+
+- [x] During the Age of Exploration
+- [ ] During the Middle Ages
+- [ ] During the Renaissance
+- [ ] During the Victorian Era
+
+**Q2: What did the term 'nabob' mean in the context of the Age of Exploration?**
+
+- [x] A wealthy and influential individual
+- [ ] An honest and ethical person
+- [ ] A loyal and devoted follower
+- [ ] A successful businessman
+
+**Q3: According to the passage, what was the main reason for the pursuit of profit and gain during the Age of Exploration?**
+
+- [x] To establish trade routes and expand their territories
+- [ ] To engage in peaceful trade negotiations
+- [ ] To establish monopolies
+- [ ] To provide goods and services to the people
+
+**Q4: What was the impact of the exploitation of workers on society during the Age of Exploration?**
+
+- [x] It resulted in the suffering of countless individuals
+- [ ] It led to the development of fair labor laws
+- [ ] It contributed to the social and economic problems faced by societies during the Age of Exploration
+- [ ] It had no significant consequences on society
+
+**Q5: What was the term 'nabob' widely regarded as in the context of the Age of Exploration?**
+
+- [x] A cautionary tale about the dangers of unchecked ambition
+- [ ] A symbol of wealth and status
+- [ ] A symbol of morality and integrity
+- [ ] A symbol of loyalty and devotion
+
 ---
 
 ### Company Rule Expands
@@ -12907,6 +13096,43 @@ The claim to paramountcy, in the context of history, refers to the belief that a
 - The pursuit of national interests often comes at the expense of international cooperation and global peace.
 **Conclusion:**
 The claim to paramountcy is a complex and multifaceted issue with historical and contemporary implications. While it can serve as a useful framework for understanding power dynamics and international relations, it must be critically examined and assessed in the context of a diverse and interconnected world
+
+**Quizzes:**
+
+**Q1: Which historical event best illustrates the claim to paramountcy?**
+
+- [x] The European powers' colonization of Africa and Asia
+- [ ] The American Revolution
+- [ ] The British Empire's dominance in the global market
+- [ ] The claim to paramountcy by the United States after the American Revolution
+
+**Q2: Which factor is considered by proponents of the claim to paramountcy to be a nation's strategic advantage?**
+
+- [ ] Economic power
+- [ ] Geographic location
+- [ ] Cultural and ideological influence
+- [x] All of the above
+
+**Q3: Which argument against the claim to paramountcy is based on outdated criteria?**
+
+- [ ] The claim to paramountcy ignores the inherent inequalities and power imbalances within the global system
+- [ ] The claim to paramountcy is only relevant in the context of the Age of Exploration
+- [ ] The claim to paramountcy is based on biased criteria that favor certain nations
+- [ ] The claim to paramountcy is irrelevant in the modern era
+
+**Q4: Which argument against the claim to paramountcy is based on the pursuit of national interests?**
+
+- [ ] The claim to paramountcy can lead to international cooperation and global peace
+- [x] The pursuit of national interests often comes at the expense of international cooperation and global peace
+- [ ] The claim to paramountcy is a useful framework for understanding power dynamics and international relations
+- [ ] The claim to paramountcy is irrelevant in the modern era
+
+**Q5: What is the conclusion of the chapter on the claim to paramountcy?**
+
+- [ ] The claim to paramountcy is a useful framework for understanding power dynamics and international relations
+- [ ] The claim to paramountcy is a misleading and outdated concept
+- [ ] The claim to paramountcy should be critically examined and assessed in the context of a diverse and interconnected world
+- [ ] The claim to paramountcy is a valuable tool for promoting international cooperation and global peace
 
 ---
 
@@ -13735,6 +13961,43 @@ The activities of hunters and gatherers were central to the cultural identity of
 The concept of a "Golden Age" in human history often focused on a period of unparalleled abundance and harmony between humans and nature. This idealized vision often attributed to philosophers like Plato and Aristotle, was shaped by the values and practices of hunter-gatherer societies. It depicted a harmonious relationship between humans and the environment, where resources were shared, and a sustainable balance existed.
 **Conclusion**
 The lives of hunters and gatherers were complex and diverse, encompassing various roles in shaping societies. Their focus on obtaining food through hunting and gathering laid the foundation for advancements in social structures, technological innovations, and cultural expressions. By understanding the lives of these early humans, we gain valuable insights into the development of human societies and the ongoing quest for a sustainable future
+
+**Quizzes:**
+
+**Q1: What was the primary occupation of hunters and gatherers?**
+
+- [ ] Hunting and Gathering
+- [ ] Agriculture
+- [ ] Production
+- [ ] Construction
+
+**Q2: How did the social structure of hunter-gatherer communities shape their interactions?**
+
+- [ ] Collaborative
+- [ ] Competitive
+- [ ] Individualistic
+- [ ] Mercenary
+
+**Q3: Which tool played a significant role in facilitating food acquisition and trade?**
+
+- [ ] Bows and arrows
+- [ ] Spears
+- [ ] Traps
+- [ ] Fishing rods
+
+**Q4: What were the early tools and technologies developed by hunter-gatherer communities?**
+
+- [ ] Fire-based tools
+- [ ] Hunting weapons
+- [ ] Building materials
+- [ ] Textiles
+
+**Q5: How did the concept of the Golden Age shape the cultural identity of many societies?**
+
+- [ ] Unleashing of human potential
+- [ ] Harmony between humans and nature
+- [ ] Peaceful coexistence
+- [ ] Division of labor
 
 ---
 
@@ -15922,6 +16185,43 @@ However, despite these significant advancements, inequalities in access to educa
 * **Zora Neale Hurston's "Their Eyes Were Watching God"** tackles themes of racism, sexism, and resilience through the eyes of a young woman.
 * **Toni Morrison's "Beloved"** delves into the psychological and emotional scars of slavery through the shared narratives of a married couple.
 **WWAW is not just about individual voices; it's about collective action and the power of collective storytelling.** By amplifying the voices of women writers throughout history and continuing to support their work, we can learn from the past and work towards a more equitable future
+
+**Quizzes:**
+
+**Q1: Which movement gained momentum during the early 20th century, with women fighting for the right to vote?**
+
+- [x] Suffrage movement
+- [ ] Civil rights movement
+- [ ] Women's suffrage movement
+- [ ] Anti-war movement
+
+**Q2: What was the purpose of the first women's writing collectives?**
+
+- [x] To share stories and experiences with each other
+- [ ] To raise awareness about social issues
+- [ ] To promote political activism
+- [ ] To create a platform for dialogue
+
+**Q3: Which book explores the psychological and emotional scars of slavery through the shared narratives of a married couple?**
+
+- [ ] The Catcher in the Rye
+- [x] Beloved
+- [ ] To Kill a Mockingbird
+- [ ] The Handmaid's Tale
+
+**Q4: Which author used their platform to challenge gender stereotypes, advocate for social justice, and raise awareness about women's rights?**
+
+- [x] Maya Angelou
+- [ ] Zora Neale Hurston
+- [ ] Toni Morrison
+- [ ] Jane Austen
+
+**Q5: Which book is a powerful exploration of the complexities of gender dynamics through their writing?**
+
+- [ ] To Kill a Mockingbird
+- [ ] The Handmaid's Tale
+- [x] Beloved
+- [ ] I Have a Dream
 
 ---
 
@@ -23134,6 +23434,43 @@ Reported speech can be used for several purposes:
 * Reported speech is a past event, so it is always in the past tense.
 * The past participle of a verb is formed by adding -ed to the verb.
 * The past tense of a verb is used when we want to talk about something that happened in the past
+
+**Quizzes:**
+
+**Q1: What did the teacher **say** to the students?**
+
+- [x] She said she was tired.
+- [ ] She said she went to the store.
+- [ ] She said she read the document.
+- [ ] She said she drafted the document.
+
+**Q2: Which book **was read** by several students?**
+
+- [x] The old book
+- [ ] The new book
+- [ ] The classic book
+- [ ] The historical book
+
+**Q3: What **was** drafted in 2010?**
+
+- [ ] A document
+- [ ] A song
+- [ ] A movie
+- [x] A book
+
+**Q4: How did the lawyer **draft** the document?**
+
+- [x] Using a pen and paper
+- [ ] Using a computer program
+- [ ] Using a typewriter
+- [ ] Using a scanner
+
+**Q5: What **was** said in the past about the store's location?**
+
+- [x] The store was located in the city center.
+- [ ] The store was located in the suburbs.
+- [ ] The store was located in the countryside.
+- [ ] The store was located in the airport
 
 ---
 

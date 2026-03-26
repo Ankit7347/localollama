@@ -2786,6 +2786,43 @@ Total surface area = 6 cm² + 200 cm² + 150 cm² = 216 cm²
 * The surface area of a combination of solids is equal to the sum of the surface areas of its individual components.
 * Different shapes have different surface area calculations due to variations in the number and shape of faces, edges, and corners
 
+**Quizzes:**
+
+**Q1: Which faces contribute to the surface area of the cube?**
+
+- [x] Top
+- [ ] Bottom
+- [ ] Left
+- [ ] Right
+
+**Q2: Which sides play a role in determining the surface area of the cylinder?**
+
+- [ ] Upper
+- [ ] Lower
+- [x] Both
+- [ ] None
+
+**Q3: What is the contribution of the corners of the rectangular box to its surface area?**
+
+- [ ] 4
+- [ ] 8
+- [x] 12
+- [ ] 16
+
+**Q4: Which formula is used to calculate the total surface area of the combination of solids?**
+
+- [x] S = 6 * (a + b + c)
+- [ ] S = 2 * (a + b + c)
+- [ ] S = a + b + c
+- [ ] S = 3 * (a + b + c)
+
+**Q5: What is the total surface area of the combination of the cube, cylinder, and rectangular box described in the example?**
+
+- [ ] 100
+- [ ] 150
+- [ ] 216
+- [ ] 240
+
 ---
 
 ### Volume of a Combination of Solids
@@ -19079,6 +19116,87 @@ The denial of choice can have significant consequences for individuals and the e
 **Conclusion:**
 Choice is a fundamental pillar of economic development. However, when individuals are deprived of this right due to external barriers, they are prevented from fully participating in the economic process. This can have detrimental consequences for both the individual and the economy as a whole. Therefore, ensuring access to information, resources, and fair economic policies is crucial for promoting choice and empowering individuals to contribute to a thriving society
 
+**Quizzes:**
+
+**Q1: Question text**
+
+- [ ] **Option 1**
+- [ ] **Option 2**
+- [ ] **Option 3**
+- [ ] **Option 4**
+
+**Q2: Question text**
+
+- [ ] **Access to information**
+- [ ] **Economic resources**
+- [ ] **Discrimination**
+- [ ] **Complex decision-making processes**
+
+**Q3: Question text**
+
+- [ ] *
+- [ ] *
+- [ ] C
+- [ ] o
+- [ ] r
+- [ ] r
+- [ ] e
+- [ ] c
+- [ ] t
+- [ ]  
+- [ ] O
+- [ ] p
+- [ ] t
+- [ ] i
+- [ ] o
+- [ ] n
+- [ ] *
+- [ ] *
+
+**Q4: Question text**
+
+- [ ] *
+- [ ] *
+- [ ] R
+- [ ] e
+- [ ] d
+- [ ] u
+- [ ] c
+- [ ] e
+- [ ] d
+- [ ]  
+- [ ] e
+- [ ] c
+- [ ] o
+- [ ] n
+- [ ] o
+- [ ] m
+- [ ] i
+- [ ] c
+- [ ]  
+- [ ] p
+- [ ] a
+- [ ] r
+- [ ] t
+- [ ] i
+- [ ] c
+- [ ] i
+- [ ] p
+- [ ] a
+- [ ] t
+- [ ] i
+- [ ] o
+- [ ] n
+- [ ] *
+- [ ] *
+
+**Q5: Question text**
+
+- [ ] **Reduced access to essential goods and services**
+- [ ] **Unfair outcomes**
+- [ ] **Both A and B**
+- [ ] **Neither A nor B**
+
 ---
 
 ### Where should Consumers go to get Justice?
@@ -22396,6 +22514,43 @@ Here are some examples of Sangatkar in poetry:
 * **"Khel hai sangatkar mein, khushiyon mein saat"** - This simple yet beautiful verse captures the essence of living with laughter and joy.
 * **"Sapno ki dhadkan mein sangatkar ki tarah**" - This poem speaks of the bittersweet nature of life, with the joys and sorrows intertwined in a beautiful dance.
 Sangatkar is a powerful and universal emotion that transcends cultural and linguistic barriers. It is a reminder of the simple beauty and joy of life, and it is a powerful force for bringing people together in shared appreciation
+
+**Quizzes:**
+
+**Q1: What is the literal meaning of the word 'Sangatkar'?**
+
+- [x] To carry or hold
+- [ ] To sing, to dance
+- [ ] To sleep
+- [ ] To work
+
+**Q2: How is 'Sangatkar' often expressed in poetry?**
+
+- [x] Through traditional poetic forms
+- [ ] Through modern poetic forms
+- [ ] Through written language
+- [ ] Through visual art
+
+**Q3: Which verse captures the essence of living with laughter and joy?**
+
+- [x] Sapno ki dhadkan mein sangatkar ki tarah
+- [ ] Khel hai sangatkar mein, khushiyon mein saat
+- [ ] Naagin
+- [ ] Meri saheliyon mein saat
+
+**Q4: Which form is traditionally associated with 'Sangatkar' in poetry?**
+
+- [x] Traditional
+- [ ] Modern
+- [ ] Folk
+- [ ] Classical
+
+**Q5: Which verse speaks of the bittersweet nature of life, with the joys and sorrows intertwined?**
+
+- [x] Sapno ki dhadkan mein sangatkar ki tarah
+- [ ] Khel hai sangatkar mein, khushiyon mein saat
+- [ ] Meri saheliyon mein saat
+- [ ] Naagin
 
 ---
 

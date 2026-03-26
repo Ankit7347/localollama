@@ -3192,6 +3192,43 @@ A **rectangle** is a quadrilateral with four sides of different lengths. The opp
 * **Area of a square:** A = s²
 * **Area of a rectangle:** A = ab
 
+**Quizzes:**
+
+**Q1: Which shape has four equal sides and four equal angles?**
+
+- [x] Square
+- [ ] Rectangle
+- [ ] Triangle
+- [ ] Parallelogram
+
+**Q2: Which formula calculates the area of a square?**
+
+- [x] A = s²
+- [ ] A = a + b
+- [ ] A = 4s
+- [ ] A = ab
+
+**Q3: Which formula calculates the area of a rectangle?**
+
+- [ ] A = s²
+- [ ] A = a + b
+- [ ] A = 2(a + b)
+- [x] A = ab
+
+**Q4: Which shape has four sides of different lengths?**
+
+- [ ] Square
+- [x] Rectangle
+- [ ] Triangle
+- [ ] Parallelogram
+
+**Q5: Which formula calculates the perimeter of a square?**
+
+- [x] s = 4s
+- [ ] s = 2(a + b)
+- [ ] s = a + b
+- [ ] s = 2a
+
 ---
 
 ### Area of a Parallelogram
@@ -4824,6 +4861,40 @@ The light-dependent reactions take place in the thylakoid membranes of chloropla
 **The Light Independent Reactions**
 The light-independent reactions take place in the stroma of chloroplasts. The stroma is a large central compartment of the chloroplast that contains a series of enzyme-containing complexes called ATP synthase and NADPH synthase. ATP synthase uses energy from the splitting of water molecules to pump protons across the thylakoid membrane. This creates a proton gradient, which is a difference in concentration of protons across the membrane. NADPH synthase uses the proton gradient to convert carbon dioxide into glucose.
 Photosynthesis is an essential process for life on Earth. It provides the oxygen that we breathe and the food that we eat. Without photosynthesis, life on Earth would not be able to survive
+
+**Quizzes:**
+
+**Q1: Which organelle is responsible for the light-dependent reactions of photosynthesis?**
+
+- [ ] Chloroplast
+- [ ] Mitochondria
+- [ ] Endoplasmic Reticulum
+- [ ] Ribosomes
+
+**Q2: Which enzyme is responsible for splitting water molecules in the light-dependent reactions?**
+
+- [ ] ATP synthase
+- [ ] NADPH synthase
+- [ ] Carbonic anhydrase
+- [ ] Ribulose-1,5-bisphosphate carboxylase
+
+**Q3: Which product of the light-dependent reactions is used by plants for energy?**
+
+- [ ] Glucose
+- [ ] Water
+- [ ] Carbon dioxide
+- [ ] Oxygen
+
+**Q4: Which enzyme is responsible for converting carbon dioxide into glucose in the light-independent reactions?**
+
+- [ ] Ribulose-1,5-bisphosphate carboxylase
+- [ ] Phosphoglycerate dehydrogenase
+- [ ] Carbonic anhydrase
+- [ ] Triose phosphate isomerase
+
+**Q5: What is the overall chemical equation for photosynthesis?**
+
+- [ ] 6CO<sub>2</sub> + 6H<sub>2</sub>O + light energy → C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> + 6O<sub>2</sub>
 
 ---
 
@@ -7237,6 +7308,38 @@ Imagine a small electric bell being struck with a hammer. The hammer creates a h
 * An electric current is a continuous flow of charged particles.
 * An electric bell works by creating a magnetic field that interacts with an external magnetic field to cause the disk to vibrate and produce sound
 
+**Quizzes:**
+
+**Q1: What is an electric current?**
+
+- [ ] An electric current is a continuous flow of charged particles.
+- [ ] An electric current is a voltage divided by resistance.
+- [ ] An electric current is a measure of the magnetic field created by an electric current.
+
+**Q2: What is an electric bell?**
+
+- [ ] An electric bell is a device that uses electric current to generate sound.
+- [ ] An electric bell is a device that uses electricity to generate sound.
+- [ ] An electric bell is a device that uses electricity to generate light.
+
+**Q3: How does an electric bell work?**
+
+- [ ] The electric bell creates a magnetic field that interacts with an external magnetic field to cause the disk to vibrate and produce sound.
+- [ ] The electric bell creates a sound wave by creating an electric current that flows through a metal disk.
+- [ ] The electric bell creates a sound wave by creating an electric current that flows through a vacuum tube.
+
+**Q4: What is the frequency of the sound wave produced by an electric bell?**
+
+- [ ] The frequency of the sound wave depends on the voltage applied to the circuit.
+- [ ] The frequency of the sound wave depends on the size and shape of the disk.
+- [ ] The frequency of the sound wave depends on the resistance of the circuit.
+
+**Q5: What is the key takeaway about electric bells?**
+
+- [ ] An electric bell is a device that uses electric current to generate sound.
+- [ ] An electric bell is a device that uses electricity to generate sound.
+- [ ] An electric bell is a device that uses electricity to generate light.
+
 ---
 
 ## Light
@@ -7259,6 +7362,43 @@ The law of refraction states that when light rays pass from a medium with a high
 * A beam of light from a lamp follows a straight line from the lamp to the eye.
 * When a ray of light strikes a window, it reflects back into the room.
 * Light from a light bulb travels along a straight line from the bulb to the observer's eye
+
+**Quizzes:**
+
+**Q1: What is the definition of light traveling along a straight line?**
+
+- [ ] Light travels in a circle
+- [ ] Light travels randomly
+- [ ] Light travels along a curved path
+- [ ] Light travels in a vacuum
+
+**Q2: What is the speed of light in a vacuum?**
+
+- [x] 3 * 10^8 m/s
+- [ ] 4 * 10^8 m/s
+- [ ] 5 * 10^8 m/s
+- [ ] 6 * 10^8 m/s
+
+**Q3: What is the law of reflection?**
+
+- [x] The light is reflected back in the same direction it came from
+- [ ] The light is reflected toward the normal
+- [ ] The light is reflected toward the surface
+- [ ] The light is reflected away from the surface
+
+**Q4: What is the law of refraction?**
+
+- [x] The light is refracted toward the normal
+- [ ] The light is refracted away from the normal
+- [ ] The light is refracted toward the surface
+- [ ] The light is refracted away from the surface
+
+**Q5: What is an example of light traveling along a straight line?**
+
+- [x] The sun's light
+- [ ] A beam of light from a lamp
+- [ ] A ray of light striking a window
+- [ ] Light from a light bulb
 
 ---
 
@@ -10462,6 +10602,43 @@ Patronage facilitated a two-way communication between artists and patrons, foste
 In the Islamic world, patrons were often prominent figures in the artistic community. They supported renowned artists and commissioned unique works for personal use or as gifts. This patronage led to the creation of exquisite miniatures with rich symbolism and symbolic meaning reflecting the patron's status and beliefs.
 **The Legacy of Painting for Patrons:**
 The tradition of painting for patrons persisted throughout history, leaving behind a rich legacy that continues to influence contemporary art. Modern artists draw inspiration from the meticulous techniques and aesthetic principles developed by their predecessors, emphasizing the significance of personalized and intimate experiences in contemporary art
+
+**Quizzes:**
+
+**Q1: What was the origin of patronage? **
+
+- [ ] Rise of powerful merchant-states
+- [ ] Emergence of wealthy individuals with significant cultural and artistic aspirations
+- [ ] Both A and B
+- [ ] Neither A nor B
+
+**Q2: What was the purpose of patronage? **
+
+- [ ] To facilitate a two-way communication between artists and patrons
+- [ ] To provide financial stability for artists
+- [ ] To foster a sense of shared purpose and appreciation
+- [ ] None of the above
+
+**Q3: What was the primary material used by artists for miniature painting? **
+
+- [ ] Wood
+- [ ] Metal
+- [ ] Stone
+- [ ] Paper
+
+**Q4: What was the most distinctive technique used by artists for miniature painting? **
+
+- [ ] Precision brushwork
+- [ ] Realistic painting
+- [ ] Realistic miniature painting
+- [ ] Realistic painting with miniature techniques
+
+**Q5: What was the main subject matter depicted in miniature paintings commissioned by patrons? **
+
+- [ ] Religious figures
+- [ ] Animals
+- [ ] Portraits
+- [ ] Landscape
 
 ---
 
@@ -16730,6 +16907,43 @@ A **proverb** is a wise saying that expresses a truth about life, nature, or hum
 * **Contemplate the context** in which the proverb was said.
 By understanding and applying these principles, you can effectively use proverbs to enrich your writing and create pieces that are both **informative and inspiring.**
 
+**Quizzes:**
+
+**Q1: What is a proverb?**
+
+- [ ] A story
+- [ ] A song
+- [ ] A poem
+- [x] A proverb
+
+**Q2: What is a proverb used for?**
+
+- [x] To express a truth about life
+- [ ] To highlight a contrast between two things
+- [ ] To provide a moral or lesson about human behavior
+- [ ] To be a trigger for reflection and deeper thinking
+
+**Q3: Which of the following is an effective way to use a proverb in writing?**
+
+- [ ] Choose a proverb that is relevant to your topic and audience
+- [x] Analyze the proverb's meaning and how it relates to your writing
+- [ ] Use it as a springboard for your own creative interpretation
+- [ ] Provide supporting evidence to make your argument more convincing
+
+**Q4: Which of the following is an important consideration when writing based on a proverb?**
+
+- [ ] Use strong verbs and adjectives to create vivid imagery
+- [ ] Vary your sentence structure to add rhythm and interest
+- [x] Emphasize the moral or lesson conveyed by the proverb
+- [ ] Provide supporting evidence to make your argument more convincing
+
+**Q5: What is the key to effectively using proverbs in writing?**
+
+- [ ] Use proverbs that are relevant to your topic and audience
+- [ ] Choose proverbs that are simple but profound
+- [ ] Use proverbs as a springboard for your own creative interpretation
+- [x] All of the above
+
 ---
 
 ### Speaking about Pets
@@ -20936,6 +21150,43 @@ A sports personality is a combination of inherent characteristics, learned behav
 * A strong sports personality can overcome various challenges and achieve success in sports.
 **Conclusion:**
 A sports personality is a complex and multifaceted construct that significantly impacts an athlete's performance and overall contribution to sports. Understanding and appreciating this concept can help us appreciate the dedication, resilience, and competitive spirit that makes sports personalities who they are
+
+**Quizzes:**
+
+**Q1: Which sports personality is known for his relentless pursuit of excellence and fierce determination? **
+
+- [ ] Virat Kohli
+- [ ] Serena Williams
+- [ ] Michael Jordan
+- [ ] Roger Federer
+
+**Q2: What is not a factor that influences a sports personality? **
+
+- [ ] Family
+- [ ] Peers
+- [ ] Coaches
+- [ ] All of the above
+
+**Q3: Which sports personality is known for her infectious confidence and competitive spirit? **
+
+- [ ] Serena Williams
+- [ ] Venus Williams
+- [ ] Rudra Kumar
+- [ ] Cristiano Ronaldo
+
+**Q4: Which sports personality overcame various challenges and achieved success in sports? **
+
+- [ ] Michael Jordan
+- [ ] Lionel Messi
+- [ ] Cristiano Ronaldo
+- [ ] Usain Bolt
+
+**Q5: What is a key aspect of a sports personality that significantly impacts their performance? **
+
+- [ ] Motivation
+- [ ] Confidence
+- [ ] Discipline
+- [ ] All of the above
 
 ---
 

@@ -693,6 +693,38 @@ The determinant is calculated by evaluating the value of a determinant of a spec
 - The determinant of the matrix \(\begin{bmatrix} 0 & 0 & 0 \\\ 0 & 1 & 0 \\\ 0 & 0 & 1 \end{bmatrix}\) is 0, since it is singular.
 - The determinant of the matrix \(\begin{bmatrix} 1 & 0 & 0 \\\ 0 & 2 & 0 \\\ 0 & 0 & 3 \end{bmatrix}\) is 6, since it is symmetric and positive definite
 
+**Quizzes:**
+
+**Q1: What is the determinant of the identity matrix?**
+
+- [x] 1
+- [ ] 0
+- [ ] i
+
+**Q2: Which property is true for a singular matrix?**
+
+- [x] Determinant is 0
+- [ ] Determinant is 1
+- [ ] Determinant is undefined
+
+**Q3: Which property is true for a symmetric matrix?**
+
+- [ ] Determinant is equal to the transpose of its determinant
+- [ ] Determinant is always positive
+- [ ] Determinant is always negative
+
+**Q4: What is the determinant of a positive definite matrix?**
+
+- [x] Positive
+- [ ] Negative
+- [ ] Zero
+
+**Q5: Which property holds for a determinant of a matrix?**
+
+- [ ] Determinant of a diagonal matrix is equal to the product of the diagonal elements
+- [ ] Determinant of a singular matrix is always 0
+- [x] Determinant of a symmetric matrix is equal to the determinant of the transpose of the matrix
+
 ---
 
 ### Properties of Determinants

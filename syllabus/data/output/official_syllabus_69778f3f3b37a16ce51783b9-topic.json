@@ -2835,7 +2835,63 @@
           {
             "topic": "Surface Area of a Combination of Solids",
             "definition": "## Surface Area of a Combination of Solids\nSurface area is the total area of the entire outer boundary of a 3D object. Calculating surface area involves adding the areas of all the different faces and edges that make up the object. \nLet's consider a combination of multiple solids, such as a cube, a cylinder, and a rectangular box. The total surface area of this combination can be found by adding the surface areas of each individual solid.\n* **Faces:** Each face of the cube, cylinder, and box contributes to the overall surface area. \n* **Edges:** The edges of the cube and cylinder play a role in determining their surface area.\n* **Corners:** The corners of the square base of the rectangular box contribute to its surface area.\nTherefore, the surface area of the combined object is equal to the sum of the surface areas of all its individual components.\n**Example:**\nConsider a cube with side length 3 cm. Its surface area would be:\nSurface area = 6 cm²\nSimilarly, the surface area of a cylinder with diameter 5 cm and height 10 cm would be:\nSurface area = 2π(5 cm)(10 cm) = 200 cm²\nThe surface area of the rectangular box with dimensions 10 cm × 5 cm × 3 cm would be:\nSurface area = 10 cm × 5 cm × 3 cm = 150 cm²\nAdding the surface areas of the cube, cylinder, and box, we get the total surface area:\nTotal surface area = 6 cm² + 200 cm² + 150 cm² = 216 cm²\n**Key Points:**\n* Surface area is the total area of the entire outer boundary.\n* It is calculated by adding the surface areas of all individual faces, edges, and corners.\n* The surface area of a combination of solids is equal to the sum of the surface areas of its individual components.\n* Different shapes have different surface area calculations due to variations in the number and shape of faces, edges, and corners",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "Which faces contribute to the surface area of the cube?",
+                "options": [
+                  "Top",
+                  "Bottom",
+                  "Left",
+                  "Right"
+                ],
+                "answer": "Top",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which sides play a role in determining the surface area of the cylinder?",
+                "options": [
+                  "Upper",
+                  "Lower",
+                  "Both",
+                  "None"
+                ],
+                "answer": "Both",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is the contribution of the corners of the rectangular box to its surface area?",
+                "options": [
+                  "4",
+                  "8",
+                  "12",
+                  "16"
+                ],
+                "answer": "12",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which formula is used to calculate the total surface area of the combination of solids?",
+                "options": [
+                  "S = 6 * (a + b + c)",
+                  "S = 2 * (a + b + c)",
+                  "S = a + b + c",
+                  "S = 3 * (a + b + c)"
+                ],
+                "answer": "S = 6 * (a + b + c)",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is the total surface area of the combination of the cube, cylinder, and rectangular box described in the example?",
+                "options": [
+                  100,
+                  150,
+                  216,
+                  240
+                ],
+                "answer": "216",
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "Volume of a Combination of Solids",
@@ -20345,7 +20401,53 @@
           {
             "topic": "When Choice is Denied",
             "definition": "## When Choice is Denied: A Right to Choose in Economic Development\nChoice is the cornerstone of a thriving economy. It allows individuals to express their preferences and participate in shaping how goods and services are produced. However, when individuals lack the ability to make these choices due to external factors, such as lack of access to resources or information, they are deprived of their right to choose. This situation can hinder their participation in economic activities and limit their access to essential goods and services, ultimately hindering their development and well-being.\n**Understanding Choice in Economics:**\nChoice is a fundamental principle of economic theory. It refers to the ability of an individual or group to select among available alternatives. In an economic context, this choice involves individuals' ability to purchase goods and services, invest their savings, or choose a particular career path.\n**Barriers to Choice:**\nObstacles to choice can manifest in various forms, including:\n* **Lack of access to information:** Individuals may be unable to access accurate and relevant information about available products, services, or investment opportunities. This can limit their ability to make informed choices.\n* **Limited economic resources:** Individuals may have limited access to capital, credit, or savings to invest in desired goods or services.\n* **Discrimination:** Individuals from disadvantaged backgrounds may face barriers like limited access to quality education and healthcare, further hindering their choices.\n* **Complex decision-making processes:** Complex choices involving multiple factors can be overwhelming and difficult to navigate, reducing choice opportunities.\n**Consequences of Denied Choice:**\nThe denial of choice can have significant consequences for individuals and the economy as a whole:\n* **Reduced economic participation:** Individuals deprived of choice may have fewer opportunities to participate in the workforce, contribute to tax revenue, and enjoy other economic benefits.\n* **Limited access to essential goods and services:** Individuals may struggle to afford basic necessities such as housing, healthcare, education, and transportation.\n* **Reduced innovation:** Limited choices can discourage individuals from exploring new products, services, and ideas, hindering economic growth and innovation.\n* **Unfair outcomes:** The denial of choice can perpetuate social inequality and limit access to essential resources, perpetuating existing economic disparities.\n**Conclusion:**\nChoice is a fundamental pillar of economic development. However, when individuals are deprived of this right due to external barriers, they are prevented from fully participating in the economic process. This can have detrimental consequences for both the individual and the economy as a whole. Therefore, ensuring access to information, resources, and fair economic policies is crucial for promoting choice and empowering individuals to contribute to a thriving society",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "Question text",
+                "options": [
+                  "**Option 1**",
+                  "**Option 2**",
+                  "**Option 3**",
+                  "**Option 4**"
+                ],
+                "answer": "Correct Option",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Question text",
+                "options": [
+                  "**Access to information**",
+                  "**Economic resources**",
+                  "**Discrimination**",
+                  "**Complex decision-making processes**"
+                ],
+                "answer": "Correct Option",
+                "type": "single_correct"
+              },
+              {
+                "question": "Question text",
+                "options": "**Correct Option**",
+                "answer": "Correct Option",
+                "type": "single_correct"
+              },
+              {
+                "question": "Question text",
+                "options": "**Reduced economic participation**",
+                "answer": "Correct Option",
+                "type": "single_correct"
+              },
+              {
+                "question": "Question text",
+                "options": [
+                  "**Reduced access to essential goods and services**",
+                  "**Unfair outcomes**",
+                  "**Both A and B**",
+                  "**Neither A nor B**"
+                ],
+                "answer": "Correct Option",
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "Where should Consumers go to get Justice?",
@@ -24101,7 +24203,63 @@
           {
             "topic": "Sangatkar",
             "definition": "## Sangatkar: A Celebration of Life\nThe word \"Sangatkar\" is a Hindi word that can be understood on two different levels. Literally, it means \"to carry or hold\". However, in the context of poetry, it often refers to the vibrant spirit of a person or community, their enthusiasm and joy in celebrating life's joys and achievements.\nSangatkar is often expressed through ** rhythmic verses and poetic forms** in Hindi poetry. These forms can be traditional or modern, but they always emphasize the **joy and happiness** found in life.\nHere are some examples of Sangatkar in poetry:\n* **\"Sangatkar ki raani hai jo rani ki tarah mein**\" - This verse from the poem \"Naagin\" expresses the boundless joy and love of a woman for her partner.\n* **\"Khel hai sangatkar mein, khushiyon mein saat\"** - This simple yet beautiful verse captures the essence of living with laughter and joy.\n* **\"Sapno ki dhadkan mein sangatkar ki tarah**\" - This poem speaks of the bittersweet nature of life, with the joys and sorrows intertwined in a beautiful dance.\nSangatkar is a powerful and universal emotion that transcends cultural and linguistic barriers. It is a reminder of the simple beauty and joy of life, and it is a powerful force for bringing people together in shared appreciation",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "What is the literal meaning of the word 'Sangatkar'?",
+                "options": [
+                  "To carry or hold",
+                  "To sing, to dance",
+                  "To sleep",
+                  "To work"
+                ],
+                "answer": "To carry or hold",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "How is 'Sangatkar' often expressed in poetry?",
+                "options": [
+                  "Through traditional poetic forms",
+                  "Through modern poetic forms",
+                  "Through written language",
+                  "Through visual art"
+                ],
+                "answer": "Through traditional poetic forms",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which verse captures the essence of living with laughter and joy?",
+                "options": [
+                  "Sapno ki dhadkan mein sangatkar ki tarah",
+                  "Khel hai sangatkar mein, khushiyon mein saat",
+                  "Naagin",
+                  "Meri saheliyon mein saat"
+                ],
+                "answer": "Sapno ki dhadkan mein sangatkar ki tarah",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which form is traditionally associated with 'Sangatkar' in poetry?",
+                "options": [
+                  "Traditional",
+                  "Modern",
+                  "Folk",
+                  "Classical"
+                ],
+                "answer": "Traditional",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which verse speaks of the bittersweet nature of life, with the joys and sorrows intertwined?",
+                "options": [
+                  "Sapno ki dhadkan mein sangatkar ki tarah",
+                  "Khel hai sangatkar mein, khushiyon mein saat",
+                  "Meri saheliyon mein saat",
+                  "Naagin"
+                ],
+                "answer": "Sapno ki dhadkan mein sangatkar ki tarah",
+                "type": "multiple_correct"
+              }
+            ]
           }
         ]
       },

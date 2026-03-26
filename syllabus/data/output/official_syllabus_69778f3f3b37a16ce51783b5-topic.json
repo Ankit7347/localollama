@@ -63,7 +63,51 @@
           {
             "topic": "Irrational Numbers",
             "definition": "## Irrational Numbers\nAn **irrational number** is a real number that cannot be expressed as a simple fraction of two integers. This means that it cannot be written as a fraction of a number, like 1/2 or 3/4.\nThe study of **irrational numbers** is a complex and fascinating area of mathematics. They exhibit properties and behaviors that are different from rational numbers, which can be expressed as fractions of two integers.\n**Examples of Irrational Numbers:**\n- √2 (the square root of 2)\n- π (the ratio of a circle's circumference to its diameter)\n- √3\n- e (the base of the natural logarithm)\nThese numbers cannot be represented on a standard number line, meaning they are located outside of the unit circle. They are also known as **transcendental numbers**.\n**Properties of Irrational Numbers:**\n- Irrational numbers are transcendental, meaning they are not algebraic numbers.\n- They have irrational decimal representations, meaning they have non-repeating digits.\n- Their coordinates on the coordinate plane are located in the third quadrant.\n- They have infinite decimal representations with repeating patterns.\n**Applications of Irrational Numbers:**\nIrrational numbers have several important applications in mathematics and other fields, including:\n- **Geometry:** Irrational numbers are involved in the properties of polygons, such as the area and perimeter of irregular shapes.\n- **Analysis:** They are used in proofs of other mathematical theorems and in the study of limits.\n- **Physics:** Irrational numbers appear in the analysis of wave phenomena and the properties of materials.\nUnderstanding irrational numbers is crucial for developing a deep understanding of mathematics and for exploring the beauty and power of mathematics",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "Which number is an irrational number?",
+                "options": [
+                  "√2",
+                  "π",
+                  "√3",
+                  "e"
+                ],
+                "answer": "√2",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which property of irrational numbers guarantees their non-algebraic nature?",
+                "options": [
+                  "Infinite decimal representation"
+                ],
+                "answer": "Infinite decimal representation",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which property of irrational numbers guarantees their location in the third quadrant?",
+                "options": [
+                  "Infinite decimal representation with repeating patterns"
+                ],
+                "answer": "Infinite decimal representation with repeating patterns",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which application of irrational numbers is used in physics?",
+                "options": [
+                  "Properties of polygons"
+                ],
+                "answer": "Properties of polygons",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which concept in mathematics uses irrational numbers extensively?",
+                "options": [
+                  "Geometry"
+                ],
+                "answer": "Geometry",
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "Real Numbers and their Decimal Expansions",
@@ -3564,7 +3608,48 @@
           {
             "topic": "Application of Heron's Formula in Finding Areas of Quadrilaterals",
             "definition": "**Heron's Formula: A Powerful Tool for Calculating the Area of Quadrilaterals**\nHeron's Formula provides a convenient and efficient method for finding the area of a quadrilateral. This formula involves the calculation of the semiperimeter (s) of the quadrilateral and the area (A) using the formula:\n**A = (s)(s - a)(s - b)(s - c)**\nwhere:\n* **s** is the semiperimeter of the quadrilateral, given by the sum of the lengths of its four sides.\n* **a, b, and c** are the lengths of the four sides of the quadrilateral.\n**Determining the Semiperimeter**\nTo find the semiperimeter, we add the lengths of all four sides and divide by 2:\n**s = (a + b + c) / 2**\n**Example:** If the lengths of the sides of a quadrilateral are 5 cm, 12 cm, and 13 cm, then:\n**s = (5 cm + 12 cm + 13 cm) / 2 = 11 cm**\n**Substituting the Values into Heron's Formula**\nOnce we have the semiperimeter, we can substitute the values into Heron's formula to calculate the area:\n**A = (s)(s - a)(s - b)(s - c)**\n**Example:** Using the values from the previous example, we get:\n**A = (11 cm)(11 cm - 5 cm)(11 cm - 12 cm)(11 cm - 13 cm)**\n**= 132 cm²**\n**Conclusion**\nHeron's Formula allows us to find the area of a quadrilateral quickly and easily. This formula is particularly useful for calculating the area of irregular quadrilaterals with different side lengths and angles. By understanding and applying this formula, students can gain a deeper understanding of geometry and develop their problem-solving skills",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "**Question 1:** What is the semiperimeter of a quadrilateral with sides of length 5 cm, 12 cm, and 13 cm?",
+                "options": [
+                  "11 cm",
+                  "12 cm",
+                  "13 cm",
+                  "14 cm"
+                ],
+                "answer": "11 cm",
+                "type": "single_correct"
+              },
+              {
+                "question": "**Question 2:** Given the side lengths of a quadrilateral are 5 cm, 12 cm, and 13 cm, what is the area of the quadrilateral?",
+                "options": [
+                  "132 cm², 144 cm², 156 cm², 168 cm²"
+                ],
+                "answer": "132 cm²",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "**Question 3:** Determine the area of a quadrilateral with sides of length 5 cm, 12 cm, and 13 cm.",
+                "answer": "132 cm²",
+                "type": "single_correct"
+              },
+              {
+                "question": "**Question 4:** Which side length should be added to the semiperimeter of a quadrilateral to increase its area by 1 cm?",
+                "options": [
+                  "5 cm",
+                  "6 cm",
+                  "7 cm",
+                  "8 cm"
+                ],
+                "answer": "6 cm",
+                "type": "single_correct"
+              },
+              {
+                "question": "**Question 5:** What is the area of a quadrilateral with sides of length 10 cm, 15 cm, and 20 cm?",
+                "answer": "300 cm²",
+                "type": "multiple_correct"
+              }
+            ]
           }
         ]
       },
@@ -3750,7 +3835,63 @@
           {
             "topic": "Volume of a Cuboid",
             "definition": "**Volume of a Cuboid**\nA cuboid is a three-dimensional shape with six faces and eight vertices. It is characterized by its length, width, and height.\n**Volume** is the amount of space inside a cuboid. It is determined by multiplying the length, width, and height of the cuboid.\n**Formula:**\nVolume = Length × Width × Height\n**Example:**\nLet's say we have a cuboid with the following measurements:\n* Length: 10 cm\n* Width: 5 cm\n* Height: 6 cm\nUsing the formula above, we can calculate the volume of the cuboid:\nVolume = 10 cm × 5 cm × 6 cm = 300 cm³\nTherefore, the volume of the cuboid is 300 cubic centimeters.\n**Applications of Volume:**\n* **Calculating the capacity of a storage container:** A cuboid can be used to hold or transport objects of different shapes.\n* **Determining the amount of material needed to make a three-dimensional object:** For example, when building a cube-shaped structure.\n* **Calculating the volume of a material being cut out of a sheet of material.**\n* **Understanding the properties of a 3D object:** Volume helps us understand how much space an object occupies",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "What is the formula for calculating the volume of a cuboid?",
+                "options": [
+                  "Volume = Length × Width × Height",
+                  "Volume = Length + Width + Height",
+                  "Volume = (Length + Width + Height) × 2",
+                  "Volume = Length × Width × 2"
+                ],
+                "answer": "Volume = Length × Width × Height",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is the volume of a cuboid with the following measurements: **Length: 10 cm, Width: 5 cm, and Height: 6 cm**?",
+                "options": [
+                  "300 cm³",
+                  "400 cm³",
+                  "500 cm³",
+                  "600 cm³"
+                ],
+                "answer": "300 cm³",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which property of a 3D object is determined by its volume?",
+                "options": [
+                  "Mass",
+                  "Weight",
+                  "Area",
+                  "Volume"
+                ],
+                "answer": "Volume",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is the volume of a material being cut out of a sheet of material with the following dimensions: **Length: 20 cm, Width: 15 cm, and Height: 10 cm**?",
+                "options": [
+                  "120 cm³",
+                  "150 cm³",
+                  "200 cm³",
+                  "250 cm³"
+                ],
+                "answer": "150 cm³",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is the volume of a cube with side length 5 cm?",
+                "options": [
+                  "25 cm³",
+                  "50 cm³",
+                  "75 cm³",
+                  "100 cm³"
+                ],
+                "answer": "25 cm³",
+                "type": "single_correct"
+              }
+            ]
           },
           {
             "topic": "Volume of a Cylinder",
@@ -11454,7 +11595,63 @@
           {
             "topic": "Drainage Systems in India",
             "definition": "## Drainage Systems in India\n**India, a land of diverse landscapes and challenging terrain, boasts a rich and intricate drainage system that plays a crucial role in shaping its physical and human geography.**\n**The intricate network of rivers, lakes, canals, and drainage ditches spread across the country, forming an intricate network that facilitates water flow and transportation.**\n**The primary drainage system in India, known as the **\"nav chain,\"** consists of interconnected rivers and tributaries that converge at the coast. This intricate network ensures that water from the Himalayan mountains, the Western Ghats, and the northern plains is efficiently transported to the vast plains of the interior.\n**The drainage system in India is not only a vital infrastructure for agricultural practices and transportation but also a crucial component of maintaining ecological balance.**\n**Key factors affecting India's drainage systems include:**\n* **Climate:** India experiences diverse climatic conditions, ranging from the Himalayas' heavy rainfall to the hot, arid conditions in the south. These variations influence the direction and volume of water flow.\n* **Topography:** The country boasts vast stretches of desert, mountain ranges, and floodplains. This diverse topography creates unique challenges and opportunities for managing and mitigating drainage systems.\n* **Human activities:** Activities like agriculture, urbanization, and mining can significantly impact the quality and efficiency of drainage systems, both positive and negative.\n**The Indian drainage system has faced several challenges in recent decades, including:**\n* **Pollution:** Industrial waste, agricultural runoff, and untreated sewage pollute rivers, lakes, and groundwater, threatening the health and sustainability of the entire system.\n* **Climate change:** Rising temperatures and extreme weather events are altering the flow and quality of water bodies, posing a significant threat to water security and agriculture.\n* **Over-extraction of water resources:** As India's population and industrial growth surge, the demand for water resources is increasing, putting immense pressure on the existing infrastructure.\n**Addressing these challenges will require collaborative efforts from governments, communities, and individuals to invest in sustainable drainage management practices, including:**\n* **Protecting and restoring water bodies:** This involves measures like cleaning up pollution, preserving natural habitats, and implementing sustainable water management techniques.\n* **Investing in infrastructure:** Upgrading and expanding drainage networks, implementing early warning systems for floods and droughts, and adopting climate-resilient technologies are crucial steps.\n* **Promoting awareness and education:** Raising public awareness about the importance of sustainable drainage management and encouraging responsible water usage can foster positive behavioral change.\n**In conclusion, drainage systems in India stand as a testament to human ingenuity and resilience.** By understanding the intricate network of rivers, lakes, and channels that flow through the country, we can appreciate the crucial role they play in shaping India's physical and human geography",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "Which factor plays a crucial role in influencing the direction and volume of water flow in India?",
+                "options": [
+                  "Climate",
+                  "Topography",
+                  "Human activities",
+                  "All of the above"
+                ],
+                "answer": "All of the above",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which challenge is posed by climate change to the Indian drainage system?",
+                "options": [
+                  "Pollution",
+                  "Drought",
+                  "Over-extraction of water resources",
+                  "All of the above"
+                ],
+                "answer": "All of the above",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which is a crucial step for sustainable drainage management in India?",
+                "options": [
+                  "Protecting and restoring water bodies",
+                  "Investing in infrastructure",
+                  "Promoting awareness and education",
+                  "All of the above"
+                ],
+                "answer": "All of the above",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which is a key factor affecting the quality and efficiency of drainage systems in India?",
+                "options": [
+                  "Pollution",
+                  "Topography",
+                  "Climate",
+                  "All of the above"
+                ],
+                "answer": "All of the above",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which challenge requires immediate attention to address the sustainability of India's drainage system?",
+                "options": [
+                  "Pollution",
+                  "Drought",
+                  "Over-extraction of water resources",
+                  "All of the above"
+                ],
+                "answer": "All of the above",
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "The Himalayan Rivers",
@@ -17719,7 +17916,63 @@
           {
             "topic": "Subject-Verb Concord",
             "definition": "## Subject-Verb Concord Explained\nSubject-verb concord is a crucial grammatical principle that ensures that the verb agrees with the subject in number (singular or plural). This agreement helps to maintain grammatical accuracy and clarity in your writing.\n**Let's explore how it works:**\n* **Number:** Singular subjects require singular verbs, while plural subjects require plural verbs.\n* **Person:** The verb should be in the same person as the subject, whether it is first, second, or third person.\n* **Singular Subjects:**\n* For **one person:** Use \"singles\" (e.g., he, she, it) + **singular** verb (e.g., sings, speaks, laughs).\n* For **two or more people:** Use \"are\" + **plural** verbs (e.g., they sing, they speak, they laugh).\n* **Plural Subjects:**\n* For **one person:** Use \"a\" + **singular** verb (e.g., a sings, a speaks, a laughs).\n* For **two or more people:** Use **\"are\" + plural** verbs (e.g., they a sing, they a speak, they a laugh).\n**Examples:**\n* **Singular:** The cat **meows** softly. (Uses the singular verb \"meows\")\n* **Plural:** The children **play** happily in the park. (Uses the plural verb \"play\")\n* **Singular:** The book **belongs** to her. (Uses the singular verb \"belongs\")\n* **Plural:** The team **has** a new coach this season. (Uses the plural verb \"has\")\n**Remember:**\n* Concord is a fundamental rule in English grammar.\n* It's important to apply it correctly for proper writing and communication.\n* By mastering subject-verb concord, you can improve the clarity and accuracy of your English writing",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "Which sentence demonstrates the correct use of plural verb in a singular subject?",
+                "options": [
+                  "The dog barks at the birds.",
+                  "The cats chase the mice.",
+                  "The child sings a song.",
+                  "The teacher teaches the students."
+                ],
+                "answer": "The child sings a song.",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which sentence best illustrates the rule of subject-verb concord?",
+                "options": [
+                  "The dog barked at the bird.",
+                  "The cat chased the mouse.",
+                  "The teacher taught the students.",
+                  "The book belonged to her"
+                ],
+                "answer": "The book belonged to her",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which sentence correctly uses the singular verb with a plural subject?",
+                "options": [
+                  "The children sing happily.",
+                  "The teacher speaks proudly.",
+                  "The dog barked at the bird.",
+                  "The cat chased the mice"
+                ],
+                "answer": "The children sing happily",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which sentence demonstrates the correct use of plural verb with a singular subject?",
+                "options": [
+                  "The book is mine and his.",
+                  "The dog is happy and the cat is sad.",
+                  "The teacher is responsible and the students are smart.",
+                  "The player is tired and the coach is strong"
+                ],
+                "answer": "The book is mine and his",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which sentence is the best example of proper subject-verb concord in English?",
+                "options": [
+                  "The book is a beautiful and old book.",
+                  "The book is a beautiful and old one.",
+                  "The book is a beautiful and old one.",
+                  "The book is a beautiful and old book."
+                ],
+                "answer": "The book is a beautiful and old book.",
+                "type": "single_correct"
+              }
+            ]
           },
           {
             "topic": "Reporting (Commands/Requests, Statements, Questions)",
@@ -18755,12 +19008,123 @@
           {
             "topic": "Kaidi Aur Kokila",
             "definition": "## Kaidi Aur Kokila\n**A Journey Through the Night**\nThe poem \"Kaidi Aur Kokila\" is a captivating ballad about a love lost amidst the vast expanse of the night sky. The lyrics paint a beautiful picture of the shimmering stars, the starry night, and the longing eyes of a lover who yearns for companionship.\nThe word \"Kaidi\" means \"star\" in Hindi, and the word \"Kokila\" translates to \"night.\" Together, they create a sense of night-time stillness and solitude, a perfect backdrop for the poignant emotions of the poem.\nThe speaker's gaze is fixed on the stars, his heart filled with both wonder and a profound longing for connection. He sees in the twinkling stars the reflection of his own soul, a mirror of his hopes and dreams. But even as he admires the beauty of the night sky, a sense of emptiness lingers in his heart. He yearns for someone to share the magic of the night with him.\nThe imagery of the poem is rich and symbolic. It evokes a sense of tranquility, the vastness of the universe, and the fleeting nature of life. The speaker's longing gaze and the glittering stars create a poignant image of unfulfilled desire, a love that transcends time and space.\n\"Kaidi Aur Kokila\" is a timeless love poem that resonates with people of all ages. It serves as a reminder of the enduring power of love, and the bittersweet beauty of longing and hope",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "What is the word 'Kaidi' in the poem?",
+                "options": [
+                  "Star",
+                  "Moon",
+                  "Night",
+                  "Sky"
+                ],
+                "answer": "Star",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is the word 'Kokila' in the poem?",
+                "options": [
+                  "Star",
+                  "Moon",
+                  "Night",
+                  "Sky"
+                ],
+                "answer": "Night",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is the overall theme of the poem?",
+                "options": [
+                  "Love, longing, hope",
+                  "Night, silence, stars",
+                  "Nature, life"
+                ],
+                "answer": "Love, longing, hope",
+                "type": "single_correct"
+              },
+              {
+                "question": "How does the imagery of the poem evoke a sense of tranquility?",
+                "options": [
+                  "Stars, moonlit sky, vast expanse",
+                  "Water, mountains, sunrise",
+                  "Clouds, sunshine, birds",
+                  "Night, stars, fire"
+                ],
+                "answer": "Stars, moonlit sky, vast expanse",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is the central message of the poem?",
+                "options": [
+                  "Love is fleeting, cherish every moment",
+                  "Love is eternal, find solace in the night",
+                  "Love is about finding harmony with nature",
+                  "Love is a constant, unchanging force"
+                ],
+                "answer": "Love is eternal, find solace in the night",
+                "type": "single_correct"
+              }
+            ]
           },
           {
             "topic": "Gram Shree",
             "definition": "Gram Shree is a term used in Hindi poetry to denote a place, object, or event that is being praised or glorified. It is often used to express deep emotions, such as love, respect, or admiration.\nGram Shree is frequently used in poems to highlight the beauty and importance of various aspects of life, including nature, love, and culture. It can also be used to express the speaker's own deep feelings and experiences.\nExamples of Gram Shree include:\n* \"O God, your love is so great,\nYour blessings shine upon our face.\"\n* \"The beauty of this place is beyond compare,\nA Gram Shree in a world of despair.\"\n* \"I sing your praises, Gram Shree,\nFor your grace and mercy have set me free.\"",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "What is Gram Shree in Hindi poetry?",
+                "options": [
+                  "A place, object, or event that is being praised or glorified",
+                  "A word used to express deep emotions",
+                  "A type of flower",
+                  "A type of bird"
+                ],
+                "answer": "A place, object, or event that is being praised or glorified",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which example best depicts Gram Shree in a world of despair?",
+                "options": [
+                  "The beauty of this place is beyond compare, a Gram Shree in a world of despair",
+                  "I sing your praises, Gram Shree, for your grace and mercy have set me free",
+                  "I sing your praises, Gram Shree, for your beauty and grace",
+                  "I sing your praises, Gram Shree, for your love and care"
+                ],
+                "answer": "The beauty of this place is beyond compare, a Gram Shree in a world of despair",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which example best expresses the speaker's deep feelings and experiences?",
+                "options": [
+                  "I sing your praises, Gram Shree, for your grace and mercy have set me free",
+                  "I sing your praises, Gram Shree, for your love and care",
+                  "I sing your praises, Gram Shree, for your beauty and grace",
+                  "I sing your praises, Gram Shree, for your kindness and compassion"
+                ],
+                "answer": "I sing your praises, Gram Shree, for your love and care",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which example best illustrates Gram Shree as a place of deep emotions?",
+                "options": [
+                  "O God, your love is so great, Your blessings shine upon our face.",
+                  "The beauty of this place is beyond compare, a Gram Shree in a world of despair",
+                  "I sing your praises, Gram Shree, for your grace and mercy have set me free",
+                  "I sing your praises, Gram Shree, for your love and care"
+                ],
+                "answer": "O God, your love is so great, Your blessings shine upon our face.",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is Gram Shree used for in poetry?",
+                "options": [
+                  "To express deep emotions",
+                  "To express the speaker's own deep feelings and experiences",
+                  "To highlight the beauty and importance of various aspects of life",
+                  "All of the above"
+                ],
+                "answer": "To express deep emotions",
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "Chandra Gahna Se Lautti Ber",

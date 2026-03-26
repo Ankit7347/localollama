@@ -79,6 +79,31 @@ Irrational numbers have several important applications in mathematics and other 
 - **Physics:** Irrational numbers appear in the analysis of wave phenomena and the properties of materials.
 Understanding irrational numbers is crucial for developing a deep understanding of mathematics and for exploring the beauty and power of mathematics
 
+**Quizzes:**
+
+**Q1: Which number is an irrational number?**
+
+- [x] √2
+- [ ] π
+- [ ] √3
+- [ ] e
+
+**Q2: Which property of irrational numbers guarantees their non-algebraic nature?**
+
+- [x] Infinite decimal representation
+
+**Q3: Which property of irrational numbers guarantees their location in the third quadrant?**
+
+- [x] Infinite decimal representation with repeating patterns
+
+**Q4: Which application of irrational numbers is used in physics?**
+
+- [x] Properties of polygons
+
+**Q5: Which concept in mathematics uses irrational numbers extensively?**
+
+- [x] Geometry
+
 ---
 
 ### Real Numbers and their Decimal Expansions
@@ -3253,6 +3278,32 @@ Once we have the semiperimeter, we can substitute the values into Heron's formul
 **Conclusion**
 Heron's Formula allows us to find the area of a quadrilateral quickly and easily. This formula is particularly useful for calculating the area of irregular quadrilaterals with different side lengths and angles. By understanding and applying this formula, students can gain a deeper understanding of geometry and develop their problem-solving skills
 
+**Quizzes:**
+
+**Q1: **Question 1:** What is the semiperimeter of a quadrilateral with sides of length 5 cm, 12 cm, and 13 cm?**
+
+- [x] 11 cm
+- [ ] 12 cm
+- [ ] 13 cm
+- [ ] 14 cm
+
+**Q2: **Question 2:** Given the side lengths of a quadrilateral are 5 cm, 12 cm, and 13 cm, what is the area of the quadrilateral?**
+
+- [ ] 132 cm², 144 cm², 156 cm², 168 cm²
+
+**Q3: **Question 3:** Determine the area of a quadrilateral with sides of length 5 cm, 12 cm, and 13 cm.**
+
+
+**Q4: **Question 4:** Which side length should be added to the semiperimeter of a quadrilateral to increase its area by 1 cm?**
+
+- [ ] 5 cm
+- [x] 6 cm
+- [ ] 7 cm
+- [ ] 8 cm
+
+**Q5: **Question 5:** What is the area of a quadrilateral with sides of length 10 cm, 15 cm, and 20 cm?**
+
+
 ---
 
 ## Surface Areas and Volumes
@@ -3472,6 +3523,43 @@ Therefore, the volume of the cuboid is 300 cubic centimeters.
 * **Determining the amount of material needed to make a three-dimensional object:** For example, when building a cube-shaped structure.
 * **Calculating the volume of a material being cut out of a sheet of material.**
 * **Understanding the properties of a 3D object:** Volume helps us understand how much space an object occupies
+
+**Quizzes:**
+
+**Q1: What is the formula for calculating the volume of a cuboid?**
+
+- [x] Volume = Length × Width × Height
+- [ ] Volume = Length + Width + Height
+- [ ] Volume = (Length + Width + Height) × 2
+- [ ] Volume = Length × Width × 2
+
+**Q2: What is the volume of a cuboid with the following measurements: **Length: 10 cm, Width: 5 cm, and Height: 6 cm**?**
+
+- [x] 300 cm³
+- [ ] 400 cm³
+- [ ] 500 cm³
+- [ ] 600 cm³
+
+**Q3: Which property of a 3D object is determined by its volume?**
+
+- [ ] Mass
+- [ ] Weight
+- [ ] Area
+- [x] Volume
+
+**Q4: What is the volume of a material being cut out of a sheet of material with the following dimensions: **Length: 20 cm, Width: 15 cm, and Height: 10 cm**?**
+
+- [ ] 120 cm³
+- [x] 150 cm³
+- [ ] 200 cm³
+- [ ] 250 cm³
+
+**Q5: What is the volume of a cube with side length 5 cm?**
+
+- [x] 25 cm³
+- [ ] 50 cm³
+- [ ] 75 cm³
+- [ ] 100 cm³
 
 ---
 
@@ -10301,6 +10389,43 @@ Today, the Islands are a major tourist destination, attracting visitors from all
 * **Promoting awareness and education:** Raising public awareness about the importance of sustainable drainage management and encouraging responsible water usage can foster positive behavioral change.
 **In conclusion, drainage systems in India stand as a testament to human ingenuity and resilience.** By understanding the intricate network of rivers, lakes, and channels that flow through the country, we can appreciate the crucial role they play in shaping India's physical and human geography
 
+**Quizzes:**
+
+**Q1: Which factor plays a crucial role in influencing the direction and volume of water flow in India?**
+
+- [ ] Climate
+- [ ] Topography
+- [ ] Human activities
+- [x] All of the above
+
+**Q2: Which challenge is posed by climate change to the Indian drainage system?**
+
+- [ ] Pollution
+- [ ] Drought
+- [ ] Over-extraction of water resources
+- [x] All of the above
+
+**Q3: Which is a crucial step for sustainable drainage management in India?**
+
+- [ ] Protecting and restoring water bodies
+- [ ] Investing in infrastructure
+- [ ] Promoting awareness and education
+- [x] All of the above
+
+**Q4: Which is a key factor affecting the quality and efficiency of drainage systems in India?**
+
+- [ ] Pollution
+- [ ] Topography
+- [ ] Climate
+- [x] All of the above
+
+**Q5: Which challenge requires immediate attention to address the sustainability of India's drainage system?**
+
+- [ ] Pollution
+- [ ] Drought
+- [ ] Over-extraction of water resources
+- [x] All of the above
+
 ---
 
 ### The Himalayan Rivers
@@ -15962,6 +16087,43 @@ Subject-verb concord is a crucial grammatical principle that ensures that the ve
 * It's important to apply it correctly for proper writing and communication.
 * By mastering subject-verb concord, you can improve the clarity and accuracy of your English writing
 
+**Quizzes:**
+
+**Q1: Which sentence demonstrates the correct use of plural verb in a singular subject?**
+
+- [ ] The dog barks at the birds.
+- [ ] The cats chase the mice.
+- [x] The child sings a song.
+- [ ] The teacher teaches the students.
+
+**Q2: Which sentence best illustrates the rule of subject-verb concord?**
+
+- [ ] The dog barked at the bird.
+- [ ] The cat chased the mouse.
+- [ ] The teacher taught the students.
+- [x] The book belonged to her
+
+**Q3: Which sentence correctly uses the singular verb with a plural subject?**
+
+- [ ] The children sing happily.
+- [ ] The teacher speaks proudly.
+- [ ] The dog barked at the bird.
+- [ ] The cat chased the mice
+
+**Q4: Which sentence demonstrates the correct use of plural verb with a singular subject?**
+
+- [ ] The book is mine and his.
+- [ ] The dog is happy and the cat is sad.
+- [ ] The teacher is responsible and the students are smart.
+- [ ] The player is tired and the coach is strong
+
+**Q5: Which sentence is the best example of proper subject-verb concord in English?**
+
+- [x] The book is a beautiful and old book.
+- [ ] The book is a beautiful and old one.
+- [ ] The book is a beautiful and old one.
+- [x] The book is a beautiful and old book.
+
 ---
 
 ### Reporting (Commands/Requests, Statements, Questions)
@@ -16913,6 +17075,42 @@ The speaker's gaze is fixed on the stars, his heart filled with both wonder and 
 The imagery of the poem is rich and symbolic. It evokes a sense of tranquility, the vastness of the universe, and the fleeting nature of life. The speaker's longing gaze and the glittering stars create a poignant image of unfulfilled desire, a love that transcends time and space.
 "Kaidi Aur Kokila" is a timeless love poem that resonates with people of all ages. It serves as a reminder of the enduring power of love, and the bittersweet beauty of longing and hope
 
+**Quizzes:**
+
+**Q1: What is the word 'Kaidi' in the poem?**
+
+- [x] Star
+- [ ] Moon
+- [ ] Night
+- [ ] Sky
+
+**Q2: What is the word 'Kokila' in the poem?**
+
+- [ ] Star
+- [ ] Moon
+- [x] Night
+- [ ] Sky
+
+**Q3: What is the overall theme of the poem?**
+
+- [x] Love, longing, hope
+- [ ] Night, silence, stars
+- [ ] Nature, life
+
+**Q4: How does the imagery of the poem evoke a sense of tranquility?**
+
+- [x] Stars, moonlit sky, vast expanse
+- [ ] Water, mountains, sunrise
+- [ ] Clouds, sunshine, birds
+- [ ] Night, stars, fire
+
+**Q5: What is the central message of the poem?**
+
+- [ ] Love is fleeting, cherish every moment
+- [x] Love is eternal, find solace in the night
+- [ ] Love is about finding harmony with nature
+- [ ] Love is a constant, unchanging force
+
 ---
 
 ### Gram Shree
@@ -16927,6 +17125,43 @@ Your blessings shine upon our face."
 A Gram Shree in a world of despair."
 * "I sing your praises, Gram Shree,
 For your grace and mercy have set me free."
+
+**Quizzes:**
+
+**Q1: What is Gram Shree in Hindi poetry?**
+
+- [x] A place, object, or event that is being praised or glorified
+- [ ] A word used to express deep emotions
+- [ ] A type of flower
+- [ ] A type of bird
+
+**Q2: Which example best depicts Gram Shree in a world of despair?**
+
+- [x] The beauty of this place is beyond compare, a Gram Shree in a world of despair
+- [ ] I sing your praises, Gram Shree, for your grace and mercy have set me free
+- [ ] I sing your praises, Gram Shree, for your beauty and grace
+- [ ] I sing your praises, Gram Shree, for your love and care
+
+**Q3: Which example best expresses the speaker's deep feelings and experiences?**
+
+- [ ] I sing your praises, Gram Shree, for your grace and mercy have set me free
+- [x] I sing your praises, Gram Shree, for your love and care
+- [ ] I sing your praises, Gram Shree, for your beauty and grace
+- [ ] I sing your praises, Gram Shree, for your kindness and compassion
+
+**Q4: Which example best illustrates Gram Shree as a place of deep emotions?**
+
+- [x] O God, your love is so great, Your blessings shine upon our face.
+- [ ] The beauty of this place is beyond compare, a Gram Shree in a world of despair
+- [ ] I sing your praises, Gram Shree, for your grace and mercy have set me free
+- [ ] I sing your praises, Gram Shree, for your love and care
+
+**Q5: What is Gram Shree used for in poetry?**
+
+- [x] To express deep emotions
+- [ ] To express the speaker's own deep feelings and experiences
+- [ ] To highlight the beauty and importance of various aspects of life
+- [ ] All of the above
 
 ---
 

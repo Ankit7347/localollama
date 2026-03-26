@@ -1085,6 +1085,43 @@ A line is a straight path with no width that connects two points in a plane. We 
 * Lines can be used to represent relationships between objects, such as the distance between two cities or the angle between two lines.
 * Lines can be used to solve problems, such as finding the distance between two points or the slope of a line
 
+**Quizzes:**
+
+**Q1: Which line has no endpoints?**
+
+- [ ] Horizontal line
+- [ ] Vertical line
+- [ ] Diagonal line
+- [x] Straight line
+
+**Q2: Which line is parallel to the line from A(1, 2) to B(3, 5)?**
+
+- [ ] Horizontal line
+- [ ] Vertical line
+- [ ] Diagonal line
+- [x] Straight line
+
+**Q3: Which line is perpendicular to the line passing through points C(4, 6) and D(6, 8)?**
+
+- [ ] Horizontal line
+- [ ] Vertical line
+- [ ] Diagonal line
+- [x] Straight line
+
+**Q4: Which line is parallel to the line from E(2, 4) to F(6, 8)?**
+
+- [ ] Horizontal line
+- [x] Vertical line
+- [ ] Diagonal line
+- [ ] Straight line
+
+**Q5: Which line is perpendicular to the line passing through points A(1, 2) and B(3, 5)?**
+
+- [x] Horizontal line
+- [ ] Vertical line
+- [ ] Diagonal line
+- [ ] Straight line
+
 ---
 
 ### Intersecting Lines
@@ -2186,6 +2223,41 @@ The **Introduction** chapter lays the foundation for learning about decimals by 
 **Next, we define the term "place value."** Place value refers to the position of the decimal point in the number. The digit to the right of the decimal point represents the value of the place, while the digit to the left represents the power of 10. For example, in the number 0.345, the 3 represents the place value of 10^3, while the 0, 4, and 5 represent the place values of 10^0, 10^-1, and 10^-2, respectively.
 **We also introduce the order of operations in decimals.** This involves performing operations from left to right, ensuring that we follow the correct order of operations for decimal calculations.
 **Finally, we explore some helpful tricks for working with decimals, such as how to compare and order decimals, add and subtract decimals, and simplify expressions with decimals.** By understanding the concepts and practices presented in this chapter, students will be well-equipped to embark on a deeper exploration of decimals and their fascinating world
+
+**Quizzes:**
+
+**Q1: What is a decimal? **
+
+- [x] A system of representing numbers with a finite number of digits
+- [ ] An infinite number of digits
+- [ ] A number with a fixed number of digits
+
+**Q2: Which digit represents the place value of 10^0 in the number 0.345?**
+
+- [x] 3
+- [ ] 4
+- [ ] 5
+
+**Q3: Which operation is performed first when working with decimals?**
+
+- [x] Addition
+- [ ] Subtraction
+- [ ] Multiplication
+- [ ] Division
+
+**Q4: Which order of operations is used in decimals?**
+
+- [x] Left to right
+- [ ] Right to left
+- [ ] Top to bottom
+- [ ] Bottom to top
+
+**Q5: Which trick can be used to compare and order decimals?**
+
+- [x] Adding their digits
+- [ ] Subtracting their digits
+- [ ] Multiplying them
+- [ ] Dividing them
 
 ---
 
@@ -10799,6 +10871,38 @@ Explaining diversity is an ongoing process that requires constant learning and r
 * By challenging biases and stereotypes, we can create a more inclusive society where everyone is treated with respect and dignity.
 * It is essential to address both difference and prejudice to achieve true equality and social justice
 
+**Quizzes:**
+
+**Q1: What is the difference between **difference** and **prejudice**?**
+
+- [x] **Difference** refers to the inherent traits, qualities, or characteristics of a person, place, or thing.
+- [ ] **Prejudice** refers to a neutral or positive attitude towards a person or group based on their perceived membership in a particular category.
+
+**Q2: Which statement best illustrates the difference between **difference** and **prejudice**?**
+
+- [x] **Difference** is based on factual observations and personal opinions.
+- [ ] **Prejudice** is a neutral or positive attitude towards a person or group based on their perceived membership in a particular category.
+- [ ] Both **difference** and **prejudice** are based on facts and observations.
+
+**Q3: What is an example of **prejudice**?**
+
+- [ ] A person's race is the only factor that determines their worth.
+- [x] A statement like 'all immigrants are dishonest' is a **prejudice**.
+- [ ] Both **difference** and **prejudice** can manifest themselves in various ways
+
+**Q4: Which statement best describes the importance of addressing **difference** and **prejudice**?**
+
+- [ ] **Difference** and **prejudice** are not important issues to address
+- [ ] **Difference** and **prejudice** are equally important issues to address
+- [ ] **Difference** and **prejudice** are more important issues to address for marginalized groups
+
+**Q5: What is the ultimate goal of addressing **difference** and **prejudice**?**
+
+- [ ] To promote fairness and understanding
+- [x] To achieve true equality and social justice
+- [ ] To create a more inclusive society where everyone is treated with respect and dignity
+- [ ] None of the above
+
 ---
 
 ### Creating Stereotypes
@@ -12515,6 +12619,43 @@ Here's how reading comprehension helps you:
 * **Develops critical thinking skills**: Reading comprehension requires you to analyze the text, identify different perspectives, and draw conclusions based on the evidence presented.
 * **Provides a deeper appreciation for language**: Reading comprehension helps you appreciate the nuances of language used by the author, including symbolism, figurative language, and literary devices.
 Reading comprehension is a valuable skill that can be applied to various aspects of life, both academic and personal. By actively engaging with what you read, you can unlock the mysteries hidden within the story, discover the author's intention, and develop a deeper appreciation for the world around you
+
+**Quizzes:**
+
+**Q1: According to the passage, what is the main purpose of reading comprehension?**
+
+- [ ] To read the words on the page
+- [x] To actively engage with the text
+- [ ] To identify the author's intent
+- [ ] To develop critical thinking skills
+
+**Q2: Which of the following best describes the character's journey throughout the story?**
+
+- [ ] They are always happy and optimistic
+- [x] They are initially good but eventually turn evil
+- [ ] They are the main antagonist throughout the story
+- [ ] They are a tragic hero with a happy ending
+
+**Q3: According to the passage, what is one way reading comprehension helps develop critical thinking skills?**
+
+- [x] By analyzing the text, identifying different perspectives, and drawing conclusions
+- [ ] By reading the same text multiple times
+- [ ] By reading the text while ignoring certain details
+- [ ] By summarizing the plot in your own words
+
+**Q4: Which literary device is used to create a sense of suspense and mystery?**
+
+- [ ] Simile
+- [ ] Metaphor
+- [ ] Personification
+- [x] Suspense
+
+**Q5: What is the main message that the passage conveys about the importance of reading comprehension?**
+
+- [ ] Reading comprehension is a necessary skill for understanding and appreciating literature
+- [ ] Reading comprehension allows you to discover the author's intentions and the underlying meaning of the story
+- [ ] Reading comprehension helps you connect with the writer on a deeper level
+- [ ] Reading comprehension is not important for understanding and appreciating literature
 
 ---
 
@@ -15556,6 +15697,42 @@ In the realm of language, **reading** and **meaning** are not separate entities,
 **Meaning** goes beyond merely extracting the literal meaning of individual words. It delves deeper, exploring the context, tone, and historical background of the text. It delves into the emotional and psychological impact of the language, revealing the deeper emotions and thoughts that the author might have intended to convey. By considering these layers of meaning, we gain a richer understanding of the text and its message.
 ** Paar Nazar Ke** serves as a perfect example of the intricate relationship between reading and meaning. This story, filled with poetic language and deep symbolism, invites us to explore both the literal and metaphorical layers of meaning. By delving into the context, symbolism, and historical context of the text, we gain a profound understanding of the message it conveys.
 **Reading & Meaning** is an ongoing pursuit that encourages us to constantly question, explore, and seek deeper understanding. By actively engaging with a text, we unlock the hidden treasures of language, enriching our knowledge and expanding our horizons
+
+**Quizzes:**
+
+**Q1: In the realm of language, what is the difference between reading and meaning?**
+
+- [ ] Reading involves actively engaging with a text by deciphering its written form.
+- [ ] Meaning goes beyond merely extracting the literal meaning of individual words.
+- [ ] Both reading and meaning are essential for a deep understanding of a text.
+
+**Q2: Which element in Paar Nazar Ke serves as a perfect example of the intricate relationship between reading and meaning?**
+
+- [ ] The context
+- [ ] The tone
+- [ ] The historical background
+- [ ] The all of the above
+
+**Q3: In **Reading & Meaning**, which story invites us to explore both the literal and metaphorical layers of meaning?**
+
+- [ ] Paar Nazar Ke
+- [ ] Hamlet
+- [ ] The Odyssey
+- [ ] The Catcher in the Rye
+
+**Q4: What is the main purpose of exploring the layers of meaning in **Reading & Meaning**?**
+
+- [ ] To unlock the hidden treasures of language
+- [ ] To improve critical thinking skills
+- [ ] To deepen our understanding of a text
+- [ ] To explore the writer's biography
+
+**Q5: What is an ongoing pursuit in **Reading & Meaning** that encourages us to constantly question, explore, and seek deeper understanding?**
+
+- [ ] The pursuit of wealth
+- [ ] The pursuit of pleasure
+- [ ] The pursuit of fame
+- [ ] The pursuit of knowledge
 
 ---
 

@@ -3451,7 +3451,63 @@
           {
             "topic": "Squares and Rectangles",
             "definition": "**Squares and Rectangles**\nA **square** is a quadrilateral with four equal sides and four equal angles. The side length of a square is constant and is denoted by the letter 's'. The area of a square is calculated by squaring the side length and is represented by the letter 'A'.\nA **rectangle** is a quadrilateral with four sides of different lengths. The opposite sides of a rectangle are equal in length, but the adjacent sides can be different. The length of the sides of a rectangle is denoted by the letters 'a' and 'b', where 'a' and 'b' are the lengths of the two adjacent sides. The area of a rectangle is calculated by multiplying the length and width of the rectangle and is represented by the letter 'A'.\n**Examples:**\n* A square with side length 5 cm has an area of 25 cm².\n* A rectangle with dimensions 5 cm and 3 cm has an area of 15 cm².\n**Perimeter and Area Formulae:**\n* **Perimeter of a square:** s = 4s\n* **Perimeter of a rectangle:** a + b = 2(a + b)\n* **Area of a square:** A = s²\n* **Area of a rectangle:** A = ab",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "Which shape has four equal sides and four equal angles?",
+                "options": [
+                  "Square",
+                  "Rectangle",
+                  "Triangle",
+                  "Parallelogram"
+                ],
+                "answer": "Square",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which formula calculates the area of a square?",
+                "options": [
+                  "A = s²",
+                  "A = a + b",
+                  "A = 4s",
+                  "A = ab"
+                ],
+                "answer": "A = s²",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which formula calculates the area of a rectangle?",
+                "options": [
+                  "A = s²",
+                  "A = a + b",
+                  "A = 2(a + b)",
+                  "A = ab"
+                ],
+                "answer": "A = ab",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which shape has four sides of different lengths?",
+                "options": [
+                  "Square",
+                  "Rectangle",
+                  "Triangle",
+                  "Parallelogram"
+                ],
+                "answer": "Rectangle",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which formula calculates the perimeter of a square?",
+                "options": [
+                  "s = 4s",
+                  "s = 2(a + b)",
+                  "s = a + b",
+                  "s = 2a"
+                ],
+                "answer": "s = 4s",
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "Area of a Parallelogram",
@@ -5130,7 +5186,60 @@
           {
             "topic": "Photosynthesis - Food Making Process in Plants",
             "definition": "Photosynthesis is a biological process that takes place in plants and other photosynthetic organisms, such as algae and certain bacteria. This process allows these organisms to convert light energy from the sun into chemical energy in the form of sugar molecules. These sugar molecules are used by the organisms to create energy and build new cellular structures.\nThe overall chemical equation for photosynthesis is:\n6CO<sub>2</sub> + 6H<sub>2</sub>O + light energy → C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> + 6O<sub>2</sub>\nPhotosynthesis takes place in two stages: the light-dependent reactions and the light-independent reactions. \n**The Light Dependent Reactions**\nThe light-dependent reactions take place in the thylakoid membranes of chloroplasts. Chloroplasts are pigment-containing organelles found in plant cells. The thylakoid membranes contain protein complexes called photosystems. These complexes use light energy to split water molecules into hydrogen and oxygen. The hydrogen atoms are used to combine with carbon dioxide to form glucose, a sugar molecule that plants use for energy. The oxygen atoms are released into the atmosphere.\n**The Light Independent Reactions**\nThe light-independent reactions take place in the stroma of chloroplasts. The stroma is a large central compartment of the chloroplast that contains a series of enzyme-containing complexes called ATP synthase and NADPH synthase. ATP synthase uses energy from the splitting of water molecules to pump protons across the thylakoid membrane. This creates a proton gradient, which is a difference in concentration of protons across the membrane. NADPH synthase uses the proton gradient to convert carbon dioxide into glucose.\nPhotosynthesis is an essential process for life on Earth. It provides the oxygen that we breathe and the food that we eat. Without photosynthesis, life on Earth would not be able to survive",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "Which organelle is responsible for the light-dependent reactions of photosynthesis?",
+                "options": [
+                  "Chloroplast",
+                  "Mitochondria",
+                  "Endoplasmic Reticulum",
+                  "Ribosomes"
+                ],
+                "answer": "Correct Option: Chloroplast",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which enzyme is responsible for splitting water molecules in the light-dependent reactions?",
+                "options": [
+                  "ATP synthase",
+                  "NADPH synthase",
+                  "Carbonic anhydrase",
+                  "Ribulose-1,5-bisphosphate carboxylase"
+                ],
+                "answer": "Correct Option: ATP synthase",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which product of the light-dependent reactions is used by plants for energy?",
+                "options": [
+                  "Glucose",
+                  "Water",
+                  "Carbon dioxide",
+                  "Oxygen"
+                ],
+                "answer": "Correct Option: Glucose",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which enzyme is responsible for converting carbon dioxide into glucose in the light-independent reactions?",
+                "options": [
+                  "Ribulose-1,5-bisphosphate carboxylase",
+                  "Phosphoglycerate dehydrogenase",
+                  "Carbonic anhydrase",
+                  "Triose phosphate isomerase"
+                ],
+                "answer": "Correct Option: Ribulose-1,5-bisphosphate carboxylase",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is the overall chemical equation for photosynthesis?",
+                "options": [
+                  "6CO<sub>2</sub> + 6H<sub>2</sub>O + light energy → C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> + 6O<sub>2</sub>"
+                ],
+                "answer": "Correct Option: 6CO<sub>2</sub> + 6H<sub>2</sub>O + light energy → C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> + 6O<sub>2</sub>",
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "Other Modes of Nutrition in Plants",
@@ -7731,7 +7840,58 @@
           {
             "topic": "Electric Bell",
             "definition": "## An Electric Bell: A Mysterious Melody\nAn electric bell is a fascinating device that uses the principles of electric current to create a unique and powerful sound. It is a simple yet effective representation of how voltage, current, and resistance come together to generate sound waves.\n**What is an electric current?**\nAn electric current is a continuous flow of charged particles, typically electrons or ions. These charged particles move when a voltage is applied to a conductor, and their movement creates an electric current.\n**What is an electric bell?**\nAn electric bell is a device that consists of a metal disk with a small hole at the center. This disk is connected to a metal rod that is placed in a circuit. When a voltage is applied to the circuit, the electrons from the rod flow through the metal disk, completing the circuit.\n**How does an electric bell work?**\nWhen a voltage is applied to the circuit, the electrons create an electric current that flows through the metal disk. As the current flows, it creates a magnetic field around the disk. This magnetic field interacts with the magnetic field created by the rod, creating a complex pattern of electric and magnetic fields.\nThese combined fields cause the disk to vibrate, producing a sound wave. The frequency of the sound wave depends on the voltage applied to the circuit and the size and shape of the disk.\n**Example:**\nImagine a small electric bell being struck with a hammer. The hammer creates a high-voltage current that flows through the bell, causing it to vibrate and produce a high-pitched sound. The frequency of the sound depends on the voltage applied to the circuit, and the size and shape of the bell.\n**Key Takeaways:**\n* An electric bell is a device that uses electric current to generate sound.\n* An electric current is a continuous flow of charged particles.\n* An electric bell works by creating a magnetic field that interacts with an external magnetic field to cause the disk to vibrate and produce sound",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "What is an electric current?",
+                "options": [
+                  "An electric current is a continuous flow of charged particles.",
+                  "An electric current is a voltage divided by resistance.",
+                  "An electric current is a measure of the magnetic field created by an electric current."
+                ],
+                "answer": "Correct Option",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is an electric bell?",
+                "options": [
+                  "An electric bell is a device that uses electric current to generate sound.",
+                  "An electric bell is a device that uses electricity to generate sound.",
+                  "An electric bell is a device that uses electricity to generate light."
+                ],
+                "answer": "Correct Option",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "How does an electric bell work?",
+                "options": [
+                  "The electric bell creates a magnetic field that interacts with an external magnetic field to cause the disk to vibrate and produce sound.",
+                  "The electric bell creates a sound wave by creating an electric current that flows through a metal disk.",
+                  "The electric bell creates a sound wave by creating an electric current that flows through a vacuum tube."
+                ],
+                "answer": "Correct Option",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is the frequency of the sound wave produced by an electric bell?",
+                "options": [
+                  "The frequency of the sound wave depends on the voltage applied to the circuit.",
+                  "The frequency of the sound wave depends on the size and shape of the disk.",
+                  "The frequency of the sound wave depends on the resistance of the circuit."
+                ],
+                "answer": "Correct Option",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is the key takeaway about electric bells?",
+                "options": [
+                  "An electric bell is a device that uses electric current to generate sound.",
+                  "An electric bell is a device that uses electricity to generate sound.",
+                  "An electric bell is a device that uses electricity to generate light."
+                ],
+                "answer": "Correct Option",
+                "type": "multiple_correct"
+              }
+            ]
           }
         ]
       },
@@ -7741,7 +7901,63 @@
           {
             "topic": "Light Travels Along a Straight Line",
             "definition": "**Light Travels Along a Straight Line**\nLight travels along a straight line from the source to the observer. This means that the path taken by the light is perpendicular to the line of sight, and that the light travels at a constant speed in a vacuum.\n**Properties of Light:**\n* Light is a wave, meaning that it can be described by a wave equation.\n* The speed of light in a vacuum is constant, and it is equal to 3 * 10^8 m/s.\n* Light can travel through various mediums, including air, water, and glass.\n**The Law of Reflection:**\nThe law of reflection states that when light rays strike a surface, they will reflect back in the same direction as they came from. This is because the wavefronts of the light waves are perpendicular to the surface.\n**The Law of Refraction:**\nThe law of refraction states that when light rays pass from a medium with a higher refractive index (such as water) to a medium with a lower refractive index (such as air), they will bend towards the normal. This is because the denser medium has a greater density, which causes the light to bend towards the surface.\n**Examples:**\n* The sun's light travels along a straight line from the Sun to Earth.\n* A beam of light from a lamp follows a straight line from the lamp to the eye.\n* When a ray of light strikes a window, it reflects back into the room.\n* Light from a light bulb travels along a straight line from the bulb to the observer's eye",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "What is the definition of light traveling along a straight line?",
+                "options": [
+                  "Light travels in a circle",
+                  "Light travels randomly",
+                  "Light travels along a curved path",
+                  "Light travels in a vacuum"
+                ],
+                "answer": "Light travels along a straight line",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is the speed of light in a vacuum?",
+                "options": [
+                  "3 * 10^8 m/s",
+                  "4 * 10^8 m/s",
+                  "5 * 10^8 m/s",
+                  "6 * 10^8 m/s"
+                ],
+                "answer": "3 * 10^8 m/s",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is the law of reflection?",
+                "options": [
+                  "The light is reflected back in the same direction it came from",
+                  "The light is reflected toward the normal",
+                  "The light is reflected toward the surface",
+                  "The light is reflected away from the surface"
+                ],
+                "answer": "The light is reflected back in the same direction it came from",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is the law of refraction?",
+                "options": [
+                  "The light is refracted toward the normal",
+                  "The light is refracted away from the normal",
+                  "The light is refracted toward the surface",
+                  "The light is refracted away from the surface"
+                ],
+                "answer": "The light is refracted toward the normal",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is an example of light traveling along a straight line?",
+                "options": [
+                  "The sun's light",
+                  "A beam of light from a lamp",
+                  "A ray of light striking a window",
+                  "Light from a light bulb"
+                ],
+                "answer": "The sun's light",
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "Reflection of Light",
@@ -11229,7 +11445,63 @@
           {
             "topic": "Painting for Patrons: The Tradition of Miniatures",
             "definition": "## Painting for Patrons: The Tradition of Miniatures\nPainting for patrons was a significant artistic practice throughout history, with patrons requesting and paying for personalized works of art. This practice played a crucial role in developing regional cultures by fostering communication and collaboration between artists, patrons, and communities.\n**The Origins of Patronage:**\nPatronage developed alongside the rise of powerful merchant-states and the emergence of wealthy individuals with significant cultural and artistic aspirations. These patrons often had specific tastes and interests, influencing the direction of artistic production and fostering a sense of community among artists.\n**The Techniques of Miniatures:**\nMiniature painting was a highly specialized technique that demanded exceptional skill and attention to detail. Artists employed various materials like wood, metal, and stone, meticulously crafting small figures that brought their patrons' visions to life. Their expertise ensured the figures reflected their sitter's personality and likeness, creating a sense of authenticity and connection.\n**The Value of Patronage:**\nPatronage facilitated a two-way communication between artists and patrons, fostering a sense of shared purpose and appreciation. It also provided financial stability for artists, enabling them to pursue their craft and contribute to the cultural landscape of their communities.\n**Examples of Patronage:**\nIn the Islamic world, patrons were often prominent figures in the artistic community. They supported renowned artists and commissioned unique works for personal use or as gifts. This patronage led to the creation of exquisite miniatures with rich symbolism and symbolic meaning reflecting the patron's status and beliefs.\n**The Legacy of Painting for Patrons:**\nThe tradition of painting for patrons persisted throughout history, leaving behind a rich legacy that continues to influence contemporary art. Modern artists draw inspiration from the meticulous techniques and aesthetic principles developed by their predecessors, emphasizing the significance of personalized and intimate experiences in contemporary art",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "What was the origin of patronage? ",
+                "options": [
+                  "Rise of powerful merchant-states",
+                  "Emergence of wealthy individuals with significant cultural and artistic aspirations",
+                  "Both A and B",
+                  "Neither A nor B"
+                ],
+                "answer": "Correct Option: Rise of powerful merchant-states",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What was the purpose of patronage? ",
+                "options": [
+                  "To facilitate a two-way communication between artists and patrons",
+                  "To provide financial stability for artists",
+                  "To foster a sense of shared purpose and appreciation",
+                  "None of the above"
+                ],
+                "answer": "Correct Option: To facilitate a two-way communication between artists and patrons",
+                "type": "single_correct"
+              },
+              {
+                "question": "What was the primary material used by artists for miniature painting? ",
+                "options": [
+                  "Wood",
+                  "Metal",
+                  "Stone",
+                  "Paper"
+                ],
+                "answer": "Correct Option: Wood",
+                "type": "single_correct"
+              },
+              {
+                "question": "What was the most distinctive technique used by artists for miniature painting? ",
+                "options": [
+                  "Precision brushwork",
+                  "Realistic painting",
+                  "Realistic miniature painting",
+                  "Realistic painting with miniature techniques"
+                ],
+                "answer": "Correct Option: Realistic miniature painting",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What was the main subject matter depicted in miniature paintings commissioned by patrons? ",
+                "options": [
+                  "Religious figures",
+                  "Animals",
+                  "Portraits",
+                  "Landscape"
+                ],
+                "answer": "Correct Option: Portraits",
+                "type": "single_correct"
+              }
+            ]
           },
           {
             "topic": "A Closer Look: Bengal",
@@ -17981,7 +18253,63 @@
           {
             "topic": "Writing based on Proverb",
             "definition": "## Writing Based on Proverb\nA **proverb** is a wise saying that expresses a truth about life, nature, or human experience. When writing, it is crucial to use a proverb as a **guide** to create a meaningful and engaging piece.\n**A proverb can:**\n* Offer a **simple but profound truth** about life.\n* **Highlight a contrast** between two things.\n* Provide a **moral or lesson** about human behavior.\n* Be a **trigger** for reflection and deeper thinking.\n**When using a proverb in your writing:**\n* **Choose a proverb** that is **relevant to your topic** and audience.\n* **Analyze the proverb's meaning** and how it relates to your writing.\n* **Use it as a springboard** for your own creative interpretation.\n* **Tailor the proverb** to your specific writing style and tone.\n**Here are some things to keep in mind when writing based on a proverb:**\n* **Use strong verbs and adjectives** to create vivid imagery.\n* **Vary your sentence structure** to add rhythm and interest.\n* **Emphasize the moral or lesson** conveyed by the proverb.\n* **Provide supporting evidence** to make your argument more convincing.\n* **Contemplate the context** in which the proverb was said.\nBy understanding and applying these principles, you can effectively use proverbs to enrich your writing and create pieces that are both **informative and inspiring.**",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "What is a proverb?",
+                "options": [
+                  "A story",
+                  "A song",
+                  "A poem",
+                  "A proverb"
+                ],
+                "answer": "A proverb",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is a proverb used for?",
+                "options": [
+                  "To express a truth about life",
+                  "To highlight a contrast between two things",
+                  "To provide a moral or lesson about human behavior",
+                  "To be a trigger for reflection and deeper thinking"
+                ],
+                "answer": "To express a truth about life",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which of the following is an effective way to use a proverb in writing?",
+                "options": [
+                  "Choose a proverb that is relevant to your topic and audience",
+                  "Analyze the proverb's meaning and how it relates to your writing",
+                  "Use it as a springboard for your own creative interpretation",
+                  "Provide supporting evidence to make your argument more convincing"
+                ],
+                "answer": "Analyze the proverb's meaning and how it relates to your writing",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which of the following is an important consideration when writing based on a proverb?",
+                "options": [
+                  "Use strong verbs and adjectives to create vivid imagery",
+                  "Vary your sentence structure to add rhythm and interest",
+                  "Emphasize the moral or lesson conveyed by the proverb",
+                  "Provide supporting evidence to make your argument more convincing"
+                ],
+                "answer": "Emphasize the moral or lesson conveyed by the proverb",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is the key to effectively using proverbs in writing?",
+                "options": [
+                  "Use proverbs that are relevant to your topic and audience",
+                  "Choose proverbs that are simple but profound",
+                  "Use proverbs as a springboard for your own creative interpretation",
+                  "All of the above"
+                ],
+                "answer": "All of the above",
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "Speaking about Pets",
@@ -22724,7 +23052,63 @@
           {
             "topic": "Sports Personality",
             "definition": "## Sports Personality\nA sports personality is a combination of inherent characteristics, learned behaviors, and external influences that shape an individual's performance in sports. It encompasses various aspects of an athlete's character, including:\n* **Motivation:** The desire to excel and achieve personal bests.\n* **Confidence:** Self-assurance and belief in their abilities.\n* **Discipline:** Commitment to training and adhering to rules.\n* **Competitiveness:** A drive to outperform others and achieve victory.\n* **Resilience:** Ability to bounce back from setbacks and overcome challenges.\n* **Sportsmanship:** Respect and consideration for others, both on and off the field.\n**Examples:**\n* **Virat Kohli:** His relentless pursuit of excellence and fierce determination have made him a world-class cricketer.\n* **Serena Williams:** Her infectious confidence and competitive spirit have propelled her to countless victories.\n* **Michael Jordan:** His unmatched work ethic and competitive spirit helped him achieve legendary status in basketball.\n**Key Points:**\n* A sports personality is not simply about talent or physical ability.\n* It is influenced by both individual characteristics and external factors like family, peers, and coaches.\n* A strong sports personality can overcome various challenges and achieve success in sports.\n**Conclusion:**\nA sports personality is a complex and multifaceted construct that significantly impacts an athlete's performance and overall contribution to sports. Understanding and appreciating this concept can help us appreciate the dedication, resilience, and competitive spirit that makes sports personalities who they are",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "Which sports personality is known for his relentless pursuit of excellence and fierce determination? ",
+                "options": [
+                  "Virat Kohli",
+                  "Serena Williams",
+                  "Michael Jordan",
+                  "Roger Federer"
+                ],
+                "answer": "**Virat Kohli**",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is not a factor that influences a sports personality? ",
+                "options": [
+                  "Family",
+                  "Peers",
+                  "Coaches",
+                  "All of the above"
+                ],
+                "answer": "**All of the above**",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which sports personality is known for her infectious confidence and competitive spirit? ",
+                "options": [
+                  "Serena Williams",
+                  "Venus Williams",
+                  "Rudra Kumar",
+                  "Cristiano Ronaldo"
+                ],
+                "answer": "**Serena Williams**",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which sports personality overcame various challenges and achieved success in sports? ",
+                "options": [
+                  "Michael Jordan",
+                  "Lionel Messi",
+                  "Cristiano Ronaldo",
+                  "Usain Bolt"
+                ],
+                "answer": "**Michael Jordan**",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is a key aspect of a sports personality that significantly impacts their performance? ",
+                "options": [
+                  "Motivation",
+                  "Confidence",
+                  "Discipline",
+                  "All of the above"
+                ],
+                "answer": "**All of the above**",
+                "type": "multiple_correct"
+              }
+            ]
           }
         ]
       },

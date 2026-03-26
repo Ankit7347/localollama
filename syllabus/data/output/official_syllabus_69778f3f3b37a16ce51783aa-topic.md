@@ -2853,6 +2853,40 @@ Area is the amount of space inside a two-dimensional shape. It is the total area
 * The area of a blank shape is always equal to the area of a filled shape with the same dimensions.
 * The area of a shape can be calculated using simple formulas based on its dimensions
 
+**Quizzes:**
+
+**Q1: Which shape has the largest area?**
+
+- [x] Rectangle
+- [ ] Circle
+- [ ] Triangle
+
+**Q2: Which shape has the smallest area?**
+
+- [ ] Rectangle
+- [ ] Circle
+- [x] Triangle
+
+**Q3: The area of a circle is always:**
+
+- [x] Positive
+- [ ] Negative
+- [ ] Equal to π
+- [ ] None
+
+**Q4: Which shape has the greatest area for its perimeter?**
+
+- [ ] Rectangle
+- [ ] Circle
+- [x] Triangle
+
+**Q5: The area of a blank shape is always equal to:**
+
+- [x] 0
+- [ ] 1
+- [ ] Infinite
+- [ ] None
+
 ---
 
 ### Area of a Rectangle

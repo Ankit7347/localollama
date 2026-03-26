@@ -1056,7 +1056,63 @@
           {
             "topic": "Arithmetic Mean",
             "definition": "**Arithmetic Mean**\nThe arithmetic mean, also known as the average, is a measure of the central tendency of a set of numerical data points. It is calculated by summing all the numbers in the set and dividing the sum by the total number of numbers.\n**Formal Definition:**\n> The arithmetic mean, denoted by the symbol \\(\\bar{x}\\), of a set of numbers \\(x_1, x_2, \\cdots, x_n\\) is defined as:\n$$\\bar{x} = \\frac{x_1 + x_2 + \\cdots + x_n}{n}$$\nwhere \\(n\\) is the total number of numbers in the set.\n**Examples:**\n- If a set of numbers is {10, 15, 20, 25}, the arithmetic mean would be (10 + 15 + 20 + 25) / 4 = 18.\n- If a set of numbers is {2, 4, 6, 8}, the arithmetic mean would be 6.\n**Properties of the Arithmetic Mean:**\n- The arithmetic mean is a scalar, meaning it is a single number.\n- The arithmetic mean is independent of the order of the numbers in the set.\n- The arithmetic mean is a measure of central tendency, meaning it is a point that lies in the center of the data distribution.\n- The arithmetic mean is a consistent measure, meaning that it has the same value for all subsets of the original set",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "What is the formal definition of the arithmetic mean?",
+                "options": [
+                  "The arithmetic mean is the average of the data points.",
+                  "The arithmetic mean is the minimum of the data points.",
+                  "The arithmetic mean is the maximum of the data points.",
+                  "The arithmetic mean is the sum of the data points divided by the number of data points."
+                ],
+                "answer": "Correct Option: The arithmetic mean is defined as the sum of all the numbers in the set divided by the total number of numbers.",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is the value of the arithmetic mean for the following set of numbers: 10, 15, 20, 25 ?",
+                "options": [
+                  15,
+                  18,
+                  20,
+                  25
+                ],
+                "answer": "Correct Option: 18",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which property of the arithmetic mean is the most important?",
+                "options": [
+                  "The arithmetic mean is a scalar",
+                  "The arithmetic mean is independent of the order of the numbers in the set",
+                  "The arithmetic mean is a consistent measure",
+                  "The arithmetic mean is the minimum of the data points"
+                ],
+                "answer": "Correct Option: The arithmetic mean is a measure of central tendency.",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is the value of the arithmetic mean for the following set of numbers: 2, 4, 6, 8 ?",
+                "options": [
+                  4,
+                  5,
+                  6,
+                  7
+                ],
+                "answer": "Correct Option: 5",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is the value of the arithmetic mean for the following set of numbers: 1, 3, 5, 7 ?",
+                "options": [
+                  5,
+                  6,
+                  7,
+                  8
+                ],
+                "answer": "Correct Option: 6",
+                "type": "single_correct"
+              }
+            ]
           },
           {
             "topic": "Mode",
@@ -19936,7 +19992,63 @@
           {
             "topic": "Interpretation",
             "definition": "Interpretation is a crucial skill in language learning that involves understanding the intended meaning of spoken or written language. It involves breaking down the linguistic elements (words, phrases, and sentences) and considering their context to infer the intended meaning. This allows us to appreciate the message and appreciate the intended meaning of the spoken or written language.\nFor instance, in the Hindi chapter \"Hum Panchhi Unmukt Gagan Ke,\" the context of the question and the surrounding sentences provide clues about the intended meaning of the phrase. The phrase \"Hum Panchhi Unmukt Gagan Ke\" means \"We are many and different,\" and the context suggests that the speaker is talking about a diverse group of people.\nInterpretation is a challenging task, but it is essential for acquiring and using a foreign language. By practicing and engaging in language activities that require interpretation, learners can improve their understanding and develop the skills necessary to communicate effectively",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "What is the meaning of the phrase 'Hum Panchhi Unmukt Gagan Ke' in Hindi?",
+                "options": [
+                  "We are many and different",
+                  "We are different",
+                  "We are united",
+                  "We are similar"
+                ],
+                "answer": "We are many and different",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "In the context of the phrase, what is the role of the surrounding sentences?",
+                "options": [
+                  "They provide clues about the speaker's intention",
+                  "They provide background information",
+                  "They provide both clues and background information",
+                  "They provide no clues about the speaker's intention"
+                ],
+                "answer": "They provide clues about the speaker's intention",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is the intended meaning of the phrase in the context?",
+                "options": [
+                  "We are a diverse group of people",
+                  "We are a united group of people",
+                  "We are a small group of people",
+                  "We are a large group of people"
+                ],
+                "answer": "We are a diverse group of people",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is the challenge of interpretation in language learning?",
+                "options": [
+                  "It is a straightforward task",
+                  "It is an easy task",
+                  "It is a challenging task",
+                  "It is a simple task"
+                ],
+                "answer": "It is a challenging task",
+                "type": "single_correct"
+              },
+              {
+                "question": "How can practice and engagement help learners improve their understanding of the language?",
+                "options": [
+                  "By providing structured practice",
+                  "By providing opportunities to practice using the language",
+                  "By providing feedback on their performance",
+                  "All of the above"
+                ],
+                "answer": "All of the above",
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "Exercise",
@@ -20183,7 +20295,61 @@
           {
             "topic": "Interpretation",
             "definition": "## Interpretation: Unlocking the Secrets of Poetry\n**Interpretation** is the art of **reading between the lines** of a piece of literature, **uncovering its deeper meaning and intent**. It goes beyond simply reading the literal words and exploring the context, symbolism, and underlying themes. This allows us to appreciate the poem's emotional impact, its social message, and even its historical context.\n**It's like deciphering a puzzle,** where each word and phrase contributes to the overall narrative. The interpretation helps us **uncover the hidden meaning** of the poem, allowing us to **connect with its spirit and connect with the poet on a deeper level**.\n**Examples:**\n* **In the verse** \"Gham gham mein chhed pyaar ka gehna,\" the word \"gham\" can signify **both pain and love**. Understanding the context of the poem, the speaker's emotional state, and the role of love in the relationship will provide a richer interpretation.\n* **The imagery** used in a poem can hold a **powerful meaning**. Recognizing the symbolism of a mountain range, a river, or a bird in the poem can deepen our understanding of the poet's message.\n* **Considering the historical context** of a poem can shed light on its meaning. For instance, a poem written during a time of war might have a different interpretation than one written during a peaceful period.\n**Interpretation is not just about finding the \"right\" answer, but also about engaging with the poem on a personal level.** By delving into its deeper layers, we can gain a deeper understanding of ourselves, our world, and the human condition",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "In the verse 'Gham gham mein chhed pyaar ka gehna,' what does the word 'gham' signify?",
+                "options": [
+                  "Pain, love",
+                  "Hope, despair",
+                  "Absence of love"
+                ],
+                "answer": "Correct Option: Pain, love",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which element in a poem can hold a powerful meaning?",
+                "options": [
+                  "Imagery, symbolism, figurative language",
+                  "Literal words",
+                  "Context"
+                ],
+                "answer": "Correct Option: Imagery",
+                "type": "single_correct"
+              },
+              {
+                "question": "How can studying the historical context of a poem enrich its meaning?",
+                "options": [
+                  "It provides a broader perspective",
+                  "It removes the writer's bias",
+                  "It changes the poem's tone",
+                  "All of the above"
+                ],
+                "answer": "Correct Option: All of the above",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is the purpose of considering the historical context of a poem?",
+                "options": [
+                  "To find the author's personal intentions",
+                  "To determine the poem's social message",
+                  "To understand the poem's historical significance",
+                  "To appreciate the poet's craft"
+                ],
+                "answer": "Correct Option: To understand the poem's historical significance",
+                "type": "single_correct"
+              },
+              {
+                "question": "How does understanding the deeper layers of a poem contribute to personal growth?",
+                "options": [
+                  "It helps us appreciate the poet's artistry",
+                  "It allows us to connect with the speaker on a deeper level",
+                  "It provides a moral compass",
+                  "All of the above"
+                ],
+                "answer": "Correct Option: All of the above",
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "Exercise",
@@ -22131,7 +22297,63 @@
           {
             "topic": "Interpretation",
             "definition": "## Interpretation: The Heart of Literary Analysis\n**Neelkanth** is a beautiful poem by the great Hindi poet Meer. It is a love ballad, exploring the profound and eternal love between a man and a woman. Understanding the poem's meaning requires us to delve into its layers of symbolism and delve into the emotional landscape it paints.\n**Interpretation is the process of deciphering the deeper meaning** of a text, uncovering the hidden meanings and symbolism. This goes beyond literal interpretations and delves into the philosophical and emotional core of the work.\n**Key elements of interpretation include:**\n* **Symbolism:** The poem uses various symbols, such as the river, the mountain, the rose, and the bird, to convey deeper meanings.\n* **Imagery:** The poet paints vivid imagery with words like \"eyes like the sun,\" \"hair like a flowing river,\" and \"heart full of love.\"\n* **Themes:** The poem explores themes of love, loss, longing, and the beauty of nature.\n* **Context:** Understanding the poem's historical context and the social and cultural background is crucial for interpreting its nuances.\n**Interpretation is an ongoing process, requiring us to ask questions, challenge assumptions, and constantly seek deeper understanding.** By engaging in this process, we can unlock the full potential of **Neelkanth** and discover its profound message about love, loss, and the beauty of human connection",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "According to the definition, what is the key element of interpretation?",
+                "options": [
+                  "Symbolism",
+                  "Imagery",
+                  "Themes",
+                  "Context"
+                ],
+                "answer": "Symbolism",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which element of interpretation focuses on uncovering the hidden meanings and symbolism?",
+                "options": [
+                  "Literal interpretation",
+                  "Emotional interpretation",
+                  "Philosophical interpretation",
+                  "Symbolism interpretation"
+                ],
+                "answer": "Emotional interpretation",
+                "type": "single_correct"
+              },
+              {
+                "question": "In the poem, what role does the river play in conveying deeper meanings?",
+                "options": [
+                  "It is a symbol of love and hope.",
+                  "It is a symbol of separation and loss.",
+                  "It is a symbol of hope and renewal.",
+                  "It is a symbol of creation and life."
+                ],
+                "answer": "It is a symbol of love and hope.",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which symbol in the poem represents the boundless love between the man and the woman?",
+                "options": [
+                  "Rose",
+                  "Mountain",
+                  "Water",
+                  "Bird"
+                ],
+                "answer": "Rose",
+                "type": "single_correct"
+              },
+              {
+                "question": "How can interpretation help us unlock the full potential of the **Neelkanth** poem?",
+                "options": [
+                  "By exploring the philosophical and emotional core of the work",
+                  "By understanding the historical context and social and cultural background",
+                  "By asking questions and challenging assumptions",
+                  "By all of the above"
+                ],
+                "answer": "By asking questions and challenging assumptions",
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "Exercise",

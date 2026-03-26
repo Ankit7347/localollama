@@ -497,6 +497,38 @@ $$A^T = \begin{bmatrix} 1 & 4 & 7 \\\ 2 & 5 & 8 \\\ 3 & 6 & 9 \end{bmatrix}$$
 * **Finding Eigenvalues and Eigenvectors:** The transpose of a matrix can be used to calculate the eigenvalues and eigenvectors of the original matrix.
 * **Solving Systems of Linear Equations:** Transpose of a coefficient matrix can be used to solve linear systems of equations
 
+**Quizzes:**
+
+**Q1: Which property of a matrix is preserved by its transpose?**
+
+- [x] Symmetric
+- [ ] Transpose of diagonal matrix is the same as original matrix
+- [ ] Linear transformations are equal to the transpose of the matrix
+
+**Q2: Which property of the transpose of a matrix is true?**
+
+- [x] It is equal to the original matrix
+- [ ] It is symmetric
+- [ ] It is equal to the transpose of the original matrix
+
+**Q3: Which application of the transpose of a matrix is used to solve linear systems of equations?**
+
+- [ ] Calculating eigenvalues and eigenvectors
+- [x] Finding linear transformations
+- [ ] Finding the determinant
+
+**Q4: Which application of the transpose of a matrix is used to solve linear systems of equations?**
+
+- [ ] Finding Eigenvalues and Eigenvectors
+- [x] Solving systems of linear equations
+- [ ] Finding the determinant
+
+**Q5: Which property of the transpose of a matrix is used to solve linear transformations?**
+
+- [x] Linear transformations are equal to the transpose of the matrix
+- [ ] The transpose of a matrix is equal to the transpose of the original matrix
+- [ ] Linear transformations are equal to the original matrix
+
 ---
 
 ### Symmetric and Skew Symmetric Matrices
@@ -1187,6 +1219,33 @@ An **logarithmic function** is a function of the form $$f(x) = \log_a(x)$$ where
 * $\log_a(x) + \log_a(y) = \log_a(xy)$
 * $\ln(x) = \log_e(x)$
 These properties allow us to perform various operations with exponential and logarithmic functions, such as finding the exponential of a logarithm and finding the logarithm of an exponential
+
+**Quizzes:**
+
+**Q1: Which function is **always** increasing?**
+
+- [x] Exponential function
+- [ ] Logarithmic function
+
+**Q2: Which function is **asymptotically equal** to the exponential function as x approaches infinity?**
+
+- [ ] Exponential function
+- [x] Logarithmic function
+
+**Q3: Which function has a **positive output** for all non-zero inputs?**
+
+- [x] Exponential function
+- [ ] Logarithmic function
+
+**Q4: Which function is used to find the **inverse of an exponential function**?**
+
+- [ ] Exponential function
+- [x] Logarithmic function
+
+**Q5: Which function is used to find the **logarithm of a number**?**
+
+- [ ] Exponential function
+- [x] Logarithmic function
 
 ---
 

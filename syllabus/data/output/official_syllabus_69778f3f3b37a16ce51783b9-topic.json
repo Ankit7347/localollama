@@ -493,7 +493,64 @@
           {
             "topic": "Pair of Linear Equations in Two Variables",
             "definition": "## Pair of Linear Equations in Two Variables\nA **pair of linear equations in two variables** is a system of two linear equations in the form of:\n**Equation 1:** ax + by = k\n**Equation 2:** cx + dy = l\nwhere a, b, c, and d are constants.\nSolving this system of equations can be done using various methods like substitution, elimination, and graphical techniques.\n**How it works:**\n* The equations are represented by two linear equations, each with two variables.\n* Solving the system means finding the values of a and b/c such that the two equations are equivalent.\n* This can be done by manipulating the equations, such as adding, subtracting, multiplying, or dividing the equations.\n* The solution will consist of two values: x and y.\n**Examples:**\n**1. Solve the following pair of equations:**\nx + y = 5\nx - y = 1\n**Solution:**\nThe solution to this system is x = 3 and y = 2.\n**2. Solve the following pair of equations:**\n2x + y = 10\nx - y = 2\n**Solution:**\nThe solution to this system is x = 4 and y = 6.\n**Applications of Pair of Linear Equations:**\nThese equations find wide applications in various fields, including:\n* **Mathematics:** Solving systems of linear equations is a fundamental topic in high school mathematics.\n* **Physics:** Understanding the motion of objects, forces, and waves often involves pair of linear equations.\n* **Economics:** Modeling market data and predicting economic trends requires the use of linear equations.\n* **Engineering:** Designing structures and analyzing their stability depends on understanding and solving systems of linear equations.\nBy learning how to solve pair of linear equations, students gain a valuable tool for tackling real-world problems and exploring the fascinating world of mathematics",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "Solve the following pair of equations:",
+                "options": [
+                  "(x, 3) and (3, 6)",
+                  "(x, 4) and (5, 6)",
+                  "(x, 6) and (6, 8)",
+                  "(x, 7) and (7, 9)",
+                  "(x, 8) and (8, 10)"
+                ],
+                "answer": "Correct Option",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Solve the following pair of equations:",
+                "options": [
+                  "x + y = 5, x - y = 1",
+                  "2x + y = 10, x - y = 2",
+                  "x + y = 10, 2x - y = 1",
+                  "x + y = 15, x - y = 5"
+                ],
+                "answer": "Correct Option",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is the solution to the following system of equations?",
+                "options": [
+                  "x = 2, y = 4",
+                  "x = 4, y = 2",
+                  "x = 6, y = 1",
+                  "x = 1, y = 6"
+                ],
+                "answer": "Correct Option",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which equation represents the line passing through points (2, 3) and (4, 7)?",
+                "options": [
+                  "2x + y = 14",
+                  "2x - y = 14",
+                  "x + y = 14",
+                  "x - y = 14"
+                ],
+                "answer": "Correct Option",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is the solution to the following pair of linear equations?",
+                "options": [
+                  "x = 3, y = 1",
+                  "x = 4, y = 2",
+                  "x = 5, y = 3",
+                  "x = 6, y = 4"
+                ],
+                "answer": "Correct Option",
+                "type": "single_correct"
+              }
+            ]
           },
           {
             "topic": "Graphical Method of Solution of a Pair of Linear Equations",
@@ -2320,7 +2377,63 @@
           {
             "topic": "Introduction",
             "definition": "## Introduction\n**Circles** are a fascinating shape that encompasses a vast range of geometric figures. They are characterized by their circular boundary and their ability to be divided into infinitely many equal parts. This makes them a natural subject of study in mathematics.\n**Key concepts introduced in this It is also the point where the circle intersects the coordinate plane.\n* **Radius:** The radius of a circle is the distance from the center to any point on the circle. It is half the length of the circumference.\n* **Diameter:** The diameter of a circle is the distance from one side to the other, passing through the center.\n* **Circumference:** The circumference of a circle is the distance around its perimeter. It can be calculated by multiplying the radius by 2.\n* **Area:** The area of a circle is the space inside the circle. It can be calculated by using the formula πr², where r is the radius.\n**Examples:**\n* Imagine a circle drawn on a sheet of paper. The center of the circle would be the point where the two edges meet, and the radius would be half of the length of the circumference.\n* Another example is a rolling circle. As the circle rolls, its center remains fixed, and its radius remains the same.\n* Finally, the circumference of a circle of radius 5 cm is 10 cm",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "What is the radius of a circle?",
+                "options": [
+                  "Half the length of the circumference",
+                  "The distance from the center to any point on the circle",
+                  "The length of the perimeter",
+                  "The area of a circle"
+                ],
+                "answer": "Correct Option: Half the length of the circumference",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is the diameter of a circle?",
+                "options": [
+                  "The distance from one side to the other, passing through the center",
+                  "The circumference of a circle",
+                  "The area of a circle",
+                  "The radius"
+                ],
+                "answer": "Correct Option: The distance from one side to the other, passing through the center",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is the circumference of a circle?",
+                "options": [
+                  "The length of the circumference",
+                  "The area of a circle",
+                  "The radius",
+                  "The diameter"
+                ],
+                "answer": "Correct Option: The circumference of a circle is the distance around its perimeter",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is the area of a circle?",
+                "options": [
+                  "The space inside the circle",
+                  "The circumference of a circle",
+                  "The radius",
+                  "The diameter"
+                ],
+                "answer": "Correct Option: The space inside the circle",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is the center of a circle?",
+                "options": [
+                  "The point where the two edges meet",
+                  "The point where the radius and diameter meet",
+                  "The point where the circumference meets the coordinate plane",
+                  "The point where the radius and area meet"
+                ],
+                "answer": "Correct Option: The point where the two edges meet",
+                "type": "single_correct"
+              }
+            ]
           },
           {
             "topic": "Tangent to a Circle",
@@ -2637,7 +2750,63 @@
           {
             "topic": "Introduction",
             "definition": "## Introduction\nAn **area** is a region bounded by a shape. In mathematics, it is used to measure the amount of space inside a shape. To determine the area of a circle, we need to understand the **concept of circumference**, which is the length of the border of the circle.\nA **circle** is a plane figure with no corners or edges. It is defined by the distance from the center to any point on the circle. The **radius** is the distance from the center to the outside edge of the circle. The **diameter** is the length of the line connecting the two ends of the radius.\nThe **area of a circle** is calculated by multiplying the **radius** squared by π. The formula is:\n**A = πr²**\nwhere:\n* **A** is the area of the circle in square units\n* **π** is a mathematical constant approximately equal to 3.14\n* **r** is the radius of the circle in units",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "What is the formula for the area of a circle?",
+                "options": [
+                  "A = πr²",
+                  "A = r² + π",
+                  "A = 2πr",
+                  "A = 3πr"
+                ],
+                "answer": "Correct Answer: A = πr²",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is the radius of a circle with an area of 10π square units?",
+                "options": [
+                  "5",
+                  "6",
+                  "7",
+                  "8"
+                ],
+                "answer": "Correct Answer: 5",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is the circumference of a circle with a radius of 3 units?",
+                "options": [
+                  "9",
+                  "12",
+                  "15",
+                  "18"
+                ],
+                "answer": "Correct Answer: 18",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which term is used to determine the area of a circle?",
+                "options": [
+                  "Circumference",
+                  "Area",
+                  "Diameter",
+                  "Radius"
+                ],
+                "answer": "Correct Answer: Radius",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is the area of a circle with a radius of 5 units?",
+                "options": [
+                  "25π",
+                  "50π",
+                  "75π",
+                  "100π"
+                ],
+                "answer": "Correct Answer: 25π",
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "Perimeter and Area of a Circle - A Review",
@@ -16662,7 +16831,63 @@
           {
             "topic": "Belgium and Sri Lanka",
             "definition": "## Belgium and Sri Lanka: A Case Study in Power Sharing\nBelgium and Sri Lanka present a fascinating case study in power sharing within a democratic framework. While both nations share democratic principles, their approaches to balancing political power have significant differences.\n**Key Points:**\n* **Belgium:**\n* Has a strong and well-defined system of checks and balances, which prevents any single branch of government from becoming too powerful.\n* This system of checks and balances ensures that the executive, legislative, and judicial branches work together harmoniously to maintain stability and protect fundamental rights.\n* Offers a strong opposition to concentrated power, promoting a diverse and inclusive political landscape.\n* Has a strong tradition of minority rights and political participation, which has contributed to its stability and political progress.\n* **Sri Lanka:**\n* Has a more centralized political system, with the executive branch having greater influence than the legislature.\n* This system can lead to greater concentration of power and potential limitations on the other branches.\n* Sri Lanka has faced challenges in ensuring effective participation and accountability of minority communities.\n**Power Sharing Mechanisms:**\n* **Belgium:**\n* Strong separation of powers:\n* Executive: Prime Minister, with limited powers.\n* Legislative: Parliament, with the ability to override the Prime Minister's actions.\n* Judiciary: Supreme Court, with the power to declare laws unconstitutional.\n* These checks and balances create a system where each branch can limit the actions of the others, promoting stability and accountability.\n* **Sri Lanka:**\n* More centralized system with limited separation of powers.\n* The executive, legislature, and judiciary are all closely intertwined, potentially leading to conflicts of interest and limitations on individual branches' abilities.\n**Challenges to Power Sharing:**\n* **Belgium:**\n* Maintaining the delicate balance between the executive, legislature, and judiciary can be challenging, especially with the rise of political parties with diverse agendas and ambitions.\n* Ensuring effective implementation of the checks and balances system requires constant vigilance and enforcement.\n* Addressing the issue of political corruption and ensuring accountability of government officials remains a constant challenge.\n* **Sri Lanka:**\n* Balancing the need for a centralized government to manage national security and economic development with the need for regional cooperation and minority rights can be a delicate balancing act.\n* Maintaining accountability and transparency in government institutions can be difficult, given the power dynamics within the Parliament and the potential for vested interests to influence decision-making.\n**Conclusion:**\nBelgium and Sri Lanka offer contrasting yet valuable insights into power sharing within a democratic framework. While both nations share democratic principles, their approaches to balancing political power are markedly different. Understanding these contrasting approaches can help us appreciate the complexities of power sharing and its implications for maintaining stability, promoting minority rights, and achieving effective governance",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "Which nation offers a strong and well-defined system of checks and balances? ",
+                "options": [
+                  "**Belgium**",
+                  "Sri Lanka",
+                  "Italy",
+                  "Germany"
+                ],
+                "answer": "Correct Option",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which system ensures that the executive, legislative, and judiciary work together harmoniously to maintain stability and protect fundamental rights? ",
+                "options": [
+                  "**Belgium**",
+                  "Sri Lanka",
+                  "France",
+                  "Italy"
+                ],
+                "answer": "Correct Option",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which nation has a more centralized political system with limited separation of powers? ",
+                "options": [
+                  "**Sri Lanka**",
+                  "Belgium",
+                  "France",
+                  "Italy"
+                ],
+                "answer": "Correct Option",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is a key challenge to ensuring effective implementation of the checks and balances system in **Belgium**? ",
+                "options": [
+                  "**Maintaining the delicate balance between the executive, legislature, and judiciary**",
+                  "Ensuring effective implementation of the checks and balances system",
+                  "Addressing the issue of political corruption",
+                  "None of the above"
+                ],
+                "answer": "Correct Option",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which nation faces challenges in ensuring effective participation and accountability of minority communities? ",
+                "options": [
+                  "**Sri Lanka**",
+                  "Belgium",
+                  "France",
+                  "Italy"
+                ],
+                "answer": "Correct Option",
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "Majoritarianism in Sri Lanka",
@@ -23391,7 +23616,63 @@
           {
             "topic": "Neta Ji Ka Chashma",
             "definition": "## Neta Ji Ka Chashma\nNeta Ji Ka Chashma is a metaphorical phrase that signifies **a path that leads to a hidden treasure**. It essentially means that **the journey itself is more important than the destination**. \nThe phrase originates from the **Kashitij** chapter of the Hindu scriptures, where it is used to describe the path of a man seeking enlightenment. The man travels through various landscapes and faces many challenges, but ultimately, his focus is on the journey itself rather than the destination. \n**Examples:**\n* **The journey to the Himalayas is a beautiful experience. The challenges faced along the way, the stunning scenery, and the sheer beauty of the destination are all important in themselves.**\n* **Focusing on acquiring knowledge and skills is a lifelong journey, not just an academic pursuit.**\n* **Sometimes, the most valuable lessons are learned not in formal classrooms, but on the road, through personal experiences and encounters.**\n**Additional Notes:**\n* The phrase can also be translated as **\"the path to the treasure is more precious than the treasure itself\"**.\n* It emphasizes the importance of **patience, perseverance, and self-discovery** in achieving goals.\n* It encourages **appreciation for the journey itself** and not just the final destination",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "Which of the following best encapsulates the essence of Neta Ji Ka Chashma? ",
+                "options": [
+                  "**The journey itself is more important than the destination**",
+                  "The destination is the key to achieving success",
+                  "Focusing on acquiring knowledge and skills is a lifelong journey",
+                  "The journey should be rushed without considering the consequences"
+                ],
+                "answer": "Correct Option",
+                "type": "single_correct"
+              },
+              {
+                "question": "According to the **Kashitij** chapter of the Hindu scriptures, what is the path to enlightenment called? ",
+                "options": [
+                  "Neta Ji Ka Chashma",
+                  "The path to the Himalayas",
+                  "The path to the treasure",
+                  "The path to success"
+                ],
+                "answer": "Correct Option",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which of the following is a metaphor for the journey to enlightenment described in Neta Ji Ka Chashma? ",
+                "options": [
+                  "The journey to the Himalayas",
+                  "The path to the treasure",
+                  "The path to success",
+                  "The journey to achieve a specific goal"
+                ],
+                "answer": "Correct Option",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is a valuable lesson often learned through personal experiences and encounters? ",
+                "options": [
+                  "**The journey itself is more important than the destination**",
+                  "The path to the treasure is more precious than the treasure itself",
+                  "The journey should be rushed without considering the consequences",
+                  "The destination is always the focus"
+                ],
+                "answer": "Correct Option",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is the ultimate message of Neta Ji Ka Chashma? ",
+                "options": [
+                  "Focus on acquiring knowledge and skills",
+                  "It is important to set realistic goals",
+                  "The journey itself should be prioritized",
+                  "The destination should be achieved as soon as possible"
+                ],
+                "answer": "Correct Option",
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "Balgobin Bhagat",

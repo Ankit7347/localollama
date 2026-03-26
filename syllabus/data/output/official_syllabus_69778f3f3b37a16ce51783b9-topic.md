@@ -498,6 +498,44 @@ These equations find wide applications in various fields, including:
 * **Engineering:** Designing structures and analyzing their stability depends on understanding and solving systems of linear equations.
 By learning how to solve pair of linear equations, students gain a valuable tool for tackling real-world problems and exploring the fascinating world of mathematics
 
+**Quizzes:**
+
+**Q1: Solve the following pair of equations:**
+
+- [ ] (x, 3) and (3, 6)
+- [ ] (x, 4) and (5, 6)
+- [ ] (x, 6) and (6, 8)
+- [ ] (x, 7) and (7, 9)
+- [ ] (x, 8) and (8, 10)
+
+**Q2: Solve the following pair of equations:**
+
+- [ ] x + y = 5, x - y = 1
+- [ ] 2x + y = 10, x - y = 2
+- [ ] x + y = 10, 2x - y = 1
+- [ ] x + y = 15, x - y = 5
+
+**Q3: What is the solution to the following system of equations?**
+
+- [ ] x = 2, y = 4
+- [ ] x = 4, y = 2
+- [ ] x = 6, y = 1
+- [ ] x = 1, y = 6
+
+**Q4: Which equation represents the line passing through points (2, 3) and (4, 7)?**
+
+- [ ] 2x + y = 14
+- [ ] 2x - y = 14
+- [ ] x + y = 14
+- [ ] x - y = 14
+
+**Q5: What is the solution to the following pair of linear equations?**
+
+- [ ] x = 3, y = 1
+- [ ] x = 4, y = 2
+- [ ] x = 5, y = 3
+- [ ] x = 6, y = 4
+
 ---
 
 ### Graphical Method of Solution of a Pair of Linear Equations
@@ -2271,6 +2309,43 @@ By understanding the concepts of heights and distances, we can solve various pro
 * Another example is a rolling circle. As the circle rolls, its center remains fixed, and its radius remains the same.
 * Finally, the circumference of a circle of radius 5 cm is 10 cm
 
+**Quizzes:**
+
+**Q1: What is the radius of a circle?**
+
+- [ ] Half the length of the circumference
+- [ ] The distance from the center to any point on the circle
+- [ ] The length of the perimeter
+- [ ] The area of a circle
+
+**Q2: What is the diameter of a circle?**
+
+- [ ] The distance from one side to the other, passing through the center
+- [ ] The circumference of a circle
+- [ ] The area of a circle
+- [ ] The radius
+
+**Q3: What is the circumference of a circle?**
+
+- [ ] The length of the circumference
+- [ ] The area of a circle
+- [ ] The radius
+- [ ] The diameter
+
+**Q4: What is the area of a circle?**
+
+- [ ] The space inside the circle
+- [ ] The circumference of a circle
+- [ ] The radius
+- [ ] The diameter
+
+**Q5: What is the center of a circle?**
+
+- [ ] The point where the two edges meet
+- [ ] The point where the radius and diameter meet
+- [ ] The point where the circumference meets the coordinate plane
+- [ ] The point where the radius and area meet
+
 ---
 
 ### Tangent to a Circle
@@ -2569,6 +2644,43 @@ where:
 * **A** is the area of the circle in square units
 * **π** is a mathematical constant approximately equal to 3.14
 * **r** is the radius of the circle in units
+
+**Quizzes:**
+
+**Q1: What is the formula for the area of a circle?**
+
+- [ ] A = πr²
+- [ ] A = r² + π
+- [ ] A = 2πr
+- [ ] A = 3πr
+
+**Q2: What is the radius of a circle with an area of 10π square units?**
+
+- [ ] 5
+- [ ] 6
+- [ ] 7
+- [ ] 8
+
+**Q3: What is the circumference of a circle with a radius of 3 units?**
+
+- [ ] 9
+- [ ] 12
+- [ ] 15
+- [ ] 18
+
+**Q4: Which term is used to determine the area of a circle?**
+
+- [ ] Circumference
+- [ ] Area
+- [ ] Diameter
+- [ ] Radius
+
+**Q5: What is the area of a circle with a radius of 5 units?**
+
+- [ ] 25π
+- [ ] 50π
+- [ ] 75π
+- [ ] 100π
 
 ---
 
@@ -6646,6 +6758,43 @@ The key characteristics of the sexual mode of reproduction include:
 5. Genetic Recombination: During fertilization, the genetic material from both parents is recombined through crossing over and independent assortment. This genetic recombination shuffles the genetic material in the zygote, leading to genetic diversity and increased chances of producing offspring with unique traits.
 The sexual mode of reproduction plays a fundamental role in shaping the diversity of life on Earth. By combining genetic material from two parents, it facilitates the creation of offspring with specialized traits that contribute to the survival and adaptability of species
 
+**Quizzes:**
+
+**Q1: What is the key characteristic of the sexual mode of reproduction?**
+
+- [ ] Genetic variation
+- [ ] Two-step process
+- [ ] Fusion of gametes
+- [ ] Development of offspring
+
+**Q2: During what stage of the sexual process does genetic recombination occur?**
+
+- [ ] Gamete formation
+- [ ] Fertilization
+- [ ] Cell division
+- [ ] Embryonic development
+
+**Q3: What is the process by which the two gametes fuse together during fertilization?**
+
+- [ ] Crossing over
+- [ ] Independent assortment
+- [ ] Recombination
+- [ ] Genetic recombination
+
+**Q4: What is the result of genetic recombination during fertilization?**
+
+- [ ] The creation of a zygote
+- [ ] The formation of an embryo
+- [ ] The creation of a fetus
+- [ ] The fusion of DNA molecules
+
+**Q5: How does genetic recombination contribute to the diversity of life?**
+
+- [ ] It shuffles the genetic material in the zygote
+- [ ] It ensures the proper formation of gametes
+- [ ] It creates unique traits in offspring
+- [ ] It helps in the exchange of genetic material between parents
+
 ---
 
 ### Sexual Reproduction in Flowering Plants
@@ -10612,6 +10761,42 @@ There are many things we can do to help achieve Water for All, including:
 * **Support organizations that work to improve water security:** There are many organizations that are working to address water issues around the world.
 * **Make policy changes that support Water for All:** We can support policies that promote water conservation and protect water resources.
 Water for All is a global challenge, but it is one that we can overcome. By working together, we can ensure that everyone has access to safe and affordable water for the future
+
+**Quizzes:**
+
+**Q1: What is Water for All?**
+
+- [x] Water is a source of food, electricity, and transportation.
+- [ ] Water is not always available, especially in areas with high populations and climate.
+- [ ] Water is a precious resource that is vital for life on Earth.
+
+**Q2: What are the challenges to achieving Water for All?**
+
+- [ ] Pollution is a major threat to water quality.
+- [ ] Climate change is making water resources more variable.
+- [ ] Lack of infrastructure is a major challenge to achieving Water for All.
+- [x] All of the above.
+
+**Q3: What can we do to help achieve Water for All?**
+
+- [ ] Reduce our water consumption
+- [ ] Educate ourselves and others about water conservation
+- [ ] Support organizations that work to improve water security
+- [x] All of the above
+
+**Q4: What is Water for All?**
+
+- [x] Water for All is a global initiative that aims to ensure that everyone has access to safe and affordable water.
+- [ ] Water for All is a local initiative that aims to improve water security in a specific area.
+- [ ] Water for All is a regional initiative that aims to promote water conservation in a specific region.
+- [ ] Water for All is a national initiative that aims to ensure that everyone has access to safe and affordable water.
+
+**Q5: What is the definition of Water for All?**
+
+- [x] Water for All is a global initiative that aims to ensure that everyone has access to safe and affordable water.
+- [ ] Water for All is a local initiative that aims to improve water security in a specific area.
+- [ ] Water for All is a regional initiative that aims to promote water conservation in a specific region.
+- [ ] Water for All is a national initiative that aims to ensure that everyone has access to safe and affordable water.
 
 ---
 
@@ -15477,6 +15662,43 @@ Belgium and Sri Lanka present a fascinating case study in power sharing within a
 * Maintaining accountability and transparency in government institutions can be difficult, given the power dynamics within the Parliament and the potential for vested interests to influence decision-making.
 **Conclusion:**
 Belgium and Sri Lanka offer contrasting yet valuable insights into power sharing within a democratic framework. While both nations share democratic principles, their approaches to balancing political power are markedly different. Understanding these contrasting approaches can help us appreciate the complexities of power sharing and its implications for maintaining stability, promoting minority rights, and achieving effective governance
+
+**Quizzes:**
+
+**Q1: Which nation offers a strong and well-defined system of checks and balances? **
+
+- [ ] **Belgium**
+- [ ] Sri Lanka
+- [ ] Italy
+- [ ] Germany
+
+**Q2: Which system ensures that the executive, legislative, and judiciary work together harmoniously to maintain stability and protect fundamental rights? **
+
+- [ ] **Belgium**
+- [ ] Sri Lanka
+- [ ] France
+- [ ] Italy
+
+**Q3: Which nation has a more centralized political system with limited separation of powers? **
+
+- [ ] **Sri Lanka**
+- [ ] Belgium
+- [ ] France
+- [ ] Italy
+
+**Q4: What is a key challenge to ensuring effective implementation of the checks and balances system in **Belgium**? **
+
+- [ ] **Maintaining the delicate balance between the executive, legislature, and judiciary**
+- [ ] Ensuring effective implementation of the checks and balances system
+- [ ] Addressing the issue of political corruption
+- [ ] None of the above
+
+**Q5: Which nation faces challenges in ensuring effective participation and accountability of minority communities? **
+
+- [ ] **Sri Lanka**
+- [ ] Belgium
+- [ ] France
+- [ ] Italy
 
 ---
 
@@ -21669,6 +21891,43 @@ The phrase originates from the **Kashitij** chapter of the Hindu scriptures, whe
 * The phrase can also be translated as **"the path to the treasure is more precious than the treasure itself"**.
 * It emphasizes the importance of **patience, perseverance, and self-discovery** in achieving goals.
 * It encourages **appreciation for the journey itself** and not just the final destination
+
+**Quizzes:**
+
+**Q1: Which of the following best encapsulates the essence of Neta Ji Ka Chashma? **
+
+- [ ] **The journey itself is more important than the destination**
+- [ ] The destination is the key to achieving success
+- [ ] Focusing on acquiring knowledge and skills is a lifelong journey
+- [ ] The journey should be rushed without considering the consequences
+
+**Q2: According to the **Kashitij** chapter of the Hindu scriptures, what is the path to enlightenment called? **
+
+- [ ] Neta Ji Ka Chashma
+- [ ] The path to the Himalayas
+- [ ] The path to the treasure
+- [ ] The path to success
+
+**Q3: Which of the following is a metaphor for the journey to enlightenment described in Neta Ji Ka Chashma? **
+
+- [ ] The journey to the Himalayas
+- [ ] The path to the treasure
+- [ ] The path to success
+- [ ] The journey to achieve a specific goal
+
+**Q4: What is a valuable lesson often learned through personal experiences and encounters? **
+
+- [ ] **The journey itself is more important than the destination**
+- [ ] The path to the treasure is more precious than the treasure itself
+- [ ] The journey should be rushed without considering the consequences
+- [ ] The destination is always the focus
+
+**Q5: What is the ultimate message of Neta Ji Ka Chashma? **
+
+- [ ] Focus on acquiring knowledge and skills
+- [ ] It is important to set realistic goals
+- [ ] The journey itself should be prioritized
+- [ ] The destination should be achieved as soon as possible
 
 ---
 

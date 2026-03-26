@@ -3671,6 +3671,43 @@ $$A = \frac{1}{2} \text{base} \times \text{height}$$
 - A regular hexagon with a side length of 8 cm has an area of 64 cm².
 By understanding the formula and the definition of the terms involved, students can calculate the area of various polygons with different shapes and sizes
 
+**Quizzes:**
+
+**Q1: Which of the following is not a shape with a constant area?**
+
+- [ ] Rectangle
+- [ ] Triangle
+- [ ] Hexagon
+- [x] Circle
+
+**Q2: What is the formula for calculating the area of a polygon?**
+
+- [ ] A = B + C
+- [ ] A = (B + C) / 2
+- [ ] A = B * C
+- [ ] A = (B + C) * H
+
+**Q3: Which of the following is the base of a rectangle?**
+
+- [x] Side length
+- [ ] Perimeter
+- [ ] Height
+- [ ] Diagonal length
+
+**Q4: Which of the following is the height of a triangle?**
+
+- [ ] Side length
+- [ ] Perimeter
+- [ ] Base length
+- [x] Height
+
+**Q5: Which of the following is an example of a regular polygon with a constant area?**
+
+- [ ] Rectangle
+- [ ] Triangle
+- [ ] Hexagon
+- [x] Circle
+
 ---
 
 ### Solid Shapes

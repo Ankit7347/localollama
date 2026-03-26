@@ -3434,6 +3434,39 @@ $$S = 2\pi\left(\frac{12 cm}{2}\right)^2 + 2\pi(12 cm)(8 cm) = 288 cm^2$$
 * The surface area of a right circular cylinder is always greater than the surface area of a circle with the same radius.
 * The surface area of a cylinder can also be found using the formula \(S = \pi(d^2)\), where \(d\) is the diameter of the circular base
 
+**Quizzes:**
+
+**Q1: What is the surface area of a right circular cylinder with a diameter of 12 cm and a height of 8 cm?**
+
+- [x] 288 cm^2
+- [ ] 280 cm^2
+- [ ] 272 cm^2
+- [ ] 264 cm^2
+
+**Q2: What is the surface area of a right circular cylinder with a radius of 3 cm?**
+
+- [ ] 9.4 cm^2
+- [x] 18.8 cm^2
+- [ ] 27.5 cm^2
+- [ ] 37.7 cm^2
+
+**Q3: What is the surface area of a right circular cylinder with a diameter of 10 cm and a height of 8 cm?**
+
+- [ ] 400 cm^2
+- [ ] 420 cm^2
+- [x] 432 cm^2
+- [ ] 444 cm^2
+
+**Q4: Which formula can be used to find the surface area of a right circular cylinder?**
+
+- [x] S = 2πr^2 + 2πrh
+- [ ] S = πd^2
+- [ ] S = 2πr^2 - 2πrh
+- [ ] S = 2πr^2
+
+**Q5: What is the surface area of a right circular cylinder with a diameter of 12 cm and a height of 8 cm?**
+
+
 ---
 
 ### Surface Area of a Right Circular Cone

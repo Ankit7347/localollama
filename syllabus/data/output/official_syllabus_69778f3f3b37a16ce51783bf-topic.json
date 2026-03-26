@@ -531,7 +531,58 @@
           {
             "topic": "Transpose of a Matrix",
             "definition": "**Transpose of a Matrix:**\nThe **transpose** of a matrix is another matrix obtained by flipping the order of the rows and columns of the original matrix. In other words, the elements in the original matrix are swapped with the elements in the transpose matrix. \n**Example:**\n$$A = \\begin{bmatrix} 1 & 2 & 3 \\\\\\ 4 & 5 & 6 \\\\\\ 7 & 8 & 9 \\end{bmatrix}$$ \nThe transpose of A is:\n$$A^T = \\begin{bmatrix} 1 & 4 & 7 \\\\\\ 2 & 5 & 8 \\\\\\ 3 & 6 & 9 \\end{bmatrix}$$\n**Properties of the Transpose:**\n* The transpose of a diagonal matrix is the same as the original matrix.\n* The transpose of a matrix is symmetric, meaning it is equal to its transpose.\n* The transpose of a linear transformation is equal to the transformation of the transpose of the matrix.\n**Applications of Transpose:**\n* **Linear Transformations:** Transpose of a matrix represents the linear transformation that maps the input matrix to the output matrix.\n* **Finding Eigenvalues and Eigenvectors:** The transpose of a matrix can be used to calculate the eigenvalues and eigenvectors of the original matrix.\n* **Solving Systems of Linear Equations:** Transpose of a coefficient matrix can be used to solve linear systems of equations",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "Which property of a matrix is preserved by its transpose?",
+                "options": [
+                  "Symmetric",
+                  "Transpose of diagonal matrix is the same as original matrix",
+                  "Linear transformations are equal to the transpose of the matrix"
+                ],
+                "answer": "Symmetric",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which property of the transpose of a matrix is true?",
+                "options": [
+                  "It is equal to the original matrix",
+                  "It is symmetric",
+                  "It is equal to the transpose of the original matrix"
+                ],
+                "answer": "It is equal to the original matrix",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which application of the transpose of a matrix is used to solve linear systems of equations?",
+                "options": [
+                  "Calculating eigenvalues and eigenvectors",
+                  "Finding linear transformations",
+                  "Finding the determinant"
+                ],
+                "answer": "Finding linear transformations",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which application of the transpose of a matrix is used to solve linear systems of equations?",
+                "options": [
+                  "Finding Eigenvalues and Eigenvectors",
+                  "Solving systems of linear equations",
+                  "Finding the determinant"
+                ],
+                "answer": "Solving systems of linear equations",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which property of the transpose of a matrix is used to solve linear transformations?",
+                "options": [
+                  "Linear transformations are equal to the transpose of the matrix",
+                  "The transpose of a matrix is equal to the transpose of the original matrix",
+                  "Linear transformations are equal to the original matrix"
+                ],
+                "answer": "Linear transformations are equal to the transpose of the matrix",
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "Symmetric and Skew Symmetric Matrices",
@@ -1264,7 +1315,53 @@
           {
             "topic": "Exponential and Logarithmic Functions",
             "definition": "## Exponential and Logarithmic Functions\nAn **exponential function** is a function of the form $$f(x) = a^{x}$$ where $a$ is a positive real number. The graph of an exponential function is always increasing and approaches infinity as x approaches negative infinity.\nAn **logarithmic function** is a function of the form $$f(x) = \\log_a(x)$$ where $a$ is a positive real number and $x$ is a positive real number. The graph of a logarithmic function is always increasing and is asymptotic to the exponential function as x approaches infinity.\n**Key differences:**\n* **Exponential function:** The output is always positive.\n* **Logarithmic function:** The output can be both positive and negative.\n**Examples:**\n* $$f(x) = 2^x$$ is an exponential function with base 2.\n* $$f(x) = \\log_3(x)$$ is a logarithmic function with base 3.\n**Properties:**\n* **Exponential function:**\n* $f(x + y) = f(x) \\cdot f(y)$\n* $f(x)^{-1} = \\frac{1}{f(x)}$\n* **Logarithmic function:**\n* $\\log_a(x) = y \\iff x = a^y$\n* $\\log_a(x) + \\log_a(y) = \\log_a(xy)$\n* $\\ln(x) = \\log_e(x)$\nThese properties allow us to perform various operations with exponential and logarithmic functions, such as finding the exponential of a logarithm and finding the logarithm of an exponential",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "Which function is **always** increasing?",
+                "options": [
+                  "Exponential function",
+                  "Logarithmic function"
+                ],
+                "answer": "Exponential function",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which function is **asymptotically equal** to the exponential function as x approaches infinity?",
+                "options": [
+                  "Exponential function",
+                  "Logarithmic function"
+                ],
+                "answer": "Logarithmic function",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which function has a **positive output** for all non-zero inputs?",
+                "options": [
+                  "Exponential function",
+                  "Logarithmic function"
+                ],
+                "answer": "Exponential function",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which function is used to find the **inverse of an exponential function**?",
+                "options": [
+                  "Exponential function",
+                  "Logarithmic function"
+                ],
+                "answer": "Logarithmic function",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which function is used to find the **logarithm of a number**?",
+                "options": [
+                  "Exponential function",
+                  "Logarithmic function"
+                ],
+                "answer": "Logarithmic function",
+                "type": "single_correct"
+              }
+            ]
           },
           {
             "topic": "Logarithmic Differentiation",
@@ -4923,7 +5020,63 @@
           {
             "topic": "Potential Energy of a System of Charges",
             "definition": "**Potential Energy of a System of Charges**\nThe potential energy (U) of a system of charges is a measure of the amount of energy stored in the system due to the electric potential interactions between the charges. It is a scalar quantity, meaning it has only magnitude and no direction, and is defined as the negative work done in bringing a test charge from infinity to a specific point in the system.\nIn the case of a system of point charges, the potential energy U can be calculated as the sum of the potential energies of the individual charges. The potential energy U between two charges q1 and q2 is given by the formula:\n$$U = \\frac{1}{4\\pi\\varepsilon_0} \\frac{q_1 q_2}{r}$$\nwhere:\n* U is the potential energy in joules (J)\n* ε₀ is the permittivity of free space in the vacuum (8.85 × 10^-12 C²)\n* q1 and q2 are the charges in coulombs (C)\n* r is the distance between the charges in meters (m)\nFor a system of more than two charges, the potential energy can be calculated using the formula for the total potential energy U:\n$$U = \\sum\\frac{1}{4\\pi\\varepsilon_0} \\frac{q_i q_j}{r_ij}$$\nwhere the sum is taken over all charges in the system.\nThe potential energy of a system of charges is an extensive property, meaning it depends on the positions of all the charges in the system. The potential energy of a system of charges can be positive or negative, depending on the relative charges and distances.\nIn many practical applications, the potential energy of a system of charges is used to determine the electric potential, which is a measure of the electric field strength at a given point in the system. The electric potential is related to the potential energy of a point charge, as the electric potential energy of a point charge is equal to the work done in moving a unit charge from infinity to that point",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "What is the potential energy of a system of point charges?",
+                "options": [
+                  "**A**. The sum of the potential energies of the individual charges",
+                  "**B**. The product of the charges",
+                  "**C**. The negative of the work done in bringing a test charge from infinity to a specific point in the system",
+                  "**D**. The ratio of the charges"
+                ],
+                "answer": "**A**. The sum of the potential energies of the individual charges",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is the formula for the potential energy between two charges?",
+                "options": [
+                  "**A**. U = q1 q2 / r",
+                  "**B**. U = q1 q2 / (2r)",
+                  "**C**. U = 4πε₀q1q2/r",
+                  "**D**. U = q1 q2"
+                ],
+                "answer": "**A**. U = q1 q2 / r",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is the potential energy of a system of more than two charges?",
+                "options": [
+                  "**A**. The sum of the potential energies of the individual charges",
+                  "**B**. The product of the charges",
+                  "**C**. The negative of the work done in bringing a test charge from infinity to a specific point in the system",
+                  "**D**. The ratio of the charges"
+                ],
+                "answer": "**A**. The sum of the potential energies of the individual charges",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is the electric potential?",
+                "options": [
+                  "**A**. The potential energy of a point charge",
+                  "**B**. The electric field strength at a given point in the system",
+                  "**C**. The potential difference between two points in the system",
+                  "**D**. The total energy of a point charge"
+                ],
+                "answer": "**A**. The potential energy of a point charge",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is the relationship between the potential energy and the electric potential?",
+                "options": [
+                  "**A**. The electric potential is equal to the potential energy of a point charge",
+                  "**B**. The electric potential is equal to the work done in moving a unit charge from infinity to a specific point in the system",
+                  "**C**. The electric potential is equal to the potential energy of a system of point charges",
+                  "**D**. The electric potential is equal to the electric field strength at a given point in the system"
+                ],
+                "answer": "**A**. The electric potential is equal to the potential energy of a point charge",
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "Potential Energy in an External Field",
@@ -8604,7 +8757,61 @@
           {
             "topic": "Total Internal Reflection",
             "definition": "Total internal reflection (TIR) is the phenomenon in which light rays entering a material with a higher index of refraction (n) experience a critical angle of incidence that causes them to bend back into the material. This occurs because the refracted rays must travel through an angle greater than the critical angle, leading them to deviate away from the original path.\nThe critical angle is calculated using the formula:\n$$\\theta_c = \\sin^{-1}\\left(\\frac{n_i}{n_e}\\right)$$\nwhere:\n* $\\theta_c$ is the critical angle in degrees\n* $n_i$ is the refractive index of the incident medium (the air in this case)\n* $n_e$ is the refractive index of the material\nWhen a light ray enters a material with a higher index of refraction, the angle of incidence must be greater than the critical angle for TIR to occur. This causes the refracted rays to bend back into the material, resulting in a virtual image that is located outside the material.\nTIR has a variety of applications in different fields, including optics, telecommunications, and lasers. It is utilized in optical fibers to guide light with minimal loss, in telescopes to collect light from objects in space, and in lasers to amplify and direct laser beams",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "What is total internal reflection?",
+                "options": [
+                  "True",
+                  "False"
+                ],
+                "answer": "True",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is the formula for calculating the critical angle?",
+                "options": [
+                  "**sin^{-1}(n_i/n_e)**",
+                  "**arcsin(n_i/n_e)**",
+                  "**cos(n_i/n_e)**",
+                  "**tan(n_i/n_e)**"
+                ],
+                "answer": "Correct Option: **sin^{-1}(n_i/n_e)**",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which field is total internal reflection commonly used for?",
+                "options": [
+                  "Optics",
+                  "Telecommunications",
+                  "Lasers",
+                  "All of the above"
+                ],
+                "answer": "Correct Answer: All of the above",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is the purpose of total internal reflection in optical fibers?",
+                "options": [
+                  "To minimize light loss",
+                  "To change the direction of light",
+                  "To amplify light",
+                  "To transmit light"
+                ],
+                "answer": "Correct Option: To minimize light loss",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which application of total internal reflection involves guiding light with minimal loss?",
+                "options": [
+                  "Optical fibers",
+                  "Telescopes",
+                  "Lasers",
+                  "Mirrors"
+                ],
+                "answer": "Correct Option: Optical fibers",
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "Refraction at Spherical Surfaces and by Lenses",
@@ -14657,7 +14864,68 @@
           {
             "topic": "Some Important Compounds of Transition Elements",
             "definition": "## Some Important Compounds of Transition Elements\nTransition elements are a group of elements located in the d- and f-blocks of the periodic table. These elements have unique properties and behavior due to their partially filled orbitals. Here are some important compounds composed primarily of transition elements:\n**1. Iridium(III) Oxide (IrO3)**\nIridium(III) oxide is a brilliant, red pigment used in paints, cosmetics, and plastics. It is also used in the production of platinum and other jewelry.\n**2. Potassium Chromate (K2CrO4)**\nPotassium chromate is a white, crystalline compound used as an antiseptic and disinfectant. It is also used in the production of glass and ceramics.\n**3. Hafnium(IV) Oxide (HfO4)**\nHafnium(IV) oxide is a hard, white mineral used in various applications. It is a key component of cermets, which are used to make white-hot pottery and glass.\n**4. Ruthenium(III) Oxide (RuO3)**\nRuthenium(III) oxide is a brown, powder-like compound used in the production of alloys. It is also used in the chemical industry and as an adsorbent.\n**5. Cobal(II) Oxide (CoO)**\nCobal(II) oxide is a dark, flaky, and brittle mineral used in the production of alloys and pigments. It is also used in the production of catalysts.\nThese are just a few examples of the many important compounds of transition elements. These elements are highly reactive and can form a wide variety of compounds with different properties.\nBy understanding the properties and behavior of transition elements, we can gain a deeper understanding of the chemical world and the materials that make up our world",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "Which compound is used in paints, cosmetics, and plastics? ",
+                "options": [
+                  "Iridium(III) Oxide",
+                  "Potassium Chromate",
+                  "Hafnium(IV) Oxide",
+                  "Ruthenium(III) Oxide",
+                  "Cobal(II) Oxide"
+                ],
+                "answer": "Correct Option",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which compound is used as an antiseptic and disinfectant? ",
+                "options": [
+                  "Iridium(III) Oxide",
+                  "Potassium Chromate",
+                  "Hafnium(IV) Oxide",
+                  "Ruthenium(III) Oxide",
+                  "Cobal(II) Oxide"
+                ],
+                "answer": "Correct Option",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which compound is used in the production of white-hot pottery and glass? ",
+                "options": [
+                  "Iridium(III) Oxide",
+                  "Potassium Chromate",
+                  "Hafnium(IV) Oxide",
+                  "Ruthenium(III) Oxide",
+                  "Cobal(II) Oxide"
+                ],
+                "answer": "Correct Option",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which compound is used in the production of alloys and pigments? ",
+                "options": [
+                  "Iridium(III) Oxide",
+                  "Potassium Chromate",
+                  "Hafnium(IV) Oxide",
+                  "Ruthenium(III) Oxide",
+                  "Cobal(II) Oxide"
+                ],
+                "answer": "Correct Option",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which compound is used in the production of catalysts? ",
+                "options": [
+                  "Iridium(III) Oxide",
+                  "Potassium Chromate",
+                  "Hafnium(IV) Oxide",
+                  "Ruthenium(III) Oxide",
+                  "Cobal(II) Oxide"
+                ],
+                "answer": "Correct Option",
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "The Lanthanoids",

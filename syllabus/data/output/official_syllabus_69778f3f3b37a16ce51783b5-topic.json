@@ -3773,7 +3773,57 @@
           {
             "topic": "Surface Area of a Right Circular Cylinder",
             "definition": "## Surface Area of a Right Circular Cylinder\nA right circular cylinder has two circular bases, connected by a curved lateral surface. The surface area of a right circular cylinder can be found by calculating the total area of both its bases and the lateral surface. \n**Formula:**\n$$S = 2\\pi r^2 + 2\\pi rh$$\nwhere:\n* **S** is the surface area\n* **r** is the radius of the circular base\n* **h** is the height of the cylinder\n**Explanation:**\n* **Two bases:** The surface area is composed of two circular bases, each with area \\(\\pi r^2\\).\n* **Lateral surface:** The lateral surface consists of the curved perimeter of the circular base. The perimeter of a circle is \\(2\\pi r\\), so the total area of the lateral surface is \\(\\pi r\\).\n* **Putting it all together:** We add the areas of the bases and the lateral surface to get the total surface area.\n**Examples:**\n* **Rectangle with dimensions 5 cm and 10 cm:** \n$$S = 2\\pi(5 cm)^2 + 2\\pi(5 cm)(10 cm) = 78.5 cm^2$$\n* **Circle with radius 3 cm:** \n$$S = 2\\pi(3 cm)^2 = 18.85 cm^2$$\n* **Right circular cylinder with diameter 12 cm and height 8 cm:** \n$$S = 2\\pi\\left(\\frac{12 cm}{2}\\right)^2 + 2\\pi(12 cm)(8 cm) = 288 cm^2$$\n**Remember:** \n* The surface area of a right circular cylinder is always greater than the surface area of a circle with the same radius.\n* The surface area of a cylinder can also be found using the formula \\(S = \\pi(d^2)\\), where \\(d\\) is the diameter of the circular base",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "What is the surface area of a right circular cylinder with a diameter of 12 cm and a height of 8 cm?",
+                "options": [
+                  "288 cm^2",
+                  "280 cm^2",
+                  "272 cm^2",
+                  "264 cm^2"
+                ],
+                "answer": "288 cm^2",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is the surface area of a right circular cylinder with a radius of 3 cm?",
+                "options": [
+                  "9.4 cm^2",
+                  "18.8 cm^2",
+                  "27.5 cm^2",
+                  "37.7 cm^2"
+                ],
+                "answer": "18.8 cm^2",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is the surface area of a right circular cylinder with a diameter of 10 cm and a height of 8 cm?",
+                "options": [
+                  "400 cm^2",
+                  "420 cm^2",
+                  "432 cm^2",
+                  "444 cm^2"
+                ],
+                "answer": "432 cm^2",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which formula can be used to find the surface area of a right circular cylinder?",
+                "options": [
+                  "S = 2πr^2 + 2πrh",
+                  "S = πd^2",
+                  "S = 2πr^2 - 2πrh",
+                  "S = 2πr^2"
+                ],
+                "answer": "S = 2πr^2 + 2πrh",
+                "type": "single_correct"
+              },
+              {
+                "question": "What is the surface area of a right circular cylinder with a diameter of 12 cm and a height of 8 cm?",
+                "answer": "288 cm^2",
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "Surface Area of a Right Circular Cone",

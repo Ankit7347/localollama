@@ -3852,7 +3852,63 @@
           {
             "topic": "Area of a Polygon",
             "definition": "**Area of a Polygon**\nThe area of a polygon is the total area covered by its sides. It is a measure of how much space the polygon occupies. \n**Formula:** \n$$A = \\frac{1}{2} \\text{base} \\times \\text{height}$$\n**Base and Height:** \n- The base is the length of the longest side of the polygon. \n- The height is the length from the base to the highest point of the polygon.\n**Examples:**\n- A rectangle with a base of 5 cm and a height of 3 cm has an area of 7.5 cm².\n- A triangle with a base of 6 cm and a height of 4 cm has an area of 24 cm².\n- A regular hexagon with a side length of 8 cm has an area of 64 cm².\nBy understanding the formula and the definition of the terms involved, students can calculate the area of various polygons with different shapes and sizes",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "Which of the following is not a shape with a constant area?",
+                "options": [
+                  "Rectangle",
+                  "Triangle",
+                  "Hexagon",
+                  "Circle"
+                ],
+                "answer": "Circle",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What is the formula for calculating the area of a polygon?",
+                "options": [
+                  "A = B + C",
+                  "A = (B + C) / 2",
+                  "A = B * C",
+                  "A = (B + C) * H"
+                ],
+                "answer": "A = \frac{1}{2} \text{base} \times \text{height}",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which of the following is the base of a rectangle?",
+                "options": [
+                  "Side length",
+                  "Perimeter",
+                  "Height",
+                  "Diagonal length"
+                ],
+                "answer": "Side length",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which of the following is the height of a triangle?",
+                "options": [
+                  "Side length",
+                  "Perimeter",
+                  "Base length",
+                  "Height"
+                ],
+                "answer": "Height",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which of the following is an example of a regular polygon with a constant area?",
+                "options": [
+                  "Rectangle",
+                  "Triangle",
+                  "Hexagon",
+                  "Circle"
+                ],
+                "answer": "Circle",
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "Solid Shapes",

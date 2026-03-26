@@ -1052,6 +1052,43 @@ where \(n\) is the total number of numbers in the set.
 - The arithmetic mean is a measure of central tendency, meaning it is a point that lies in the center of the data distribution.
 - The arithmetic mean is a consistent measure, meaning that it has the same value for all subsets of the original set
 
+**Quizzes:**
+
+**Q1: What is the formal definition of the arithmetic mean?**
+
+- [ ] The arithmetic mean is the average of the data points.
+- [ ] The arithmetic mean is the minimum of the data points.
+- [ ] The arithmetic mean is the maximum of the data points.
+- [ ] The arithmetic mean is the sum of the data points divided by the number of data points.
+
+**Q2: What is the value of the arithmetic mean for the following set of numbers: 10, 15, 20, 25 ?**
+
+- [ ] 15
+- [ ] 18
+- [ ] 20
+- [ ] 25
+
+**Q3: Which property of the arithmetic mean is the most important?**
+
+- [ ] The arithmetic mean is a scalar
+- [ ] The arithmetic mean is independent of the order of the numbers in the set
+- [ ] The arithmetic mean is a consistent measure
+- [ ] The arithmetic mean is the minimum of the data points
+
+**Q4: What is the value of the arithmetic mean for the following set of numbers: 2, 4, 6, 8 ?**
+
+- [ ] 4
+- [ ] 5
+- [ ] 6
+- [ ] 7
+
+**Q5: What is the value of the arithmetic mean for the following set of numbers: 1, 3, 5, 7 ?**
+
+- [ ] 5
+- [ ] 6
+- [ ] 7
+- [ ] 8
+
 ---
 
 ### Mode
@@ -18386,6 +18423,43 @@ Interpretation is a crucial skill in language learning that involves understandi
 For instance, in the Hindi chapter "Hum Panchhi Unmukt Gagan Ke," the context of the question and the surrounding sentences provide clues about the intended meaning of the phrase. The phrase "Hum Panchhi Unmukt Gagan Ke" means "We are many and different," and the context suggests that the speaker is talking about a diverse group of people.
 Interpretation is a challenging task, but it is essential for acquiring and using a foreign language. By practicing and engaging in language activities that require interpretation, learners can improve their understanding and develop the skills necessary to communicate effectively
 
+**Quizzes:**
+
+**Q1: What is the meaning of the phrase 'Hum Panchhi Unmukt Gagan Ke' in Hindi?**
+
+- [x] We are many and different
+- [ ] We are different
+- [ ] We are united
+- [ ] We are similar
+
+**Q2: In the context of the phrase, what is the role of the surrounding sentences?**
+
+- [x] They provide clues about the speaker's intention
+- [ ] They provide background information
+- [ ] They provide both clues and background information
+- [ ] They provide no clues about the speaker's intention
+
+**Q3: What is the intended meaning of the phrase in the context?**
+
+- [x] We are a diverse group of people
+- [ ] We are a united group of people
+- [ ] We are a small group of people
+- [ ] We are a large group of people
+
+**Q4: What is the challenge of interpretation in language learning?**
+
+- [ ] It is a straightforward task
+- [ ] It is an easy task
+- [x] It is a challenging task
+- [ ] It is a simple task
+
+**Q5: How can practice and engagement help learners improve their understanding of the language?**
+
+- [ ] By providing structured practice
+- [ ] By providing opportunities to practice using the language
+- [ ] By providing feedback on their performance
+- [x] All of the above
+
 ---
 
 ### Exercise
@@ -18616,6 +18690,41 @@ Reading "Himalaya Ki Betiyan" is not simply a passive experience; it's a journey
 * **The imagery** used in a poem can hold a **powerful meaning**. Recognizing the symbolism of a mountain range, a river, or a bird in the poem can deepen our understanding of the poet's message.
 * **Considering the historical context** of a poem can shed light on its meaning. For instance, a poem written during a time of war might have a different interpretation than one written during a peaceful period.
 **Interpretation is not just about finding the "right" answer, but also about engaging with the poem on a personal level.** By delving into its deeper layers, we can gain a deeper understanding of ourselves, our world, and the human condition
+
+**Quizzes:**
+
+**Q1: In the verse 'Gham gham mein chhed pyaar ka gehna,' what does the word 'gham' signify?**
+
+- [ ] Pain, love
+- [ ] Hope, despair
+- [ ] Absence of love
+
+**Q2: Which element in a poem can hold a powerful meaning?**
+
+- [ ] Imagery, symbolism, figurative language
+- [ ] Literal words
+- [ ] Context
+
+**Q3: How can studying the historical context of a poem enrich its meaning?**
+
+- [ ] It provides a broader perspective
+- [ ] It removes the writer's bias
+- [ ] It changes the poem's tone
+- [ ] All of the above
+
+**Q4: What is the purpose of considering the historical context of a poem?**
+
+- [ ] To find the author's personal intentions
+- [ ] To determine the poem's social message
+- [ ] To understand the poem's historical significance
+- [ ] To appreciate the poet's craft
+
+**Q5: How does understanding the deeper layers of a poem contribute to personal growth?**
+
+- [ ] It helps us appreciate the poet's artistry
+- [ ] It allows us to connect with the speaker on a deeper level
+- [ ] It provides a moral compass
+- [ ] All of the above
 
 ---
 
@@ -20346,6 +20455,43 @@ Reading and meaning go hand in hand. While the text itself provides the initial 
 * **Themes:** The poem explores themes of love, loss, longing, and the beauty of nature.
 * **Context:** Understanding the poem's historical context and the social and cultural background is crucial for interpreting its nuances.
 **Interpretation is an ongoing process, requiring us to ask questions, challenge assumptions, and constantly seek deeper understanding.** By engaging in this process, we can unlock the full potential of **Neelkanth** and discover its profound message about love, loss, and the beauty of human connection
+
+**Quizzes:**
+
+**Q1: According to the definition, what is the key element of interpretation?**
+
+- [x] Symbolism
+- [ ] Imagery
+- [ ] Themes
+- [ ] Context
+
+**Q2: Which element of interpretation focuses on uncovering the hidden meanings and symbolism?**
+
+- [ ] Literal interpretation
+- [x] Emotional interpretation
+- [ ] Philosophical interpretation
+- [ ] Symbolism interpretation
+
+**Q3: In the poem, what role does the river play in conveying deeper meanings?**
+
+- [x] It is a symbol of love and hope.
+- [ ] It is a symbol of separation and loss.
+- [ ] It is a symbol of hope and renewal.
+- [ ] It is a symbol of creation and life.
+
+**Q4: Which symbol in the poem represents the boundless love between the man and the woman?**
+
+- [x] Rose
+- [ ] Mountain
+- [ ] Water
+- [ ] Bird
+
+**Q5: How can interpretation help us unlock the full potential of the **Neelkanth** poem?**
+
+- [ ] By exploring the philosophical and emotional core of the work
+- [ ] By understanding the historical context and social and cultural background
+- [x] By asking questions and challenging assumptions
+- [ ] By all of the above
 
 ---
 

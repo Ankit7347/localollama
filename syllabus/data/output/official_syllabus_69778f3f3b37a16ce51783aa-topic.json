@@ -3154,7 +3154,60 @@
           {
             "topic": "Area",
             "definition": "**Area**\nArea is the amount of space inside a two-dimensional shape. It is the total area of all its interior parts, regardless of the shape itself. \n**Examples:**\n* **Rectangle:** The area of a rectangle is equal to its length times its width. \n* For example, a rectangle with a length of 5 cm and a width of 3 cm has an area of 15 cm².\n* **Circle:** The area of a circle is equal to π (pi) times the radius squared. \n* For example, the area of a circle with a radius of 3 cm is π(3 cm)² = 9 cm².\n* **Triangle:** The area of a triangle is equal to half the product of its base and height. \n* For example, the area of a triangle with a base of 6 cm and a height of 4 cm is (1/2) * 6 cm * 4 cm = 12 cm².\n**Key Points:**\n* Area is always measured in square units, such as cm², dm², or m².\n* The area of a shape is always positive.\n* The area of a blank shape is always equal to the area of a filled shape with the same dimensions.\n* The area of a shape can be calculated using simple formulas based on its dimensions",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "Which shape has the largest area?",
+                "options": [
+                  "Rectangle",
+                  "Circle",
+                  "Triangle"
+                ],
+                "answer": "Rectangle",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which shape has the smallest area?",
+                "options": [
+                  "Rectangle",
+                  "Circle",
+                  "Triangle"
+                ],
+                "answer": "Triangle",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "The area of a circle is always:",
+                "options": [
+                  "Positive",
+                  "Negative",
+                  "Equal to π",
+                  "None"
+                ],
+                "answer": "Positive",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which shape has the greatest area for its perimeter?",
+                "options": [
+                  "Rectangle",
+                  "Circle",
+                  "Triangle"
+                ],
+                "answer": "Triangle",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "The area of a blank shape is always equal to:",
+                "options": [
+                  "0",
+                  "1",
+                  "Infinite",
+                  "None"
+                ],
+                "answer": "0",
+                "type": "single_correct"
+              }
+            ]
           },
           {
             "topic": "Area of a Rectangle",
@@ -7254,7 +7307,63 @@
           {
             "topic": "Names of the Land",
             "definition": "## The Names of the Land\nThe names of the land have a fascinating history. Over the course of thousands of years, people have given meaning to these names, reflecting the history, culture, and resources of each place. These names can tell us about the geographic features, the dominant indigenous groups, and the historical events that shaped the region.\nFor example, the name \"China\" comes from the ancient Chinese term \"Chína\", which itself comes from the Old Chinese word \"chʻin\", meaning \"land of the Taipings\". The Taipings were a powerful tribe who lived in the northern part of China for over 2,000 years. The name \"China\" was first used in the 19th century by the Western explorers who began to trade with China.\nThe name of the United States is also derived from its past inhabitants, the Native Americans. The name \"America\" comes from the Algonquian word \"Americ\", which meant \"island\" or \"continent\". The Europeans who first came to the Americas named the continent \"America\" because they believed it was an extension of the Asian continent.\nUnderstanding the names of the land can help us to appreciate the rich diversity of human culture and history. By learning about the stories behind these names, we can gain a deeper understanding of the world around us",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "What was the name of the tribe who gave the name China to the country?",
+                "options": [
+                  "The Taipings",
+                  "The Han Chinese",
+                  "The Mongols",
+                  "The Japanese"
+                ],
+                "answer": "Correct Option",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which Native American tribe is believed to have originated the name America?",
+                "options": [
+                  "The Sioux",
+                  "The Apache",
+                  "The Cheyenne",
+                  "The Iroquois"
+                ],
+                "answer": "Correct Option",
+                "type": "single_correct"
+              },
+              {
+                "question": "What was the purpose of the name America for the European explorers who first came to the continent?",
+                "options": [
+                  "To differentiate the continent from Asia",
+                  "To indicate the presence of mountains and plains",
+                  "To represent the size of the continent",
+                  "To indicate the presence of fertile land"
+                ],
+                "answer": "Correct Option",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which empire was the first to use the name China as a country name?",
+                "options": [
+                  "The Roman Empire",
+                  "The Greek Empire",
+                  "The Han Dynasty",
+                  "The Tang Dynasty"
+                ],
+                "answer": "Correct Option",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which European country changed the name America to America in the 19th century?",
+                "options": [
+                  "The United States",
+                  "Canada",
+                  "Mexico",
+                  "Russia"
+                ],
+                "answer": "Correct Option",
+                "type": "single_correct"
+              }
+            ]
           },
           {
             "topic": "Finding Out About the Past",

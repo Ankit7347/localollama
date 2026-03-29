@@ -10573,6 +10573,43 @@ The Rajput warrior was expected to be a master of tactics and warfare, combining
 Beyond their military prowess, the Rajput code emphasized the importance of honor and integrity. They were known for their honesty and courage in battle, and were held accountable for upholding their commitments to their tribe and community.
 The legacy of the Rajputs and their heroic traditions continues to shape the social fabric of many regions in India today. Their unwavering commitment to their values and principles serves as a powerful reminder of the enduring spirit of courage and dedication to community that continues to define many aspects of life in the country
 
+**Quizzes:**
+
+**Q1: What was the primary purpose of the Rajput code, the 'Charitra Shastra'?**
+
+- [ ] To guide a successful military campaign
+- [x] To outline the principles of a true Rajput warrior
+- [ ] To regulate trade and commerce
+- [ ] To establish a strong social hierarchy
+
+**Q2: Which deity did the Rajput warriors consider themselves most devoted to? **
+
+- [x] Shiva
+- [ ] Vishnu
+- [ ] Hanuman
+- [ ] Krishna
+
+**Q3: How did the Rajput warrior's pursuit of victory reflect their commitment to upholding their dharma? **
+
+- [x] By adhering to strict moral guidelines
+- [ ] By maintaining a strong military presence
+- [ ] By upholding their religious duties
+- [ ] By protecting the weak and upholding their honor
+
+**Q4: What was the Rajput code considered to be? **
+
+- [x] A moral compass
+- [ ] A set of rules for battlefield conduct
+- [ ] A legal document
+- [ ] A religious text
+
+**Q5: Which weapon was primarily favored by the Rajput warrior for battle? **
+
+- [ ] Sword
+- [ ] Spear
+- [x] Bow and arrow
+- [ ] Dagger
+
 ---
 
 ### Beyond Regional Frontiers: The Story of Kathak

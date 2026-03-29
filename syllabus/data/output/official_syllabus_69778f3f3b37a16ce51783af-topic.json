@@ -11435,7 +11435,63 @@
           {
             "topic": "The Rajputs and Traditions of Heroism",
             "definition": "## The Rajputs and Traditions of Heroism\nThe Rajputs, a potent symbol of medieval Indian culture, were renowned for their valor and unwavering commitment to upholding their traditions and heroic ideals. They were fiercely independent individuals, deeply connected to their communities, and held immense respect for their elders and the sanctity of their beliefs. \nThe Rajput code, \"Charitra Shastra,\" served as a moral compass, outlining the values of a true Rajput warrior, including loyalty, courage, honesty, self-control, and a deep sense of responsibility towards their tribe and community. This code guided their actions both on and off the battlefield, reflecting the deep respect they held for the sacredness of life and death. \nThe Rajput tradition of heroism was deeply intertwined with their religious beliefs. They were deeply devoted to various deities, including Shiva, Vishnu, and Hanuman, and considered themselves obligated to protect the weak and uphold their dharma (righteous path) through military prowess and strategic use of their skills. \nThe Rajput warrior was expected to be a master of tactics and warfare, combining exceptional physical prowess with intellectual prowess. They were skilled in handling a variety of weapons, including the bow and arrow, sword, and spear, and were known for their relentless pursuit of victory. \nBeyond their military prowess, the Rajput code emphasized the importance of honor and integrity. They were known for their honesty and courage in battle, and were held accountable for upholding their commitments to their tribe and community.\nThe legacy of the Rajputs and their heroic traditions continues to shape the social fabric of many regions in India today. Their unwavering commitment to their values and principles serves as a powerful reminder of the enduring spirit of courage and dedication to community that continues to define many aspects of life in the country",
-            "quizzes": []
+            "quizzes": [
+              {
+                "question": "What was the primary purpose of the Rajput code, the 'Charitra Shastra'?",
+                "options": [
+                  "To guide a successful military campaign",
+                  "To outline the principles of a true Rajput warrior",
+                  "To regulate trade and commerce",
+                  "To establish a strong social hierarchy"
+                ],
+                "answer": "To outline the principles of a true Rajput warrior",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "Which deity did the Rajput warriors consider themselves most devoted to? ",
+                "options": [
+                  "Shiva",
+                  "Vishnu",
+                  "Hanuman",
+                  "Krishna"
+                ],
+                "answer": "Shiva",
+                "type": "single_correct"
+              },
+              {
+                "question": "How did the Rajput warrior's pursuit of victory reflect their commitment to upholding their dharma? ",
+                "options": [
+                  "By adhering to strict moral guidelines",
+                  "By maintaining a strong military presence",
+                  "By upholding their religious duties",
+                  "By protecting the weak and upholding their honor"
+                ],
+                "answer": "By adhering to strict moral guidelines",
+                "type": "multiple_correct"
+              },
+              {
+                "question": "What was the Rajput code considered to be? ",
+                "options": [
+                  "A moral compass",
+                  "A set of rules for battlefield conduct",
+                  "A legal document",
+                  "A religious text"
+                ],
+                "answer": "A moral compass",
+                "type": "single_correct"
+              },
+              {
+                "question": "Which weapon was primarily favored by the Rajput warrior for battle? ",
+                "options": [
+                  "Sword",
+                  "Spear",
+                  "Bow and arrow",
+                  "Dagger"
+                ],
+                "answer": "Bow and arrow",
+                "type": "multiple_correct"
+              }
+            ]
           },
           {
             "topic": "Beyond Regional Frontiers: The Story of Kathak",

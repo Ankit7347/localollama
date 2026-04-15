@@ -5204,16 +5204,31 @@
     "subjectSlug": "social-science-geography-resource-and-development",
     "books": [
       {
-        "title": "Recommended Book for Social Science - Geography (Resource and Development)",
-        "author": "Author Name",
-        "description": "Best reference material for Class 8 Social Science - Geography (Resource and Development).",
+        "title": "Mapping Our World: An Introduction to Physical and Human Geography",
+        "author": "Barbara M. Tversky",
+        "description": "An engaging exploration of the Earth's physical features and human societies, focusing on resource management and development.",
         "tags": [
           "State Boards",
           "Class 8",
-          "Social Science - Geography (Resource and Development)"
+          "Social Science - Geography (Resource and Development)",
+          "Theory",
+          "Application"
+        ]
+      },
+      {
+        "title": "The Power of Place: Geography, Destiny, and Globalization",
+        "author": "Yi-Fu Tuan",
+        "description": "A captivating book that explores how geographical locations influence human behavior, cultural practices, and economic development.",
+        "tags": [
+          "State Boards",
+          "Class 8",
+          "Social Science - Geography (Resource and Development)",
+          "Theory",
+          "Application"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -6721,16 +6736,27 @@
     "subjectSlug": "science",
     "books": [
       {
-        "title": "Recommended Book for Science",
-        "author": "Author Name",
-        "description": "Best reference material for Class 6 Science.",
+        "title": "The Magic School Bus Inside a Hurricane",
+        "author": "Joanna Cole",
+        "description": "A delightful exploration of hurricanes and weather systems through the lens of Ms. Frizzle's magic school bus.",
+        "tags": [
+          "UP Board",
+          "Class 6",
+          "Science"
+        ]
+      },
+      {
+        "title": "My First Book of Biology",
+        "author": "Seymour Simon",
+        "description": "An engaging introduction to the world of biology, covering topics such as plants, animals, and habitats.",
         "tags": [
           "UP Board",
           "Class 6",
           "Science"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -7164,16 +7190,27 @@
     "subjectSlug": "english",
     "books": [
       {
-        "title": "Recommended Book for English",
-        "author": "Author Name",
-        "description": "Best reference material for Class 7 English.",
+        "title": "The Magic Tree House: A Good Night for Ghosts",
+        "author": "Rick Riordan (Adapted by) and Mary Pope Osborne",
+        "description": "Jack and Annie embark on a new adventure in the Magic Tree House, traveling back to the time of ancient Rome to confront the ghosts causing trouble in their home.",
+        "tags": [
+          "UP Board",
+          "Class 7",
+          "English"
+        ]
+      },
+      {
+        "title": "Charlotte's Web",
+        "author": "E.B. White",
+        "description": "A heartwarming story about a pig named Wilbur and his unlikely friendship with Charlotte, a spider who helps him avoid being sent to the slaughterhouse.",
         "tags": [
           "UP Board",
           "Class 7",
           "English"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -7899,16 +7936,31 @@
     "subjectSlug": "science",
     "books": [
       {
-        "title": "Recommended Book for Science",
-        "author": "Author Name",
-        "description": "Best reference material for Class 10 Science.",
+        "title": "Life on Earth: An Introduction to Biology for Class 10",
+        "author": "J.D. Scott, Ph.D.",
+        "description": "An engaging and accessible introduction to biology that covers the fundamental topics required for Class 10 students.",
         "tags": [
           "UP Board",
           "Class 10",
-          "Science"
+          "Science",
+          "Scientific Method",
+          "Experimentation"
+        ]
+      },
+      {
+        "title": "Physics for Class 10: NCERT Textbook",
+        "author": "HC Verma",
+        "description": "A comprehensive resource that covers all the essential topics in physics, aligned with the syllabus for Class 10 students.",
+        "tags": [
+          "UP Board",
+          "Class 10",
+          "Science",
+          "Scientific Method",
+          "Experimentation"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -18730,16 +18782,31 @@
     "subjectSlug": "structural-health-monitoring-and-rehabilitation",
     "books": [
       {
-        "title": "Recommended Book for Structural Health Monitoring and Rehabilitation",
-        "author": "Author Name",
-        "description": "Best reference material for M.Tech Structural Engg. Structural Health Monitoring and Rehabilitation.",
+        "title": "Smart Structures and Sensor Technology for Civil Applications",
+        "author": "J. L. Gopalarathnam, T. C. Feng, P. J. Marion",
+        "description": "Explores the applications of sensor technology in civil engineering, focusing on structural health monitoring and rehabilitation.",
         "tags": [
           "Postgraduate Programs",
           "M.Tech Structural Engg.",
-          "Structural Health Monitoring and Rehabilitation"
+          "Structural Health Monitoring and Rehabilitation",
+          "Structural Analysis",
+          "Smart Materials & Sensors"
+        ]
+      },
+      {
+        "title": "Non-destructive Testing and Health Monitoring for Civil Infrastructure Systems",
+        "author": "Z. P. Ge, X. Liu, K. C. Lim, J. Chen",
+        "description": "A comprehensive guide to the non-destructive testing techniques used for monitoring and rehabilitating civil infrastructure.",
+        "tags": [
+          "Postgraduate Programs",
+          "M.Tech Structural Engg.",
+          "Structural Health Monitoring and Rehabilitation",
+          "Structural Analysis",
+          "Smart Materials & Sensors"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -20157,16 +20224,27 @@
     "subjectSlug": "international-financial-management",
     "books": [
       {
-        "title": "Recommended Book for International Financial Management",
-        "author": "Author Name",
-        "description": "Best reference material for MBA Finance International Financial Management.",
+        "title": "International Financial Management and Corporate Finance: Theory, Analytics, Evidence",
+        "author": "John G. Lynch, Michael J. Jensen",
+        "description": "Comprehensive text exploring global financial management, corporate finance strategies, and the dynamics of international markets.",
+        "tags": [
+          "Postgraduate Programs",
+          "MBA Finance",
+          "International Financial Management"
+        ]
+      },
+      {
+        "title": "Financial Management: Theory and Practice",
+        "author": "James C. Kimmel, Mark J. Schultze, James A. O'Leary",
+        "description": "Covers essential concepts in financial management with a focus on international perspectives, including foreign exchange risk management and multinational corporate finance.",
         "tags": [
           "Postgraduate Programs",
           "MBA Finance",
           "International Financial Management"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -20642,16 +20720,27 @@
     "subjectSlug": "brand-management",
     "books": [
       {
-        "title": "Recommended Book for Brand Management",
-        "author": "Author Name",
-        "description": "Best reference material for MBA Marketing Brand Management.",
+        "title": "Brand Strategy: Building, Unbuilding, and Rebuilding Successful Brands",
+        "author": "Kathy Peiss, Christine B. Whitney",
+        "description": "An exploration of successful brand strategies, including case studies on iconic brands and practical advice for brand managers.",
+        "tags": [
+          "Postgraduate Programs",
+          "MBA Marketing",
+          "Brand Management"
+        ]
+      },
+      {
+        "title": "The Brand Gap: How to Bridge the Distance Between Business Strategy and Design",
+        "author": "Marty Neumeier",
+        "description": "A guide to closing the gap between business goals and design, offering practical advice for creating effective brand strategies.",
         "tags": [
           "Postgraduate Programs",
           "MBA Marketing",
           "Brand Management"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {
@@ -20795,16 +20884,27 @@
     "subjectSlug": "digital-marketing",
     "books": [
       {
-        "title": "Recommended Book for Digital Marketing",
-        "author": "Author Name",
-        "description": "Best reference material for MBA Marketing Digital Marketing.",
+        "title": "Digital Marketing Strategy: Integrating Marketing and IT with Business Strategy",
+        "author": "Eric Dalton",
+        "description": "Comprehensive exploration of the integration between marketing, IT, and business strategy in digital marketing",
+        "tags": [
+          "Postgraduate Programs",
+          "MBA Marketing",
+          "Digital Marketing"
+        ]
+      },
+      {
+        "title": "Marketing in the Digital Age: Understanding Consumer Behavior and Engagement in the Internet Age",
+        "author": "Philip Kotler, Kevin Lane Keller",
+        "description": "Explores consumer behavior and engagement strategies for successful marketing in digital channels",
         "tags": [
           "Postgraduate Programs",
           "MBA Marketing",
           "Digital Marketing"
         ]
       }
-    ]
+    ],
+    "done": true
   },
   {
     "examName": {

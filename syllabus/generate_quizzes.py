@@ -347,10 +347,18 @@ def main():
                     topic_name = t.get("topic", "")
                     definition = t.get("definition", "")
                     
-                    # Skip if we already have valid quizzes
+                    
+                    # Skip if already marked done
+                    if t.get("done") is True:
+                        print(f"  ⏭️  SKIP: Already marked done")
+                        total_skipped += 1
+                        continue
+
+                    # Optional: fallback skip if quizzes already valid
                     if "quizzes" in t and t["quizzes"] and isinstance(t["quizzes"], list) and len(t["quizzes"]) == 5:
                         is_valid, _ = validate_quizzes(t["quizzes"])
                         if is_valid:
+                            t["done"] = True
                             print(f"  ⏭️  SKIP: Valid quizzes exist")
                             total_skipped += 1
                             continue
@@ -366,6 +374,7 @@ def main():
                         if not multiple_quizzes:
                             print(f"  ❌ Failed to generate multiple choice questions")
                             t["quizzes"] = []
+                            t["done"] = False
                             total_failed += 1
                         else:
                             print(f"  ✓ Generated 2 multiple choice questions")
@@ -377,6 +386,7 @@ def main():
                             if not single_quizzes:
                                 print(f"  ❌ Failed to generate single choice questions")
                                 t["quizzes"] = []
+                                t["done"] = False
                                 total_failed += 1
                             else:
                                 print(f"  ✓ Generated 3 single choice questions")
@@ -388,14 +398,17 @@ def main():
                                 if is_valid:
                                     t["quizzes"] = combined_quizzes
                                     total_success += 1
+                                    t["done"] = True
                                     print(f"  ✓✓ SUCCESS: All 5 quizzes generated and validated")
                                 else:
                                     print(f"  ❌ Final validation failed: {validation_msg}")
                                     t["quizzes"] = []
+                                    t["done"] = False
                                     total_failed += 1
                     except Exception as e:
                         print(f"  ❌ ERROR: {e}")
                         t["quizzes"] = []
+                        t["done"] = False
                         total_failed += 1
                     
                     # Save incrementally back to the SAME file after successful generation

@@ -2,7 +2,7 @@ Below is an **updated version of your README** optimized for **~4 GB available R
 
 I also fixed a few mistakes (your README mentioned **6.7B while downloading 1.3B**).
 
----
+--- 
 
 # AI Dev Workspace
 
